@@ -1,3 +1,4 @@
+127.0.0.1 localhost
 127.0.0.1 m1.baidu.com 
 127.0.0.1 mobads.baidu.com 
 127.0.0.1 mpro.baidu.com 
@@ -43,4 +44,4 @@
 127.0.0.1 unstat.baidu.com 
 127.0.0.1 utility.baidu.com 
 127.0.0.1 utk.baidu.com 
-127.0.0.1 wangmeng.baidu.com 
+127.0.0.1 wangmeng.baidu.com
