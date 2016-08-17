@@ -1,0 +1,16 @@
+#输入法纯粹只是为了输入，我这样做是为了让你们获得更好的输入体验！给那些喜欢纯净的人一片天地
+127.0.0.1 localhost
+#屏蔽搜狗输入法热词.皮肤.表情.推荐.云输入
+127.0.0.1 get.sogou.com
+127.0.0.1 img.shouji.sogou.com
+127.0.0.1 input.shouji.sogou.com
+#讯飞输入法启动屏广告.应用推荐.热词.表情.更新.皮肤.留语音
+127.0.0.1 imeclient.openspeech.cn
+127.0.0.1 download.voicecloud.cn
+127.0.0.1 log.voicecloud.cn
+127.0.0.1 pinying.voicecloud.cn
+127.0.0.1 ossp.voicecloud.cn
+#百度输入法屏蔽.启动页广告.软件内推广
+表情包.发现
+127.0.0.1 r6.mo.baidu.com
+127.0.0.1 res.mi.baidu.com
