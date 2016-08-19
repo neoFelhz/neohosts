@@ -1,5 +1,9 @@
 #用来去除MIUI的广告
 #可以与任何源合用
+#16.08.19更新
+127.0.0.1 adv.sec.miui.com
+127.0.0.1 api.sec.miui.com
+127.0.0.1 xlmc.sec.miui.com
 127.0.0.1 localhost
 127.0.0.1 app01.nodes.gslb.mi-idc.com 
 127.0.0.1 app02.nodes.gslb.mi-idc.com 
