@@ -34,7 +34,6 @@
 127.0.0.1 f3.mi-stat.gslb.mi-idc.com
 127.0.0.1 beha.ksmobile.com
 127.0.0.1 app02.nodes.gslb.mi-idc.com
-127.0.0.1 update.miui.com
 127.0.0.1 boscdn.bpc.baidu.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 i3.go2yd.com
@@ -115,3 +114,4 @@
 127.0.0.1 cjhq.baidu.com
 127.0.0.1 cpro.baidu.com
 127.0.0.1 drmcmm.baidu.com
+127.0.0.1 pgl.yoyo.org
