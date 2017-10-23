@@ -1,0 +1,12 @@
+# Copyright (c), Neko Dev Team & neoHosts Team.
+# https://github.com/neko-dev/neohosts
+#
+# This work is licensed under a Hosts License.
+# https://github.com/neko-dev/neohosts/blob/data/LICENSE
+
+# Localhost (DO NOT REMOVE) Start
+127.0.0.1 localhost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+# Localhost (DO NOT REMOVE) End
