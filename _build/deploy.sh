@@ -6,7 +6,9 @@ git config --global user.name "${GitHubUser}"
 git remote add origin https://${GitHubKEY}@github.com/${GitHubUser}/neohosts.git
 git pull origin gh-pages
 rm -rf ./*
-cp -rf ../_build/hosts ./
+cd ..
+cp -rf ./_build/hosts ./_public/
+cd ./_public
 git add --all .
 git commit -m "neoHosts Nightly Build by Travis CI"
 git push --quiet --force origin HEAD:gh-pages
