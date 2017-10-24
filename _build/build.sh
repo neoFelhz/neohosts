@@ -1,5 +1,15 @@
-find ./_data -type f -name "*.txt" | xargs cat > ./_build/tmp/all.txt
-sort ./_build/tmp/all.txt -u > ./_build/tmp/hosts-standard.txt
-cat ./_build/head.txt ./_build/tmp/hosts-standard.txt > ./_build/tmp/hosts
-rm ./_build/tmp/all.txt
-rm ./_build/tmp/hosts-standard.txt
+echo "Building standard hosts . . ."
+find ./_data/basic -type f -name "*.txt" | xargs cat > ./_build/tmp/basic/all.txt
+sort ./_build/tmp/baisc/all.txt -u > ./_build/tmp/basic/standby.txt
+cat ./_build/head.txt ./_build/tmp/basic/standby.txt > ./_build/tmp/basic/hosts
+echo "Cleaning up . . ."
+rm ./_build/tmp/basic/all.txt
+rm ./_build/tmp/basic/standby.txt
+
+echo "Building full hosts . . ."
+find ./_data -type f -name "*.txt" | xargs cat > ./_build/tmp/full/all.txt
+sort ./_build/tmp/full/all.txt -u > ./_build/tmp/full/standby.txt
+cat ./_build/head.txt ./_build/tmp/full/standby.txt > ./_build/tmp/full/hosts
+echo "Cleaning up . . ."
+rm ./_build/tmp/full/all.txt
+rm ./_build/tmp/full/standby.txt
