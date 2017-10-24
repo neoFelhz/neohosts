@@ -4,4 +4,4 @@ script:
   - chmod +x ./_build/deploy.sh
   - chmod +x ./_build/build.sh
   - ./_build/build.sh
-  - ./_build/deploy.sh
+  - ./_build/deploy.sh > /dev/null
