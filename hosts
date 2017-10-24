@@ -12,6 +12,7 @@
 ::1 ip6-loopback
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
+0.0.0.0 114so.cn
 0.0.0.0 144.dragonparking.com
 0.0.0.0 1.yhzm.cc
 0.0.0.0 312036.com
@@ -209,6 +210,7 @@
 0.0.0.0 u1.s.minisplat.cn
 0.0.0.0 u2.s.minisplat.cn
 0.0.0.0 ulog.imap.baidu.com
+0.0.0.0 wap.114so.cn
 0.0.0.0 wo.iuni.com.cn
 0.0.0.0 www.114so.cn
 0.0.0.0 www.1680go.com
