@@ -1,0 +1,7 @@
+language: generic
+dist: trusty
+script:
+  - chmod +x ./_build/deploy.sh
+  - chmod +x ./_build/build.sh
+  - ./_build/build.sh
+  - ./_build/deploy.sh
