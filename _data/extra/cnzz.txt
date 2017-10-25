@@ -234,3 +234,4 @@
 0.0.0.0 zs9.cnzz.com
 0.0.0.0 zvs1.cnzz.com
 0.0.0.0 zvs2.cnzz.com
+0.0.0.0 ww6.adm-cnzz.net

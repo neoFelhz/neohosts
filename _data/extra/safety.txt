@@ -1,0 +1,7 @@
+0.0.0.0 cnnic.net.cn
+0.0.0.0 www.cnnic.net.cn
+0.0.0.0 h5.mse.360.cn
+0.0.0.0 msoftdl.360.cn
+0.0.0.0 down.360safe.com
+0.0.0.0 hot.m.shouji.360tpcdn.com
+0.0.0.0 dl.360safe.com
