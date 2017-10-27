@@ -178,10 +178,11 @@ class ProjectModules
      if space_idx.nil? and not quiet then puts "[WARN] No description in mod " + m
      else @mods[i] = m[0..space_idx - 1] end
     end
-    @mods.each_with_index do |m, i|
-      if ignored.include? m then
-        @mods.delete_at i
-        @descs.delete_at i
+    dm = @mods & ignored
+    @mods = @mods - ignored
+    for m in dm do
+      @descs.each_with_index do |d, i|
+        @descs.delete_at i if d.include? m.to_s
       end
     end
   end
