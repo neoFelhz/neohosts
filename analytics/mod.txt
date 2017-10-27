@@ -1,0 +1,2 @@
+cnzz.txt:(ChinaZZ 统计器屏蔽) 0.0.0.0 {HOST}
+analytics.txt:(Google,百度统计器屏蔽) 0.0.0.0 {HOST}

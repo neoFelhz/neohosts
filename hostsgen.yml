@@ -1,0 +1,12 @@
+name: neoHosts
+desc: 自由、负责、克制的hosts, 包括各类可能用得上的host.
+authors: NekoDev Team&neoHosts Team
+out: nadhost
+
+mods:
+  - analytics 统计系统屏蔽
+  - anti_china 反华势力网站屏蔽
+  - basic 基础hosts， 包含360， 百度等广告过滤
+  - hijack 防下载， CNNIC根证书劫持的hosts
+  - miners 反JavaScript挖矿的hosts
+  - qihoo_baidu 反奇虎百度流氓软件的hosts

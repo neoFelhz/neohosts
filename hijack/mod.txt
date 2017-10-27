@@ -1,0 +1,4 @@
+chinamobile.txt:(中国移动反劫持) 0.0.0.0 {HOST}
+chinatelecom.txt:(中国电信反劫持) 0.0.0.0 {HOST}
+chinaunicom.txt:(中国联通反劫持) 0.0.0.0 {HOST}
+cnnic.txt:(CNNIC反根证书劫持) 0.0.0.0 {HOST}

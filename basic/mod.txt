@@ -1,0 +1,7 @@
+baidu.txt:(百度部分流氓服务屏蔽) 0.0.0.0 {HOST}
+baidu_location_report.txt:(百度定位泄漏隐私服务屏蔽) {IP} {HOST}
+common.txt:(一般广告统计屏蔽) 0.0.0.0 {HOST}
+g-ad.txt:(Google ADs屏蔽) 0.0.0.0 {HOST}
+miui.txt:(米釉专属屏蔽) 0.0.0.0 {HOST}
+qq.txt:(QQ广告， 流氓服务屏蔽) 0.0.0.0 {HOST}
+weibo.txt:(微博流氓广告服务屏蔽) 0.0.0.0 {HOST}

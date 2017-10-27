@@ -1,0 +1,1 @@
+coinhave.txt:(反coinhave, authedmine挖矿) 0.0.0.0 {HOST}

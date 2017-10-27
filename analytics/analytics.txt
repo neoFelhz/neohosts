@@ -1,0 +1,17 @@
+hpd.baidu.com
+hm.baidu.com
+s.qhupdate.com
+hs.qhupdate.com
+js.users.51.la
+analytics.tool.lu
+www.google-analytics.com
+www.googletagmanager.com
+ssl.google-analytics.com
+referrer.disqus.com
+js.hs-analytics.net
+stats.g.doubleclick.net
+static.criteo.net
+xdadevelopers.browsi.mobi
+lb.statsevent.com
+dis.criteo.com
+pixel.quantserve.com
