@@ -18,7 +18,7 @@
 #   limitations under the License.
 #########################################################################
 
-VERSION = "0.1.1"
+VERSION = "0.1.2"
 CFG_FILENAME = "hostsgen.yml"
 MOD_FILENAME = "mod.txt"
 HEAD_FILENAME = "head.txt"
@@ -171,13 +171,19 @@ end
 class ProjectModules
   def initialize(quiet, mods, ignored)
     @mods = mods
+    @descs = mods.dup
     # strip desc in module config
     mods.each_with_index do |m, i|
      space_idx = m.index ' '
      if space_idx.nil? and not quiet then puts "[WARN] No description in mod " + m
      else @mods[i] = m[0..space_idx - 1] end
     end
-    @mods = @mods - ignored
+    @mods.each_with_index do |m, i|
+      if ignored.include? m then
+        @mods.delete_at i
+        @descs.delete_at i
+      end
+    end
   end
   def build(quiet, no_comments, out, cfg)
     if not quiet then
@@ -203,7 +209,7 @@ class ProjectModules
       puts "[COMPILE] Compiling Module #" + i.to_s + ": " + m if not quiet
       if File.exist? m + '/' + MOD_FILENAME then
         f = File.open m + '/' + MOD_FILENAME
-        HostsModule.new(f.read).compile m, file, cfg.mods[i]
+        HostsModule.new(f.read).compile m, file, @descs[i]
       else puts "[ERR] Cannot find module config"; exit 5 end
     end
   end
