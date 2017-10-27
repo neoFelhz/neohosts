@@ -1,0 +1,27 @@
+# 360 DL
+0.0.0.0 h5.mse.360.cn
+0.0.0.0 msoftdl.360.cn
+0.0.0.0 down.360safe.com
+0.0.0.0 hot.m.shouji.360tpcdn.com
+0.0.0.0 dl.360safe.com
+0.0.0.0 openbox.mobilem.360.cn
+0.0.0.0 ini.update.360safe.com
+0.0.0.0 inst.360safe.com
+0.0.0.0 pdown.stat.360safe.com
+0.0.0.0 update.360safe.com
+0.0.0.0 down.360.cn
+0.0.0.0 shouji.360.cn
+# 2345 DL
+0.0.0.0 dl.2345.com
+0.0.0.0 download.2345.com
+0.0.0.0 g.wan.2345.com
+0.0.0.0 jifendownload.2345.cn
+#Hao123
+0.0.0.0 update.123juzi.net
+#down-
+0.0.0.0 scdown.qq.com
+0.0.0.0 download.sj.qq.com
+0.0.0.0 c.gj.qq.com
+0.0.0.0 t.sj.qq.com
+0.0.0.0 ws.sj.qq.com
+

@@ -1,0 +1,3 @@
+# CNNIC
+0.0.0.0 cnnic.net.cn
+0.0.0.0 www.cnnic.net.cn
