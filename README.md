@@ -1,8 +1,7 @@
-<img src="https://i.loli.net/2017/10/26/59f16e54c30af.png" alt="logo" width="144" height="144" align="right" />
+<img src="https://i.loli.net/2017/10/26/59f16e54c30af.png" alt="logo" width="96" height="96" align="right" />
 
 # neoHosts
 
-> Free, Responsible & Restraint<br>
 > 自由、负责、克制
 
 <p align="center">
