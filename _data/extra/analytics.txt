@@ -7,3 +7,12 @@
 0.0.0.0 analytics.tool.lu
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 referrer.disqus.com
+0.0.0.0 js.hs-analytics.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 static.criteo.net
+0.0.0.0 xdadevelopers.browsi.mobi
+0.0.0.0 lb.statsevent.com
+0.0.0.0 dis.criteo.com
+0.0.0.0 pixel.quantserve.com
