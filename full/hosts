@@ -42,6 +42,7 @@
 0.0.0.0 ad3.sina.com.cn
 0.0.0.0 ad4.sina.com
 0.0.0.0 ad4.sina.com.cn
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 adimages.sina.com.hk
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 adinfo.ra1.xlmc.sec.miui.com
@@ -148,6 +149,7 @@
 0.0.0.0 cloudcdn.yousee.com
 0.0.0.0 c.l.qq.com
 0.0.0.0 cm066.getui.igexin.com
+0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 c.minisplat.cn
 0.0.0.0 cnnic.net.cn
 0.0.0.0 coinhive.com
@@ -248,6 +250,7 @@
 0.0.0.0 ggle.lywf.me
 0.0.0.0 gimg.baidu.com 
 0.0.0.0 go.cnzz.com
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 guanjia.baidu.com 
 0.0.0.0 gu.qlogo.cn
 0.0.0.0 g.w5b454.com
@@ -455,10 +458,12 @@
 0.0.0.0 oth.str.mdt.qq.com 
 0.0.0.0 oz.cnzz.com
 0.0.0.0 p2.l.qq.com
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagespeed.report.qq.com
 0.0.0.0 p.alimama.com
 0.0.0.0 palmnews.sina.cn
 0.0.0.0 parking.zunmi.cn
+0.0.0.0 partner.googleadservices.com
 0.0.0.0 pcookie.cnzz.com
 0.0.0.0 pc.quansj.cn
 0.0.0.0 pdc.micloud.xiaomi.net
@@ -483,6 +488,7 @@
 0.0.0.0 p.sdu8cvc.com
 0.0.0.0 ps.map.baidu.com
 0.0.0.0 p.store.qq.com 
+0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 pw.cnzz.com
 0.0.0.0 py2.qlogo.cn
@@ -687,6 +693,7 @@
 0.0.0.0 sdk.open.talk.igexin.com
 0.0.0.0 sec-cdn.static.xiaomi.net
 0.0.0.0 sec.resource.xiaomi.net
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 security.browser.miui.com
 0.0.0.0 sg.a.stat.mi.com
 0.0.0.0 s.gdt.qq.com
@@ -725,6 +732,8 @@
 0.0.0.0 static.1.chenggao.cn
 0.0.0.0 staticadm.leju.sina.com.cn
 0.0.0.0 static.criteo.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 static.googleadsserving.cn
 0.0.0.0 stat.pandora.xiaomi.com
 0.0.0.0 stats.chinaz.com
 0.0.0.0 stats.g.doubleclick.net
@@ -750,6 +759,7 @@
 0.0.0.0 toolbar.baidu.com 
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 toutiao.2haha.com
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 trace.qq.com
 0.0.0.0 track.dragonparking.com
 0.0.0.0 tracker.baidu.com 
@@ -883,6 +893,7 @@
 0.0.0.0 www.cnnic.net.cn
 0.0.0.0 www.coinhive.com
 0.0.0.0 www.fathionmall.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.gz00005.top
