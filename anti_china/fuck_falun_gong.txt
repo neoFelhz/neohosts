@@ -1,16 +1,16 @@
-0.0.0.0 www.bannedbook.org
-0.0.0.0 bannedbook.org
-0.0.0.0 dafahao.com
-0.0.0.0 dafahao.org
-0.0.0.0 minghui.com
-0.0.0.0 minghui.org
-0.0.0.0 dongtaiwang.com
-0.0.0.0 dongtaiwang.org
-0.0.0.0 epochtimes.com
-0.0.0.0 epochtimes.org
-0.0.0.0 dajiyuan.com
-0.0.0.0 dajiyuan.org
-0.0.0.0 ntdtv.com
-0.0.0.0 ntdtv.org
-0.0.0.0 falundata.com
-0.0.0.0 falundata.org
+www.bannedbook.org
+bannedbook.org
+dafahao.com
+dafahao.org
+minghui.com
+minghui.org
+dongtaiwang.com
+dongtaiwang.org
+epochtimes.com
+epochtimes.org
+dajiyuan.com
+dajiyuan.org
+ntdtv.com
+ntdtv.org
+falundata.com
+falundata.org

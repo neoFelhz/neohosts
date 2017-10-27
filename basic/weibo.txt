@@ -1,74 +1,74 @@
-0.0.0.0 game.weibo.com
-0.0.0.0 gw6.push.mcp.weibo.cn
-0.0.0.0 zc.biz.weibo.com
-0.0.0.0 gw5.push.mcp.weibo.cn
-0.0.0.0 game.weibo.cn
-0.0.0.0 biz.weibo.com
-0.0.0.0 zymo.mps.weibo.com
-0.0.0.0 s.alitui.weibo.com
-0.0.0.0 alitui.weibo.com
-0.0.0.0 m.game.weibo.cn
-0.0.0.0 widget.weibo.com
-0.0.0.0 c.biz.weibo.com
-0.0.0.0 c.wcpt.biz.weibo.com
-0.0.0.0 ad3.sina.com.cn
-0.0.0.0 sdkapp.mobile.sina.cn
-0.0.0.0 tjs.sjs.sinajs.cn
-0.0.0.0 wbclick.mobile.sina.cn
-0.0.0.0 d1.sina.com.cn
-0.0.0.0 ads.sina.com
-0.0.0.0 r.dmp.sina.cn
-0.0.0.0 d8.sina.com.cn
-0.0.0.0 woocall.sina.com.cn
-0.0.0.0 staticadm.leju.sina.com.cn
-0.0.0.0 1276.adsina.allyes.com
-0.0.0.0 sina.allyes.com
-0.0.0.0 oascentral.sina.com.hk
-0.0.0.0 twsina.allyes.com
-0.0.0.0 adm.leju.sina.com.cn
-0.0.0.0 contentrecommend-out.mobile.sina.cn
-0.0.0.0 oascentral.sina.com
-0.0.0.0 count.video.sina.com.cn
-0.0.0.0 d2.sina.com.cn
-0.0.0.0 ad4.sina.com
-0.0.0.0 palmnews.sina.cn
-0.0.0.0 adimg.mobile.sina.cn
-0.0.0.0 d0.sina.com.cn
-0.0.0.0 wbapp.mobile.sina.cn
-0.0.0.0 161.adsina.allyes.com
-0.0.0.0 pfp.sina.com.cn
-0.0.0.0 d00.sina.com.cn
-0.0.0.0 60.adsina.allyes.com
-0.0.0.0 beacon.sina.com.cn
-0.0.0.0 simg.sinajs.cn
-0.0.0.0 1148.adsina.allyes.com
-0.0.0.0 rs.sinajs.cn
-0.0.0.0 1100.adsina.allyes.com
-0.0.0.0 sina.yinstar.org
-0.0.0.0 ad4.sina.com.cn
-0.0.0.0 slog.sina.cn
-0.0.0.0 int.dpool.sina.com.cn
-0.0.0.0 44.adsina.allyes.com
-0.0.0.0 wbpctips.mobile.sina.cn
-0.0.0.0 s.img.mix.sina.com.cn
-0.0.0.0 appgift.sinaapp.com
-0.0.0.0 adimages.sina.com.hk
-0.0.0.0 adsina.allyes.com
-0.0.0.0 trends.mobile.sina.cn
-0.0.0.0 api.apps.sina.cn
-0.0.0.0 img.adbox.sina.com.cn
-0.0.0.0 154.adsina.allyes.com
-0.0.0.0 counter.sina.com.cn
-0.0.0.0 45.adsina.allyes.com
-0.0.0.0 d9.sina.com.cn
-0.0.0.0 appsupdate.sinaapp.com
-0.0.0.0 d7.sina.com.cn
-0.0.0.0 d6.sina.com.cn
-0.0.0.0 pfpip.sina.com
-0.0.0.0 motu.p4p.sina.com.cn
-0.0.0.0 d5.sina.com.cn
-0.0.0.0 newspush.sinajs.cn
-0.0.0.0 1251.adsina.allyes.com
-0.0.0.0 d4.sina.com.cn
-0.0.0.0 d3.sina.com.cn
-0.0.0.0 sdkinit.taobao.com
+game.weibo.com
+gw6.push.mcp.weibo.cn
+zc.biz.weibo.com
+gw5.push.mcp.weibo.cn
+game.weibo.cn
+biz.weibo.com
+zymo.mps.weibo.com
+s.alitui.weibo.com
+alitui.weibo.com
+m.game.weibo.cn
+widget.weibo.com
+c.biz.weibo.com
+c.wcpt.biz.weibo.com
+ad3.sina.com.cn
+sdkapp.mobile.sina.cn
+tjs.sjs.sinajs.cn
+wbclick.mobile.sina.cn
+d1.sina.com.cn
+ads.sina.com
+r.dmp.sina.cn
+d8.sina.com.cn
+woocall.sina.com.cn
+staticadm.leju.sina.com.cn
+1276.adsina.allyes.com
+sina.allyes.com
+oascentral.sina.com.hk
+twsina.allyes.com
+adm.leju.sina.com.cn
+contentrecommend-out.mobile.sina.cn
+oascentral.sina.com
+count.video.sina.com.cn
+d2.sina.com.cn
+ad4.sina.com
+palmnews.sina.cn
+adimg.mobile.sina.cn
+d0.sina.com.cn
+wbapp.mobile.sina.cn
+161.adsina.allyes.com
+pfp.sina.com.cn
+d00.sina.com.cn
+60.adsina.allyes.com
+beacon.sina.com.cn
+simg.sinajs.cn
+1148.adsina.allyes.com
+rs.sinajs.cn
+1100.adsina.allyes.com
+sina.yinstar.org
+ad4.sina.com.cn
+slog.sina.cn
+int.dpool.sina.com.cn
+44.adsina.allyes.com
+wbpctips.mobile.sina.cn
+s.img.mix.sina.com.cn
+appgift.sinaapp.com
+adimages.sina.com.hk
+adsina.allyes.com
+trends.mobile.sina.cn
+api.apps.sina.cn
+img.adbox.sina.com.cn
+154.adsina.allyes.com
+counter.sina.com.cn
+45.adsina.allyes.com
+d9.sina.com.cn
+appsupdate.sinaapp.com
+d7.sina.com.cn
+d6.sina.com.cn
+pfpip.sina.com
+motu.p4p.sina.com.cn
+d5.sina.com.cn
+newspush.sinajs.cn
+1251.adsina.allyes.com
+d4.sina.com.cn
+d3.sina.com.cn
+sdkinit.taobao.com

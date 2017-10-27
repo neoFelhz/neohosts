@@ -1,4 +1,4 @@
-0.0.0.0 daohang.114so.cn
-0.0.0.0 www.114so.cn
-0.0.0.0 wap.114so.cn
-0.0.0.0 114so.cn
+daohang.114so.cn
+www.114so.cn
+wap.114so.cn
+114so.cn

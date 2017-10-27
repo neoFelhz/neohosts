@@ -1,25 +1,25 @@
 # Baidu
-0.0.0.0 anquan.baidu.com
-0.0.0.0 antivirus.baidu.com
-0.0.0.0 dl-vip.bav.baidu.com
-0.0.0.0 dl1sw.baidu.com
-0.0.0.0 dl2.bav.baidu.com
-0.0.0.0 dlsw.baidu.com
-0.0.0.0 download.bav.baidu.com
-0.0.0.0 download.sd.baidu.com
-0.0.0.0 shadu.baidu.com
-0.0.0.0 w.gdown.baidu.com
-0.0.0.0 w.x.baidu.com
-0.0.0.0 weishi.baidu.com
-0.0.0.0 banlv.baidu.com
-0.0.0.0 bar.baidu.com
-0.0.0.0 dl.client.baidu.com
-0.0.0.0 dzl.baidu.com
-0.0.0.0 j.br.baidu.com
-0.0.0.0 sobar.baidu.com
-0.0.0.0 toolbar.baidu.com
-0.0.0.0 cleaner.baidu.com
-0.0.0.0 dl-vip.pcfaster.baidu.co.th
-0.0.0.0 dl.ops.baidu.com
-0.0.0.0 rj.baidu.com
-0.0.0.0 dlsw.br.baidu.com
+anquan.baidu.com
+antivirus.baidu.com
+dl-vip.bav.baidu.com
+dl1sw.baidu.com
+dl2.bav.baidu.com
+dlsw.baidu.com
+download.bav.baidu.com
+download.sd.baidu.com
+shadu.baidu.com
+w.gdown.baidu.com
+w.x.baidu.com
+weishi.baidu.com
+banlv.baidu.com
+bar.baidu.com
+dl.client.baidu.com
+dzl.baidu.com
+j.br.baidu.com
+sobar.baidu.com
+toolbar.baidu.com
+cleaner.baidu.com
+dl-vip.pcfaster.baidu.co.th
+dl.ops.baidu.com
+rj.baidu.com
+dlsw.br.baidu.com

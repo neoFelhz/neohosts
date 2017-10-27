@@ -1,135 +1,135 @@
-0.0.0.0 navi.gd.chinamobile.com
-0.0.0.0 hivedata.cc
-0.0.0.0 m.kubiqq.com
-0.0.0.0 m5.apk.67mo.com
-0.0.0.0 ieonline.microsoft.com
-0.0.0.0 browser.gwdang.com
-0.0.0.0 router.gwdang.com
-0.0.0.0 offline-adv.oray.com
-0.0.0.0 hao.qquu8.com
-0.0.0.0 hao549.com
-0.0.0.0 www.i1236.net
-0.0.0.0 hk.jtsh123.com
-0.0.0.0 hao.7654.com
-0.0.0.0 api.g1.junfull.com
-0.0.0.0 api.g2.junfull.com
-0.0.0.0 abc.xtyx918.com
-0.0.0.0 p.sdu8cvc.com
-0.0.0.0 n.a.mosenni.com
-0.0.0.0 gamead.swjoy.com
-0.0.0.0 c.minisplat.cn
-0.0.0.0 c1.minisplat.cn
-0.0.0.0 l.minisplat.cn
-0.0.0.0 o.minisplat.cn
-0.0.0.0 u0.s.minisplat.cn
-0.0.0.0 u1.s.minisplat.cn
-0.0.0.0 u2.s.minisplat.cn
-0.0.0.0 ad.1111cpc.com
-0.0.0.0 creative.1111cpc.com
-0.0.0.0 mm.dopa.com.cn
-0.0.0.0 pd.dopa.com.cn
-0.0.0.0 api.dreamfull.cn
-0.0.0.0 i.dreamfull.cn
-0.0.0.0 144.dragonparking.com
-0.0.0.0 930.dragonparking.com
-0.0.0.0 track.dragonparking.com
-0.0.0.0 cdn.dragonstatic.com
-0.0.0.0 cpro.9xu.com
-0.0.0.0 dl.9xu.com
-0.0.0.0 js.union-wifi.com
-0.0.0.0 rcv.union-wifi.com
-0.0.0.0 ssp.dmpdsp.com
-0.0.0.0 ssp1.dmpdsp.com
-0.0.0.0 ad.jsnbrynb.com
-0.0.0.0 apppic.yingyongbei.com
-0.0.0.0 809.ok365.com
-0.0.0.0 818.ok365.com
-0.0.0.0 cloudcdn.dopa.com.cn
-0.0.0.0 pd.ok365.com
-0.0.0.0 www.ok365.com
-0.0.0.0 engine.tuia.cn
-0.0.0.0 yun.tuia.cn
-0.0.0.0 res.ipingke.com
-0.0.0.0 ggle.lywf.me
-0.0.0.0 cszlks.com
-0.0.0.0 ax.ggfeng.com
-0.0.0.0 cloudcdn.yousee.com
-0.0.0.0 ds.jlbksy.com
-0.0.0.0 migu.kssws.ks-cdn.com
-0.0.0.0 news.766ba.net
-0.0.0.0 sc.ggdoubi.com
-0.0.0.0 sc.ggfeng.com
-0.0.0.0 sd.kk3g.net
-0.0.0.0 sp3.cndm.com
-0.0.0.0 ssp.kss.ksyun.com
-0.0.0.0 stjzh.gdtarget.com
-0.0.0.0 wo.iuni.com.cn
-0.0.0.0 cdn.ads.jlscds.com
-0.0.0.0 stuff.202m.com
-0.0.0.0 www.202m.com
-0.0.0.0 s.jlminte.com
-0.0.0.0 ssp.86str.com
-0.0.0.0 ssp.0531kt.com
-0.0.0.0 s2.yandui.com
-0.0.0.0 www.tz-dsp.com
-0.0.0.0 eee.kj78.org
-0.0.0.0 www.706529.com
-0.0.0.0 maxwebsearch.com
-0.0.0.0 www.searchswapper.com
-0.0.0.0 ssp.thescenseproject.com
-0.0.0.0 m.duobao999.com
-0.0.0.0 a.qiao024.com
-0.0.0.0 ssp.chaohutechan.com
-0.0.0.0 a.dounanhuahui.com
-0.0.0.0 dl.sybspools.com
-0.0.0.0 kr.sybspools.com
-0.0.0.0 p.kjwx8.com
-0.0.0.0 sta.jcjk0451.com
-0.0.0.0 1.yhzm.cc
-0.0.0.0 www.hao934.com
-0.0.0.0 www.1680go.com
-0.0.0.0 pc.quansj.cn
-0.0.0.0 ad.xxguan.cn
-0.0.0.0 pic.517m.cn
-0.0.0.0 eee.ttyy888.co
-0.0.0.0 www.716703.com
-0.0.0.0 dp.559.cc
-0.0.0.0 img.toppr.com.cn
-0.0.0.0 www.remote88.com
-0.0.0.0 ypv.chengadx.com
-0.0.0.0 g.w5b454.com
-0.0.0.0 sspapi.youxiaoad.com
-0.0.0.0 c.35kds.com
-0.0.0.0 s.35kds.com
-0.0.0.0 s.6travel.com
-0.0.0.0 shama5.com
-0.0.0.0 bd.soarfi.cn
-0.0.0.0 creative.ltheanine.cn
-0.0.0.0 eee.eh39.co
-0.0.0.0 312036.com
-0.0.0.0 www.wifijia.net
-0.0.0.0 toutiao.2haha.com
-0.0.0.0 a.beilamusi.com
-0.0.0.0 a.benshiw.net
-0.0.0.0 activity.yuyiya.com
-0.0.0.0 buyimg.bianxianmao.com
-0.0.0.0 cpv.ty229.com
-0.0.0.0 creative.jdkic.com
-0.0.0.0 cz01016102.cg2017.com
-0.0.0.0 display.adhudong.com
-0.0.0.0 down.dashendown.com
-0.0.0.0 dps.wtdtjs.com
-0.0.0.0 engine.lvehaisen.com
-0.0.0.0 i.huilixieye.net
-0.0.0.0 img0.egou.com
-0.0.0.0 jct.maptu.cn
-0.0.0.0 m.7180443.com
-0.0.0.0 mti.35kds.com
-0.0.0.0 new.ltheanine.cn
-0.0.0.0 parking.zunmi.cn
-0.0.0.0 static.1.chenggao.cn
-0.0.0.0 a.waczt.cn
-0.0.0.0 www.chenggao.cn
-0.0.0.0 yun.yuyiya.com
-0.0.0.0 extmoney.i1608.com
-0.0.0.0 info.yitsoftware.com
+navi.gd.chinamobile.com
+hivedata.cc
+m.kubiqq.com
+m5.apk.67mo.com
+ieonline.microsoft.com
+browser.gwdang.com
+router.gwdang.com
+offline-adv.oray.com
+hao.qquu8.com
+hao549.com
+www.i1236.net
+hk.jtsh123.com
+hao.7654.com
+api.g1.junfull.com
+api.g2.junfull.com
+abc.xtyx918.com
+p.sdu8cvc.com
+n.a.mosenni.com
+gamead.swjoy.com
+c.minisplat.cn
+c1.minisplat.cn
+l.minisplat.cn
+o.minisplat.cn
+u0.s.minisplat.cn
+u1.s.minisplat.cn
+u2.s.minisplat.cn
+ad.1111cpc.com
+creative.1111cpc.com
+mm.dopa.com.cn
+pd.dopa.com.cn
+api.dreamfull.cn
+i.dreamfull.cn
+144.dragonparking.com
+930.dragonparking.com
+track.dragonparking.com
+cdn.dragonstatic.com
+cpro.9xu.com
+dl.9xu.com
+js.union-wifi.com
+rcv.union-wifi.com
+ssp.dmpdsp.com
+ssp1.dmpdsp.com
+ad.jsnbrynb.com
+apppic.yingyongbei.com
+809.ok365.com
+818.ok365.com
+cloudcdn.dopa.com.cn
+pd.ok365.com
+www.ok365.com
+engine.tuia.cn
+yun.tuia.cn
+res.ipingke.com
+ggle.lywf.me
+cszlks.com
+ax.ggfeng.com
+cloudcdn.yousee.com
+ds.jlbksy.com
+migu.kssws.ks-cdn.com
+news.766ba.net
+sc.ggdoubi.com
+sc.ggfeng.com
+sd.kk3g.net
+sp3.cndm.com
+ssp.kss.ksyun.com
+stjzh.gdtarget.com
+wo.iuni.com.cn
+cdn.ads.jlscds.com
+stuff.202m.com
+www.202m.com
+s.jlminte.com
+ssp.86str.com
+ssp.0531kt.com
+s2.yandui.com
+www.tz-dsp.com
+eee.kj78.org
+www.706529.com
+maxwebsearch.com
+www.searchswapper.com
+ssp.thescenseproject.com
+m.duobao999.com
+a.qiao024.com
+ssp.chaohutechan.com
+a.dounanhuahui.com
+dl.sybspools.com
+kr.sybspools.com
+p.kjwx8.com
+sta.jcjk0451.com
+1.yhzm.cc
+www.hao934.com
+www.1680go.com
+pc.quansj.cn
+ad.xxguan.cn
+pic.517m.cn
+eee.ttyy888.co
+www.716703.com
+dp.559.cc
+img.toppr.com.cn
+www.remote88.com
+ypv.chengadx.com
+g.w5b454.com
+sspapi.youxiaoad.com
+c.35kds.com
+s.35kds.com
+s.6travel.com
+shama5.com
+bd.soarfi.cn
+creative.ltheanine.cn
+eee.eh39.co
+312036.com
+www.wifijia.net
+toutiao.2haha.com
+a.beilamusi.com
+a.benshiw.net
+activity.yuyiya.com
+buyimg.bianxianmao.com
+cpv.ty229.com
+creative.jdkic.com
+cz01016102.cg2017.com
+display.adhudong.com
+down.dashendown.com
+dps.wtdtjs.com
+engine.lvehaisen.com
+i.huilixieye.net
+img0.egou.com
+jct.maptu.cn
+m.7180443.com
+mti.35kds.com
+new.ltheanine.cn
+parking.zunmi.cn
+static.1.chenggao.cn
+a.waczt.cn
+www.chenggao.cn
+yun.yuyiya.com
+extmoney.i1608.com
+info.yitsoftware.com
