@@ -61,6 +61,7 @@
 0.0.0.0 adslvseed.qq.com
 0.0.0.0 adsqqclick.qq.com
 0.0.0.0 adsrich.qq.com
+0.0.0.0 ads.servebom.com
 0.0.0.0 ads.sina.com
 0.0.0.0 adstextview.qq.com
 0.0.0.0 adsview2.qq.com
@@ -184,6 +185,7 @@
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 de.pandora.xiaomi.com
 0.0.0.0 dir.minigame.qq.com
+0.0.0.0 dis.criteo.com
 0.0.0.0 display.adhudong.com
 0.0.0.0 dl1sw.baidu.com
 0.0.0.0 dl.2345.com
@@ -307,6 +309,7 @@
 0.0.0.0 hzs8.cnzz.com
 0.0.0.0 hzs9.cnzz.com
 0.0.0.0 hzvs1.cnzz.com
+0.0.0.0 ibn.adnxs.com
 0.0.0.0 icon.cnzz.com
 0.0.0.0 i.dreamfull.cn
 0.0.0.0 idx.m.hub.sandai.net
@@ -345,12 +348,15 @@
 0.0.0.0 jldnserror5.wo.com.cn
 0.0.0.0 jqmt.qq.com
 0.0.0.0 jserr.cnzz.com
+0.0.0.0 js.hs-analytics.net
 0.0.0.0 jssdk.cnzz.com
 0.0.0.0 js.union-wifi.com
 0.0.0.0 js.users.51.la
 0.0.0.0 kr.sybspools.com
 0.0.0.0 ku6.cnzz.com
 0.0.0.0 l2.l.qq.com
+0.0.0.0 lb.statsevent.com
+0.0.0.0 links.services.disqus.com
 0.0.0.0 l.minisplat.cn
 0.0.0.0 lndnserror1.wo.com.cn
 0.0.0.0 lndnserror2.wo.com.cn
@@ -466,6 +472,7 @@
 0.0.0.0 pingfore.tenpay.com
 0.0.0.0 pinghot.qq.com
 0.0.0.0 pingma.qq.com
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 p.kjwx8.com
 0.0.0.0 p.l.qq.com
 0.0.0.0 pmir.3g.qq.com
@@ -495,6 +502,7 @@
 0.0.0.0 rcv.union-wifi.com
 0.0.0.0 r.dmp.sina.cn
 0.0.0.0 reader.browser.miui.com
+0.0.0.0 referrer.disqus.com
 0.0.0.0 report.adview.cn
 0.0.0.0 res.ipingke.com
 0.0.0.0 res.mi.baidu.com
@@ -702,6 +710,7 @@
 0.0.0.0 spcode.baidu.com 
 0.0.0.0 s.qhupdate.com
 0.0.0.0 ssl-cdn.static.browser.mi-img.com
+0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssp.0531kt.com
 0.0.0.0 ssp1.dmpdsp.com
 0.0.0.0 ssp.86str.com
@@ -715,7 +724,10 @@
 0.0.0.0 sta.jcjk0451.com
 0.0.0.0 static.1.chenggao.cn
 0.0.0.0 staticadm.leju.sina.com.cn
+0.0.0.0 static.criteo.net
 0.0.0.0 stat.pandora.xiaomi.com
+0.0.0.0 stats.chinaz.com
+0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stjzh.gdtarget.com
 0.0.0.0 stuff.202m.com
 0.0.0.0 sv.map.baidu.com
@@ -884,6 +896,7 @@
 0.0.0.0 www.wifijia.net
 0.0.0.0 w.x.baidu.com
 0.0.0.0 wx.xwjqr.com 
+0.0.0.0 xdadevelopers.browsi.mobi
 0.0.0.0 xiaomiir.yaokantv.com
 0.0.0.0 ypv.chengadx.com
 0.0.0.0 yun.rili.cn
