@@ -2,4 +2,4 @@
 0.0.0.0 links.services.disqus.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ibn.adnxs.com
-
+0.0.0.0 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com

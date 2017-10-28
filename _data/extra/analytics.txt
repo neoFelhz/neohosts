@@ -15,3 +15,8 @@
 0.0.0.0 lb.statsevent.com
 0.0.0.0 dis.criteo.com
 0.0.0.0 pixel.quantserve.com
+0.0.0.0 ef-dongfeng.tanx.com
+0.0.0.0 js.t.sinajs.cn
+0.0.0.0 js2.t.sinajs.cn
+0.0.0.0 js1.t.sinajs.cn
+0.0.0.0 click.uve.weibo.com
