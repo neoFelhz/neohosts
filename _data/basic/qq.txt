@@ -172,7 +172,6 @@
 0.0.0.0 v.gdt.qq.com
 0.0.0.0 vpic.video.qq.com
 0.0.0.0 w.l.qq.com
-0.0.0.0 wq.jd.com
 0.0.0.0 ws.sj.qq.com
 0.0.0.0 www.fathionmall.com
 0.0.0.0 www.gz00005.top
