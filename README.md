@@ -1,8 +1,8 @@
-<img src="https://i.loli.net/2017/10/26/59f16e54c30af.png" alt="logo" width="96" height="96" align="right" />
+<img src="https://i.loli.net/2017/10/26/59f16e54c30af.png" alt="logo" width="100" height="100" align="right" />
 
 # neoHosts
 
-> 自由、负责、克制
+> **自由、负责、克制** 的去广告 Hosts
 
 <p align="center">
 <img alt="Author" src="https://img.shields.io/badge/Author-Neko%20Dev%20Team%20&%20neoHosts%20Team-blue.svg?style=flat-square"/>
@@ -12,9 +12,9 @@
 
 ## Introduction 介绍
 
-- 自由：我们**使用** `Hosts License & SATA` **自由协议**而不是 `CC BY-NC-ND` 这样的非自由协议，希望能够促进和帮助更多项目
-- 克制：**我们不会因个人喜好屏蔽非广告有关网站**；我们会仔细研究和分析，**我们不会随意屏蔽任何一个域名**
-- 负责：我们不搞“捐赠才能反馈”、不搞 VIP 特权，让**所有用户都能免费、完整地使用本项目**；所有用户都可以 **自由地反馈问题**
+- 自由：我们使用 `Hosts License & SATA` **自由协议**而不是 `CC BY-NC-ND` 这样的非自由协议，希望能够促进和帮助更多项目
+- 克制：我们保证**不因个人喜好屏蔽非广告有关网站**；我们会仔细研究和分析，**我们不会随意屏蔽任何一个域名**
+- 负责：我们不搞“捐赠才能反馈”、不搞 VIP 特权。**所有用户都应该能免费、完整地使用本项目、自由地反馈问题**
 
 > 打着去广告 Hosts 的名义吸引用户使用，然而不断屏蔽与广告无关的地址，这样做和 GFW 又有什么区别？
 
@@ -22,23 +22,33 @@
 
 ### [Basic Hosts](https://neko-dev.github.io/neohosts/basic/hosts)
 
-> 基础数据，推荐所有用户使用。
+> 基础、克制的数据，推荐所有用户使用。
 
 ### [Full Hosts](https://neko-dev.github.io/neohosts/full/hosts)
 
-> 包含全部数据，仅推荐强迫症使用。在 Basic Data 的基础上额外屏蔽了以下内容：
+> 包含全部数据，仅推荐强迫症使用。相比 Basic Hosts，Full Hosts 额外屏蔽了以下内容：
 
 - JS Miner 挖矿
-- 主流统计服务（仅屏蔽 JS、不屏蔽控制台）
+- 各类统计服务（仅屏蔽 JS、不屏蔽控制台）
 - 常见下载劫持
 - 360 和百度的部分软件下载
 - CNNIC 根证书劫持
 - 法轮功等境外反华势力网站
 
+## Docs 文档
+
+> On the Todo List.
+
 ## Maintainer
 
 **neoHosts** © [Neko Dev Team](https://github.com/neko-dev) & neoHosts Team, Released under the [Hosts License](./LICENSE) License.<br>
 Authored and maintained by [neoFelhz](https://github.com/neoFelhz) with `Neko Dev Team` , `neoHosts Team` and the help from other contributors ([list](https://github.com/neko-dev/neohosts/contributors)).
+
+## Friends 友情链接
+
+- [neoFelhz's Blog](https://blog.nfz.moe) - The main maintainer's blog.
+- [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - A project which provide ACL for SSR, include gfwlist and ban AD.
+- [GenHosts](https://github.com/pigfromChina/neohosts) - A fork from neoHosts, using build tool written in Ruby.
 
 ## License 许可证
 
