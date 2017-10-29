@@ -59,6 +59,6 @@ Authored and maintained by [neoFelhz](https://github.com/neoFelhz) with `Neko De
 - 同时你也不能将本项目用于商业用途，凡是任何盈利的活动皆属于商业用途，**包括但不限于广告、捐赠、收费**；
 - 当你使用了使用 `SATA` 的开源软件或文档的时候，在遵守基础许可证的前提下，你**必须**马不停蹄地给你所使用的开源项目 “点赞” ，比如在 GitHub 上 star，然后你**必须**感谢这个帮助了你的开源项目的作者，作者信息可以在许可证头部的版权声明部分找到。
 
-本项目分发的所有 Hosts 除另有说明外，均基于上述介绍的协议发布，具体请看分支下的 [`LICENSE`](https://github.com/neko-dev/neohosts/blob/data/LICENSE)。
+本项目分发的所有 Hosts 和数据源，除另有说明外，均基于上述介绍的协议发布，具体请看分支下的 [`LICENSE`](https://github.com/neko-dev/neohosts/blob/data/LICENSE)。
 
 此处的文字仅用于说明，条款以 [`LICENSE`](https://github.com/neko-dev/neohosts/blob/data/LICENSE) 文件中的内容为准。
