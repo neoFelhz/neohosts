@@ -25,3 +25,5 @@
 0.0.0.0 analytics.msn.com
 0.0.0.0 analytics.r.msn.com
 0.0.0.0 ms.analytics.live.com
+0.0.0.0 stat.360safe.com
+0.0.0.0 stat.m.360.cn
