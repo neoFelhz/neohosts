@@ -20,6 +20,10 @@
 0.0.0.0 e.baidu.com
 0.0.0.0 eiv.baidu.com
 0.0.0.0 gimg.baidu.com
+0.0.0.0 cpro.baidustatic.com
+0.0.0.0 cpro.tieba.baidu.com
+0.0.0.0 cpro.zhidao.baidu.com
+0.0.0.0 cpro2.baidu.com
 0.0.0.0 guanjia.baidu.com
 0.0.0.0 hc.baidu.com
 0.0.0.0 hm.baidu.com
@@ -138,3 +142,12 @@
 0.0.0.0 sa0.tuisong.baidu.com
 0.0.0.0 sa1.tuisong.baidu.com
 0.0.0.0 sa3.tuisong.baidu.com
+0.0.0.0 t10.baidu.com
+0.0.0.0 t11.baidu.com
+0.0.0.0 t12.baidu.com
+0.0.0.0 tk.baidu.com
+0.0.0.0 union.baidu.com
+0.0.0.0 utility.baidu.com
+0.0.0.0 utk.baidu.com
+0.0.0.0 wn.pos.baidu.com
+0.0.0.0 znsv.baidu.com

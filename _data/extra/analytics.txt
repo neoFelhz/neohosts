@@ -20,3 +20,8 @@
 0.0.0.0 js2.t.sinajs.cn
 0.0.0.0 js1.t.sinajs.cn
 0.0.0.0 click.uve.weibo.com
+0.0.0.0 analytics.live.com
+0.0.0.0 digg.analytics.live.com
+0.0.0.0 analytics.msn.com
+0.0.0.0 analytics.r.msn.com
+0.0.0.0 ms.analytics.live.com
