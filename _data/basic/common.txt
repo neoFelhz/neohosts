@@ -9,3 +9,5 @@
 0.0.0.0 srv.carbonads.net
 0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 carbonads.net
+0.0.0.0 xf.yellowto.com
+0.0.0.0 yellowto.com
