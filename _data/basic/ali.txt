@@ -2,8 +2,6 @@
 0.0.0.0 acjs.aliyun.com
 0.0.0.0 acs4baichuan.m.taobao.com
 0.0.0.0 afp.alicdn.com
-0.0.0.0 al
-0.0.0.0 amdc.al
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 apoll.m.taobao.com
 0.0.0.0 appdownload.alicdn.com
