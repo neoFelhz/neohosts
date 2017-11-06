@@ -1,0 +1,7 @@
+# Mobile-Client
+0.0.0.0 adsp.xunlei.com
+0.0.0.0 api-shoulei-ssl.xunlei.com
+0.0.0.0 biz.live.xunlei.com
+0.0.0.0 ct.niu.xunlei.com
+0.0.0.0 mou.niu.xunlei.com
+0.0.0.0 static.m.sjzhushou.com

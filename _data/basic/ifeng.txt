@@ -1,0 +1,12 @@
+0.0.0.0 api.iapps.ifeng.com
+0.0.0.0 api.newad.ifeng.com
+0.0.0.0 exp.3g.ifeng.com
+0.0.0.0 iis1.deliver.ifeng.com
+0.0.0.0 iis3g.deliver.ifeng.com
+0.0.0.0 mfp.deliver.ifeng.com
+0.0.0.0 stadig.ifeng.com
+0.0.0.0 stadig0.ifeng.com
+0.0.0.0 c0.ifengimg.com
+0.0.0.0 c1.ifengimg.com
+0.0.0.0 js.51taifu.com
+0.0.0.0 wl.51taifu.com

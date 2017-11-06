@@ -151,3 +151,9 @@
 0.0.0.0 utk.baidu.com
 0.0.0.0 wn.pos.baidu.com
 0.0.0.0 znsv.baidu.com
+0.0.0.0 log.music.baidu.com
+0.0.0.0 qianclick.baidu.com
+0.0.0.0 click.qianqian.com
+0.0.0.0 als.baidu.com
+0.0.0.0 afd.baidu.com
+0.0.0.0 mbrowser.bdstatic.com

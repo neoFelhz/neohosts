@@ -1,10 +1,10 @@
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.cn.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 static.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googleadservices.com
@@ -28,3 +28,9 @@
 0.0.0.0 pagead-tpc.l.google.com
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 service.urchin.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 pagead1.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead3.googlesyndication.com
+0.0.0.0 pagead4.googlesyndication.com
+0.0.0.0 pagead5.googlesyndication.com

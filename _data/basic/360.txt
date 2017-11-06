@@ -1,4 +1,3 @@
-0.0.0.0 3600.com
 0.0.0.0 adapi.shouji.360.cn
 0.0.0.0 api.so.lianmeng.360.cn
 0.0.0.0 dev.tg.wan.360.cn
@@ -9,3 +8,7 @@
 0.0.0.0 pub.se.360.cn
 0.0.0.0 s.lianmeng.360.cn
 0.0.0.0 soft.data.weather.360.cn
+0.0.0.0 mbs.hao.360.cn
+0.0.0.0 g.sdk.look.360.cn
+0.0.0.0 sdk.look.360.cn
+0.0.0.0 res.qhupdate.com

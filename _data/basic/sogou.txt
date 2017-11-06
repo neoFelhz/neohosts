@@ -1,0 +1,9 @@
+# Sogou_Pinyin
+0.0.0.0 info.pinyin.sogou.com
+0.0.0.0 ping.pinyin.sogou.com
+# Broswer
+0.0.0.0 config.push.sogou.com
+0.0.0.0 download.zhushou.sogou.com
+0.0.0.0 pull.push.sogou.com
+0.0.0.0 bazinga.mse.sogou.com
+0.0.0.0 feed.theta.sogou.com

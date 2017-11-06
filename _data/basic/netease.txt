@@ -24,3 +24,4 @@
 0.0.0.0 mr.da.netease.com
 0.0.0.0 pr.da.netease.com
 0.0.0.0 rd.da.netease.com
+0.0.0.0 popme.163.com
