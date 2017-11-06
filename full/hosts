@@ -346,11 +346,6 @@
 0.0.0.0 clkservice.youdao.com
 0.0.0.0 cloudcdn.dopa.com.cn
 0.0.0.0 cloudcdn.yousee.com
-0.0.0.0 cloudservice13.kingsoft-office-service.com
-0.0.0.0 cloudservice15.kingsoft-office-service.com
-0.0.0.0 cloudservice19.kingsoft-office-service.com
-0.0.0.0 cloudservice22.kingsoft-office-service.com
-0.0.0.0 cloudservice28.kingsoft-office-service.com
 0.0.0.0 c.l.qq.com
 0.0.0.0 cm066.getui.igexin.com
 0.0.0.0 cm.adkmob.com
@@ -1020,7 +1015,6 @@
 0.0.0.0 pushapi.lenovomm.com
 0.0.0.0 push.mobile.kugou.com
 0.0.0.0 push.res.meizu.com
-0.0.0.0 push.wps.cn
 0.0.0.0 push.yuedu.163.com
 0.0.0.0 push.zhangyue.com
 0.0.0.0 push.zhanzhang.baidu.com
@@ -1370,6 +1364,7 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.mokeedev.com
 0.0.0.0 stat.ws.126.net
+0.0.0.0 stat.zol.com.cn
 0.0.0.0 stat.zuimeitianqi.com
 0.0.0.0 st.holalauncher.com
 0.0.0.0 st.holaworld.cn
