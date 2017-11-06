@@ -17,11 +17,13 @@
 0.0.0.0 1100.adsina.allyes.com
 0.0.0.0 1148.adsina.allyes.com
 0.0.0.0 114so.cn
+0.0.0.0 123.sogou.com
 0.0.0.0 1251.adsina.allyes.com
 0.0.0.0 1276.adsina.allyes.com
 0.0.0.0 144.dragonparking.com
 0.0.0.0 154.adsina.allyes.com
 0.0.0.0 161.adsina.allyes.com
+0.0.0.0 1.wps.cn
 0.0.0.0 1.yhzm.cc
 0.0.0.0 2016.sina.cn
 0.0.0.0 2052.flash2-http.qq.com
@@ -47,7 +49,6 @@
 0.0.0.0 acjs.aliyun.com
 0.0.0.0 a.cnzz.com
 0.0.0.0 acs4baichuan.m.taobao.com
-0.0.0.0  activate.adobe.com
 0.0.0.0 activate.adobe.com
 0.0.0.0 activate-sea.adobe.com
 0.0.0.0 activate-sjc0.adobe.com
@@ -137,6 +138,7 @@
 0.0.0.0 adsview.qq.com
 0.0.0.0 ads.yam.com
 0.0.0.0 adsyndication.msn.com
+0.0.0.0 ads.youtube.com
 0.0.0.0 ad.toutiao.com
 0.0.0.0 adui.tg.meitu.com
 0.0.0.0 adv2.downsave.com
@@ -180,6 +182,7 @@
 0.0.0.0 analytics.xgimi.com
 0.0.0.0 analytics.yam.com
 0.0.0.0 andmlbf.tj.ijinshan.com
+0.0.0.0 android-lrcresource.wps.cn
 0.0.0.0 android.push.126.net
 0.0.0.0 android.rqd.qq.com
 0.0.0.0 an.m.liebao.cn
@@ -247,6 +250,7 @@
 0.0.0.0 a.waczt.cn
 0.0.0.0 ax.ggfeng.com
 0.0.0.0 a.youdao.com
+0.0.0.0 azabu-u.ac.jp
 0.0.0.0 badad.googleplex.com
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 baichuan.baidu.com
@@ -281,8 +285,10 @@
 0.0.0.0 bjdnserror7.wo.com.cn
 0.0.0.0 blogad01.myweb.hinet.net
 0.0.0.0 blogad02.myweb.hinet.net
+0.0.0.0 bobo.163.com
 0.0.0.0 bp.mobad.ijinshan.com
 0.0.0.0 b.rad.msn.com
+0.0.0.0 brand.sogou.com
 0.0.0.0 bro.flyme.cn
 0.0.0.0 browser.gwdang.com
 0.0.0.0 bs.l.qq.com
@@ -341,6 +347,10 @@
 0.0.0.0 cloudcdn.dopa.com.cn
 0.0.0.0 cloudcdn.yousee.com
 0.0.0.0 cloudservice13.kingsoft-office-service.com
+0.0.0.0 cloudservice15.kingsoft-office-service.com
+0.0.0.0 cloudservice19.kingsoft-office-service.com
+0.0.0.0 cloudservice22.kingsoft-office-service.com
+0.0.0.0 cloudservice28.kingsoft-office-service.com
 0.0.0.0 c.l.qq.com
 0.0.0.0 cm066.getui.igexin.com
 0.0.0.0 cm.adkmob.com
@@ -357,6 +367,8 @@
 0.0.0.0 cms.an.m.liebao.cn
 0.0.0.0 c.msn.com
 0.0.0.0 c.msn.com.cn
+0.0.0.0 cnnic.cn
+0.0.0.0 cnnic.net
 0.0.0.0 cnnic.net.cn
 0.0.0.0 coinhive.com
 0.0.0.0 col.hztags.net
@@ -365,6 +377,7 @@
 0.0.0.0 contentrecommend-out.mobile.sina.cn
 0.0.0.0 conv.youdao.com
 0.0.0.0 cooperation.html5.qq.com
+0.0.0.0 couchcoaster.jp
 0.0.0.0 counter.kingsoft.com
 0.0.0.0 counter.sina.com.cn
 0.0.0.0 count.mail.163.com
@@ -425,6 +438,7 @@
 0.0.0.0 dc.meitustat.com
 0.0.0.0 dd.iask.cn
 0.0.0.0 dd.iaskgo.com
+0.0.0.0 delivery.dmkt-sp.jp
 0.0.0.0 de.pandora.xiaomi.com
 0.0.0.0 dev.tg.wan.360.cn
 0.0.0.0 d.gdt.qq.com
@@ -500,7 +514,6 @@
 0.0.0.0 epochtimes.com
 0.0.0.0 epochtimes.org
 0.0.0.0 e.qq.com
-0.0.0.0  ereg.adobe.com
 0.0.0.0 ereg.adobe.com
 0.0.0.0 ereg.wip3.adobe.com
 0.0.0.0 ers.baidu.com
@@ -515,6 +528,9 @@
 0.0.0.0 ex.qq.com
 0.0.0.0 extmoney.i1608.com
 0.0.0.0 ezine.oupeng.com
+0.0.0.0 f1.p0y.cn
+0.0.0.0 f2.p0y.cn
+0.0.0.0 fa.163.com
 0.0.0.0 falundata.com
 0.0.0.0 falundata.org
 0.0.0.0 fanxing.kugou.com
@@ -525,6 +541,7 @@
 0.0.0.0 feed.baidu.com
 0.0.0.0 feed.theta.sogou.com
 0.0.0.0 fexclick.baidu.com
+0.0.0.0 files.adform.net
 0.0.0.0 fm.qzone.qq.com
 0.0.0.0 fodder.qq.com
 0.0.0.0 fodder.tc.qq.com
@@ -546,6 +563,7 @@
 0.0.0.0 game.weibo.cn
 0.0.0.0 game.weibo.com
 0.0.0.0 g.baidu.com
+0.0.0.0 gb.corp.163.com
 0.0.0.0 g.cn.miaozhen.com
 0.0.0.0 get.sogou.com
 0.0.0.0 ggle.lywf.me
@@ -591,7 +609,6 @@
 0.0.0.0 hljdnserror3.wo.com.cn
 0.0.0.0 hljdnserror4.wo.com.cn
 0.0.0.0 hljdnserror5.wo.com.cn
-0.0.0.0  hlrcv.stage.adobe.com
 0.0.0.0 hlrcv.stage.adobe.com
 0.0.0.0 hm2.cnzz.com
 0.0.0.0 hm3.cnzz.com
@@ -667,6 +684,7 @@
 0.0.0.0 img0.egou.com
 0.0.0.0 img1.126.net
 0.0.0.0 img1.gtimg.com
+0.0.0.0 img1.pcfg.cache.wps.cn
 0.0.0.0 img1.sj.qq.com
 0.0.0.0 img2.126.net
 0.0.0.0 img.adbox.sina.com.cn
@@ -700,6 +718,7 @@
 0.0.0.0 install.kugou.com
 0.0.0.0 int.dpool.sina.com.cn
 0.0.0.0 interest.mix.sina.com.cn
+0.0.0.0 inte.sogou.com
 0.0.0.0 intf.cnzz.com
 0.0.0.0 ir.mail.163.com
 0.0.0.0 irpmt.mail.163.com
@@ -731,7 +750,7 @@
 0.0.0.0 js.users.51.la
 0.0.0.0 j.wan.liebao.cn
 0.0.0.0 j.wit.qq.com
-0.0.0.0  keystone.mwbsys.com
+0.0.0.0 keystone.mwbsys.com
 0.0.0.0 kgmobilestat.kugou.com
 0.0.0.0 kr.sybspools.com
 0.0.0.0 kstj.baidu.com
@@ -756,9 +775,7 @@
 0.0.0.0 lives.l.qq.com
 0.0.0.0 liveupdate.mac.sandai.net
 0.0.0.0 l.minisplat.cn
-0.0.0.0  lm.licenses.adobe.com
 0.0.0.0 lm.licenses.adobe.com
-0.0.0.0  lmlicenses.wip4.adobe.com
 0.0.0.0 lmlicenses.wip4.adobe.com
 0.0.0.0 lndnserror1.wo.com.cn
 0.0.0.0 lndnserror2.wo.com.cn
@@ -781,6 +798,7 @@
 0.0.0.0 m1.baidu.com
 0.0.0.0 m5.apk.67mo.com
 0.0.0.0 m.7180443.com
+0.0.0.0 m-78.jp
 0.0.0.0 ma.baidu.com
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 mackeeper.com
@@ -816,6 +834,7 @@
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 migrate.driveapi.micloud.xiaomi.net
 0.0.0.0 migu.kssws.ks-cdn.com
+0.0.0.0 minfo.wps.cn
 0.0.0.0 minghui.com
 0.0.0.0 minghui.org
 0.0.0.0 mini2015.qq.com
@@ -839,6 +858,7 @@
 0.0.0.0 mo.test.haloapps.com
 0.0.0.0 motu.p4p.sina.com.cn
 0.0.0.0 mou.niu.xunlei.com
+0.0.0.0 moupdate10332052.wps.cn
 0.0.0.0 mpro.baidu.com
 0.0.0.0 m.qpic.cn
 0.0.0.0 mqqad.cs0309.html5.qq.com
@@ -854,9 +874,8 @@
 0.0.0.0 m.uczzd.cn
 0.0.0.0 mvads.kugou.com
 0.0.0.0 n.3g.163.com
-0.0.0.0  na1r.services.adobe.com
 0.0.0.0 na1r.services.adobe.com
-0.0.0.0  na2m-pr.licenses.adobe.com
+0.0.0.0 na2m-pr.licenses.adobe.com
 0.0.0.0 n.a.mosenni.com
 0.0.0.0 navi.gd.chinamobile.com
 0.0.0.0 nbsdk-baichuan.alicdn.com
@@ -892,6 +911,8 @@
 0.0.0.0 nfdnserror7.wo.com.cn
 0.0.0.0 nfdnserror8.wo.com.cn
 0.0.0.0 nfdnserror9.wo.com.cn
+0.0.0.0 nichibenren.or.jp
+0.0.0.0 nicorette.co.kr
 0.0.0.0 nj.baichuan.baidu.com
 0.0.0.0 notice.game.xiaomi.com
 0.0.0.0 notify.oupeng.com
@@ -908,6 +929,7 @@
 0.0.0.0 offline-adv.oray.com
 0.0.0.0 offnavi.map.baidu.com
 0.0.0.0 o.if.qidian.com
+0.0.0.0 oimagea2.ydstatic.com
 0.0.0.0 omgmta1.qq.com
 0.0.0.0 omgmta.qq.com
 0.0.0.0 o.minisplat.cn
@@ -932,6 +954,7 @@
 0.0.0.0 pagead.google.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead-tpc.l.google.com
+0.0.0.0 pagechoice.net
 0.0.0.0 pagespeed.report.qq.com
 0.0.0.0 p.alimama.com
 0.0.0.0 palmnews.sina.cn
@@ -940,6 +963,8 @@
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 pb3.pstatp.com
 0.0.0.0 pbs.lenovomm.com
+0.0.0.0 pb.sogou.com
+0.0.0.0 pcfg.wps.cn
 0.0.0.0 p.clkservice.youdao.com
 0.0.0.0 pcookie.cnzz.com
 0.0.0.0 pc.quansj.cn
@@ -978,6 +1003,7 @@
 0.0.0.0 pr.da.netease.com
 0.0.0.0 pre.api.tw06.xlmc.sandai.net
 0.0.0.0 pre.ra.icast.cn
+0.0.0.0 prom.gome.com.cn
 0.0.0.0 promote.biz.weibo.cn
 0.0.0.0 promotion.gomlab.com
 0.0.0.0 proxy.sec.miui.com
@@ -994,6 +1020,7 @@
 0.0.0.0 pushapi.lenovomm.com
 0.0.0.0 push.mobile.kugou.com
 0.0.0.0 push.res.meizu.com
+0.0.0.0 push.wps.cn
 0.0.0.0 push.yuedu.163.com
 0.0.0.0 push.zhangyue.com
 0.0.0.0 push.zhanzhang.baidu.com
@@ -1048,6 +1075,7 @@
 0.0.0.0 rj.m.taobao.co
 0.0.0.0 rj.m.taobao.com
 0.0.0.0 rl.go2yd.com
+0.0.0.0 rlogs.youdao.com
 0.0.0.0 rmads.eu.msn.com
 0.0.0.0 rmads.msn.com
 0.0.0.0 r.mail.163.com
@@ -1271,6 +1299,7 @@
 0.0.0.0 shama5.com
 0.0.0.0 share.baidu.com
 0.0.0.0 shenghuo.xiaomi.com
+0.0.0.0 shizen-no-megumi.com
 0.0.0.0 shop.admin.yinyuetai.com
 0.0.0.0 shop.yinyuetai.com
 0.0.0.0 shouji.360.cn
@@ -1300,6 +1329,7 @@
 0.0.0.0 spcode.baidu.com
 0.0.0.0 s.qhupdate.com
 0.0.0.0 srv.carbonads.net
+0.0.0.0 ss.cnnic.cn
 0.0.0.0 ssdk.adkmob.com
 0.0.0.0 ssl-cdn.static.browser.mi-img.com
 0.0.0.0 ssl.google-analytics.com
@@ -1326,17 +1356,20 @@
 0.0.0.0 staticadm.leju.sina.com.cn
 0.0.0.0 static.criteo.net
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static.flv.uuzuonline.com
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 static.mackeeper.com
 0.0.0.0 static.m.sjzhushou.com
 0.0.0.0 statis.push.netease.com
 0.0.0.0 statisticsv2.yinyuetai.com
 0.0.0.0 stat.m.360.cn
+0.0.0.0 stat.m.jd.com
 0.0.0.0 stat.moji.com
 0.0.0.0 stat.pandora.xiaomi.com
 0.0.0.0 stats.chinaz.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.mokeedev.com
+0.0.0.0 stat.ws.126.net
 0.0.0.0 stat.zuimeitianqi.com
 0.0.0.0 st.holalauncher.com
 0.0.0.0 st.holaworld.cn
@@ -1403,6 +1436,7 @@
 0.0.0.0 trends.mobile.sina.cn
 0.0.0.0 t.sj.qq.com
 0.0.0.0 tui.gtimg.com
+0.0.0.0 tuiguang.meitu.com
 0.0.0.0 tuijian.baidu.com
 0.0.0.0 tw13b093.sandai.net
 0.0.0.0 twsina.allyes.com
@@ -1468,6 +1502,8 @@
 0.0.0.0 vpic.video.qq.com
 0.0.0.0 wa.gtimg.com
 0.0.0.0 wangmeng.baidu.com
+0.0.0.0 wanproxy.127.net
+0.0.0.0 wan.sogou.com
 0.0.0.0 wap.114so.cn
 0.0.0.0 wap.mpush.qq.com
 0.0.0.0 wapwbclick.mobile.sina.cn
@@ -1568,6 +1604,8 @@
 0.0.0.0 www.authedmine.com
 0.0.0.0 www.bannedbook.org
 0.0.0.0 www.chenggao.cn
+0.0.0.0 www.cnnic.cn
+0.0.0.0 www.cnnic.net
 0.0.0.0 www.cnnic.net.cn
 0.0.0.0 www.coinhive.com
 0.0.0.0 www.fathionmall.com
