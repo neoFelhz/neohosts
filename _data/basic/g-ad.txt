@@ -1,3 +1,4 @@
+# Google
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.cn.doubleclick.net
 0.0.0.0 cm.g.doubleclick.net
@@ -34,3 +35,13 @@
 0.0.0.0 pagead3.googlesyndication.com
 0.0.0.0 pagead4.googlesyndication.com
 0.0.0.0 pagead5.googlesyndication.com
+# Youtube
+0.0.0.0 ads.youtube.com
+0.0.0.0 azabu-u.ac.jp
+0.0.0.0 couchcoaster.jp
+0.0.0.0 delivery.dmkt-sp.jp
+0.0.0.0 files.adform.net
+0.0.0.0 m-78.jp
+0.0.0.0 nichibenren.or.jp
+0.0.0.0 nicorette.co.kr
+0.0.0.0 shizen-no-megumi.com

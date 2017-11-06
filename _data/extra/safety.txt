@@ -1,6 +1,11 @@
 # CNNIC
 0.0.0.0 cnnic.net.cn
 0.0.0.0 www.cnnic.net.cn
+0.0.0.0 ss.cnnic.cn
+0.0.0.0 cnnic.cn
+0.0.0.0 www.cnnic.cn
+0.0.0.0 www.cnnic.net
+0.0.0.0 cnnic.net
 # 360 DL
 0.0.0.0 h5.mse.360.cn
 0.0.0.0 msoftdl.360.cn
@@ -47,7 +52,7 @@
 0.0.0.0 static.mackeeper.com
 # Hao123
 0.0.0.0 update.123juzi.net
-# down-
+# Others
 0.0.0.0 scdown.qq.com
 0.0.0.0 download.sj.qq.com
 0.0.0.0 c.gj.qq.com

@@ -7,3 +7,10 @@
 0.0.0.0 pull.push.sogou.com
 0.0.0.0 bazinga.mse.sogou.com
 0.0.0.0 feed.theta.sogou.com
+# Others
+0.0.0.0 123.sogou.com
+0.0.0.0 brand.sogou.com
+0.0.0.0 get.sogou.com
+0.0.0.0 inte.sogou.com
+0.0.0.0 pb.sogou.com
+0.0.0.0 wan.sogou.com

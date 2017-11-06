@@ -18,6 +18,12 @@
 0.0.0.0 ef-dongfeng.tanx.com
 0.0.0.0 stats.mokeedev.com
 0.0.0.0 analytics.xgimi.com
+0.0.0.0 stat.m.jd.com
+# Netease
+0.0.0.0 mr.da.netease.com
+0.0.0.0 pr.da.netease.com
+0.0.0.0 rd.da.netease.com
+0.0.0.0 stat.ws.126.net
 # Weibo
 0.0.0.0 js.t.sinajs.cn
 0.0.0.0 js2.t.sinajs.cn

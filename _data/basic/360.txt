@@ -12,3 +12,5 @@
 0.0.0.0 g.sdk.look.360.cn
 0.0.0.0 sdk.look.360.cn
 0.0.0.0 res.qhupdate.com
+0.0.0.0 stat.360safe.com
+0.0.0.0 stat.m.360.cn
