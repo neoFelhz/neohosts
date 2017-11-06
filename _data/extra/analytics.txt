@@ -19,6 +19,7 @@
 0.0.0.0 stats.mokeedev.com
 0.0.0.0 analytics.xgimi.com
 0.0.0.0 stat.m.jd.com
+0.0.0.0 stat.zol.com.cn
 # Netease
 0.0.0.0 mr.da.netease.com
 0.0.0.0 pr.da.netease.com
