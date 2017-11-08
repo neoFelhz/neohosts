@@ -42,3 +42,5 @@
 # Bilibili
 0.0.0.0 data.bilibili.com
 0.0.0.0 cm.bilibili.com
+# CSDN
+0.0.0.0 dc.csdn.net
