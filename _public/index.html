@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <title>neoHosts - 自由 负责 克制</title>
+    <link rel="stylesheet" href="https://github.elemecdn.com/neko-dev/material-theme-docs/master/static/css/style.css">
+    <link rel="stylesheet" href="https://fonts.geekzu.org/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600">
+</head>
+
+<body>
+    <div id="app">Loading . . . . | 正在加载</div>
+</body>
+<script>
+    window.$docsify = {
+        name: '<b>neoHosts</b>',
+
+        // GitHub Icon
+        repo: 'https://github.com/neko-dev/NeoHosts',
+
+        themeColor: '#757575',
+
+        // Search Support
+        search: {
+            maxAge: 43200000, // 过期时间，单位毫秒，默认一天
+            paths: 'auto',
+            placeholder: {
+                '/': '搜索',
+            },
+            noData: {
+                '/': '找不到结果',
+            },
+        },
+
+        // load sidevar from _sidebar.md
+        loadSidebar: '_sidebar.md',
+        subMaxLevel: 2,
+        autoHeader: true,
+
+        //Auto2Top
+        auto2top: true,
+    }
+</script>
+<script src="https://cdnjs.cat.net/ajax/libs/docsify/4.3.1/docsify.min.js"></script>
+<script src="https://cdnjs.cat.net/ajax/libs/docsify/4.3.1/plugins/search.min.js"></script>
+<script src="https://cdnjs.cat.net/ajax/libs/prism/1.6.0/components/prism-bash.min.js"></script>
+
+</html>
