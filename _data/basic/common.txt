@@ -173,3 +173,4 @@
 0.0.0.0 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 tuiguang.meitu.com
 0.0.0.0 mpb2.iteye.com
+0.0.0.0 media.trafficfactory.biz
