@@ -157,3 +157,5 @@
 0.0.0.0 track.ra.icast.cn
 0.0.0.0 track2.ra.icast.cn
 0.0.0.0 rm.api.weibo.com
+0.0.0.0 sdkapp.uve.weibo.com
+0.0.0.0 wbapp.uve.weibo.com

@@ -52,6 +52,9 @@
 0.0.0.0 static.mackeeper.com
 # Hao123
 0.0.0.0 update.123juzi.net
+# Duba
+0.0.0.0 bu1.duba.com
+0.0.0.0 bu2.duba.com
 # Others
 0.0.0.0 scdown.qq.com
 0.0.0.0 download.sj.qq.com

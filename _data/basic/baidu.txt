@@ -157,3 +157,4 @@
 0.0.0.0 als.baidu.com
 0.0.0.0 afd.baidu.com
 0.0.0.0 mbrowser.bdstatic.com
+0.0.0.0 river.zhidao.baidu.com

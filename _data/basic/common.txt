@@ -1,4 +1,3 @@
-0.0.0.0 stats.chinaz.com
 # Disqus
 0.0.0.0 links.services.disqus.com
 0.0.0.0 ads.servebom.com
@@ -174,3 +173,9 @@
 0.0.0.0 tuiguang.meitu.com
 0.0.0.0 mpb2.iteye.com
 0.0.0.0 media.trafficfactory.biz
+0.0.0.0 dfc1.benbaisteel.com
+0.0.0.0 hyfh.benbaisteel.com
+0.0.0.0 coro.benbaisteel.com
+0.0.0.0 a.epinv.com
+0.0.0.0 b.epinv.com
+0.0.0.0 stats.chinaz.com
