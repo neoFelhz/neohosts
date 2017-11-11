@@ -116,3 +116,4 @@
 0.0.0.0 coinminerz.com
 0.0.0.0 coinnebula.com
 0.0.0.0 webmine.cz
+0.0.0.0 www.monero.how
