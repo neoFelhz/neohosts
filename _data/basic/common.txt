@@ -179,3 +179,4 @@
 0.0.0.0 a.epinv.com
 0.0.0.0 b.epinv.com
 0.0.0.0 stats.chinaz.com
+0.0.0.0 adserver.xpanama.net
