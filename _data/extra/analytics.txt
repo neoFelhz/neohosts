@@ -26,9 +26,6 @@
 0.0.0.0 rd.da.netease.com
 0.0.0.0 stat.ws.126.net
 # Weibo
-0.0.0.0 js.t.sinajs.cn
-0.0.0.0 js2.t.sinajs.cn
-0.0.0.0 js1.t.sinajs.cn
 0.0.0.0 click.uve.weibo.com
 # MS
 0.0.0.0 analytics.live.com
