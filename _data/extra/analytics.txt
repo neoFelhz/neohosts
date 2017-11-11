@@ -20,6 +20,15 @@
 0.0.0.0 analytics.xgimi.com
 0.0.0.0 stat.m.jd.com
 0.0.0.0 stat.zol.com.cn
+# APP Analytics
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 e.crashlytics.com
+0.0.0.0 setting.crashlytics.com
+0.0.0.0 t.appsflyer.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 tracking-server-prod-1.zenmxapps.com
 # Netease
 0.0.0.0 mr.da.netease.com
 0.0.0.0 pr.da.netease.com

@@ -148,6 +148,11 @@
 0.0.0.0 rtas.videocc.net
 # Maxthon Browser
 0.0.0.0 mad.m.maxthon.cn
+# XDA
+0.0.0.0 adserver.xpanama.net
+0.0.0.0 nop.xpanama.net
+0.0.0.0 d5nxst8fruw4z.cloudfront.net
+0.0.0.0 d36eyd5j1kt1m6.cloudfront.net
 # Others
 0.0.0.0 ad1.udn.com
 0.0.0.0 ad2.udn.com
@@ -179,4 +184,7 @@
 0.0.0.0 a.epinv.com
 0.0.0.0 b.epinv.com
 0.0.0.0 stats.chinaz.com
-0.0.0.0 adserver.xpanama.net
+0.0.0.0 c1.adform.net
+0.0.0.0 cas.pxl.ace.advertising.com
+0.0.0.0 match.adsrvr.org
+0.0.0.0 ib.adnxs.co
