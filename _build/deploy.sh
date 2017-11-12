@@ -9,6 +9,7 @@ git pull origin gh-pages
 rm -rf ./*
 cp -rf ../_public/* ../_deploy/
 cp -rf ../_build/tmp/* ../_deploy/
+touch .nojekyll
 git add --all .
 git commit -m "neoHosts Automatic Build by Travis CI"
 git push --quiet --force origin HEAD:gh-pages
