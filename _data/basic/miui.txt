@@ -128,4 +128,4 @@
 0.0.0.0 jellyfish.pandora.xiaomi.com
 0.0.0.0 stat.pandora.xiaomi.com
 0.0.0.0 tracking.miui.com
-0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 api.sec.miui.com

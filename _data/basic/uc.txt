@@ -6,3 +6,4 @@
 0.0.0.0 iflow.uczzd.net
 0.0.0.0 image.zzd.sm.cn
 0.0.0.0 api.open.uc.cn
+0.0.0.0 applog.uc.cn
