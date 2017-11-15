@@ -4,6 +4,8 @@
 0.0.0.0 ibn.adnxs.com
 # Amazon
 0.0.0.0 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 aax-cpm.amazon-adsystem.com
 # CarbonAD
 0.0.0.0 srv.carbonads.net
 0.0.0.0 assets.servedby-buysellads.com
@@ -153,6 +155,9 @@
 0.0.0.0 nop.xpanama.net
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 d36eyd5j1kt1m6.cloudfront.net
+# Anzhi
+0.0.0.0 fd.anzhi.com
+0.0.0.0 pv.anzhi.com
 # Others
 0.0.0.0 ad1.udn.com
 0.0.0.0 ad2.udn.com
@@ -279,3 +284,9 @@
 0.0.0.0 js7022.panzuoLuo.com
 0.0.0.0 ib.adnxs.co
 0.0.0.0 adsco.re
+0.0.0.0 sdksitter.m.sjzhushou.com
+0.0.0.0 pat.farvd.com
+0.0.0.0 ads.waps.cn
+0.0.0.0 app.wapx.cn
+0.0.0.0 ads.wapx.cn
+0.0.0.0 app.waps.cn
