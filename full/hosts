@@ -40,6 +40,7 @@
 0.0.0.0 930.dragonparking.com
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msn.com
+0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 a.baidu.com
 0.0.0.0 abc.xtyx918.com
 0.0.0.0 a.beilamusi.com
@@ -138,7 +139,11 @@
 0.0.0.0 adsunflower.com
 0.0.0.0 adsview2.qq.com
 0.0.0.0 adsview.qq.com
+0.0.0.0 ads.waps.cn
+0.0.0.0 ads.wapx.cn
+0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yam.com
+0.0.0.0 ads.yimg.com
 0.0.0.0 adsyndication.msn.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ad.toutiao.com
@@ -150,6 +155,7 @@
 0.0.0.0 ad.winrar.com.cn
 0.0.0.0 ad.wretch.cc
 0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 ad.xxguan.cn
 0.0.0.0 adx.xiaodutv.com
 0.0.0.0 ad.zuimeitianqi.com
@@ -166,6 +172,7 @@
 0.0.0.0 aider-res.meizu.com
 0.0.0.0 ai.yimg.jp
 0.0.0.0 alitui.weibo.com
+0.0.0.0 aliunion.cn.yahoo.com
 0.0.0.0 allnews.uodoo.com
 0.0.0.0 als.baidu.com
 0.0.0.0 amdc.m.taobao.com
@@ -221,6 +228,7 @@
 0.0.0.0 api.open.uc.cn
 0.0.0.0 api-push.meizu.com
 0.0.0.0 api.ra2.xlmc.sec.miui.com
+0.0.0.0 api.sec.miui.com
 0.0.0.0 api.share.baidu.com
 0.0.0.0 api-shoulei-ssl.xunlei.com
 0.0.0.0 api.so.lianmeng.360.cn
@@ -237,6 +245,8 @@
 0.0.0.0 apppic.yingyongbei.com
 0.0.0.0 appsupdate.sinaapp.com
 0.0.0.0 appsupport.qq.com
+0.0.0.0 app.waps.cn
+0.0.0.0 app.wapx.cn
 0.0.0.0 a.qiao024.com
 0.0.0.0 a.rad.msn.com
 0.0.0.0 arc1.msn.com
@@ -316,6 +326,7 @@
 0.0.0.0 ca.cnzz.com
 0.0.0.0 cal.meizu.com
 0.0.0.0 calopenupdate.comm.miui.com
+0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 canvas.gdt.qq.com
 0.0.0.0 carbonads.net
 0.0.0.0 cas.pxl.ace.advertising.com
@@ -343,11 +354,13 @@
 0.0.0.0 cgi.connect.qq.com
 0.0.0.0 c.gj.qq.com
 0.0.0.0 channel.fanxing.kugou.com
+0.0.0.0 c.hiphotos.baidu.com
 0.0.0.0 cjhq.baidu.com
 0.0.0.0 cj.qidian.com
 0.0.0.0 cleaner.baidu.com
 0.0.0.0 click.bes.baidu.com
 0.0.0.0 click.hm.baidu.com
+0.0.0.0 click.jebe.renren.com
 0.0.0.0 clickjs.cnzz.com
 0.0.0.0 click.qianqian.com
 0.0.0.0 click.uve.mobile.sina.cn
@@ -372,6 +385,7 @@
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 c.minisplat.cn
 0.0.0.0 cm.l.qq.com
+0.0.0.0 cm.p4p.cn.yahoo.com
 0.0.0.0 cm.pos.baidu.com
 0.0.0.0 cms.an.m.liebao.cn
 0.0.0.0 c.msn.com
@@ -379,6 +393,7 @@
 0.0.0.0 cnnic.cn
 0.0.0.0 cnnic.net
 0.0.0.0 cnnic.net.cn
+0.0.0.0 coed-d.openx.net
 0.0.0.0 coinblind.com
 0.0.0.0 coinerra.com
 0.0.0.0 coin-have.com
@@ -422,6 +437,7 @@
 0.0.0.0 crs.baidu.com
 0.0.0.0 cszlks.com
 0.0.0.0 ct.niu.xunlei.com
+0.0.0.0 cupid.jebe.renren.com
 0.0.0.0 c.wcpt.biz.weibo.com
 0.0.0.0 cws-cctv.conviva.com
 0.0.0.0 cz01016102.cg2017.com
@@ -470,6 +486,7 @@
 0.0.0.0 dis.criteo.com
 0.0.0.0 display.ad.daum.net
 0.0.0.0 display.adhudong.com
+0.0.0.0 disqusads.com
 0.0.0.0 d.kugou.com
 0.0.0.0 dl1sw.baidu.com
 0.0.0.0 dl.2345.com
@@ -501,6 +518,7 @@
 0.0.0.0 download.sj.qq.com
 0.0.0.0 download.zhushou.sogou.com
 0.0.0.0 dp.559.cc
+0.0.0.0 dp.g.doubleclick.net
 0.0.0.0 dp.im.weibo.cn
 0.0.0.0 dps.wtdtjs.com
 0.0.0.0 dr.holaworld.cn
@@ -563,6 +581,7 @@
 0.0.0.0 fcanr.tracking.miui.com
 0.0.0.0 fclick.baidu.com
 0.0.0.0 fcm.baidu.com
+0.0.0.0 fd.anzhi.com
 0.0.0.0 fds.api.moji.com
 0.0.0.0 feed.baidu.com
 0.0.0.0 feed.theta.sogou.com
@@ -720,6 +739,7 @@
 0.0.0.0 img-ad.oupeng.com
 0.0.0.0 img.ad.zhangyue.com
 0.0.0.0 img.amp.ad.sina.com.cn
+0.0.0.0 img.shouji.sogou.com
 0.0.0.0 imgsreview.dftoutiao.com
 0.0.0.0 img.toppr.com.cn
 0.0.0.0 impservice2.youdao.com
@@ -741,6 +761,7 @@
 0.0.0.0 info.sec.miui.com
 0.0.0.0 info.yitsoftware.com
 0.0.0.0 ini.update.360safe.com
+0.0.0.0 input.shouji.sogou.com
 0.0.0.0 inside.bitcomet.com
 0.0.0.0 inst.360safe.com
 0.0.0.0 install2.kugou.com
@@ -755,6 +776,8 @@
 0.0.0.0 iuc.cnzz.com
 0.0.0.0 j.br.baidu.com
 0.0.0.0 jct.maptu.cn
+0.0.0.0 jebe.renren.com
+0.0.0.0 jebe.xnimg.cn
 0.0.0.0 jellyfish.pandora.xiaomi.com
 0.0.0.0 jifendownload.2345.cn
 0.0.0.0 jingjia.qq.com
@@ -1035,6 +1058,7 @@
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 party-nngvitbizn.now.sh
+0.0.0.0 pat.farvd.com
 0.0.0.0 pb3.pstatp.com
 0.0.0.0 pbs.lenovomm.com
 0.0.0.0 pb.sogou.com
@@ -1065,6 +1089,7 @@
 0.0.0.0 p.kjwx8.com
 0.0.0.0 playinfo.gomlab.com
 0.0.0.0 p.l.qq.com
+0.0.0.0 pmc-d.openx.net
 0.0.0.0 pmir.3g.qq.com
 0.0.0.0 pms.mb.qq.com
 0.0.0.0 popme.163.com
@@ -1097,6 +1122,7 @@
 0.0.0.0 push.yuedu.163.com
 0.0.0.0 push.zhangyue.com
 0.0.0.0 push.zhanzhang.baidu.com
+0.0.0.0 pv.anzhi.com
 0.0.0.0 pv.ra.icast.cn
 0.0.0.0 pvstat.html5.qq.com
 0.0.0.0 pw.cnzz.com
@@ -1360,6 +1386,7 @@
 0.0.0.0 sdk.open.phone.igexin.com
 0.0.0.0 sdk.open.talk.gepush.com
 0.0.0.0 sdk.open.talk.igexin.com
+0.0.0.0 sdksitter.m.sjzhushou.com
 0.0.0.0 sdn.kugou.com
 0.0.0.0 sec-cdn.static.xiaomi.net
 0.0.0.0 sec.resource.xiaomi.net
@@ -1373,6 +1400,7 @@
 0.0.0.0 s.gdt.qq.com
 0.0.0.0 s.go2yd.com
 0.0.0.0 shadu.baidu.com
+0.0.0.0 shaft.jebe.renren.com
 0.0.0.0 shama5.com
 0.0.0.0 share.baidu.com
 0.0.0.0 shenghuo.xiaomi.com
@@ -1480,6 +1508,7 @@
 0.0.0.0 ta.qq.com
 0.0.0.0 tb060x.corp.youdao.com
 0.0.0.0 tb104x.corp.youdao.com
+0.0.0.0 tb.hiphotos.baidu.com
 0.0.0.0 t.collect.yinyuetai.com
 0.0.0.0 tcss.qq.com
 0.0.0.0 t-e.flyme.cn
@@ -1498,6 +1527,7 @@
 0.0.0.0 tk.baidu.com
 0.0.0.0 tkweb.baidu.com
 0.0.0.0 t.l.qq.com
+0.0.0.0 tmn-d.openx.net
 0.0.0.0 tns.simba.taobao.com
 0.0.0.0 tob-cms.bj.bcebos.com
 0.0.0.0 tongji.baidu.com
@@ -1561,6 +1591,7 @@
 0.0.0.0 user1.game.qq.com
 0.0.0.0 userimg.qunar.com
 0.0.0.0 uss-pid.lenovomm.com
+0.0.0.0 us-u.openx.net
 0.0.0.0 utility.baidu.com
 0.0.0.0 utk.baidu.com
 0.0.0.0 uuidapi.yunos.com
@@ -1747,6 +1778,7 @@
 0.0.0.0 www.i1236.net
 0.0.0.0 www.monero.how
 0.0.0.0 www.ok365.com
+0.0.0.0 www.openx.net
 0.0.0.0 www.remote88.com
 0.0.0.0 www.searchswapper.com
 0.0.0.0 www.shenyun.com
