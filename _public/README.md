@@ -1,10 +1,14 @@
 <img src="https://i.loli.net/2017/10/26/59f16e54c30af.png" alt="logo" width="100" height="100" align="right" />
 
-# neoHosts
+# neoHosts Wiki
+
+欢迎来到 neoHosts Wiki！
+
+### neoHosts
 
 > **自由、负责、克制** 的去广告 Hosts
 
-## Introduction 介绍
+### Introduction 介绍
 
 - 自由：我们使用 `Hosts License & SATA` **自由协议**而不是 `CC BY-NC-ND` 这样的非自由协议，希望能够促进和帮助更多项目
 - 克制：我们保证**不因个人喜好屏蔽非广告有关网站**；我们会仔细研究和分析，**我们不会随意屏蔽任何一个域名**
@@ -12,18 +16,16 @@
 
 > 打着去广告 Hosts 的名义吸引用户使用，然而不断屏蔽与广告无关的地址，这样做和 GFW 又有什么区别？
 
-## Download 下载
+### 下载
 
-### [Basic Hosts](https://neko-dev.github.io/neohosts/basic/hosts)
+**[Hosts 下载](./hosts-download)**
 
-### [Full Hosts](https://neko-dev.github.io/neohosts/full/hosts)
-
-## Maintainer
+### Maintainer
 
 **neoHosts** © [Neko Dev Team](https://github.com/neko-dev) & neoHosts Team, Released under the [Hosts License](./LICENSE) License.<br>
 Authored and maintained by [neoFelhz](https://github.com/neoFelhz) with `Neko Dev Team` , `neoHosts Team` and the help from other contributors ([list](https://github.com/neko-dev/neohosts/contributors)).
 
-## License 许可证
+### License 许可证
 
 本项目的 hosts，README，wiki 等资源基于 [Google Hosts](https://github.com/googlehosts) 推出的 [`hosts License`](https://github.com/googlehosts/hosts-license) 协议发布,并增加了 `SATA` 协议，这意味着你可以拷贝、再发行本项目的内容, 但是你将必须：
 
