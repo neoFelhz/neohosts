@@ -17,7 +17,6 @@
 0.0.0.0 badad.googleplex.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 googleadsserving.cn
 0.0.0.0 googlecommerce.com
@@ -31,11 +30,7 @@
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 service.urchin.com
 0.0.0.0 googlesyndication.com
-0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pagead3.googlesyndication.com
-0.0.0.0 pagead4.googlesyndication.com
-0.0.0.0 pagead5.googlesyndication.com
 0.0.0.0 adx.g.doubleclick.net
 # Youtube
 0.0.0.0 ads.youtube.com
