@@ -29,6 +29,7 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
+0.0.0.0 log.mmstat.com
 # Netease
 0.0.0.0 mr.da.netease.com
 0.0.0.0 pr.da.netease.com

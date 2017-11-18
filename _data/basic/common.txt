@@ -309,3 +309,5 @@
 0.0.0.0 app.wapx.cn
 0.0.0.0 ads.wapx.cn
 0.0.0.0 app.waps.cn
+0.0.0.0 openapi.guanjia.qq.com
+0.0.0.0 discuz.gtimg.cn

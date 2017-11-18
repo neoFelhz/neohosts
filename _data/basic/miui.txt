@@ -129,3 +129,4 @@
 0.0.0.0 stat.pandora.xiaomi.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 api.sec.miui.com
+0.0.0.0 f3.mi-stat.gslb.mi-idc.com

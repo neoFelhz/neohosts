@@ -14,7 +14,6 @@
 0.0.0.0 cb.baidu.com
 0.0.0.0 cbjs.baidu.com
 0.0.0.0 cjhq.baidu.com
-0.0.0.0 cpro.baidu.com
 0.0.0.0 drmcmm.baidu.com
 0.0.0.0 dzl.baidu.com
 0.0.0.0 e.baidu.com
@@ -160,3 +159,4 @@
 0.0.0.0 river.zhidao.baidu.com
 0.0.0.0 c.hiphotos.baidu.com
 0.0.0.0 tb.hiphotos.baidu.com
+0.0.0.0 f10.baidu.com
