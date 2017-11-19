@@ -7,7 +7,7 @@
 <p align="center">
 <img alt="Author" src="https://img.shields.io/badge/Author-Neko%20Dev%20Team%20&%20neoHosts%20Team-blue.svg?style=flat-square"/>
 <a href="https://travis-ci.org/neko-dev/neohosts"><img alt="Build Status" src="https://img.shields.io/travis/neko-dev/neohosts.svg?style=flat-square"/></a>
-<a href="https://github.com/viosey/hexo-theme-material/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Hosts%20License%20&%20SATA-757575.svg?style=flat-square"/></a>
+<a href="https://github.com/neko-dev/neohosts/blob/data/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Hosts%20License%20&%20SATA-757575.svg?style=flat-square"/></a>
 </p>
 
 ## Introduction 介绍
