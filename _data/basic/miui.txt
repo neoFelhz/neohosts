@@ -71,6 +71,7 @@
 0.0.0.0 union.dbba.cn
 0.0.0.0 update.avlyun.sec.miui.com
 0.0.0.0 www.adview.cn
+0.0.0.0 report.adview.cn
 0.0.0.0 yun.rili.cn
 0.0.0.0 zhwnlapi.etouch.cn
 0.0.0.0 v2.fm.n.duokanbox.com
@@ -103,6 +104,7 @@
 0.0.0.0 activeqq.3g.qq.com
 0.0.0.0 masdk.3g.qq.com
 0.0.0.0 mini.cpc.sogou.com
+0.0.0.0 cpc.sogou.com
 0.0.0.0 adfuture.cn
 0.0.0.0 bigdata.adfuture.cn
 0.0.0.0 folder.adfuture.cn
