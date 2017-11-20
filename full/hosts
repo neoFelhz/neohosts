@@ -34,6 +34,7 @@
 0.0.0.0 3dns-3.adobe.com
 0.0.0.0 44.adsina.allyes.com
 0.0.0.0 45.adsina.allyes.com
+0.0.0.0 46sg.com
 0.0.0.0 60.adsina.allyes.com
 0.0.0.0 809.ok365.com
 0.0.0.0 818.ok365.com
@@ -86,6 +87,7 @@
 0.0.0.0 adimg.daumcdn.net
 0.0.0.0 adimg.deviantart.net
 0.0.0.0 adimg.mobile.sina.cn
+0.0.0.0 adimg.qxlsjw.com
 0.0.0.0 adimg.uve.weibo.com
 0.0.0.0 adinfo.ra1.xlmc.sec.miui.com
 0.0.0.0 ad.jsnbrynb.com
@@ -94,6 +96,8 @@
 0.0.0.0 admd.yam.com
 0.0.0.0 adm.icast.cn
 0.0.0.0 adm.leju.sina.com.cn
+0.0.0.0 ad.netowl.jp
+0.0.0.0 adnet.sohu.com
 0.0.0.0 adobe-dns-2.adobe.com
 0.0.0.0 adobe-dns-3.adobe.com
 0.0.0.0 adobe-dns.adobe.com
@@ -108,11 +112,13 @@
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads2.msads.net
 0.0.0.0 ads2.msn.com
+0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.bssdl.kugou.com
 0.0.0.0 adscdn.baidu.com
 0.0.0.0 adsclick.qq.com
 0.0.0.0 adsco.re
 0.0.0.0 adsense.html5.qq.com
+0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adserver.xpanama.net
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 adsfile.qq.com
@@ -135,6 +141,7 @@
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 ads.sina.com
+0.0.0.0 ads.stickyadstv.com
 0.0.0.0 adstextview.qq.com
 0.0.0.0 adsunflower.com
 0.0.0.0 adsview2.qq.com
@@ -147,6 +154,7 @@
 0.0.0.0 adsyndication.msn.com
 0.0.0.0 ads.youtube.com
 0.0.0.0 ad.toutiao.com
+0.0.0.0 ad.turn.com
 0.0.0.0 adui.tg.meitu.com
 0.0.0.0 adv2.downsave.com
 0.0.0.0 adv.app.qq.com
@@ -349,6 +357,7 @@
 0.0.0.0 cdn.ark.qq.com
 0.0.0.0 cdn.dragonstatic.com
 0.0.0.0 cdnimg.liehu.ijinshan.com
+0.0.0.0 c.domob.cn
 0.0.0.0 cfg.imtt.qq.com
 0.0.0.0 c.gdt.qq.com
 0.0.0.0 cgi.connect.qq.com
@@ -441,6 +450,7 @@
 0.0.0.0 count.mail.163.com
 0.0.0.0 countt.51yes.com
 0.0.0.0 count.video.sina.com.cn
+0.0.0.0 cpc.sogou.com
 0.0.0.0 cpro2.baidu.com
 0.0.0.0 cpro2.baidustatic.com
 0.0.0.0 cpro.9xu.com
@@ -469,6 +479,7 @@
 0.0.0.0 cz01016102.cg2017.com
 0.0.0.0 d00.sina.com.cn
 0.0.0.0 d0.sina.com.cn
+0.0.0.0 d1grtyyel8f1mh.cloudfront.net
 0.0.0.0 d1.sina.com.cn
 0.0.0.0 d1.sinaimg.cn
 0.0.0.0 d2.sina.com.cn
@@ -522,6 +533,7 @@
 0.0.0.0 dl.9xu.com
 0.0.0.0 dl.client.baidu.com
 0.0.0.0 dl.cm.ksmobile.com
+0.0.0.0 dl.jianshunrui.com
 0.0.0.0 dl.kjava.sina.cn
 0.0.0.0 dl.ops.baidu.com
 0.0.0.0 dlsw.baidu.com
@@ -530,6 +542,7 @@
 0.0.0.0 dl.union.ijinshan.com
 0.0.0.0 dl-vip.bav.baidu.com
 0.0.0.0 dl-vip.pcfaster.baidu.co.th
+0.0.0.0 dl.youjia2016.com
 0.0.0.0 dongtaiwang.com
 0.0.0.0 dongtaiwang.org
 0.0.0.0 dorangesource.alicdn.com
@@ -628,6 +641,7 @@
 0.0.0.0 fsr.lenovomm.com
 0.0.0.0 fs.uc.nearme.com.cn
 0.0.0.0 fus.lenovomm.com
+0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fw.qq.com
 0.0.0.0 g1.163.com
 0.0.0.0 g.163.com
@@ -640,6 +654,7 @@
 0.0.0.0 g.baidu.com
 0.0.0.0 gb.corp.163.com
 0.0.0.0 g.cn.miaozhen.com
+0.0.0.0 geo.moatads.com
 0.0.0.0 get.sogou.com
 0.0.0.0 ggle.lywf.me
 0.0.0.0 g.haluoha.com
@@ -844,6 +859,7 @@
 0.0.0.0 js658.ltcprtc.com
 0.0.0.0 js6882.gdskywings.com
 0.0.0.0 js7022.gdskywings.com
+0.0.0.0 js7022.panzuoluo.com
 0.0.0.0 js7022.panzuoLuo.com
 0.0.0.0 js7129.shxqeps.com
 0.0.0.0 js7152.shxqeps.com
@@ -1073,6 +1089,7 @@
 0.0.0.0 p2.l.qq.com
 0.0.0.0 p3.l.qq.com
 0.0.0.0 p8u.hinet.net
+0.0.0.0 p.adsymptotic.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead.google.com
 0.0.0.0 pagead.l.google.com
@@ -1113,7 +1130,12 @@
 0.0.0.0 pingma.qq.com
 0.0.0.0 ping.pinyin.sogou.com
 0.0.0.0 pingtcss.qq.com
+0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 pixel.advertising.com
+0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.quantserve.com
+0.0.0.0 pixel.sitescout.com
+0.0.0.0 pixel.tapad.com
 0.0.0.0 p.kjwx8.com
 0.0.0.0 playinfo.gomlab.com
 0.0.0.0 p.l.qq.com
@@ -1141,6 +1163,7 @@
 0.0.0.0 p.store.qq.com
 0.0.0.0 p.tencentmind.com
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 pub.pxl.ace.advertising.com
 0.0.0.0 pub.se.360.cn
 0.0.0.0 pull.push.sogou.com
 0.0.0.0 pups.bdimg.com
@@ -1154,6 +1177,7 @@
 0.0.0.0 pv.ra.icast.cn
 0.0.0.0 pvstat.html5.qq.com
 0.0.0.0 pw.cnzz.com
+0.0.0.0 px.moatads.com
 0.0.0.0 py2.qlogo.cn
 0.0.0.0 py.qlogo.cn
 0.0.0.0 q12.cnzz.com
@@ -1384,6 +1408,7 @@
 0.0.0.0 saxs.sina.com.cn
 0.0.0.0 s.baidu.com
 0.0.0.0 sbeacon.sina.com.cn
+0.0.0.0 scc.domob.cn
 0.0.0.0 scdown.qq.com
 0.0.0.0 sc.ggdoubi.com
 0.0.0.0 sc.ggfeng.com
@@ -1572,6 +1597,7 @@
 0.0.0.0 track2.ra.icast.cn
 0.0.0.0 track.dragonparking.com
 0.0.0.0 tracker.baidu.com
+0.0.0.0 track.eyeviewads.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 track.ra.icast.cn
@@ -1591,6 +1617,7 @@
 0.0.0.0 u1.img.mobile.sina.cn
 0.0.0.0 u1.s.minisplat.cn
 0.0.0.0 u2.s.minisplat.cn
+0.0.0.0 u.ads8.com
 0.0.0.0 uat1.bfsspadserver.8le8le.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 ucstat.baidu.com
@@ -1598,6 +1625,7 @@
 0.0.0.0 uedas.qdmm.com
 0.0.0.0 uedas.qidian.com
 0.0.0.0 uid.ksosoft.com
+0.0.0.0 uid.mdbchina.com
 0.0.0.0 ulic.baidu.com
 0.0.0.0 ulog.imap.baidu.com
 0.0.0.0 umid.orion.meizu.com
@@ -1829,6 +1857,8 @@
 0.0.0.0 yam.adsbro.com
 0.0.0.0 yellowto.com
 0.0.0.0 yiliao.hupan.com
+0.0.0.0 youjia2016.com
+0.0.0.0 youxiaoad.com
 0.0.0.0 ypv.chengadx.com
 0.0.0.0 yuanming.net
 0.0.0.0 yun.rili.cn
