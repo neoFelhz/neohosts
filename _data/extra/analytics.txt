@@ -53,3 +53,4 @@
 0.0.0.0 stat.zol.com.cn
 0.0.0.0 uid.mdbchina.com
 0.0.0.0 log.mmstat.com
+0.0.0.0 sp0.baidu.com
