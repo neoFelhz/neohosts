@@ -24,7 +24,6 @@
 0.0.0.0 palmnews.sina.cn
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 wbapp.mobile.sina.cn
-0.0.0.0 simg.sinajs.cn
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 sina.yinstar.org
 0.0.0.0 slog.sina.cn
