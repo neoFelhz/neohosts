@@ -122,7 +122,6 @@
 0.0.0.0 gu.qlogo.cn
 0.0.0.0 hm.l.qq.com
 0.0.0.0 httpring.qq.com
-0.0.0.0 i.gtimg.cn
 0.0.0.0 if.mingxing.qq.com
 0.0.0.0 imc.l.qq.com
 0.0.0.0 img1.gtimg.com
@@ -154,8 +153,6 @@
 0.0.0.0 q.i.gdt.qq.com
 0.0.0.0 qqadapt.qpic.cn
 0.0.0.0 qss-client.qq.com
-0.0.0.0 qzs.qq.com
-0.0.0.0 qzs.qq.com
 0.0.0.0 rh.qq.com
 0.0.0.0 rich.qq.com
 0.0.0.0 rs1.qq.com
