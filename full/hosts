@@ -28,6 +28,7 @@
 0.0.0.0 2016.sina.cn
 0.0.0.0 2052.flash2-http.qq.com
 0.0.0.0 2345apicode.dftoutiao.com
+0.0.0.0 2345api.dftoutiao.com
 0.0.0.0 312036.com
 0.0.0.0 3dns-2.adobe.com
 0.0.0.0 3dns-3.adobe.com
@@ -105,6 +106,7 @@
 0.0.0.0 adobe-dns-2.adobe.com
 0.0.0.0 adobe-dns-3.adobe.com
 0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 a.domob.cn
 0.0.0.0 a.dounanhuahui.com
 0.0.0.0 adping.qq.com
 0.0.0.0 adpm.app.qq.com
@@ -1235,7 +1237,7 @@
 0.0.0.0 qqshow2-item.qq.com
 0.0.0.0 qss-client.qq.com
 0.0.0.0 qt002x.corp.youdao.com
-0.0.0.0 r3 adwo.com0.0.0.0 a.domob.cn
+0.0.0.0 r3 adwo.com
 0.0.0.0 r6.mo.baidu.com
 0.0.0.0 rabbit.meitustat.com
 0.0.0.0 rabbit.mtadvert.com
@@ -1490,7 +1492,7 @@
 0.0.0.0 sdk.open.talk.gepush.com
 0.0.0.0 sdk.open.talk.igexin.com
 0.0.0.0 sdksitter.m.sjzhushou.com
-0.0.0.0 sdl.domob.cn0.0.0.0 2345api.dftoutiao.com
+0.0.0.0 sdl.domob.cn
 0.0.0.0 sdn.kugou.com
 0.0.0.0 s.domob.cn
 0.0.0.0 sec-cdn.static.xiaomi.net
