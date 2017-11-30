@@ -1,0 +1,6 @@
+0.0.0.0 a-ad.adwo.com
+0.0.0.0 ad-count.adwo.com
+0.0.0.0 apiconfig.adwo.com
+0.0.0.0 static.adwo.com
+0.0.0.0 track.adwo.com
+0.0.0.0 r3 adwo.com

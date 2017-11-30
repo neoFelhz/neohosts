@@ -1,0 +1,7 @@
+0.0.0.0 alog.umeng.co
+0.0.0.0 alog.umeng.com
+0.0.0.0 au.umeng.co
+0.0.0.0 au.umeng.com
+0.0.0.0 oc.umeng.co
+0.0.0.0 oc.umeng.com
+0.0.0.0 ex.umengcloud.com

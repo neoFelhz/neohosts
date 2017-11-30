@@ -213,6 +213,11 @@
 0.0.0.0 ads.yam.com
 0.0.0.0 analytics.yam.com
 0.0.0.0 yam.adsbro.com
+# Adsage
+0.0.0.0 config.adsage.cn
+0.0.0.0 config.adsage.com
+0.0.0.0 trc.adsage.com
+0.0.0.0 mobi.adsage.com
 # Others
 0.0.0.0 liveupdate.mac.sandai.net
 0.0.0.0 ss.missyouxi.com
