@@ -337,8 +337,6 @@
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.sitescout.com
-0.0.0.0 c.domob.cn
-0.0.0.0 scc.domob.cn
 0.0.0.0 u.ads8.com
 0.0.0.0 46sg.com
 0.0.0.0 x.cnxad.com
@@ -347,3 +345,14 @@
 0.0.0.0 cdn.taboolasyndication.com
 0.0.0.0 ads.979799777.com
 0.0.0.0 c.betrad.com
+0.0.0.0 rt.gsspat.jp
+0.0.0.0 rudy.adsnative.com
+0.0.0.0 sc.iasds01.com
+0.0.0.0 tags.bluekai.com
+0.0.0.0 stags.bluekai.com
+0.0.0.0 static.tzyiyuantuan.com
+0.0.0.0 srv.buysellads.com
+0.0.0.0 ad.greedland.net
+0.0.0.0 ad1.greedland.net
+0.0.0.0 yee.js.cn
+0.0.0.0 ad.363.in
