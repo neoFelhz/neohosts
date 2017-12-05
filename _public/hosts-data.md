@@ -23,6 +23,9 @@
 - `xunlei.txt` 迅雷广告
 - `youdao.txt` 有道广告
 - `common.txt` 其它常见广告
+- `umeng.txt` 友盟广告
+- `51yes.txt` 51Yes 统计和广告
+- `adwo.txt` Adwo 广告
 - `hijack/` 部分运营商劫持
 
 ## Extra Data
