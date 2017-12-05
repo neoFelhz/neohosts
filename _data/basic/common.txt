@@ -361,3 +361,5 @@
 0.0.0.0 ad1.greedland.net
 0.0.0.0 yee.js.cn
 0.0.0.0 ad.363.in
+0.0.0.0 padsdel2.cdnads.com
+0.0.0.0 j.hongyangpai.com
