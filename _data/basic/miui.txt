@@ -17,7 +17,6 @@
 0.0.0.0 calopenupdate.comm.miui.com
 0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 cm066.getui.igexin.com
-0.0.0.0 connect.rom.miui.com
 0.0.0.0 e.ad.xiaomi.com
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 fcanr.tracking.miui.com
