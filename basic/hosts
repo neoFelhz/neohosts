@@ -12,6 +12,7 @@
 ::1 ip6-loopback
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
+0.0.0.0 
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
 0.0.0.0 1148.adsina.allyes.com
@@ -175,7 +176,6 @@
 0.0.0.0 ae.bdstatic.com
 0.0.0.0 a.epinv.com
 0.0.0.0 aeventlog.beacon.qq.com
-0.0.0.0 afd.baidu.com
 0.0.0.0 afd.l.google.com
 0.0.0.0 afp.alicdn.com
 0.0.0.0 a.game.qidian.com
@@ -189,7 +189,6 @@
 0.0.0.0 allnews.uodoo.com
 0.0.0.0 alog.umeng.co
 0.0.0.0 alog.umeng.com
-0.0.0.0 als.baidu.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 am.g.ireader.com
 0.0.0.0 ams.lenovomm.com
@@ -362,6 +361,7 @@
 0.0.0.0 c.gdt.qq.com
 0.0.0.0 cgi.connect.qq.com
 0.0.0.0 channel.fanxing.kugou.com
+0.0.0.0 chjxzk.1555110.cn
 0.0.0.0 cjhq.baidu.com
 0.0.0.0 cj.qidian.com
 0.0.0.0 click.bes.baidu.com
@@ -400,7 +400,6 @@
 0.0.0.0 config.push.sogou.com
 0.0.0.0 contentrecommend-out.mobile.sina.cn
 0.0.0.0 conv.youdao.com
-0.0.0.0 cooperation.html5.qq.com
 0.0.0.0 coro.benbaisteel.com
 0.0.0.0 couchcoaster.jp
 0.0.0.0 counf6.51yes.com
@@ -510,6 +509,11 @@
 0.0.0.0 dl.sybspools.com
 0.0.0.0 dl.union.ijinshan.com
 0.0.0.0 dl.youjia2016.com
+0.0.0.0 dm.bytedance.com
+0.0.0.0 dmpclick.deliver.ifeng.com
+0.0.0.0 dm.pstatp.com
+0.0.0.0 dol.deliver.ifeng.com
+0.0.0.0 dolphin.deliver.ifeng.com
 0.0.0.0 dorangesource.alicdn.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.net
@@ -566,6 +570,7 @@
 0.0.0.0 ex.umengcloud.com
 0.0.0.0 ezine.oupeng.com
 0.0.0.0 f10.baidu.com
+0.0.0.0 f1.luoshenbest.cn
 0.0.0.0 f1.p0y.cn
 0.0.0.0 f2.p0y.cn
 0.0.0.0 f3.mi-stat.gslb.mi-idc.com
@@ -677,9 +682,12 @@
 0.0.0.0 idm-su.baidu.com
 0.0.0.0 i.domob.cn
 0.0.0.0 i.dreamfull.cn
+0.0.0.0 ids1.deliver.ifeng.com
+0.0.0.0 ids.deliver.ifeng.com
 0.0.0.0 idx.m.hub.sandai.net
 0.0.0.0 iebar.baidu.com
 0.0.0.0 ieonline.microsoft.com
+0.0.0.0 ifengad.3g.ifeng.com
 0.0.0.0 i.flow.browser.oppomobile.com
 0.0.0.0 iflow.uczzd.cn
 0.0.0.0 iflow.uczzd.com
@@ -830,6 +838,7 @@
 0.0.0.0 l.minisplat.cn
 0.0.0.0 lm.licenses.adobe.com
 0.0.0.0 lmlicenses.wip4.adobe.com
+0.0.0.0 lm.souid.com
 0.0.0.0 lndnserror1.wo.com.cn
 0.0.0.0 lndnserror2.wo.com.cn
 0.0.0.0 lndnserror3.wo.com.cn
@@ -863,7 +872,6 @@
 0.0.0.0 maxwebsearch.com
 0.0.0.0 mazu.3g.qq.com
 0.0.0.0 m.beacon.sina.com.cn
-0.0.0.0 mbrowser.bdstatic.com
 0.0.0.0 mbs.hao.360.cn
 0.0.0.0 m.bss.pandora.xiaomi.com
 0.0.0.0 mb.yidianzixun.com
@@ -930,6 +938,7 @@
 0.0.0.0 n.3g.163.com
 0.0.0.0 na1r.services.adobe.com
 0.0.0.0 na2m-pr.licenses.adobe.com
+0.0.0.0 nai.cpxkvc.com
 0.0.0.0 n.a.mosenni.com
 0.0.0.0 navi.gd.chinamobile.com
 0.0.0.0 nbsdk-baichuan.alicdn.com
@@ -1162,7 +1171,7 @@
 0.0.0.0 sax7.sina.com.cn
 0.0.0.0 sax8.sina.com.cn
 0.0.0.0 sax9.sina.com.cn
-0.0.0.0 sax.sina.com.cn
+0.0.0.0 saxn.sina.com.cn
 0.0.0.0 saxs.sina.com.cn
 0.0.0.0 s.baidu.com
 0.0.0.0 sbeacon.sina.com.cn
@@ -1316,6 +1325,7 @@
 0.0.0.0 test.api.xlmc.sandai.net
 0.0.0.0 test.e.ad.xiaomi.com
 0.0.0.0 test.surepush.cn
+0.0.0.0 test.zeus.ad.xiaomi.com
 0.0.0.0 t-flow.flyme.cn
 0.0.0.0 t.gdt.qq.com
 0.0.0.0 tipsdk.baidu.com
@@ -1473,7 +1483,6 @@
 0.0.0.0 zc.biz.weibo.com
 0.0.0.0 z.domob.cn
 0.0.0.0 zhwnlapi.etouch.cn
-0.0.0.0 zixuncooperation.html5.qq.com
 0.0.0.0 znsv.baidu.com
 0.0.0.0 zymo.mps.weibo.com
 0.0.0.0 zz.bdstatic.com
