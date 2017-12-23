@@ -153,8 +153,5 @@
 0.0.0.0 log.music.baidu.com
 0.0.0.0 qianclick.baidu.com
 0.0.0.0 click.qianqian.com
-0.0.0.0 als.baidu.com
-0.0.0.0 afd.baidu.com
-0.0.0.0 mbrowser.bdstatic.com
 0.0.0.0 river.zhidao.baidu.com
 0.0.0.0 f10.baidu.com

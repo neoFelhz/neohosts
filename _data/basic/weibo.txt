@@ -55,7 +55,18 @@
 0.0.0.0 motu.p4p.sina.com.cn
 0.0.0.0 pfp.sina.com.cn
 0.0.0.0 rm.sina.com.cn
-0.0.0.0 sax.sina.com.cn
+0.0.0.0 
+0.0.0.0 sax1.sina.com.cn
+0.0.0.0 sax2.sina.com.cn
+0.0.0.0 sax3.sina.com.cn
+0.0.0.0 sax4.sina.com.cn
+0.0.0.0 sax5.sina.com.cn
+0.0.0.0 sax6.sina.com.cn
+0.0.0.0 sax7.sina.com.cn
+0.0.0.0 sax8.sina.com.cn
+0.0.0.0 sax9.sina.com.cn
+0.0.0.0 saxs.sina.com.cn
+0.0.0.0 saxn.sina.com.cn
 0.0.0.0 ads.sina.com
 0.0.0.0 ad4.sina.com
 0.0.0.0 ad4.sina.com.cn
@@ -76,16 +87,6 @@
 0.0.0.0 d7.sina.com.cn
 0.0.0.0 d8.sina.com.cn
 0.0.0.0 d9.sina.com.cn
-0.0.0.0 sax1.sina.com.cn
-0.0.0.0 sax2.sina.com.cn
-0.0.0.0 sax3.sina.com.cn
-0.0.0.0 sax4.sina.com.cn
-0.0.0.0 sax5.sina.com.cn
-0.0.0.0 sax6.sina.com.cn
-0.0.0.0 sax7.sina.com.cn
-0.0.0.0 sax8.sina.com.cn
-0.0.0.0 sax9.sina.com.cn
-0.0.0.0 saxs.sina.com.cn
 0.0.0.0 slog.sina.com.cn
 0.0.0.0 woocall.sina.com.cn
 0.0.0.0 pfpip.sina.com
