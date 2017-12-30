@@ -13,7 +13,6 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 
-0.0.0.0 
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
 0.0.0.0 1148.adsina.allyes.com
@@ -281,6 +280,7 @@
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 astrategy.beacon.qq.com
+0.0.0.0 as.trklinklog.com
 0.0.0.0 atanx2.alicdn.com
 0.0.0.0 atanx.alicdn.com
 0.0.0.0 a.union.mi.com
@@ -303,9 +303,11 @@
 0.0.0.0 bc.geocities.yahoo.co.jp
 0.0.0.0 b.clkservice.youdao.com
 0.0.0.0 bdapi.ads.oppomobile.com
+0.0.0.0 bdd.hainan.net
 0.0.0.0 bdimg.share.baidu.com
 0.0.0.0 b.domob.cn
 0.0.0.0 bdplus.baidu.com
+0.0.0.0 bds.hainan.net
 0.0.0.0 bd.soarfi.cn
 0.0.0.0 beacon.gtimg.com
 0.0.0.0 beacon.sina.com.cn
@@ -972,6 +974,7 @@
 0.0.0.0 log.stat.kugou.com
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 log.voicecloud.cn
 0.0.0.0 log.web.kugou.com
 0.0.0.0 l.qq.com
 0.0.0.0 ls.l.qq.com
@@ -985,6 +988,7 @@
 0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 mackeeper.com
 0.0.0.0 mad.m.maxthon.cn
+0.0.0.0 m.adxpop.com
 0.0.0.0 m.ad.zhangyue.com
 0.0.0.0 m.analytics.126.net
 0.0.0.0 mapp.qzone.qq.com
@@ -1118,6 +1122,7 @@
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 oascentral.sina.com
 0.0.0.0 oascentral.sina.com.hk
+0.0.0.0 obeyter.com
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
 0.0.0.0 o.domob.cn
@@ -1297,6 +1302,7 @@
 0.0.0.0 rmtx.ra.icast.cn
 0.0.0.0 router.gwdang.com
 0.0.0.0 r.ow.domob.cn
+0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rplog.baidu.com
 0.0.0.0 rs1.qq.com
 0.0.0.0 rs2.qq.com
@@ -1466,6 +1472,7 @@
 0.0.0.0 sax8.sina.com.cn
 0.0.0.0 sax9.sina.com.cn
 0.0.0.0 saxn.sina.com.cn
+0.0.0.0 sax.sina.com.cn
 0.0.0.0 saxs.sina.com.cn
 0.0.0.0 s.baidu.com
 0.0.0.0 sbeacon.sina.com.cn
@@ -1478,6 +1485,7 @@
 0.0.0.0 sclick.baidu.com
 0.0.0.0 s.clkservice.youdao.com
 0.0.0.0 s.cpro.baidu.com
+0.0.0.0 script-bd.baixing.net
 0.0.0.0 sdac.lenovomm.com
 0.0.0.0 sdapprecv.app.cntvwb.cn
 0.0.0.0 sddnserror1.wo.com.cn
@@ -1676,6 +1684,7 @@
 0.0.0.0 trc.adsage.com
 0.0.0.0 trends.mobile.sina.cn
 0.0.0.0 t.sj.qq.com
+0.0.0.0 tu.baixing.com
 0.0.0.0 tuidang.epochtimes.com
 0.0.0.0 tuidang.epochtimes.org
 0.0.0.0 tuidang.org
@@ -1719,6 +1728,7 @@
 0.0.0.0 updateimcnzz.cnzz.com
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 upush.res.meizu.com
+0.0.0.0 us.bannyat.com
 0.0.0.0 user1.game.qq.com
 0.0.0.0 userimg.qunar.com
 0.0.0.0 uss-pid.lenovomm.com
