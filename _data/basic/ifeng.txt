@@ -10,3 +10,11 @@
 0.0.0.0 c1.ifengimg.com
 0.0.0.0 js.51taifu.com
 0.0.0.0 wl.51taifu.com
+0.0.0.0 ifengad.3g.ifeng.com
+0.0.0.0 stadig.ifeng.com
+0.0.0.0 stadig0.ifeng.com
+0.0.0.0 dmpclick.deliver.ifeng.com
+0.0.0.0 dol.deliver.ifeng.com
+0.0.0.0 dolphin.deliver.ifeng.com
+0.0.0.0 ids.deliver.ifeng.com
+0.0.0.0 ids1.deliver.ifeng.com

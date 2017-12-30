@@ -118,6 +118,9 @@
 0.0.0.0 temai.snssdk.com
 0.0.0.0 analytics.snssdk.com
 0.0.0.0 pb3.pstatp.com
+0.0.0.0 temai.snssdk.com
+0.0.0.0 dm.bytedance.com
+0.0.0.0 dm.pstatp.com
 # Qidian
 0.0.0.0 a.game.qidian.com
 0.0.0.0 cj.qidian.com
@@ -363,3 +366,7 @@
 0.0.0.0 ad.363.in
 0.0.0.0 padsdel2.cdnads.com
 0.0.0.0 j.hongyangpai.com
+0.0.0.0 chjxzk.1555110.cn
+0.0.0.0 f1.luoshenbest.cn
+0.0.0.0 lm.souid.com
+0.0.0.0 nai.cpxkvc.com

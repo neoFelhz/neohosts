@@ -61,6 +61,7 @@
 0.0.0.0 sec.resource.xiaomi.net
 0.0.0.0 security.browser.miui.com
 0.0.0.0 sg.a.stat.mi.com
+0.0.0.0 test.zeus.ad.xiaomi.com
 0.0.0.0 staging.admin.e.mi.com
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 test.api.xlmc.sandai.net
