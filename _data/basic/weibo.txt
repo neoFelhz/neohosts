@@ -55,7 +55,7 @@
 0.0.0.0 motu.p4p.sina.com.cn
 0.0.0.0 pfp.sina.com.cn
 0.0.0.0 rm.sina.com.cn
-0.0.0.0 
+0.0.0.0 sax.sina.com.cn
 0.0.0.0 sax1.sina.com.cn
 0.0.0.0 sax2.sina.com.cn
 0.0.0.0 sax3.sina.com.cn
