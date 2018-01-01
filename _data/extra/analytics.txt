@@ -17,6 +17,13 @@
 # Bilibili
 0.0.0.0 data.bilibili.com
 0.0.0.0 cm.bilibili.com
+# 51LA
+0.0.0.0 ia.51.la
+0.0.0.0 js.users.51.la
+0.0.0.0 www.51.la
+0.0.0.0 img.users.51.la
+0.0.0.0 new.users.51.la
+0.0.0.0 zzimg.51.la
 # CSDN
 0.0.0.0 dc.csdn.net
 # APP Analytics
