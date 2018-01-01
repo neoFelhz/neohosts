@@ -59,7 +59,6 @@
 0.0.0.0 p3.l.qq.com
 0.0.0.0 pgdt.gtimg.cn
 0.0.0.0 pingma.qq.com
-0.0.0.0 pingtcss.qq.com
 0.0.0.0 q.i.gdt.qq.com
 0.0.0.0 qqshow2-item.qq.com
 0.0.0.0 ra.gtimg.com
