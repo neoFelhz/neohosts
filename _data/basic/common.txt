@@ -221,6 +221,12 @@
 0.0.0.0 config.adsage.com
 0.0.0.0 trc.adsage.com
 0.0.0.0 mobi.adsage.com
+# POPAD
+0.0.0.0 c1.popads.net
+0.0.0.0 c2.popads.net
+0.0.0.0 serve.popads.net
+0.0.0.0 cdn.popmyads.com
+0.0.0.0 cdn.popcash.net
 # Others
 0.0.0.0 liveupdate.mac.sandai.net
 0.0.0.0 ss.missyouxi.com
@@ -239,8 +245,6 @@
 0.0.0.0 stats.chinaz.com
 0.0.0.0 c1.adform.net
 0.0.0.0 cas.pxl.ace.advertising.com
-0.0.0.0 c1.popads.net
-0.0.0.0 serve.popads.net
 0.0.0.0 cdn.adsk2.co
 0.0.0.0 cdn.adstract.com
 0.0.0.0 js123.0937jyg.com
@@ -383,3 +387,9 @@
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 m.adxpop.com
 0.0.0.0 obeyter.com
+0.0.0.0 18av.mm-cg.co
+0.0.0.0 c.adsco.re
+0.0.0.0 www.esrpxyahzna.bid
+0.0.0.0 akxsrsdbursfpx.bid
+0.0.0.0 musik-mp3.info
+0.0.0.0 www.uulucky.com
