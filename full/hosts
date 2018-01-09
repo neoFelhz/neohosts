@@ -13,6 +13,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 
+0.0.0.0 0aqpqdju.me
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
 0.0.0.0 1148.adsina.allyes.com
@@ -36,9 +37,14 @@
 0.0.0.0 44.adsina.allyes.com
 0.0.0.0 45.adsina.allyes.com
 0.0.0.0 46sg.com
+0.0.0.0 5vz3cfs0yd.me
 0.0.0.0 60.adsina.allyes.com
+0.0.0.0 6tsbe1zs.me
+0.0.0.0 801.tianya.cn
+0.0.0.0 803.tianya.cn
 0.0.0.0 809.ok365.com
 0.0.0.0 818.ok365.com
+0.0.0.0 8jd2lfsq.me
 0.0.0.0 930.dragonparking.com
 0.0.0.0 a-ad.adwo.com
 0.0.0.0 a.ads1.msn.com
@@ -128,6 +134,7 @@
 0.0.0.0 adsense.html5.qq.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adserver.xpanama.net
+0.0.0.0 adserver.yahoo.com
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 adsfile.qq.com
 0.0.0.0 adsfs.oppomobile.com
@@ -151,6 +158,7 @@
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 ads.sina.com
 0.0.0.0 ads.stickyadstv.com
+0.0.0.0 adss.yahoo.com
 0.0.0.0 adstextview.qq.com
 0.0.0.0 adsunflower.com
 0.0.0.0 adsview2.qq.com
@@ -209,6 +217,7 @@
 0.0.0.0 analytics.tool.lu
 0.0.0.0 analytics.ws.126.net
 0.0.0.0 analytics.xgimi.com
+0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yam.com
 0.0.0.0 andmlbf.tj.ijinshan.com
 0.0.0.0 android-lrcresource.wps.cn
@@ -271,6 +280,7 @@
 0.0.0.0 app.waps.cn
 0.0.0.0 app.wapx.cn
 0.0.0.0 a.qiao024.com
+0.0.0.0 aqqgli3vle.bid
 0.0.0.0 a.rad.msn.com
 0.0.0.0 arc1.msn.com
 0.0.0.0 arc2.msn.com
@@ -289,6 +299,7 @@
 0.0.0.0 authedmine.com
 0.0.0.0 au.umeng.co
 0.0.0.0 au.umeng.com
+0.0.0.0 avualrhg9p.bid
 0.0.0.0 a.waczt.cn
 0.0.0.0 ax.ggfeng.com
 0.0.0.0 a.youdao.com
@@ -313,6 +324,7 @@
 0.0.0.0 bd.soarfi.cn
 0.0.0.0 beacon.gtimg.com
 0.0.0.0 beacon.sina.com.cn
+0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 b.epinv.com
 0.0.0.0 bes-progfree.com
@@ -345,6 +357,7 @@
 0.0.0.0 bu2.duba.com
 0.0.0.0 bugreportv2.qq.com
 0.0.0.0 buyimg.bianxianmao.com
+0.0.0.0 c0i8h8ac7e.bid
 0.0.0.0 c0.ifengimg.com
 0.0.0.0 c1.adform.net
 0.0.0.0 c1.ifengimg.com
@@ -401,6 +414,7 @@
 0.0.0.0 click.jebe.renren.com
 0.0.0.0 clickjs.cnzz.com
 0.0.0.0 click.qianqian.com
+0.0.0.0 click.tianyaui.com
 0.0.0.0 click.uve.mobile.sina.cn
 0.0.0.0 click.uve.weibo.com
 0.0.0.0 client.show.qq.com
@@ -576,8 +590,10 @@
 0.0.0.0 dm.bytedance.com
 0.0.0.0 dmpclick.deliver.ifeng.com
 0.0.0.0 dm.pstatp.com
+0.0.0.0 do69ifsly4.me
 0.0.0.0 dol.deliver.ifeng.com
 0.0.0.0 dolphin.deliver.ifeng.com
+0.0.0.0 dol.tianya.cn
 0.0.0.0 dongtaiwang.com
 0.0.0.0 dongtaiwang.org
 0.0.0.0 dorangesource.alicdn.com
@@ -669,6 +685,7 @@
 0.0.0.0 feed.baidu.com
 0.0.0.0 feed.theta.sogou.com
 0.0.0.0 fexclick.baidu.com
+0.0.0.0 fge9vbrzwt.bid
 0.0.0.0 fgmtv.org
 0.0.0.0 files.adform.net
 0.0.0.0 fm.qzone.qq.com
@@ -783,6 +800,7 @@
 0.0.0.0 hzs7.cnzz.com
 0.0.0.0 hzs8.cnzz.com
 0.0.0.0 hzs9.cnzz.com
+0.0.0.0 hzsod71wov.me
 0.0.0.0 hzvs1.cnzz.com
 0.0.0.0 i1.go2yd.com
 0.0.0.0 ia.51.la
@@ -813,6 +831,7 @@
 0.0.0.0 i.huilixieye.net
 0.0.0.0 iis1.deliver.ifeng.com
 0.0.0.0 iis3g.deliver.ifeng.com
+0.0.0.0 iisl7wpf.me
 0.0.0.0 ikcode.baidu.com
 0.0.0.0 image.box.xiaomi.com
 0.0.0.0 image.zzd.sm.cn
@@ -940,6 +959,7 @@
 0.0.0.0 k.domob.cn
 0.0.0.0 keystone.mwbsys.com
 0.0.0.0 kgmobilestat.kugou.com
+0.0.0.0 kho3au7l4z.me
 0.0.0.0 kr.sybspools.com
 0.0.0.0 kstj.baidu.com
 0.0.0.0 ku6.cnzz.com
@@ -1123,12 +1143,14 @@
 0.0.0.0 notice.game.xiaomi.com
 0.0.0.0 notify.oupeng.com
 0.0.0.0 novelsns.html5.qq.com
+0.0.0.0 npdaqy6x1j.me
 0.0.0.0 ns1.cnzz.com
 0.0.0.0 ns2.cnzz.com
 0.0.0.0 nsclick.baidu.com
 0.0.0.0 nsclickvideo.baidu.com
 0.0.0.0 ntdtv.com
 0.0.0.0 ntdtv.org
+0.0.0.0 ny7f6goy.bid
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 oascentral.sina.com
 0.0.0.0 oascentral.sina.com.hk
@@ -1264,6 +1286,7 @@
 0.0.0.0 qt002x.corp.youdao.com
 0.0.0.0 r3 adwo.com
 0.0.0.0 r6.mo.baidu.com
+0.0.0.0 r8nu86wg.me
 0.0.0.0 rabbit.meitustat.com
 0.0.0.0 rabbit.mtadvert.com
 0.0.0.0 rabbit.tg.meitu.com
@@ -1715,6 +1738,7 @@
 0.0.0.0 ucstat.baidu.com
 0.0.0.0 udc.msn.com
 0.0.0.0 u.domob.cn
+0.0.0.0 uebawtz7.me
 0.0.0.0 uedas.qdmm.com
 0.0.0.0 uedas.qidian.com
 0.0.0.0 uid.ksosoft.com
@@ -1765,11 +1789,15 @@
 0.0.0.0 v8.cnzz.com
 0.0.0.0 v9.cnzz.com
 0.0.0.0 vatrack.hinet.net
+0.0.0.0 vcfs6ip5h6.bid
 0.0.0.0 vdapprecv.app.cntvwb.cn
 0.0.0.0 v.domob.cn
+0.0.0.0 vg02h8z1ul.me
 0.0.0.0 v.gdt.qq.com
 0.0.0.0 video.ureport.push.qq.com
 0.0.0.0 video.wap.mpush.qq.com
+0.0.0.0 vjcyehtqm9.me
+0.0.0.0 vl8c4g7tmo.me
 0.0.0.0 vpic.video.qq.com
 0.0.0.0 wa.gtimg.com
 0.0.0.0 wangmeng.baidu.com
@@ -1931,8 +1959,10 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.gz00005.top
 0.0.0.0 www.hao934.com
+0.0.0.0 www.hpqxznpb.bid
 0.0.0.0 www.huaxinxunye.cn
 0.0.0.0 www.i1236.net
+0.0.0.0 www.mdpjnppsbjv.bid
 0.0.0.0 www.monero.how
 0.0.0.0 www.ok365.com
 0.0.0.0 www.openx.net
@@ -1955,6 +1985,7 @@
 0.0.0.0 xdadevelopers.browsi.mobi
 0.0.0.0 x.domob.cn
 0.0.0.0 xf.yellowto.com
+0.0.0.0 xgmc6lu8fs.me
 0.0.0.0 xiaomiir.yaokantv.com
 0.0.0.0 xinsheng.net
 0.0.0.0 yam.adsbro.com
@@ -1982,6 +2013,7 @@
 0.0.0.0 z9.cnzz.com
 0.0.0.0 zc.biz.weibo.com
 0.0.0.0 z.domob.cn
+0.0.0.0 zgdfz6h7po.me
 0.0.0.0 zh-cn.shenyun.com
 0.0.0.0 zh-cn.shenyun.org
 0.0.0.0 zhengjian.org

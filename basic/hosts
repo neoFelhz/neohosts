@@ -34,6 +34,8 @@
 0.0.0.0 45.adsina.allyes.com
 0.0.0.0 46sg.com
 0.0.0.0 60.adsina.allyes.com
+0.0.0.0 801.tianya.cn
+0.0.0.0 803.tianya.cn
 0.0.0.0 809.ok365.com
 0.0.0.0 818.ok365.com
 0.0.0.0 930.dragonparking.com
@@ -124,6 +126,7 @@
 0.0.0.0 adsense.html5.qq.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adserver.xpanama.net
+0.0.0.0 adserver.yahoo.com
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 adsfile.qq.com
 0.0.0.0 adsfs.oppomobile.com
@@ -147,6 +150,7 @@
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 ads.sina.com
 0.0.0.0 ads.stickyadstv.com
+0.0.0.0 adss.yahoo.com
 0.0.0.0 adstextview.qq.com
 0.0.0.0 adsunflower.com
 0.0.0.0 adsview2.qq.com
@@ -297,6 +301,7 @@
 0.0.0.0 bd.soarfi.cn
 0.0.0.0 beacon.gtimg.com
 0.0.0.0 beacon.sina.com.cn
+0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 b.epinv.com
 0.0.0.0 bes-progfree.com
@@ -377,6 +382,7 @@
 0.0.0.0 click.hm.baidu.com
 0.0.0.0 click.jebe.renren.com
 0.0.0.0 click.qianqian.com
+0.0.0.0 click.tianyaui.com
 0.0.0.0 click.uve.mobile.sina.cn
 0.0.0.0 client.show.qq.com
 0.0.0.0 client.stats.yinyuetai.com
@@ -523,6 +529,7 @@
 0.0.0.0 dm.pstatp.com
 0.0.0.0 dol.deliver.ifeng.com
 0.0.0.0 dolphin.deliver.ifeng.com
+0.0.0.0 dol.tianya.cn
 0.0.0.0 dorangesource.alicdn.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.net
@@ -1475,8 +1482,10 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.gz00005.top
 0.0.0.0 www.hao934.com
+0.0.0.0 www.hpqxznpb.bid
 0.0.0.0 www.huaxinxunye.cn
 0.0.0.0 www.i1236.net
+0.0.0.0 www.mdpjnppsbjv.bid
 0.0.0.0 www.ok365.com
 0.0.0.0 www.openx.net
 0.0.0.0 www.remote88.com
