@@ -58,6 +58,9 @@
 0.0.0.0 ad.wretch.cc
 0.0.0.0 cm.p4p.cn.yahoo.com
 0.0.0.0 aliunion.cn.yahoo.com
+0.0.0.0 adserver.yahoo.com
+0.0.0.0 beap-bc.yahoo.com
+0.0.0.0 adss.yahoo.com
 # SINA
 0.0.0.0 ad1.sina.com.cn
 0.0.0.0 ad2.sina.com.cn
@@ -227,6 +230,11 @@
 0.0.0.0 serve.popads.net
 0.0.0.0 cdn.popmyads.com
 0.0.0.0 cdn.popcash.net
+# TianyaBBS
+0.0.0.0 801.tianya.cn
+0.0.0.0 803.tianya.cn
+0.0.0.0 dol.tianya.cn
+0.0.0.0 click.tianyaui.com
 # Others
 0.0.0.0 liveupdate.mac.sandai.net
 0.0.0.0 ss.missyouxi.com
@@ -393,3 +401,5 @@
 0.0.0.0 akxsrsdbursfpx.bid
 0.0.0.0 musik-mp3.info
 0.0.0.0 www.uulucky.com
+0.0.0.0 www.mdpjnppsbjv.bid
+0.0.0.0 www.hpqxznpb.bid

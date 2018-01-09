@@ -14,6 +14,8 @@
 # 360
 0.0.0.0 stat.360safe.com
 0.0.0.0 stat.m.360.cn
+# Yahoo
+0.0.0.0 analytics.yahoo.com
 # Bilibili
 0.0.0.0 data.bilibili.com
 0.0.0.0 cm.bilibili.com
