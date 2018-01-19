@@ -6,3 +6,7 @@
 0.0.0.0 download.2345.com
 0.0.0.0 g.wan.2345.com
 0.0.0.0 jifendownload.2345.cn
+0.0.0.0 minipage.2345.com
+0.0.0.0 update.minipage.2345.com
+0.0.0.0 conf.xiniuz.com
+0.0.0.0 www.xiniuz.com
