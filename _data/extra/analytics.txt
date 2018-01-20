@@ -55,6 +55,10 @@
 0.0.0.0 js.tongji.linezing.com
 0.0.0.0 tongji.linezing.com
 0.0.0.0 www.linezing.com
+# Qcloud
+0.0.0.0 report.vip.qq.com
+0.0.0.0 report.huatuo.qq.com
+0.0.0.0 report.qcloud.com
 # Others
 0.0.0.0 hpd.baidu.com
 0.0.0.0 hm.baidu.com
