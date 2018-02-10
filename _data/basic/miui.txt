@@ -132,3 +132,6 @@
 0.0.0.0 tracking.miui.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 f3.mi-stat.gslb.mi-idc.com
+0.0.0.0 cloudservice22.kingsoft-office-service.com
+0.0.0.0 mo.res.wpscdn.cn
+0.0.0.0 mostat.wps.cn

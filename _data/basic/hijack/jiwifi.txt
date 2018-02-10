@@ -13,8 +13,6 @@
 0.0.0.0 u2.s.minisplat.cn
 0.0.0.0 ad.1111cpc.com
 0.0.0.0 creative.1111cpc.com
-0.0.0.0 mm.dopa.com.cn
-0.0.0.0 pd.dopa.com.cn
 0.0.0.0 api.dreamfull.cn
 0.0.0.0 i.dreamfull.cn
 0.0.0.0 144.dragonparking.com
@@ -31,7 +29,6 @@
 0.0.0.0 apppic.yingyongbei.com
 0.0.0.0 809.ok365.com
 0.0.0.0 818.ok365.com
-0.0.0.0 cloudcdn.dopa.com.cn
 0.0.0.0 pd.ok365.com
 0.0.0.0 www.ok365.com
 0.0.0.0 engine.tuia.cn
@@ -133,3 +130,4 @@
 0.0.0.0 fanli.1668g.com
 0.0.0.0 md.sh5e.com
 0.0.0.0 info.yitsoftware.com
+0.0.0.0 cz01016102.ms758.com

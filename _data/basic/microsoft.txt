@@ -1,8 +1,6 @@
 # MS
 0.0.0.0 rad.live.com
 0.0.0.0 ads1.msn.com
-0.0.0.0 a.rad.msn.com
-0.0.0.0 b.rad.msn.com
 0.0.0.0 0.r.msn.com
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msn.com
@@ -13,10 +11,6 @@
 0.0.0.0 adsyndication.msn.com
 0.0.0.0 analytics.msn.com
 0.0.0.0 analytics.r.msn.com
-0.0.0.0 arc1.msn.com
-0.0.0.0 arc2.msn.com
-0.0.0.0 arc3.msn.com
-0.0.0.0 arc9.msn.com
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 ads.ninemsn.com.au
 0.0.0.0 c.msn.com.cn
@@ -37,5 +31,4 @@
 0.0.0.0 c.bing.com
 0.0.0.0 c.msn.com
 0.0.0.0 otf.msn.com
-0.0.0.0 rad.msn.com
 0.0.0.0 ieonline.microsoft.com

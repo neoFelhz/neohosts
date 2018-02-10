@@ -39,6 +39,9 @@
 0.0.0.0 web-track.go2yd.com
 # YunOS
 0.0.0.0 uuidapi.yunos.com
+0.0.0.0 osfota.cdn.aliyun.com
+0.0.0.0 osupdateservice.yunos.com
+0.0.0.0 tvupgrade.yunos.com
 # Lenovo
 0.0.0.0 adcore.lenovomm.com
 0.0.0.0 pushapi.lenovomm.com
@@ -49,7 +52,6 @@
 0.0.0.0 fsr.lenovomm.com
 0.0.0.0 fus.lenovomm.com
 0.0.0.0 imfsr.lenovomm.com
-0.0.0.0 lcs.lenovomm.com
 0.0.0.0 lds.lenovomm.com
 0.0.0.0 mfsr.lenovomm.com
 0.0.0.0 pbs.lenovomm.com

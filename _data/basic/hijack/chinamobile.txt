@@ -26,6 +26,11 @@
 0.0.0.0 u2.s.minisplat.cn
 0.0.0.0 ad.1111cpc.com
 0.0.0.0 creative.1111cpc.com
+0.0.0.0 817.dopa.com
+0.0.0.0 818.dopa.com
+0.0.0.0 bd1.dopa.com
+0.0.0.0 bd2.dopa.com
+0.0.0.0 cloudcdn.dopa.com
 0.0.0.0 mm.dopa.com.cn
 0.0.0.0 pd.dopa.com.cn
 0.0.0.0 api.dreamfull.cn

@@ -61,5 +61,3 @@
 0.0.0.0 c.gj.qq.com
 0.0.0.0 t.sj.qq.com
 0.0.0.0 ws.sj.qq.com
-0.0.0.0 appcdn.ywwei12.com
-

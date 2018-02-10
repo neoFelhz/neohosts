@@ -36,7 +36,6 @@
 0.0.0.0 w.m.taobao.com
 0.0.0.0 ai.taobao.com
 0.0.0.0 api.wapa.taobao.com
-0.0.0.0 agoodm.wapa.taobao.com
 0.0.0.0 api.waptest.taobao.com
 0.0.0.0 temai.taobao.com
 0.0.0.0 re.taobao.com
