@@ -1,6 +1,5 @@
 0.0.0.0 a.cnzz.com
 0.0.0.0 c.cnzz.com
-0.0.0.0 ca.cnzz.com
 0.0.0.0 cache.cnzz.com
 0.0.0.0 clickjs.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -28,12 +27,10 @@
 0.0.0.0 icon.cnzz.com
 0.0.0.0 imf.cnzz.com
 0.0.0.0 intf.cnzz.com
-0.0.0.0 iuc.cnzz.com
 0.0.0.0 jserr.cnzz.com
 0.0.0.0 jssdk.cnzz.com
 0.0.0.0 ku6.cnzz.com
 0.0.0.0 new.cnzz.com
-0.0.0.0 newhua.cnzz.com
 0.0.0.0 ns1.cnzz.com
 0.0.0.0 ns2.cnzz.com
 0.0.0.0 online.cnzz.com
@@ -188,7 +185,6 @@
 0.0.0.0 s97.cnzz.com
 0.0.0.0 s98.cnzz.com
 0.0.0.0 s99.cnzz.com
-0.0.0.0 updateimcnzz.cnzz.com
 0.0.0.0 v1.cnzz.com
 0.0.0.0 v10.cnzz.com
 0.0.0.0 v11.cnzz.com

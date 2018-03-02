@@ -5,7 +5,6 @@
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
 0.0.0.0 ex.umengcloud.com
-0.0.0.0 alog.umeng.co
 0.0.0.0 alog.umeng.com
 0.0.0.0 api.wsq.umeng.com
 0.0.0.0 at.umeng.com
@@ -13,7 +12,6 @@
 0.0.0.0 dev.umeng.com
 0.0.0.0 oc.umeng.com
 0.0.0.0 umeng.com
-0.0.0.0 uop.umeng.com
 0.0.0.0 www.umeng.com
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 msg.umengcloud.com
