@@ -62,6 +62,7 @@
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 adss.yahoo.com
+0.0.0.0 gemini.yahoo.com
 # Bitcomet
 0.0.0.0 inside.bitcomet.com
 # Gomlab
@@ -111,6 +112,9 @@
 0.0.0.0 mdc.meitustat.com
 0.0.0.0 rabbit.meitustat.com
 0.0.0.0 rabbit.mtadvert.com
+# Yandex
+0.0.0.0 mc.yandex.ru
+0.0.0.0 an.yandex.ru
 # jinritoutiao
 0.0.0.0 ad.toutiao.com
 0.0.0.0 temai.snssdk.com
