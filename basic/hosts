@@ -248,6 +248,7 @@
 0.0.0.0 android.push.126.net
 0.0.0.0 android.rqd.qq.com
 0.0.0.0 an.m.liebao.cn
+0.0.0.0 an.yandex.ru
 0.0.0.0 api0.tuisong.baidu.com
 0.0.0.0 api1.tuisong.baidu.com
 0.0.0.0 api2.tuisong.baidu.com
@@ -738,6 +739,7 @@
 0.0.0.0 gb.corp.163.com
 0.0.0.0 g.cn.miaozhen.com
 0.0.0.0 g.domob.cn
+0.0.0.0 gemini.yahoo.com
 0.0.0.0 gen.alicdn.com
 0.0.0.0 geo.moatads.com
 0.0.0.0 get.sogou.com
@@ -997,6 +999,7 @@
 0.0.0.0 m.bss.pandora.xiaomi.com
 0.0.0.0 mb.yidianzixun.com
 0.0.0.0 m.clkservice.youdao.com
+0.0.0.0 mc.yandex.ru
 0.0.0.0 mdap.alipaylog.com
 0.0.0.0 mdc.meitustat.com
 0.0.0.0 md.he9630.com
@@ -1046,6 +1049,7 @@
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 mobi.adsage.com
 0.0.0.0 mobileads.google.com
+0.0.0.0 mobileads.msn.com
 0.0.0.0 mobilelog.kugou.com
 0.0.0.0 mobile.qzone.qq.com
 0.0.0.0 mo.haloapps.cn
