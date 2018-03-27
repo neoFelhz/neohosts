@@ -1,5 +1,93 @@
 # Xunfei Input
 0.0.0.0 log.voicecloud.cn
+#OADZ.com
+0.0.0.0 1116.oadz.com
+0.0.0.0 2311.oadz.com
+0.0.0.0 a.oadz.com
+0.0.0.0 a1139.oadz.com
+0.0.0.0 a1410.oadz.com
+0.0.0.0 a1491.oadz.com
+0.0.0.0 a1662.oadz.com
+0.0.0.0 a2315.oadz.com
+0.0.0.0 a2397.oadz.com
+0.0.0.0 a751.oadz.com
+0.0.0.0 a777.oadz.com
+0.0.0.0 a814.oadz.com
+0.0.0.0 dns1.oadz.com
+0.0.0.0 dns2.oadz.com
+0.0.0.0 m1268.oadz.com
+0.0.0.0 m1308.oadz.com
+0.0.0.0 m1570.oadz.com
+0.0.0.0 m1612.oadz.com
+0.0.0.0 m2374.oadz.com
+0.0.0.0 m947.oadz.com
+0.0.0.0 m981.oadz.com
+#adbana.com
+0.0.0.0 adbana.com
+0.0.0.0 api.adbana.com
+0.0.0.0 apistat.adbana.com
+0.0.0.0 cnf.adbana.com
+0.0.0.0 stat.adbana.com
+#adcome
+0.0.0.0 api.adcome.cn
+0.0.0.0 music.adcome.cn
+0.0.0.0 res.adcome.cn
+0.0.0.0 aduu.cn
+0.0.0.0 mgr.aduu.cn
+0.0.0.0 res.aduu.cn
+0.0.0.0 appuu.cn
+0.0.0.0 www.appuu.cn
+#addnewer.com
+0.0.0.0 cm.reachmax.cn
+0.0.0.0 m.reachmax.cn
+0.0.0.0 v2.reachmax.cn
+0.0.0.0 c-hzgt2.getui.com
+0.0.0.0 api.gi.igexin.com
+0.0.0.0 api.y.igexin.com
+0.0.0.0 c.nz.gt.igexin.com
+0.0.0.0 c.sz.gt.igexin.com
+0.0.0.0 sdk.conf.igexin.com
+0.0.0.0 sdk.open.amp.igexin.com
+0.0.0.0 sdk.open.lbs.igexin.com
+0.0.0.0 sdk.open.phone.igexin.com
+0.0.0.0 sdk.open.talk.igexin.com
+0.0.0.0 talk.nz.igexin.com
+#adirects
+0.0.0.0 adirects.com
+0.0.0.0 stat.adirects.com
+#admarket
+0.0.0.0 www.admarket.mobi
+#admaster
+0.0.0.0 58749.admaster.com.cn
+0.0.0.0 79t2.admaster.com.cn
+0.0.0.0 8b4pea.c.admaster.com.cn
+0.0.0.0 8b6dfa.v.admaster.com.cn
+0.0.0.0 8chzga.v.admaster.com.cn
+0.0.0.0 8dcyqu.c.admaster.com.cn
+0.0.0.0 c.admaster.com.cn
+0.0.0.0 click.admaster.com.cn
+0.0.0.0 cm.admaster.com.cn
+0.0.0.0 iclick.cm.admaster.com.cn
+0.0.0.0 letv.axp.admaster.com.cn
+0.0.0.0 letv.cm.admaster.com.cn
+0.0.0.0 pptv.adx.admaster.com.cn
+0.0.0.0 pptv.cm.admaster.com.cn
+0.0.0.0 pxl.idx.admaster.com.cn
+0.0.0.0 rtb.admaster.com.cn
+0.0.0.0 smt.admaster.com.cn
+0.0.0.0 sohutv.cm.admaster.com.cn
+0.0.0.0 v.admaster.com.cn
+0.0.0.0 vamaker.cm.admaster.com.cn
+0.0.0.0 vbaof.admaster.com.cn
+0.0.0.0 vhunantv.admaster.com.cn
+0.0.0.0 view.admaster.com.cn
+0.0.0.0 viqiyi.admaster.com.cn
+0.0.0.0 vletv.admaster.com.cn
+0.0.0.0 vqq.admaster.com.cn
+0.0.0.0 vsohu.admaster.com.cn
+0.0.0.0 wisemedia.cm.admaster.com.cn
+0.0.0.0 xunlei.adx.admaster.com.cn
+0.0.0.0 www.admaster.com.cn
 # Others
 0.0.0.0 aa.zldh123.com
 0.0.0.0 c.28487.net

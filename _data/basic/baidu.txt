@@ -121,6 +121,7 @@
 0.0.0.0 kstj.baidu.com
 0.0.0.0 adx.xiaodutv.com
 0.0.0.0 uat1.bfsspadserver.8le8le.com
+0.0.0.0 rigel.baidustatic.com
 # Push-Tuisong
 0.0.0.0 api0.tuisong.baidu.com
 0.0.0.0 api1.tuisong.baidu.com
@@ -150,3 +151,16 @@
 0.0.0.0 click.qianqian.com
 0.0.0.0 river.zhidao.baidu.com
 0.0.0.0 f10.baidu.com
+#Others
+0.0.0.0 ad.player.baidu.com
+0.0.0.0 dd713.bj.bcebos.com
+0.0.0.0 vv84.bj.bcebos.com
+0.0.0.0 img.taotaosou.cn
+0.0.0.0 img01.taotaosou.cn
+0.0.0.0 sestat.baidu.com
+0.0.0.0 stat.v.baidu.com
+0.0.0.0 videopush.baidu.com
+0.0.0.0 wisepush.video.baidu.com
+0.0.0.0 duapps.com
+0.0.0.0 ad.duapps.com
+0.0.0.0 api.mobula.sdk.duapps.com

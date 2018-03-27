@@ -3,6 +3,8 @@
 0.0.0.0 pr.da.netease.com
 0.0.0.0 rd.da.netease.com
 0.0.0.0 stat.ws.126.net
+0.0.0.0 analytics.hz.netease.com
+0.0.0.0 statis.push.netease.com
 # Weibo
 0.0.0.0 click.uve.weibo.com
 # MS
@@ -22,10 +24,19 @@
 # 51LA
 0.0.0.0 ia.51.la
 0.0.0.0 js.users.51.la
-0.0.0.0 www.51.la
 0.0.0.0 img.users.51.la
 0.0.0.0 new.users.51.la
 0.0.0.0 zzimg.51.la
+0.0.0.0 tc.51la.net
+0.0.0.0 icon.51.la
+0.0.0.0 icon.users.51.la
+0.0.0.0 js3.users.51.la
+0.0.0.0 quote.51.la
+0.0.0.0 vip.51.la
+0.0.0.0 web.51.la
+0.0.0.0 web1.51.la
+0.0.0.0 web2.51.la
+0.0.0.0 www.51.la
 # CSDN
 0.0.0.0 dc.csdn.net
 # APP Analytics
@@ -60,6 +71,14 @@
 0.0.0.0 report.vip.qq.com
 0.0.0.0 report.huatuo.qq.com
 0.0.0.0 report.qcloud.com
+#analysys.cn
+0.0.0.0 ait025.analysys.cn
+0.0.0.0 ait240.analysys.cn
+0.0.0.0 api2.analysys.cn
+0.0.0.0 api721.analysys.cn
+0.0.0.0 urd103.analysys.cn
+0.0.0.0 urd240.analysys.cn
+0.0.0.0 urd345.analysys.cn
 # Google Analytics
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com

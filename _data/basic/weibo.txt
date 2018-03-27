@@ -143,16 +143,3 @@
 0.0.0.0 rm.api.weibo.com
 0.0.0.0 sdkapp.uve.weibo.com
 0.0.0.0 wbapp.uve.weibo.com
-# allyes
-0.0.0.0 1276.adsina.allyes.com
-0.0.0.0 sina.allyes.com
-0.0.0.0 twsina.allyes.com
-0.0.0.0 161.adsina.allyes.com
-0.0.0.0 60.adsina.allyes.com
-0.0.0.0 1251.adsina.allyes.com
-0.0.0.0 45.adsina.allyes.com
-0.0.0.0 adsina.allyes.com
-0.0.0.0 154.adsina.allyes.com
-0.0.0.0 44.adsina.allyes.com
-0.0.0.0 1148.adsina.allyes.com
-0.0.0.0 1100.adsina.allyes.com
