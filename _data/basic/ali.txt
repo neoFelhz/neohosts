@@ -12,7 +12,6 @@
 0.0.0.0 c-adash.m.taobao.com
 0.0.0.0 m-adash.m.taobao.com
 0.0.0.0 nbsdk-baichuan.taobao.com
-0.0.0.0 pre.nbsdk-baichuan.taobao.com
 0.0.0.0 redirect.simba.taobao.com
 0.0.0.0 strip.taobaocdn.com
 0.0.0.0 tunion-api.m.taobao.com
