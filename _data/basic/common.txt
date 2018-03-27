@@ -459,3 +459,10 @@
 0.0.0.0 usync.aws.rubiconproject.com
 0.0.0.0 e.romgv.com
 0.0.0.0 m.romgv.com
+0.0.0.0 track-east.mobileadtrading.com
+0.0.0.0 track.eyeviewads.com
+0.0.0.0 tracking.m6r.eu
+0.0.0.0 ad-delivery.net
+0.0.0.0 adadvisor.net
+0.0.0.0 ads.creative-serving.com
+0.0.0.0 adserver.adtech.de
