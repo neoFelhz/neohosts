@@ -304,6 +304,7 @@
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.share.baidu.com
 0.0.0.0 api-shoulei-ssl.xunlei.com
+0.0.0.0 api.shuaji.360.cn
 0.0.0.0 api.so.lianmeng.360.cn
 0.0.0.0 api.tr.blismedia.com
 0.0.0.0 api.tuisong.baidu.com
@@ -664,6 +665,7 @@
 0.0.0.0 dir.minigame.qq.com
 0.0.0.0 dis.criteo.com
 0.0.0.0 discuz.gtimg.cn
+0.0.0.0 display.360totalsecurity.com
 0.0.0.0 display.ad.daum.net
 0.0.0.0 display.adhudong.com
 0.0.0.0 disqusads.com
@@ -1951,6 +1953,7 @@
 0.0.0.0 toolbar.baidu.com
 0.0.0.0 toolbar.msn.com
 0.0.0.0 tools.3g.qq.com
+0.0.0.0 top.h.qhimg.com
 0.0.0.0 toruk.tanx.com
 0.0.0.0 toutiao.2haha.com
 0.0.0.0 tpc.googlesyndication.com
