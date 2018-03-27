@@ -1,32 +1,24 @@
-Hosts license
-Version 1, Sept 2017 Googlehosts members
+MIT License
 
-前言
-1. 每个人都可以逐字复制并且分发此协议,但不允许更改任何内容.
-2. 请使用 Hosts license 的项目在 hosts 文件抬头注明版权,仅以下格式有效:
-Copyright (C) Time Author
+Copyright (c) 2017 neoFelhz & neoHosts Team
 
-本协议的起草参考了 GPL v2.0 开源协议的格式,但是我们注重的是对 hosts 文件的保护
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-复制,修改,分发的条件和条款
-1. 禁止修改原作者信息以及协议声明
-2. 禁止修改 hosts 文件中的格式,例如:
-   ①一个域名对应一个 IP (单域名解析)
-     1.1.1.1 adc.com
-     1.1.1.2 zzz.adc.com
-   ②一个 IP 对应多个域名(泛解析)
-     1.1.1.1 abc.com
-     1.1.1.1 zzz.abc.com
-   只要符合以上例子中任何一种或着作者自行声明,皆不可修改
-3. 禁止将hosts文件用于任何商业行为,包括但不限于捐赠,广告,直接收费
-4. 您必须在相同平台fork原项目后才能进行再发行,并且不允许转移至其他平台
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-免责声明
-1. 由于服务器单方面问题造成的损失, hosts 作者不负法律责任
-2. 如果使用反向代理服务器、端口转发服务器或者任何非官方服务器,请作者提前声明并且同免责声明1
-3. fork 原项目后修改的内容,原项目不负责任
-
-最终解释权由 Hosts license 编写组所有
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ------------------------------------------------------------------------------------
 
