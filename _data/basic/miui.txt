@@ -5,7 +5,6 @@
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 adinfo.ra1.xlmc.sec.miui.com
 0.0.0.0 api.ad.xiaomi.com
-0.0.0.0 new.api.ad.xiaomi.com
 0.0.0.0 api.ra2.xlmc.sec.miui.com
 0.0.0.0 api.tuisong.baidu.com
 0.0.0.0 api.tw06.xlmc.sec.miui.com

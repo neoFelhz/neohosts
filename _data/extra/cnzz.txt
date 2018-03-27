@@ -3,7 +3,6 @@
 0.0.0.0 cache.cnzz.com
 0.0.0.0 clickjs.cnzz.com
 0.0.0.0 ei.cnzz.com
-0.0.0.0 go.cnzz.com
 0.0.0.0 gzs20.cnzz.com
 0.0.0.0 hm2.cnzz.com
 0.0.0.0 hm3.cnzz.com
@@ -25,7 +24,6 @@
 0.0.0.0 hzs9.cnzz.com
 0.0.0.0 hzvs1.cnzz.com
 0.0.0.0 icon.cnzz.com
-0.0.0.0 imf.cnzz.com
 0.0.0.0 intf.cnzz.com
 0.0.0.0 jserr.cnzz.com
 0.0.0.0 jssdk.cnzz.com
@@ -34,7 +32,6 @@
 0.0.0.0 ns1.cnzz.com
 0.0.0.0 ns2.cnzz.com
 0.0.0.0 online.cnzz.com
-0.0.0.0 oz.cnzz.com
 0.0.0.0 pcookie.cnzz.com
 0.0.0.0 pw.cnzz.com
 0.0.0.0 q1.cnzz.com

@@ -4,6 +4,13 @@
 0.0.0.0 ibn.adnxs.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 disqusads.com
+#ADPushCN
+0.0.0.0 dmp.adpush.cn
+0.0.0.0 img.adpush.cn
+0.0.0.0 net.adpush.cn
+0.0.0.0 ssp.adpush.cn
+0.0.0.0 zc.adpush.cn
+0.0.0.0 www.adpush.cn
 # Amazon
 0.0.0.0 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 c.amazon-adsystem.com

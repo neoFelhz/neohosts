@@ -24,7 +24,6 @@
 0.0.0.0 js.union-wifi.com
 0.0.0.0 rcv.union-wifi.com
 0.0.0.0 ssp.dmpdsp.com
-0.0.0.0 ssp1.dmpdsp.com
 0.0.0.0 ad.jsnbrynb.com
 0.0.0.0 apppic.yingyongbei.com
 0.0.0.0 809.ok365.com
@@ -56,7 +55,6 @@
 0.0.0.0 ssp.0531kt.com
 0.0.0.0 s2.yandui.com
 0.0.0.0 www.tz-dsp.com
-0.0.0.0 eee.kj78.org
 0.0.0.0 www.706529.com
 0.0.0.0 maxwebsearch.com
 0.0.0.0 www.searchswapper.com
@@ -92,7 +90,6 @@
 0.0.0.0 eee.eh39.co
 0.0.0.0 312036.com
 0.0.0.0 www.wifijia.net
-0.0.0.0 toutiao.2haha.com
 0.0.0.0 a.beilamusi.com
 0.0.0.0 a.benshiw.net
 0.0.0.0 activity.yuyiya.com
@@ -127,7 +124,7 @@
 0.0.0.0 bcjxf.bugsevent.com
 0.0.0.0 ad.dqwjzm.com
 0.0.0.0 cs.dqwjzm.com
-0.0.0.0 fanli.1668g.com
 0.0.0.0 md.sh5e.com
 0.0.0.0 info.yitsoftware.com
 0.0.0.0 cz01016102.ms758.com
+0.0.0.0 s.051352.com
