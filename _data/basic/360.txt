@@ -14,3 +14,8 @@
 0.0.0.0 res.qhupdate.com
 0.0.0.0 stat.360safe.com
 0.0.0.0 stat.m.360.cn
+0.0.0.0 api.shuaji.360.cn
+0.0.0.0 s.qhupdate.com
+0.0.0.0 hs.qhupdate.com
+0.0.0.0 top.h.qhimg.com
+0.0.0.0 display.360totalsecurity.com
