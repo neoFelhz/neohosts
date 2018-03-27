@@ -236,7 +236,6 @@
 0.0.0.0 aliunion.cn.yahoo.com
 0.0.0.0 allnews.uodoo.com
 0.0.0.0 alog.umengcloud.com
-0.0.0.0 alog.umeng.co
 0.0.0.0 alog.umeng.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 am.g.ireader.com
@@ -688,6 +687,7 @@
 0.0.0.0 dl-vip.pcfaster.baidu.co.th
 0.0.0.0 dl.youjia2016.com
 0.0.0.0 dm.bytedance.com
+0.0.0.0 dmp.adpush.cn
 0.0.0.0 dmpclick.deliver.ifeng.com
 0.0.0.0 dm.pstatp.com
 0.0.0.0 dmtracking2.alibaba.com
@@ -801,7 +801,6 @@
 0.0.0.0 fa.163.com
 0.0.0.0 falundata.com
 0.0.0.0 falundata.org
-0.0.0.0 fanli.1668g.com
 0.0.0.0 fanxing.kugou.com
 0.0.0.0 fcanr.tracking.miui.com
 0.0.0.0 fclick.baidu.com
@@ -856,7 +855,6 @@
 0.0.0.0 gload.adhood.com
 0.0.0.0 global.msads.net
 0.0.0.0 gma.alicdn.com
-0.0.0.0 go.cnzz.com
 0.0.0.0 go.mmstat.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
@@ -984,7 +982,6 @@
 0.0.0.0 image.zzd.sm.cn
 0.0.0.0 imagzine.oppomobile.com
 0.0.0.0 imc.l.qq.com
-0.0.0.0 imf.cnzz.com
 0.0.0.0 imfsr.lenovomm.com
 0.0.0.0 img0.egou.com
 0.0.0.0 img1.126.net
@@ -996,6 +993,7 @@
 0.0.0.0 img3.lianmengma.com
 0.0.0.0 img.adbox.sina.com.cn
 0.0.0.0 img-ad.oupeng.com
+0.0.0.0 img.adpush.cn
 0.0.0.0 img.ad.zhangyue.com
 0.0.0.0 img.alimama.cn
 0.0.0.0 img.amp.ad.sina.com.cn
@@ -1276,7 +1274,7 @@
 0.0.0.0 nc045x.corp.youdao.com
 0.0.0.0 n.domob.cn
 0.0.0.0 neirong.baidu.com
-0.0.0.0 new.api.ad.xiaomi.com
+0.0.0.0 net.adpush.cn
 0.0.0.0 new.cnzz.com
 0.0.0.0 newloc.map.n.shifen.com
 0.0.0.0 new.ltheanine.cn
@@ -1349,7 +1347,6 @@
 0.0.0.0 oth.update.mdt.qq.com
 0.0.0.0 ow.s1.shuhuangge.org
 0.0.0.0 ow.s2.shuhuangge.org
-0.0.0.0 oz.cnzz.com
 0.0.0.0 p2.l.qq.com
 0.0.0.0 p3.l.qq.com
 0.0.0.0 p3p.mmstat.com
@@ -1555,6 +1552,7 @@
 0.0.0.0 rubicon-match.dotomi.com
 0.0.0.0 rub.pxl.ace.advertising.com
 0.0.0.0 rudy.adsnative.com
+0.0.0.0 s.051352.com
 0.0.0.0 s100.cnzz.com
 0.0.0.0 s101.cnzz.com
 0.0.0.0 s102.cnzz.com
@@ -1828,6 +1826,7 @@
 0.0.0.0 ssp.0531kt.com
 0.0.0.0 ssp1.dmpdsp.com
 0.0.0.0 ssp.86str.com
+0.0.0.0 ssp.adpush.cn
 0.0.0.0 ssp.ad.xiaomi.com
 0.0.0.0 sspapi.youxiaoad.com
 0.0.0.0 ssp.chaohutechan.com
@@ -1958,7 +1957,6 @@
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpush.html5.qq.com
 0.0.0.0 trace.qq.com
-0.0.0.0 track2.ra.icast.cn
 0.0.0.0 track.adwo.com
 0.0.0.0 track.dragonparking.com
 0.0.0.0 track-east.mobileadtrading.com
@@ -2218,6 +2216,7 @@
 0.0.0.0 www.51.la
 0.0.0.0 www.706529.com
 0.0.0.0 www.716703.com
+0.0.0.0 www.adpush.cn
 0.0.0.0 www.adview.cn
 0.0.0.0 www.authedmine.com
 0.0.0.0 www.baiduzhidahao.cc
@@ -2307,6 +2306,7 @@
 0.0.0.0 z8.cnzz.com
 0.0.0.0 z9.cnzz.com
 0.0.0.0 zbz.m.qxs.la
+0.0.0.0 zc.adpush.cn
 0.0.0.0 zc.biz.weibo.com
 0.0.0.0 z.domob.cn
 0.0.0.0 zgdfz6h7po.me
