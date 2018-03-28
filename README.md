@@ -20,11 +20,11 @@
 
 ## Download 下载
 
-### [Basic Hosts](https://neko-dev.github.io/neohosts/basic/hosts)
+### [Basic Hosts](https://neohosts.netlify.com/basic/hosts)
 
 > 基础、克制的数据，推荐所有用户使用。
 
-### [Full Hosts](https://neko-dev.github.io/neohosts/full/hosts)
+### [Full Hosts](https://neohosts.netlify.com/full/hosts)
 
 > 包含全部数据，仅推荐强迫症使用。相比 Basic Hosts，Full Hosts 额外屏蔽了以下内容：
 
