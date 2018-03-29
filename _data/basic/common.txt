@@ -238,8 +238,8 @@
 0.0.0.0 sm.0.0.0.0.cn
 0.0.0.0 swx.0.0.0.0.cn
 #doumob
-127.0.0.1 api.doumob.com
-127.0.0.1 www.doumob.com
+0.0.0.0 api.doumob.com
+0.0.0.0 www.doumob.com
 # YinyueTai
 0.0.0.0 client.stats.yinyuetai.com
 0.0.0.0 log.collect.yinyuetai.com
