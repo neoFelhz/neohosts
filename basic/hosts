@@ -293,6 +293,7 @@
 0.0.0.0 apiconfig.adwo.com
 0.0.0.0 api.cpu.baidu.com
 0.0.0.0 api.domob.cn
+0.0.0.0 api.doumob.com
 0.0.0.0 api.dreamfull.cn
 0.0.0.0 api-flow.flyme.cn
 0.0.0.0 api.g1.junfull.com
@@ -1875,6 +1876,7 @@
 0.0.0.0 www.allyes.com
 0.0.0.0 www.chenggao.cn
 0.0.0.0 www.count.51yes.com
+0.0.0.0 www.doumob.com
 0.0.0.0 www.esrpxyahzna.bid
 0.0.0.0 www.fathionmall.com
 0.0.0.0 www.googleadservices.com
@@ -1946,8 +1948,6 @@
 :: 114study.adsame.com
 :: 123.sogou.com
 :: 1251.adsina.allyes.com
-127.0.0.1 api.doumob.com
-127.0.0.1 www.doumob.com
 :: 1276.adsina.allyes.com
 :: 144.dragonparking.com
 :: 154.adsina.allyes.com
@@ -2218,6 +2218,7 @@
 :: apiconfig.adwo.com
 :: api.cpu.baidu.com
 :: api.domob.cn
+:: api.doumob.com
 :: api.dreamfull.cn
 :: api-flow.flyme.cn
 :: api.g1.junfull.com
@@ -3802,6 +3803,7 @@
 :: www.allyes.com
 :: www.chenggao.cn
 :: www.count.51yes.com
+:: www.doumob.com
 :: www.esrpxyahzna.bid
 :: www.fathionmall.com
 :: www.googleadservices.com
