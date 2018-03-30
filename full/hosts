@@ -12,7 +12,6 @@
 ::1 ip6-loopback
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
-0.0.0.0 0.0.0.0.cn
 0.0.0.0 0.0.0.0.com.cn
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
@@ -317,7 +316,6 @@
 0.0.0.0 antivirus.baidu.com
 0.0.0.0 an.yandex.ru
 0.0.0.0 a.oadz.com
-0.0.0.0 api.0.0.0.0.cn
 0.0.0.0 api0.tuisong.baidu.com
 0.0.0.0 api1.tuisong.baidu.com
 0.0.0.0 api2.analysys.cn
@@ -484,7 +482,6 @@
 0.0.0.0 bu2.duba.com
 0.0.0.0 bugreportv2.qq.com
 0.0.0.0 buyimg.bianxianmao.com
-0.0.0.0 c.0.0.0.0.cn
 0.0.0.0 c0i8h8ac7e.bid
 0.0.0.0 c0.ifengimg.com
 0.0.0.0 c1.adform.net
@@ -824,6 +821,7 @@
 0.0.0.0 dolphin.adsame.com
 0.0.0.0 dolphin.deliver.ifeng.com
 0.0.0.0 dol.tianya.cn
+0.0.0.0 domob.cn
 0.0.0.0 dongtaiwang.com
 0.0.0.0 dongtaiwang.org
 0.0.0.0 do-not-tracker.org
@@ -863,12 +861,11 @@
 0.0.0.0 d.union.ijinshan.com
 0.0.0.0 dup.baidustatic.com
 0.0.0.0 dvb.pandora.xiaomi.com
-0.0.0.0 dvx-android.0.0.0.0.cn
+0.0.0.0 dvx-android.domob.cn
 0.0.0.0 dwtrack.qidian.com
 0.0.0.0 dxp.baidu.com
 0.0.0.0 dxprla.m.qxs.la
 0.0.0.0 dzl.baidu.com
-0.0.0.0 e.0.0.0.0.cn
 0.0.0.0 e.0.0.0.0.com.cn
 0.0.0.0 e.28487.net
 0.0.0.0 e7free.allyes.com
@@ -1680,7 +1677,6 @@
 0.0.0.0 qss-client.qq.com
 0.0.0.0 qt002x.corp.youdao.com
 0.0.0.0 quote.51.la
-0.0.0.0 r.0.0.0.0.cn
 0.0.0.0 r.254a.com
 0.0.0.0 r2.adwo.com
 0.0.0.0 r3 adwo.com
@@ -1751,7 +1747,6 @@
 0.0.0.0 r.msn.com
 0.0.0.0 rmtx.ra.icast.cn
 0.0.0.0 router.gwdang.com
-0.0.0.0 r.ow.0.0.0.0.cn
 0.0.0.0 r.ow.domob.cn
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rp.gwallet.com
@@ -1766,7 +1761,6 @@
 0.0.0.0 rubicon-match.dotomi.com
 0.0.0.0 rub.pxl.ace.advertising.com
 0.0.0.0 rudy.adsnative.com
-0.0.0.0 s.0.0.0.0.cn
 0.0.0.0 s.051352.com
 0.0.0.0 s100.cnzz.com
 0.0.0.0 s101.cnzz.com
@@ -1941,7 +1935,6 @@
 0.0.0.0 saxs.sina.com.cn
 0.0.0.0 s.baidu.com
 0.0.0.0 sbeacon.sina.com.cn
-0.0.0.0 scc.0.0.0.0.cn
 0.0.0.0 scc.domob.cn
 0.0.0.0 scdown.qq.com
 0.0.0.0 sc.ggdoubi.com
@@ -1952,7 +1945,6 @@
 0.0.0.0 s.clkservice.youdao.com
 0.0.0.0 s.cpro.baidu.com
 0.0.0.0 script-bd.baixing.net
-0.0.0.0 sd.0.0.0.0.cn
 0.0.0.0 sdac.lenovomm.com
 0.0.0.0 sdapprecv.app.cntvwb.cn
 0.0.0.0 sddnserror1.wo.com.cn
@@ -1964,6 +1956,7 @@
 0.0.0.0 sddnserror7.wo.com.cn
 0.0.0.0 sddnserror8.wo.com.cn
 0.0.0.0 sddnserror9.wo.com.cn
+0.0.0.0 sd.domob.cn
 0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0 sdkapp.uve.weibo.com
 0.0.0.0 sdk.cferw.com
@@ -1981,7 +1974,6 @@
 0.0.0.0 sdk.open.talk.gepush.com
 0.0.0.0 sdk.open.talk.igexin.com
 0.0.0.0 sdksitter.m.sjzhushou.com
-0.0.0.0 sdl.0.0.0.0.cn
 0.0.0.0 sdl.domob.cn
 0.0.0.0 sdn.kugou.com
 0.0.0.0 s.domob.cn
@@ -2032,9 +2024,9 @@
 0.0.0.0 s.lianmeng.360.cn
 0.0.0.0 slog.sina.cn
 0.0.0.0 slog.sina.com.cn
-0.0.0.0 sm.0.0.0.0.cn
 0.0.0.0 sm51shai.allyes.com
 0.0.0.0 smcreative.allyes.com
+0.0.0.0 sm.domob.cn
 0.0.0.0 smjs.allyes.com
 0.0.0.0 smt.admaster.com.cn
 0.0.0.0 sngmta.qq.com
@@ -2130,7 +2122,7 @@
 0.0.0.0 sv.map.baidu.com
 0.0.0.0 swa.gtimg.com
 0.0.0.0 s.wrating.com
-0.0.0.0 swx.0.0.0.0.cn
+0.0.0.0 swx.domob.cn
 0.0.0.0 sxdnserror1.wo.com.cn
 0.0.0.0 sxdnserror2.wo.com.cn
 0.0.0.0 sxdnserror3.wo.com.cn
@@ -2962,7 +2954,6 @@
 :: api.authedmine.com
 :: api.bailingjiankang.com
 :: api.bs.zui.com
-:: api.::.cn
 :: api.coin-hive.com
 :: api.coinhive.com
 :: apiconfig.adwo.com
@@ -3147,7 +3138,6 @@
 :: cb.l.qq.com
 :: c.bxb.oupeng.com
 :: ccclub.cmbchina.com
-:: c.::.cn
 :: c.cnzz.com
 :: c.danangmo.cn
 :: cdn0.mobmore.com
@@ -3233,7 +3223,6 @@
 :: cms.opendsp.tanx.com
 :: cms.quantserve.com
 :: cms.tanx.com
-:: ::.cn
 :: cnf.adbana.com
 :: cnnic.cn
 :: cnnic.net
@@ -3450,6 +3439,7 @@
 :: dolphin.adsame.com
 :: dolphin.deliver.ifeng.com
 :: dol.tianya.cn
+:: domob.cn
 :: dongtaiwang.com
 :: dongtaiwang.org
 :: do-not-tracker.org
@@ -3489,7 +3479,7 @@
 :: d.union.ijinshan.com
 :: dup.baidustatic.com
 :: dvb.pandora.xiaomi.com
-:: dvx-android.::.cn
+:: dvx-android.domob.cn
 :: dwtrack.qidian.com
 :: dxp.baidu.com
 :: dxprla.m.qxs.la
@@ -3511,7 +3501,6 @@
 :: ecma.bdimg.com
 :: ecmb.bdimg.com
 :: ecmc.bdimg.com
-:: e.::.cn
 :: e.::.com.cn
 :: ecpm.tanx.com
 :: e.crashlytics.com
@@ -4326,7 +4315,6 @@
 :: r.bxb.oupeng.com
 :: rc2waycm-atl.netmng.com
 :: rcmd.pop.ijinshan.com
-:: r.::.cn
 :: rcp.c.appier.net
 :: rcv.mobad.ijinshan.com
 :: rcv.union-wifi.com
@@ -4377,7 +4365,6 @@
 :: r.msn.com
 :: rmtx.ra.icast.cn
 :: router.gwdang.com
-:: r.ow.::.cn
 :: r.ow.domob.cn
 :: rpc-php.trafficfactory.biz
 :: rp.gwallet.com
@@ -4566,7 +4553,6 @@
 :: saxs.sina.com.cn
 :: s.baidu.com
 :: sbeacon.sina.com.cn
-:: scc.::.cn
 :: scc.domob.cn
 :: scdown.qq.com
 :: sc.ggdoubi.com
@@ -4575,12 +4561,10 @@
 :: sc.iasds01.com
 :: sclick.baidu.com
 :: s.clkservice.youdao.com
-:: s.::.cn
 :: s.cpro.baidu.com
 :: script-bd.baixing.net
 :: sdac.lenovomm.com
 :: sdapprecv.app.cntvwb.cn
-:: sd.::.cn
 :: sddnserror1.wo.com.cn
 :: sddnserror2.wo.com.cn
 :: sddnserror3.wo.com.cn
@@ -4590,6 +4574,7 @@
 :: sddnserror7.wo.com.cn
 :: sddnserror8.wo.com.cn
 :: sddnserror9.wo.com.cn
+:: sd.domob.cn
 :: sdkapp.mobile.sina.cn
 :: sdkapp.uve.weibo.com
 :: sdk.cferw.com
@@ -4607,7 +4592,6 @@
 :: sdk.open.talk.gepush.com
 :: sdk.open.talk.igexin.com
 :: sdksitter.m.sjzhushou.com
-:: sdl.::.cn
 :: sdl.domob.cn
 :: sdn.kugou.com
 :: s.domob.cn
@@ -4659,8 +4643,8 @@
 :: slog.sina.cn
 :: slog.sina.com.cn
 :: sm51shai.allyes.com
-:: sm.::.cn
 :: smcreative.allyes.com
+:: sm.domob.cn
 :: smjs.allyes.com
 :: smt.admaster.com.cn
 :: sngmta.qq.com
@@ -4756,7 +4740,7 @@
 :: sv.map.baidu.com
 :: swa.gtimg.com
 :: s.wrating.com
-:: swx.::.cn
+:: swx.domob.cn
 :: sxdnserror1.wo.com.cn
 :: sxdnserror2.wo.com.cn
 :: sxdnserror3.wo.com.cn
