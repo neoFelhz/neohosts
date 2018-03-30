@@ -221,22 +221,22 @@
 0.0.0.0 analytics.spotify.com
 0.0.0.0 log.spotify.com
 0.0.0.0 spclient.wg.spotify.com
-#0.0.0.0
-0.0.0.0 api.0.0.0.0.cn
-0.0.0.0 c.0.0.0.0.cn
-0.0.0.0 0.0.0.0.cn
+#domob
+0.0.0.0 api.domob.cn
+0.0.0.0 c.domob.cn
+0.0.0.0 domob.cn
 0.0.0.0 0.0.0.0.com.cn
-0.0.0.0 dvx-android.0.0.0.0.cn
-0.0.0.0 e.0.0.0.0.cn
+0.0.0.0 dvx-android.domob.cn
+0.0.0.0 e.domob.cn
 0.0.0.0 e.0.0.0.0.com.cn
-0.0.0.0 r.0.0.0.0.cn
-0.0.0.0 r.ow.0.0.0.0.cn
-0.0.0.0 s.0.0.0.0.cn
-0.0.0.0 scc.0.0.0.0.cn
-0.0.0.0 sd.0.0.0.0.cn
-0.0.0.0 sdl.0.0.0.0.cn
-0.0.0.0 sm.0.0.0.0.cn
-0.0.0.0 swx.0.0.0.0.cn
+0.0.0.0 r.domob.cn
+0.0.0.0 r.ow.domob.cn
+0.0.0.0 s.domob.cn
+0.0.0.0 scc.domob.cn
+0.0.0.0 sd.domob.cn
+0.0.0.0 sdl.domob.cn
+0.0.0.0 sm.domob.cn
+0.0.0.0 swx.domob.cn
 #doumob
 0.0.0.0 api.doumob.com
 0.0.0.0 www.doumob.com
