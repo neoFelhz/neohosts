@@ -1,4 +1,5 @@
 0.0.0.0 adapi.shouji.360.cn
+0.0.0.0 msg.shouji.360.cn
 0.0.0.0 api.so.lianmeng.360.cn
 0.0.0.0 dev.tg.wan.360.cn
 0.0.0.0 huodong.ios.shouji.360.cn
@@ -19,3 +20,19 @@
 0.0.0.0 hs.qhupdate.com
 0.0.0.0 top.h.qhimg.com
 0.0.0.0 display.360totalsecurity.com
+0.0.0.0 a.appjiagu.com
+0.0.0.0 api.appjiagu.com
+0.0.0.0 b.appjiagu.com
+0.0.0.0 c.appjiagu.com
+0.0.0.0 j.appjiagu.com
+0.0.0.0 p.appjiagu.com
+0.0.0.0 s.appjiagu.com
+0.0.0.0 haostat.qihoo.com
+0.0.0.0 ad.dev.360.cn
+0.0.0.0 ad.gamebox.360.cn
+0.0.0.0 huid.ad.360.cn
+0.0.0.0 dev.tg.wan.360.cn
+0.0.0.0 rd.wan.360.cn
+0.0.0.0 s.union.360.cn
+0.0.0.0 click.stat.hao.360.cn
+0.0.0.0 act.commercial.shouji.360.cn
