@@ -78,6 +78,7 @@
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.alimama.cn
+0.0.0.0 a.appjiagu.com
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aa.zldh123.com
@@ -94,6 +95,7 @@
 0.0.0.0 acookie.alimama.com
 0.0.0.0 acookie.linezing.com
 0.0.0.0 acs4baichuan.m.taobao.com
+0.0.0.0 act.commercial.shouji.360.cn
 0.0.0.0 activate.adobe.com
 0.0.0.0 activate-sea.adobe.com
 0.0.0.0 activate-sjc0.adobe.com
@@ -136,6 +138,7 @@
 0.0.0.0 adcore.lenovomm.com
 0.0.0.0 ad-count.adwo.com
 0.0.0.0 ad-delivery.net
+0.0.0.0 ad.dev.360.cn
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.dqwjzm.com
 0.0.0.0 ad.duapps.com
@@ -143,6 +146,7 @@
 0.0.0.0 adfill.adview.cn
 0.0.0.0 adfilter.imtt.qq.com
 0.0.0.0 adfuture.cn
+0.0.0.0 ad.gamebox.360.cn
 0.0.0.0 adgeo.163.com
 0.0.0.0 ad.greedland.net
 0.0.0.0 adimages.sina.com.hk
@@ -330,6 +334,7 @@
 0.0.0.0 api.adcome.cn
 0.0.0.0 api.admob.com
 0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.appjiagu.com
 0.0.0.0 api.apps.sina.cn
 0.0.0.0 api.authedmine.com
 0.0.0.0 api.bailingjiankang.com
@@ -421,6 +426,7 @@
 0.0.0.0 banlv.baidu.com
 0.0.0.0 bannedbook.org
 0.0.0.0 banner.alimama.com
+0.0.0.0 b.appjiagu.com
 0.0.0.0 bar.baidu.com
 0.0.0.0 bazinga.mse.sogou.com
 0.0.0.0 bce.baidu.com
@@ -503,6 +509,7 @@
 0.0.0.0 calopenupdate.comm.miui.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 canvas.gdt.qq.com
+0.0.0.0 c.appjiagu.com
 0.0.0.0 carbonads.net
 0.0.0.0 cas.pxl.ace.advertising.com
 0.0.0.0 cast.ra.icast.cn
@@ -559,6 +566,7 @@
 0.0.0.0 click.jebe.renren.com
 0.0.0.0 clickjs.cnzz.com
 0.0.0.0 click.qianqian.com
+0.0.0.0 click.stat.hao.360.cn
 0.0.0.0 click.tanx.com
 0.0.0.0 click.tianyaui.com
 0.0.0.0 click.uve.mobile.sina.cn
@@ -1018,6 +1026,7 @@
 0.0.0.0 hao549.com
 0.0.0.0 hao.7654.com
 0.0.0.0 hao.qquu8.com
+0.0.0.0 haostat.qihoo.com
 0.0.0.0 hbdnserror1.wo.com.cn
 0.0.0.0 hbdnserror2.wo.com.cn
 0.0.0.0 hbdnserror3.wo.com.cn
@@ -1066,6 +1075,7 @@
 0.0.0.0 httpring.qq.com
 0.0.0.0 hub5pn.wap.sandai.net
 0.0.0.0 huichuan.sm.cn
+0.0.0.0 huid.ad.360.cn
 0.0.0.0 huodong.ios.shouji.360.cn
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 hyfh.benbaisteel.com
@@ -1185,6 +1195,7 @@
 0.0.0.0 i.stat.nearme.com.cn
 0.0.0.0 i.w55c.net
 0.0.0.0 j.12306media.com
+0.0.0.0 j.appjiagu.com
 0.0.0.0 j.br.baidu.com
 0.0.0.0 jct.maptu.cn
 0.0.0.0 j.domob.cn
@@ -1419,6 +1430,7 @@
 0.0.0.0 ms.analytics.live.com
 0.0.0.0 ms.cmcm.com
 0.0.0.0 m.sewxi.com
+0.0.0.0 msg.shouji.360.cn
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 msite.baidu.com
 0.0.0.0 m.sjzhushou.com
@@ -1546,6 +1558,7 @@
 0.0.0.0 p.alimama.com
 0.0.0.0 palmnews.sina.cn
 0.0.0.0 panda.adsame.com
+0.0.0.0 p.appjiagu.com
 0.0.0.0 parking.zunmi.cn
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 partner.googleadservices.com
@@ -1696,6 +1709,7 @@
 0.0.0.0 r.dmp.sina.cn
 0.0.0.0 r.domob.cn
 0.0.0.0 rdstat.tanx.com
+0.0.0.0 rd.wan.360.cn
 0.0.0.0 reader.browser.miui.com
 0.0.0.0 rec.g.163.com
 0.0.0.0 recmd.html5.qq.com
@@ -1911,6 +1925,7 @@
 0.0.0.0 sammax.adsame.com
 0.0.0.0 sammix.adsame.com
 0.0.0.0 samrt.adsame.com
+0.0.0.0 s.appjiagu.com
 0.0.0.0 sa.tuisong.baidu.com
 0.0.0.0 sax1.sina.com.cn
 0.0.0.0 sax2.sina.com.cn
@@ -2109,6 +2124,7 @@
 0.0.0.0 su.bdimg.com
 0.0.0.0 su.bdstatic.com
 0.0.0.0 subswin.com
+0.0.0.0 s.union.360.cn
 0.0.0.0 susapi.dev.surepush.cn
 0.0.0.0 susapi.lenovomm.com
 0.0.0.0 sv.map.baidu.com
@@ -2686,6 +2702,7 @@
 :: a.ads1.msn.com
 :: a.ads2.msn.com
 :: a.alimama.cn
+:: a.appjiagu.com
 :: aax-cpm.amazon-adsystem.com
 :: aax-eu.amazon-adsystem.com
 :: aa.zldh123.com
@@ -2702,6 +2719,7 @@
 :: acookie.alimama.com
 :: acookie.linezing.com
 :: acs4baichuan.m.taobao.com
+:: act.commercial.shouji.360.cn
 :: activate.adobe.com
 :: activate-sea.adobe.com
 :: activate-sjc0.adobe.com
@@ -2744,6 +2762,7 @@
 :: adcore.lenovomm.com
 :: ad-count.adwo.com
 :: ad-delivery.net
+:: ad.dev.360.cn
 :: ad.doubleclick.net
 :: ad.dqwjzm.com
 :: ad.duapps.com
@@ -2751,6 +2770,7 @@
 :: adfill.adview.cn
 :: adfilter.imtt.qq.com
 :: adfuture.cn
+:: ad.gamebox.360.cn
 :: adgeo.163.com
 :: ad.greedland.net
 :: adimages.sina.com.hk
@@ -2937,6 +2957,7 @@
 :: api.adcome.cn
 :: api.admob.com
 :: api.ad.xiaomi.com
+:: api.appjiagu.com
 :: api.apps.sina.cn
 :: api.authedmine.com
 :: api.bailingjiankang.com
@@ -3029,6 +3050,7 @@
 :: banlv.baidu.com
 :: bannedbook.org
 :: banner.alimama.com
+:: b.appjiagu.com
 :: bar.baidu.com
 :: bazinga.mse.sogou.com
 :: bce.baidu.com
@@ -3110,6 +3132,7 @@
 :: calopenupdate.comm.miui.com
 :: c.amazon-adsystem.com
 :: canvas.gdt.qq.com
+:: c.appjiagu.com
 :: carbonads.net
 :: cas.pxl.ace.advertising.com
 :: cast.ra.icast.cn
@@ -3167,6 +3190,7 @@
 :: click.jebe.renren.com
 :: clickjs.cnzz.com
 :: click.qianqian.com
+:: click.stat.hao.360.cn
 :: click.tanx.com
 :: click.tianyaui.com
 :: click.uve.mobile.sina.cn
@@ -3628,6 +3652,7 @@
 :: hao549.com
 :: hao.7654.com
 :: hao.qquu8.com
+:: haostat.qihoo.com
 :: hbdnserror1.wo.com.cn
 :: hbdnserror2.wo.com.cn
 :: hbdnserror3.wo.com.cn
@@ -3676,6 +3701,7 @@
 :: httpring.qq.com
 :: hub5pn.wap.sandai.net
 :: huichuan.sm.cn
+:: huid.ad.360.cn
 :: huodong.ios.shouji.360.cn
 :: hydra.alibaba.com
 :: hyfh.benbaisteel.com
@@ -3795,6 +3821,7 @@
 :: i.stat.nearme.com.cn
 :: i.w55c.net
 :: j.12306media.com
+:: j.appjiagu.com
 :: j.br.baidu.com
 :: jct.maptu.cn
 :: j.domob.cn
@@ -4029,6 +4056,7 @@
 :: ms.analytics.live.com
 :: ms.cmcm.com
 :: m.sewxi.com
+:: msg.shouji.360.cn
 :: msg.umengcloud.com
 :: msite.baidu.com
 :: m.sjzhushou.com
@@ -4156,6 +4184,7 @@
 :: p.alimama.com
 :: palmnews.sina.cn
 :: panda.adsame.com
+:: p.appjiagu.com
 :: parking.zunmi.cn
 :: partnerad.l.google.com
 :: partner.googleadservices.com
@@ -4306,6 +4335,7 @@
 :: r.dmp.sina.cn
 :: r.domob.cn
 :: rdstat.tanx.com
+:: rd.wan.360.cn
 :: reader.browser.miui.com
 :: rec.g.163.com
 :: recmd.html5.qq.com
@@ -4520,6 +4550,7 @@
 :: sammax.adsame.com
 :: sammix.adsame.com
 :: samrt.adsame.com
+:: s.appjiagu.com
 :: sa.tuisong.baidu.com
 :: sax1.sina.com.cn
 :: sax2.sina.com.cn
@@ -4719,6 +4750,7 @@
 :: su.bdimg.com
 :: su.bdstatic.com
 :: subswin.com
+:: s.union.360.cn
 :: susapi.dev.surepush.cn
 :: susapi.lenovomm.com
 :: sv.map.baidu.com
