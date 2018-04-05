@@ -40,3 +40,7 @@
 0.0.0.0 zhuichaguoji.org
 0.0.0.0 www.yuanming.net
 0.0.0.0 yuanming.net
+0.0.0.0 www.soundofhope.org
+0.0.0.0 soundofhope.org
+0.0.0.0 www.wujieliulan.com
+0.0.0.0 wujieliulan.com
