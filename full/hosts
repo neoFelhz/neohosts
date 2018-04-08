@@ -67,6 +67,7 @@
 0.0.0.0 a1410.oadz.com
 0.0.0.0 a1491.oadz.com
 0.0.0.0 a1662.oadz.com
+0.0.0.0 a1click.cpc.sogou.com
 0.0.0.0 a2315.oadz.com
 0.0.0.0 a2397.oadz.com
 0.0.0.0 a3.allyes.com
@@ -192,6 +193,7 @@
 0.0.0.0 adsclick.qq.com
 0.0.0.0 adsco.re
 0.0.0.0 ads.creative-serving.com
+0.0.0.0 adsence.sogou.com
 0.0.0.0 adsense.html5.qq.com
 0.0.0.0 adserver.adtech.de
 0.0.0.0 adserver-us.adtech.advertising.com
@@ -223,6 +225,7 @@
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 adss.yahoo.com
 0.0.0.0 adstextview.qq.com
+0.0.0.0 adstream.123.sogoucdn.com
 0.0.0.0 adsunflower.com
 0.0.0.0 adsview2.qq.com
 0.0.0.0 adsview.qq.com
@@ -287,6 +290,7 @@
 0.0.0.0 allyesshafa.allyes.com
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 alog.umeng.com
+0.0.0.0 alpha.brand.sogou.com
 0.0.0.0 ama.adwo.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 am.g.ireader.com
@@ -392,6 +396,7 @@
 0.0.0.0 aqqgli3vle.bid
 0.0.0.0 ard.yahoo.co.jp
 0.0.0.0 aries.mzres.com
+0.0.0.0 art.theta.sogoucdn.com
 0.0.0.0 asearch.alicdn.com
 0.0.0.0 asp.adsame.com
 0.0.0.0 assets.210189.com
@@ -403,6 +408,7 @@
 0.0.0.0 atanx2.alicdn.com
 0.0.0.0 atanx.alicdn.com
 0.0.0.0 a.tanx.com
+0.0.0.0 athena.wan.sogou.com
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 at.umeng.com
 0.0.0.0 a.union.mi.com
@@ -453,6 +459,7 @@
 0.0.0.0 bigdata.adsunflower.com
 0.0.0.0 bigdata.adups.com
 0.0.0.0 bigdata.advmob.cn
+0.0.0.0 bite.theta.sogoucdn.com
 0.0.0.0 biz.live.xunlei.com
 0.0.0.0 biz.weibo.com
 0.0.0.0 bj.bcebos.com
@@ -474,6 +481,7 @@
 0.0.0.0 brand.sogou.com
 0.0.0.0 bro.flyme.cn
 0.0.0.0 browser.gwdang.com
+0.0.0.0 bsiet.husky.sogou.com
 0.0.0.0 bs.l.qq.com
 0.0.0.0 bss.pandora.xiaomi.com
 0.0.0.0 btlaunch.baidu.com
@@ -534,6 +542,8 @@
 0.0.0.0 cdn.districtm.io
 0.0.0.0 cdn.dragonstatic.com
 0.0.0.0 cdnimg.liehu.ijinshan.com
+0.0.0.0 cdn.lu.sogoucdn.com
+0.0.0.0 cdn.optaim.com
 0.0.0.0 cdn.popcash.net
 0.0.0.0 cdn.popmyads.com
 0.0.0.0 cdn.puata.info
@@ -552,6 +562,7 @@
 0.0.0.0 c-hzgt2.getui.com
 0.0.0.0 cjhq.baidu.com
 0.0.0.0 cj.qidian.com
+0.0.0.0 cjroq.bealge.sogou.com
 0.0.0.0 cleaner.baidu.com
 0.0.0.0 cl.he9630.com
 0.0.0.0 click1forhz.adsmogo.com
@@ -571,6 +582,7 @@
 0.0.0.0 click.wrating.com
 0.0.0.0 client.show.qq.com
 0.0.0.0 client.stats.yinyuetai.com
+0.0.0.0 clk.optaim.com
 0.0.0.0 clkservice2.dict.youdao.com
 0.0.0.0 clkservice.mail.youdao.com
 0.0.0.0 clkservice.union.youdao.com
@@ -597,6 +609,7 @@
 0.0.0.0 c.minisplat.cn
 0.0.0.0 cm.l.qq.com
 0.0.0.0 cm.netseer.com
+0.0.0.0 cm.optaim.com
 0.0.0.0 cm.p4p.cn.yahoo.com
 0.0.0.0 cm.pos.baidu.com
 0.0.0.0 cm.reachmax.cn
@@ -694,6 +707,7 @@
 0.0.0.0 count.mail.163.com
 0.0.0.0 countt.51yes.com
 0.0.0.0 count.video.sina.com.cn
+0.0.0.0 cpc.brand.sogou.com
 0.0.0.0 cpc.click.alimama.com
 0.0.0.0 cpc.sogou.com
 0.0.0.0 cpro2.baidu.com
@@ -806,6 +820,7 @@
 0.0.0.0 dl.union.ijinshan.com
 0.0.0.0 dl-vip.bav.baidu.com
 0.0.0.0 dl-vip.pcfaster.baidu.co.th
+0.0.0.0 dl.wan.sogoucdn.com
 0.0.0.0 dl.youjia2016.com
 0.0.0.0 dm.bytedance.com
 0.0.0.0 dmp.adpush.cn
@@ -849,7 +864,9 @@
 0.0.0.0 drmcmm.baidu.com
 0.0.0.0 ds.jlbksy.com
 0.0.0.0 dsp.adfarm1.adition.com
+0.0.0.0 dsp.brand.sogou.com
 0.0.0.0 ds-pc.admsger.com
+0.0.0.0 dspcm.brand.sogou.com
 0.0.0.0 dspimg.adsame.com
 0.0.0.0 dsp-impr2.youdao.com
 0.0.0.0 dsp-impr.youdao.com
@@ -892,12 +909,15 @@
 0.0.0.0 eee.ttyy888.co
 0.0.0.0 e.emgwq.com
 0.0.0.0 ef-dongfeng.tanx.com
+0.0.0.0 eff.inte.sogou.com
+0.0.0.0 eff.lu.sogou.com
 0.0.0.0 ef.opendsp.tanx.com
 0.0.0.0 e.fstaw.com
 0.0.0.0 ef.tanx.com
 0.0.0.0 e.hellomingpian.com
 0.0.0.0 ei.cnzz.com
 0.0.0.0 eiv.baidu.com
+0.0.0.0 ejzr.golden1.sogou.com
 0.0.0.0 e.kewro.com
 0.0.0.0 engine.lvehaisen.com
 0.0.0.0 engine.tuia.cn
@@ -939,6 +959,7 @@
 0.0.0.0 f2.p0y.cn
 0.0.0.0 f3.mi-stat.gslb.mi-idc.com
 0.0.0.0 fa.163.com
+0.0.0.0 fair.sogou.com
 0.0.0.0 falundata.com
 0.0.0.0 falundata.org
 0.0.0.0 fanxing.kugou.com
@@ -954,6 +975,7 @@
 0.0.0.0 fge9vbrzwt.bid
 0.0.0.0 fgmtv.org
 0.0.0.0 file.ipinyou.com.cn
+0.0.0.0 files2.sogou.com
 0.0.0.0 files.adform.net
 0.0.0.0 fm.p0y.cn
 0.0.0.0 fm.qzone.qq.com
@@ -973,10 +995,12 @@
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fw.qq.com
 0.0.0.0 fxc.aiquxs.com
+0.0.0.0 fych.uranus.sogou.com
 0.0.0.0 fz863.com
 0.0.0.0 g1.163.com
 0.0.0.0 g.163.com
 0.0.0.0 galaxy.bjcathay.com
+0.0.0.0 galaxy.sogoucdn.com
 0.0.0.0 gamead.swjoy.com
 0.0.0.0 game.adwo.com
 0.0.0.0 gamebox.kugou.com
@@ -993,6 +1017,7 @@
 0.0.0.0 get.sogou.com
 0.0.0.0 ggle.lywf.me
 0.0.0.0 g.haluoha.com
+0.0.0.0 gif.lu.sogoucdn.com
 0.0.0.0 gimg.baidu.com
 0.0.0.0 gload.adhood.com
 0.0.0.0 global.msads.net
@@ -1005,6 +1030,7 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
+0.0.0.0 goto.sogou.com
 0.0.0.0 green.erne.co
 0.0.0.0 g.sdk.look.360.cn
 0.0.0.0 guanjia.baidu.com
@@ -1016,6 +1042,7 @@
 0.0.0.0 g.wan.2345.com
 0.0.0.0 g.wrating.com
 0.0.0.0 gxb.mmstat.com
+0.0.0.0 gxe.husky.sogou.com
 0.0.0.0 gzs20.cnzz.com
 0.0.0.0 h5.holalauncher.com
 0.0.0.0 h5.mse.360.cn
@@ -1070,6 +1097,7 @@
 0.0.0.0 hs.qhupdate.com
 0.0.0.0 httpdns.push.oppomobile.com
 0.0.0.0 httpring.qq.com
+0.0.0.0 ht.www.sogou.com
 0.0.0.0 hub5pn.wap.sandai.net
 0.0.0.0 huichuan.sm.cn
 0.0.0.0 huid.ad.360.cn
@@ -1131,6 +1159,7 @@
 0.0.0.0 iisl7wpf.me
 0.0.0.0 ikcode.baidu.com
 0.0.0.0 image.box.xiaomi.com
+0.0.0.0 image.p4p.sogou.com
 0.0.0.0 image.zzd.sm.cn
 0.0.0.0 imagzine.oppomobile.com
 0.0.0.0 imc.l.qq.com
@@ -1157,7 +1186,9 @@
 0.0.0.0 img.taotaosou.cn
 0.0.0.0 img.toppr.com.cn
 0.0.0.0 img.users.51.la
+0.0.0.0 img.wan.sogou.com
 0.0.0.0 i.mmcdn.cn
+0.0.0.0 imp.optaim.com
 0.0.0.0 impservice2.youdao.com
 0.0.0.0 impservice.chnl.youdao.com
 0.0.0.0 impservice.dictvista.youdao.com
@@ -1185,12 +1216,15 @@
 0.0.0.0 int.dpool.sina.com.cn
 0.0.0.0 interest.mix.sina.com.cn
 0.0.0.0 inte.sogou.com
+0.0.0.0 inte.theta.sogoucdn.com
 0.0.0.0 intf.cnzz.com
 0.0.0.0 ipinyou.com
 0.0.0.0 ir.mail.163.com
+0.0.0.0 irnvf.lu.sogou.com
 0.0.0.0 irpmt.mail.163.com
 0.0.0.0 i.stat.nearme.com.cn
 0.0.0.0 i.w55c.net
+0.0.0.0 iwan.sogou.com
 0.0.0.0 j.12306media.com
 0.0.0.0 j.appjiagu.com
 0.0.0.0 j.br.baidu.com
@@ -1210,6 +1244,7 @@
 0.0.0.0 jldnserror3.wo.com.cn
 0.0.0.0 jldnserror4.wo.com.cn
 0.0.0.0 jldnserror5.wo.com.cn
+0.0.0.0 jpg.inte.sogoucdn.com
 0.0.0.0 jpush.html5.qq.com
 0.0.0.0 jqmt.qq.com
 0.0.0.0 jrj.adsame.com
@@ -1222,6 +1257,7 @@
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.icast.cn
 0.0.0.0 jsmedia.adsame.com
+0.0.0.0 jsnp.golden1.sogou.com
 0.0.0.0 jsqmt.qq.com
 0.0.0.0 jssdk.cnzz.com
 0.0.0.0 js.stat.ijinshan.com
@@ -1242,6 +1278,8 @@
 0.0.0.0 kn.zzdahan.com
 0.0.0.0 kr.sybspools.com
 0.0.0.0 kstj.baidu.com
+0.0.0.0 kthxd.lu.sogou.com
+0.0.0.0 ktivn.uranus.sogou.com
 0.0.0.0 ku6.cnzz.com
 0.0.0.0 kuaikan.netmon.360safe.com
 0.0.0.0 kuyic.m.gxwztv.com
@@ -1266,6 +1304,7 @@
 0.0.0.0 livep.l.qq.com
 0.0.0.0 lives.l.qq.com
 0.0.0.0 liveupdate.mac.sandai.net
+0.0.0.0 lk.brand.sogou.com
 0.0.0.0 lm.dawenxue.org
 0.0.0.0 l.minisplat.cn
 0.0.0.0 lm.licenses.adobe.com
@@ -1293,6 +1332,7 @@
 0.0.0.0 log.web.kugou.com
 0.0.0.0 l.qq.com
 0.0.0.0 ls.l.qq.com
+0.0.0.0 lu.sogou.com
 0.0.0.0 lxcdn.dl.files.xiaomi.net
 0.0.0.0 m1268.oadz.com
 0.0.0.0 m1308.oadz.com
@@ -1392,6 +1432,7 @@
 0.0.0.0 m.laojiayoufang.com
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 mlog.search.xiaomi.net
+0.0.0.0 m.lu.sogou.com
 0.0.0.0 mm.admob.com
 0.0.0.0 mm.dopa.com.cn
 0.0.0.0 mmv.admob.com
@@ -1404,6 +1445,7 @@
 0.0.0.0 mobilelog.kugou.com
 0.0.0.0 mobile.qzone.qq.com
 0.0.0.0 mo.haloapps.cn
+0.0.0.0 moka.inte.sogoucdn.com
 0.0.0.0 monitor.uu.qq.com
 0.0.0.0 mo.res.wpscdn.cn
 0.0.0.0 mostat.wps.cn
@@ -1517,6 +1559,7 @@
 0.0.0.0 offnavi.map.baidu.com
 0.0.0.0 o.if.qidian.com
 0.0.0.0 oimagea2.ydstatic.com
+0.0.0.0 omg.inte.sogoucdn.com
 0.0.0.0 omgmta1.qq.com
 0.0.0.0 omgmta.qq.com
 0.0.0.0 o.minisplat.cn
@@ -1529,6 +1572,7 @@
 0.0.0.0 openrcv.baidu.com
 0.0.0.0 ope.tanx.com
 0.0.0.0 oppo.yidianzixun.com
+0.0.0.0 osc.uranus.sogou.com
 0.0.0.0 osfota.cdn.aliyun.com
 0.0.0.0 osupdateservice.yunos.com
 0.0.0.0 otf.msn.com
@@ -1540,6 +1584,7 @@
 0.0.0.0 p2.l.qq.com
 0.0.0.0 p3.l.qq.com
 0.0.0.0 p3p.mmstat.com
+0.0.0.0 p3p.sogou.com
 0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 p8u.hinet.net
 0.0.0.0 package01.com
@@ -1562,6 +1607,7 @@
 0.0.0.0 party-nngvitbizn.now.sh
 0.0.0.0 pat.farvd.com
 0.0.0.0 pb3.pstatp.com
+0.0.0.0 pbd.sogou.com
 0.0.0.0 pbs.lenovomm.com
 0.0.0.0 pb.sogou.com
 0.0.0.0 pb.wang502.com
@@ -1571,6 +1617,7 @@
 0.0.0.0 pcookie.tanx.com
 0.0.0.0 pc.quansj.cn
 0.0.0.0 pc.videoclick.baidu.com
+0.0.0.0 pcxzo.pluto.sogou.com
 0.0.0.0 pdc.micloud.xiaomi.net
 0.0.0.0 pd.dopa.com.cn
 0.0.0.0 pdl.gionee.com
@@ -1587,11 +1634,13 @@
 0.0.0.0 pic.neiyicun.net
 0.0.0.0 pics.taobaocdn.com
 0.0.0.0 pindao.huoban.taobao.com
+0.0.0.0 ping.acc.sogou.com
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingfore.tenpay.com
 0.0.0.0 pinghot.qq.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 ping.pinyin.sogou.com
+0.0.0.0 p.inte.sogou.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel-a.sitescout.com
@@ -1601,13 +1650,16 @@
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pix.impdesk.com
+0.0.0.0 pjyu.golden1.sogou.com
 0.0.0.0 p.kjwx8.com
 0.0.0.0 playinfo.gomlab.com
 0.0.0.0 plmkolp.m.58xs.tw
 0.0.0.0 p.l.qq.com
+0.0.0.0 p.lu.sogou.com
 0.0.0.0 pmc-d.openx.net
 0.0.0.0 pmir.3g.qq.com
 0.0.0.0 pms.mb.qq.com
+0.0.0.0 png.lu.sogoucdn.com
 0.0.0.0 popme.163.com
 0.0.0.0 pop.sjk.ijinshan.com
 0.0.0.0 popup.msn.com
@@ -1632,6 +1684,7 @@
 0.0.0.0 prw.lenovomm.com
 0.0.0.0 psb.lenovomm.com
 0.0.0.0 p.sdu8cvc.com
+0.0.0.0 psfq.gou.sogou.com
 0.0.0.0 ps.map.baidu.com
 0.0.0.0 p.store.qq.com
 0.0.0.0 p.tanx.com
@@ -1651,7 +1704,9 @@
 0.0.0.0 push.zhangyue.com
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 pv.anzhi.com
+0.0.0.0 pv.focus.cn
 0.0.0.0 pv.ra.icast.cn
+0.0.0.0 pv.sogou.com
 0.0.0.0 pvstat.html5.qq.com
 0.0.0.0 pw.cnzz.com
 0.0.0.0 pwj.biqugezw.com
@@ -1667,6 +1722,7 @@
 0.0.0.0 q14.cnzz.com
 0.0.0.0 q1.cnzz.com
 0.0.0.0 q.domob.cn
+0.0.0.0 qhl.bealge.sogou.com
 0.0.0.0 qhm1.cnzz.com
 0.0.0.0 qhm2.cnzz.com
 0.0.0.0 qianclick.baidu.com
@@ -1677,6 +1733,7 @@
 0.0.0.0 qss-client.qq.com
 0.0.0.0 qt002x.corp.youdao.com
 0.0.0.0 quote.51.la
+0.0.0.0 qxm.pluto.sogou.com
 0.0.0.0 r.254a.com
 0.0.0.0 r2.adwo.com
 0.0.0.0 r3 adwo.com
@@ -1702,6 +1759,7 @@
 0.0.0.0 rcv.union-wifi.com
 0.0.0.0 rd.ane.yahoo.co.jp
 0.0.0.0 rd.da.netease.com
+0.0.0.0 rd.e.sogou.com
 0.0.0.0 r.dmp.sina.cn
 0.0.0.0 r.domob.cn
 0.0.0.0 rdstat.tanx.com
@@ -1733,6 +1791,7 @@
 0.0.0.0 rigel.baidustatic.com
 0.0.0.0 river.zhidao.baidu.com
 0.0.0.0 rj.baidu.com
+0.0.0.0 rjgw.theta.sogou.com
 0.0.0.0 rj.m.taobao.co
 0.0.0.0 rj.m.taobao.com
 0.0.0.0 rl.go2yd.com
@@ -1742,6 +1801,7 @@
 0.0.0.0 r.mail.163.com
 0.0.0.0 rm.api.weibo.com
 0.0.0.0 rm.gdt.qq.com
+0.0.0.0 rmoeu.mercury.sogou.com
 0.0.0.0 rm.ra.icast.cn
 0.0.0.0 rm.sina.com.cn
 0.0.0.0 r.msn.com
@@ -1988,6 +2048,7 @@
 0.0.0.0 serve.popads.net
 0.0.0.0 server.m.pp.cn
 0.0.0.0 service.ad.adesk.com
+0.0.0.0 service.epro.sogou.com
 0.0.0.0 service.urchin.com
 0.0.0.0 sestat.baidu.com
 0.0.0.0 setting.crashlytics.com
@@ -2121,6 +2182,7 @@
 0.0.0.0 susapi.lenovomm.com
 0.0.0.0 sv.map.baidu.com
 0.0.0.0 swa.gtimg.com
+0.0.0.0 sw.mobile.sogou.com
 0.0.0.0 s.wrating.com
 0.0.0.0 swx.domob.cn
 0.0.0.0 sxdnserror1.wo.com.cn
@@ -2129,6 +2191,7 @@
 0.0.0.0 sxdnserror4.wo.com.cn
 0.0.0.0 sxdnserror5.wo.com.cn
 0.0.0.0 sxdnserror6.wo.com.cn
+0.0.0.0 sy.brand.sogou.com
 0.0.0.0 sync.1rx.io
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 sync.adotmob.com
@@ -2175,12 +2238,14 @@
 0.0.0.0 t-flow.flyme.cn
 0.0.0.0 t.gdt.qq.com
 0.0.0.0 tg.jifen.2345.com
+0.0.0.0 theta.sogoucdn.com
 0.0.0.0 tj.b.qq.com
 0.0.0.0 tj.kugou.com
 0.0.0.0 tjs.sjs.sinajs.cn
 0.0.0.0 tj.tongjiwo.com
 0.0.0.0 tj.video.qq.com
 0.0.0.0 tk.baidu.com
+0.0.0.0 tk.optaim.com
 0.0.0.0 tkweb.baidu.com
 0.0.0.0 t.l.qq.com
 0.0.0.0 tmn-d.openx.net
@@ -2262,6 +2327,7 @@
 0.0.0.0 union.discuz.qq.com
 0.0.0.0 unionimage.baidu.com
 0.0.0.0 union.mop.com
+0.0.0.0 union.sogou.com
 0.0.0.0 unitacs.m.taobao.com
 0.0.0.0 up1.tj.u2.ucweb.com
 0.0.0.0 up4.ucweb.com
@@ -2326,10 +2392,12 @@
 0.0.0.0 vip.51.la
 0.0.0.0 viqiyi.admaster.com.cn
 0.0.0.0 vjcyehtqm9.me
+0.0.0.0 vjoz.lu.sogou.com
 0.0.0.0 vl8c4g7tmo.me
 0.0.0.0 vletv.admaster.com.cn
 0.0.0.0 vmzqwz.cn
 0.0.0.0 vpic.video.qq.com
+0.0.0.0 vps.inte.sogou.com
 0.0.0.0 vqq.admaster.com.cn
 0.0.0.0 vsohu.admaster.com.cn
 0.0.0.0 vtechweb.adsame.com
@@ -2347,15 +2415,18 @@
 0.0.0.0 watson.microsoft.com
 0.0.0.0 wbapp.mobile.sina.cn
 0.0.0.0 wbapp.uve.weibo.com
+0.0.0.0 wb.brand.sogou.com
 0.0.0.0 wbclick.mobile.sina.cn
 0.0.0.0 wb.gtimg.com
 0.0.0.0 wbpctips.mobile.sina.cn
 0.0.0.0 w.cnzz.com
 0.0.0.0 w.domob.cn
+0.0.0.0 wds.inte.sogoucdn.com
 0.0.0.0 web1.51.la
 0.0.0.0 web2.51.la
 0.0.0.0 web.51.la
 0.0.0.0 webmine.cz
+0.0.0.0 web.sogou.com
 0.0.0.0 webstat.kuwo.cn
 0.0.0.0 web-track.go2yd.com
 0.0.0.0 weishi.baidu.com
@@ -2477,6 +2548,7 @@
 0.0.0.0 wth.lenovomm.com
 0.0.0.0 wtradv.market.xiaomi.com
 0.0.0.0 wujieliulan.com
+0.0.0.0 wuliao.epro.sogou.com
 0.0.0.0 wup.imtt.qq.com
 0.0.0.0 wuqdebjfhjas.bid
 0.0.0.0 ww6.adm-cnzz.net
@@ -2563,6 +2635,7 @@
 0.0.0.0 xinsheng.net
 0.0.0.0 xpcy.m.gxwztv.com
 0.0.0.0 xs.he9630.com
+0.0.0.0 xtruh.uranus.sogou.com
 0.0.0.0 xunlei.adx.admaster.com.cn
 0.0.0.0 xx.m.gxwztv.com
 0.0.0.0 xz-development.oss-cn-beijing.aliyuncs.com
@@ -2628,6 +2701,7 @@
 0.0.0.0 zs8.cnzz.com
 0.0.0.0 zs9.cnzz.com
 0.0.0.0 zt.adsage.com
+0.0.0.0 ztrpm.lu.sogou.com
 0.0.0.0 zvs1.cnzz.com
 0.0.0.0 zvs2.cnzz.com
 0.0.0.0 zymo.mps.weibo.com
@@ -2687,6 +2761,7 @@
 :: a1410.oadz.com
 :: a1491.oadz.com
 :: a1662.oadz.com
+:: a1click.cpc.sogou.com
 :: a2315.oadz.com
 :: a2397.oadz.com
 :: a3.allyes.com
@@ -2812,6 +2887,7 @@
 :: adsclick.qq.com
 :: adsco.re
 :: ads.creative-serving.com
+:: adsence.sogou.com
 :: adsense.html5.qq.com
 :: adserver.adtech.de
 :: adserver-us.adtech.advertising.com
@@ -2843,6 +2919,7 @@
 :: ads.stickyadstv.com
 :: adss.yahoo.com
 :: adstextview.qq.com
+:: adstream.123.sogoucdn.com
 :: adsunflower.com
 :: adsview2.qq.com
 :: adsview.qq.com
@@ -2907,6 +2984,7 @@
 :: allyesshafa.allyes.com
 :: alog.umengcloud.com
 :: alog.umeng.com
+:: alpha.brand.sogou.com
 :: ama.adwo.com
 :: amdc.m.taobao.com
 :: am.g.ireader.com
@@ -3012,6 +3090,7 @@
 :: aqqgli3vle.bid
 :: ard.yahoo.co.jp
 :: aries.mzres.com
+:: art.theta.sogoucdn.com
 :: asearch.alicdn.com
 :: asp.adsame.com
 :: assets.210189.com
@@ -3023,6 +3102,7 @@
 :: atanx2.alicdn.com
 :: atanx.alicdn.com
 :: a.tanx.com
+:: athena.wan.sogou.com
 :: a.tribalfusion.com
 :: at.umeng.com
 :: a.union.mi.com
@@ -3073,6 +3153,7 @@
 :: bigdata.adsunflower.com
 :: bigdata.adups.com
 :: bigdata.advmob.cn
+:: bite.theta.sogoucdn.com
 :: biz.live.xunlei.com
 :: biz.weibo.com
 :: bj.bcebos.com
@@ -3094,6 +3175,7 @@
 :: brand.sogou.com
 :: bro.flyme.cn
 :: browser.gwdang.com
+:: bsiet.husky.sogou.com
 :: bs.l.qq.com
 :: bss.pandora.xiaomi.com
 :: btlaunch.baidu.com
@@ -3154,6 +3236,8 @@
 :: cdn.districtm.io
 :: cdn.dragonstatic.com
 :: cdnimg.liehu.ijinshan.com
+:: cdn.lu.sogoucdn.com
+:: cdn.optaim.com
 :: cdn.popcash.net
 :: cdn.popmyads.com
 :: cdn.puata.info
@@ -3172,6 +3256,7 @@
 :: c-hzgt2.getui.com
 :: cjhq.baidu.com
 :: cj.qidian.com
+:: cjroq.bealge.sogou.com
 :: cleaner.baidu.com
 :: cl.he9630.com
 :: click1forhz.adsmogo.com
@@ -3191,6 +3276,7 @@
 :: click.wrating.com
 :: client.show.qq.com
 :: client.stats.yinyuetai.com
+:: clk.optaim.com
 :: clkservice2.dict.youdao.com
 :: clkservice.mail.youdao.com
 :: clkservice.union.youdao.com
@@ -3217,6 +3303,7 @@
 :: c.minisplat.cn
 :: cm.l.qq.com
 :: cm.netseer.com
+:: cm.optaim.com
 :: cm.p4p.cn.yahoo.com
 :: cm.pos.baidu.com
 :: cm.reachmax.cn
@@ -3315,6 +3402,7 @@
 :: count.mail.163.com
 :: countt.51yes.com
 :: count.video.sina.com.cn
+:: cpc.brand.sogou.com
 :: cpc.click.alimama.com
 :: cpc.sogou.com
 :: cpro2.baidu.com
@@ -3427,6 +3515,7 @@
 :: dl.union.ijinshan.com
 :: dl-vip.bav.baidu.com
 :: dl-vip.pcfaster.baidu.co.th
+:: dl.wan.sogoucdn.com
 :: dl.youjia2016.com
 :: dm.bytedance.com
 :: dmp.adpush.cn
@@ -3470,7 +3559,9 @@
 :: drmcmm.baidu.com
 :: ds.jlbksy.com
 :: dsp.adfarm1.adition.com
+:: dsp.brand.sogou.com
 :: ds-pc.admsger.com
+:: dspcm.brand.sogou.com
 :: dspimg.adsame.com
 :: dsp-impr2.youdao.com
 :: dsp-impr.youdao.com
@@ -3513,12 +3604,15 @@
 :: eee.ttyy888.co
 :: e.emgwq.com
 :: ef-dongfeng.tanx.com
+:: eff.inte.sogou.com
+:: eff.lu.sogou.com
 :: ef.opendsp.tanx.com
 :: e.fstaw.com
 :: ef.tanx.com
 :: e.hellomingpian.com
 :: ei.cnzz.com
 :: eiv.baidu.com
+:: ejzr.golden1.sogou.com
 :: e.kewro.com
 :: engine.lvehaisen.com
 :: engine.tuia.cn
@@ -3560,6 +3654,7 @@
 :: f2.p0y.cn
 :: f3.mi-stat.gslb.mi-idc.com
 :: fa.163.com
+:: fair.sogou.com
 :: falundata.com
 :: falundata.org
 :: fanxing.kugou.com
@@ -3575,6 +3670,7 @@
 :: fge9vbrzwt.bid
 :: fgmtv.org
 :: file.ipinyou.com.cn
+:: files2.sogou.com
 :: files.adform.net
 :: fm.p0y.cn
 :: fm.qzone.qq.com
@@ -3594,10 +3690,12 @@
 :: fw.adsafeprotected.com
 :: fw.qq.com
 :: fxc.aiquxs.com
+:: fych.uranus.sogou.com
 :: fz863.com
 :: g1.163.com
 :: g.163.com
 :: galaxy.bjcathay.com
+:: galaxy.sogoucdn.com
 :: gamead.swjoy.com
 :: game.adwo.com
 :: gamebox.kugou.com
@@ -3614,6 +3712,7 @@
 :: get.sogou.com
 :: ggle.lywf.me
 :: g.haluoha.com
+:: gif.lu.sogoucdn.com
 :: gimg.baidu.com
 :: gload.adhood.com
 :: global.msads.net
@@ -3626,6 +3725,7 @@
 :: googlesyndication.com
 :: googletagmanager.com
 :: googletagservices.com
+:: goto.sogou.com
 :: green.erne.co
 :: g.sdk.look.360.cn
 :: guanjia.baidu.com
@@ -3637,6 +3737,7 @@
 :: g.wan.2345.com
 :: g.wrating.com
 :: gxb.mmstat.com
+:: gxe.husky.sogou.com
 :: gzs20.cnzz.com
 :: h5.holalauncher.com
 :: h5.mse.360.cn
@@ -3691,6 +3792,7 @@
 :: hs.qhupdate.com
 :: httpdns.push.oppomobile.com
 :: httpring.qq.com
+:: ht.www.sogou.com
 :: hub5pn.wap.sandai.net
 :: huichuan.sm.cn
 :: huid.ad.360.cn
@@ -3752,6 +3854,7 @@
 :: iisl7wpf.me
 :: ikcode.baidu.com
 :: image.box.xiaomi.com
+:: image.p4p.sogou.com
 :: image.zzd.sm.cn
 :: imagzine.oppomobile.com
 :: imc.l.qq.com
@@ -3778,7 +3881,9 @@
 :: img.taotaosou.cn
 :: img.toppr.com.cn
 :: img.users.51.la
+:: img.wan.sogou.com
 :: i.mmcdn.cn
+:: imp.optaim.com
 :: impservice2.youdao.com
 :: impservice.chnl.youdao.com
 :: impservice.dictvista.youdao.com
@@ -3806,12 +3911,15 @@
 :: int.dpool.sina.com.cn
 :: interest.mix.sina.com.cn
 :: inte.sogou.com
+:: inte.theta.sogoucdn.com
 :: intf.cnzz.com
 :: ipinyou.com
 :: ir.mail.163.com
+:: irnvf.lu.sogou.com
 :: irpmt.mail.163.com
 :: i.stat.nearme.com.cn
 :: i.w55c.net
+:: iwan.sogou.com
 :: j.12306media.com
 :: j.appjiagu.com
 :: j.br.baidu.com
@@ -3831,6 +3939,7 @@
 :: jldnserror3.wo.com.cn
 :: jldnserror4.wo.com.cn
 :: jldnserror5.wo.com.cn
+:: jpg.inte.sogoucdn.com
 :: jpush.html5.qq.com
 :: jqmt.qq.com
 :: jrj.adsame.com
@@ -3843,6 +3952,7 @@
 :: js.hs-analytics.net
 :: js.icast.cn
 :: jsmedia.adsame.com
+:: jsnp.golden1.sogou.com
 :: jsqmt.qq.com
 :: jssdk.cnzz.com
 :: js.stat.ijinshan.com
@@ -3863,6 +3973,8 @@
 :: kn.zzdahan.com
 :: kr.sybspools.com
 :: kstj.baidu.com
+:: kthxd.lu.sogou.com
+:: ktivn.uranus.sogou.com
 :: ku6.cnzz.com
 :: kuaikan.netmon.360safe.com
 :: kuyic.m.gxwztv.com
@@ -3887,6 +3999,7 @@
 :: livep.l.qq.com
 :: lives.l.qq.com
 :: liveupdate.mac.sandai.net
+:: lk.brand.sogou.com
 :: lm.dawenxue.org
 :: l.minisplat.cn
 :: lm.licenses.adobe.com
@@ -3914,6 +4027,7 @@
 :: log.web.kugou.com
 :: l.qq.com
 :: ls.l.qq.com
+:: lu.sogou.com
 :: lxcdn.dl.files.xiaomi.net
 :: m1268.oadz.com
 :: m1308.oadz.com
@@ -4013,6 +4127,7 @@
 :: m.laojiayoufang.com
 :: mlb.did.ijinshan.com
 :: mlog.search.xiaomi.net
+:: m.lu.sogou.com
 :: mm.admob.com
 :: mm.dopa.com.cn
 :: mmv.admob.com
@@ -4025,6 +4140,7 @@
 :: mobilelog.kugou.com
 :: mobile.qzone.qq.com
 :: mo.haloapps.cn
+:: moka.inte.sogoucdn.com
 :: monitor.uu.qq.com
 :: mo.res.wpscdn.cn
 :: mostat.wps.cn
@@ -4138,6 +4254,7 @@
 :: offnavi.map.baidu.com
 :: o.if.qidian.com
 :: oimagea2.ydstatic.com
+:: omg.inte.sogoucdn.com
 :: omgmta1.qq.com
 :: omgmta.qq.com
 :: o.minisplat.cn
@@ -4150,6 +4267,7 @@
 :: openrcv.baidu.com
 :: ope.tanx.com
 :: oppo.yidianzixun.com
+:: osc.uranus.sogou.com
 :: osfota.cdn.aliyun.com
 :: osupdateservice.yunos.com
 :: otf.msn.com
@@ -4161,6 +4279,7 @@
 :: p2.l.qq.com
 :: p3.l.qq.com
 :: p3p.mmstat.com
+:: p3p.sogou.com
 :: p4psearch.china.alibaba.com
 :: p8u.hinet.net
 :: package01.com
@@ -4183,6 +4302,7 @@
 :: party-nngvitbizn.now.sh
 :: pat.farvd.com
 :: pb3.pstatp.com
+:: pbd.sogou.com
 :: pbs.lenovomm.com
 :: pb.sogou.com
 :: pb.wang502.com
@@ -4192,6 +4312,7 @@
 :: pcookie.tanx.com
 :: pc.quansj.cn
 :: pc.videoclick.baidu.com
+:: pcxzo.pluto.sogou.com
 :: pdc.micloud.xiaomi.net
 :: pd.dopa.com.cn
 :: pdl.gionee.com
@@ -4208,11 +4329,13 @@
 :: pic.neiyicun.net
 :: pics.taobaocdn.com
 :: pindao.huoban.taobao.com
+:: ping.acc.sogou.com
 :: pingfore.qq.com
 :: pingfore.tenpay.com
 :: pinghot.qq.com
 :: pingma.qq.com
 :: ping.pinyin.sogou.com
+:: p.inte.sogou.com
 :: pixel.adsafeprotected.com
 :: pixel.advertising.com
 :: pixel-a.sitescout.com
@@ -4222,13 +4345,16 @@
 :: pixel.sitescout.com
 :: pixel.tapad.com
 :: pix.impdesk.com
+:: pjyu.golden1.sogou.com
 :: p.kjwx8.com
 :: playinfo.gomlab.com
 :: plmkolp.m.58xs.tw
 :: p.l.qq.com
+:: p.lu.sogou.com
 :: pmc-d.openx.net
 :: pmir.3g.qq.com
 :: pms.mb.qq.com
+:: png.lu.sogoucdn.com
 :: popme.163.com
 :: pop.sjk.ijinshan.com
 :: popup.msn.com
@@ -4253,6 +4379,7 @@
 :: prw.lenovomm.com
 :: psb.lenovomm.com
 :: p.sdu8cvc.com
+:: psfq.gou.sogou.com
 :: ps.map.baidu.com
 :: p.store.qq.com
 :: p.tanx.com
@@ -4272,7 +4399,9 @@
 :: push.zhangyue.com
 :: push.zhanzhang.baidu.com
 :: pv.anzhi.com
+:: pv.focus.cn
 :: pv.ra.icast.cn
+:: pv.sogou.com
 :: pvstat.html5.qq.com
 :: pw.cnzz.com
 :: pwj.biqugezw.com
@@ -4288,6 +4417,7 @@
 :: q14.cnzz.com
 :: q1.cnzz.com
 :: q.domob.cn
+:: qhl.bealge.sogou.com
 :: qhm1.cnzz.com
 :: qhm2.cnzz.com
 :: qianclick.baidu.com
@@ -4298,6 +4428,7 @@
 :: qss-client.qq.com
 :: qt002x.corp.youdao.com
 :: quote.51.la
+:: qxm.pluto.sogou.com
 :: r.254a.com
 :: r2.adwo.com
 :: r3 adwo.com
@@ -4323,6 +4454,7 @@
 :: rcv.union-wifi.com
 :: rd.ane.yahoo.co.jp
 :: rd.da.netease.com
+:: rd.e.sogou.com
 :: r.dmp.sina.cn
 :: r.domob.cn
 :: rdstat.tanx.com
@@ -4354,6 +4486,7 @@
 :: rigel.baidustatic.com
 :: river.zhidao.baidu.com
 :: rj.baidu.com
+:: rjgw.theta.sogou.com
 :: rj.m.taobao.co
 :: rj.m.taobao.com
 :: rl.go2yd.com
@@ -4363,6 +4496,7 @@
 :: r.mail.163.com
 :: rm.api.weibo.com
 :: rm.gdt.qq.com
+:: rmoeu.mercury.sogou.com
 :: rm.ra.icast.cn
 :: rm.sina.com.cn
 :: r.msn.com
@@ -4609,6 +4743,7 @@
 :: serve.popads.net
 :: server.m.pp.cn
 :: service.ad.adesk.com
+:: service.epro.sogou.com
 :: service.urchin.com
 :: sestat.baidu.com
 :: setting.crashlytics.com
@@ -4742,6 +4877,7 @@
 :: susapi.lenovomm.com
 :: sv.map.baidu.com
 :: swa.gtimg.com
+:: sw.mobile.sogou.com
 :: s.wrating.com
 :: swx.domob.cn
 :: sxdnserror1.wo.com.cn
@@ -4750,6 +4886,7 @@
 :: sxdnserror4.wo.com.cn
 :: sxdnserror5.wo.com.cn
 :: sxdnserror6.wo.com.cn
+:: sy.brand.sogou.com
 :: sync.1rx.io
 :: sync.adaptv.advertising.com
 :: sync.adotmob.com
@@ -4796,12 +4933,14 @@
 :: t-flow.flyme.cn
 :: t.gdt.qq.com
 :: tg.jifen.2345.com
+:: theta.sogoucdn.com
 :: tj.b.qq.com
 :: tj.kugou.com
 :: tjs.sjs.sinajs.cn
 :: tj.tongjiwo.com
 :: tj.video.qq.com
 :: tk.baidu.com
+:: tk.optaim.com
 :: tkweb.baidu.com
 :: t.l.qq.com
 :: tmn-d.openx.net
@@ -4883,6 +5022,7 @@
 :: union.discuz.qq.com
 :: unionimage.baidu.com
 :: union.mop.com
+:: union.sogou.com
 :: unitacs.m.taobao.com
 :: up1.tj.u2.ucweb.com
 :: up4.ucweb.com
@@ -4947,10 +5087,12 @@
 :: vip.51.la
 :: viqiyi.admaster.com.cn
 :: vjcyehtqm9.me
+:: vjoz.lu.sogou.com
 :: vl8c4g7tmo.me
 :: vletv.admaster.com.cn
 :: vmzqwz.cn
 :: vpic.video.qq.com
+:: vps.inte.sogou.com
 :: vqq.admaster.com.cn
 :: vsohu.admaster.com.cn
 :: vtechweb.adsame.com
@@ -4968,15 +5110,18 @@
 :: watson.microsoft.com
 :: wbapp.mobile.sina.cn
 :: wbapp.uve.weibo.com
+:: wb.brand.sogou.com
 :: wbclick.mobile.sina.cn
 :: wb.gtimg.com
 :: wbpctips.mobile.sina.cn
 :: w.cnzz.com
 :: w.domob.cn
+:: wds.inte.sogoucdn.com
 :: web1.51.la
 :: web2.51.la
 :: web.51.la
 :: webmine.cz
+:: web.sogou.com
 :: webstat.kuwo.cn
 :: web-track.go2yd.com
 :: weishi.baidu.com
@@ -5098,6 +5243,7 @@
 :: wth.lenovomm.com
 :: wtradv.market.xiaomi.com
 :: wujieliulan.com
+:: wuliao.epro.sogou.com
 :: wup.imtt.qq.com
 :: wuqdebjfhjas.bid
 :: ww6.adm-cnzz.net
@@ -5184,6 +5330,7 @@
 :: xinsheng.net
 :: xpcy.m.gxwztv.com
 :: xs.he9630.com
+:: xtruh.uranus.sogou.com
 :: xunlei.adx.admaster.com.cn
 :: xx.m.gxwztv.com
 :: xz-development.oss-cn-beijing.aliyuncs.com
@@ -5249,6 +5396,7 @@
 :: zs8.cnzz.com
 :: zs9.cnzz.com
 :: zt.adsage.com
+:: ztrpm.lu.sogou.com
 :: zvs1.cnzz.com
 :: zvs2.cnzz.com
 :: zymo.mps.weibo.com
