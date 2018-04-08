@@ -16,15 +16,13 @@
 - 克制：我们保证**不因个人喜好屏蔽非广告有关网站**；我们会仔细研究和分析，**我们不会随意屏蔽任何一个域名**
 - 负责：我们不搞“捐赠才能反馈”、不搞 VIP 特权。**所有用户都应该能免费、完整地使用本项目、自由地反馈问题**
 
-> 打着去广告 Hosts 的名义吸引用户使用，然而不断屏蔽与广告无关的地址，这样做和 GFW 又有什么区别？
-
 ## Download 下载
 
-### [Basic Hosts](https://neohosts.netlify.com/basic/hosts)
+### [Basic Hosts](https://hosts.nfz.moe/basic/hosts)
 
 > 基础、克制的数据，推荐所有用户使用。
 
-### [Full Hosts](https://neohosts.netlify.com/full/hosts)
+### [Full Hosts](https://hosts.nfz.moe/full/hosts)
 
 > 包含全部数据，仅推荐强迫症使用。相比 Basic Hosts，Full Hosts 额外屏蔽了以下内容：
 
@@ -38,7 +36,7 @@
 
 ## Docs 文档
 
-[neoHosts Wiki](https://neko-dev.github.io/neohosts/#/)
+[neoHosts Wiki](https://hosts.nfz.moe/#/)
 
 > neoHosts Wiki 使用 `docsify.js` 构建
 
