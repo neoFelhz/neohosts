@@ -220,7 +220,6 @@
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 analytics.spotify.com
 0.0.0.0 log.spotify.com
-0.0.0.0 spclient.wg.spotify.com
 #domob
 0.0.0.0 api.domob.cn
 0.0.0.0 c.domob.cn
