@@ -86,6 +86,7 @@
 0.0.0.0 abc.xtyx918.com
 0.0.0.0 a.beilamusi.com
 0.0.0.0 a.benshiw.net
+0.0.0.0 aboluowang.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 ac.atpanel.com
@@ -1033,6 +1034,7 @@
 0.0.0.0 goto.sogou.com
 0.0.0.0 green.erne.co
 0.0.0.0 g.sdk.look.360.cn
+0.0.0.0 guangming.org
 0.0.0.0 guanjia.baidu.com
 0.0.0.0 guess.union2.50bang.org
 0.0.0.0 gu.qlogo.cn
@@ -1410,6 +1412,7 @@
 0.0.0.0 m.guanren9.com
 0.0.0.0 m.hellomingpian.com
 0.0.0.0 m.hmzsfmjc.com
+0.0.0.0 mhradio.org
 0.0.0.0 migc.g.mi.com
 0.0.0.0 migcreport.g.mi.com
 0.0.0.0 mi.gdt.qq.com
@@ -1771,6 +1774,7 @@
 0.0.0.0 referrer.disqus.com
 0.0.0.0 release.baidu.com
 0.0.0.0 re.m.taobao.com
+0.0.0.0 renminbao.com
 0.0.0.0 report.adview.cn
 0.0.0.0 report.huatuo.qq.com
 0.0.0.0 report.qcloud.com
@@ -2042,6 +2046,7 @@
 0.0.0.0 sea.napi.ucweb.com
 0.0.0.0 sec-cdn.static.xiaomi.net
 0.0.0.0 sec.resource.xiaomi.net
+0.0.0.0 secretchina.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 security.browser.miui.com
 0.0.0.0 seen.hgo7r.cn
@@ -2064,6 +2069,7 @@
 0.0.0.0 shenyun.com
 0.0.0.0 shenyun.org
 0.0.0.0 shenyunperformingarts.org
+0.0.0.0 shenzhoufilm.com
 0.0.0.0 shizen-no-megumi.com
 0.0.0.0 shop.admin.yinyuetai.com
 0.0.0.0 shop.yinyuetai.com
@@ -2559,6 +2565,7 @@
 0.0.0.0 www.51.la
 0.0.0.0 www.706529.com
 0.0.0.0 www.716703.com
+0.0.0.0 www.aboluowang.com
 0.0.0.0 www.admarket.mobi
 0.0.0.0 www.admaster.com.cn
 0.0.0.0 www.adpush.cn
@@ -2588,6 +2595,7 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.guangming.org
 0.0.0.0 www.gz00005.top
 0.0.0.0 www.hao934.com
 0.0.0.0 www.hpqxznpb.bid
@@ -2596,6 +2604,7 @@
 0.0.0.0 www.linezing.com
 0.0.0.0 www.lvjian66.com
 0.0.0.0 www.mdpjnppsbjv.bid
+0.0.0.0 www.mhradio.org
 0.0.0.0 www.minesage.com
 0.0.0.0 www.monero.how
 0.0.0.0 www.ok365.com
@@ -2603,9 +2612,11 @@
 0.0.0.0 www.pro.cn
 0.0.0.0 www.remote88.com
 0.0.0.0 www.searchswapper.com
+0.0.0.0 www.secretchina.com
 0.0.0.0 www.shenyun.com
 0.0.0.0 www.shenyun.org
 0.0.0.0 www.shenyunperformingarts.org
+0.0.0.0 www.shenzhoufilm.com
 0.0.0.0 www.soundofhope.org
 0.0.0.0 www.tuidang.org
 0.0.0.0 www.tz-dsp.com
@@ -2620,6 +2631,7 @@
 0.0.0.0 www.yuanming.net
 0.0.0.0 www.yueyelive.com
 0.0.0.0 www.zhengjian.org
+0.0.0.0 www.zhengwunet.org
 0.0.0.0 www.zhuichaguoji.org
 0.0.0.0 w.x.baidu.com
 0.0.0.0 wx.xwjqr.com
@@ -2678,6 +2690,7 @@
 0.0.0.0 zh-cn.shenyun.com
 0.0.0.0 zh-cn.shenyun.org
 0.0.0.0 zhengjian.org
+0.0.0.0 zhengwunet.org
 0.0.0.0 zhuichaguoji.org
 0.0.0.0 zhushou.2345.com
 0.0.0.0 zhwnlapi.etouch.cn
@@ -2780,6 +2793,7 @@
 :: abc.xtyx918.com
 :: a.beilamusi.com
 :: a.benshiw.net
+:: aboluowang.com
 :: abtest.mistat.xiaomi.com
 :: ac3.msn.com
 :: ac.atpanel.com
@@ -3728,6 +3742,7 @@
 :: goto.sogou.com
 :: green.erne.co
 :: g.sdk.look.360.cn
+:: guangming.org
 :: guanjia.baidu.com
 :: guess.union2.50bang.org
 :: gu.qlogo.cn
@@ -4105,6 +4120,7 @@
 :: m.guanren9.com
 :: m.hellomingpian.com
 :: m.hmzsfmjc.com
+:: mhradio.org
 :: migc.g.mi.com
 :: migcreport.g.mi.com
 :: mi.gdt.qq.com
@@ -4466,6 +4482,7 @@
 :: referrer.disqus.com
 :: release.baidu.com
 :: re.m.taobao.com
+:: renminbao.com
 :: report.adview.cn
 :: report.huatuo.qq.com
 :: report.qcloud.com
@@ -4737,6 +4754,7 @@
 :: sea.napi.ucweb.com
 :: sec-cdn.static.xiaomi.net
 :: sec.resource.xiaomi.net
+:: secretchina.com
 :: securepubads.g.doubleclick.net
 :: security.browser.miui.com
 :: seen.hgo7r.cn
@@ -4759,6 +4777,7 @@
 :: shenyun.com
 :: shenyun.org
 :: shenyunperformingarts.org
+:: shenzhoufilm.com
 :: shizen-no-megumi.com
 :: shop.admin.yinyuetai.com
 :: shop.yinyuetai.com
@@ -5254,6 +5273,7 @@
 :: www.51.la
 :: www.706529.com
 :: www.716703.com
+:: www.aboluowang.com
 :: www.admarket.mobi
 :: www.admaster.com.cn
 :: www.adpush.cn
@@ -5283,6 +5303,7 @@
 :: www.googleadservices.com
 :: www.google-analytics.com
 :: www.googletagmanager.com
+:: www.guangming.org
 :: www.gz00005.top
 :: www.hao934.com
 :: www.hpqxznpb.bid
@@ -5291,6 +5312,7 @@
 :: www.linezing.com
 :: www.lvjian66.com
 :: www.mdpjnppsbjv.bid
+:: www.mhradio.org
 :: www.minesage.com
 :: www.monero.how
 :: www.ok365.com
@@ -5298,9 +5320,11 @@
 :: www.pro.cn
 :: www.remote88.com
 :: www.searchswapper.com
+:: www.secretchina.com
 :: www.shenyun.com
 :: www.shenyun.org
 :: www.shenyunperformingarts.org
+:: www.shenzhoufilm.com
 :: www.soundofhope.org
 :: www.tuidang.org
 :: www.tz-dsp.com
@@ -5315,6 +5339,7 @@
 :: www.yuanming.net
 :: www.yueyelive.com
 :: www.zhengjian.org
+:: www.zhengwunet.org
 :: www.zhuichaguoji.org
 :: w.x.baidu.com
 :: wx.xwjqr.com
@@ -5373,6 +5398,7 @@
 :: zh-cn.shenyun.com
 :: zh-cn.shenyun.org
 :: zhengjian.org
+:: zhengwunet.org
 :: zhuichaguoji.org
 :: zhushou.2345.com
 :: zhwnlapi.etouch.cn
