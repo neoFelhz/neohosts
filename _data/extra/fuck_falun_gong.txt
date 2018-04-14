@@ -44,3 +44,16 @@
 0.0.0.0 soundofhope.org
 0.0.0.0 www.wujieliulan.com
 0.0.0.0 wujieliulan.com
+0.0.0.0 www.zhengwunet.org
+0.0.0.0 zhengwunet.org
+0.0.0.0 www.guangming.org
+0.0.0.0 guangming.org
+0.0.0.0 www.mhradio.org
+0.0.0.0 mhradio.org
+0.0.0.0 www.aboluowang.com
+0.0.0.0 aboluowang.com
+0.0.0.0 renminbao.com
+0.0.0.0 www.secretchina.com
+0.0.0.0 secretchina.com
+0.0.0.0 www.shenzhoufilm.com
+0.0.0.0 shenzhoufilm.com
