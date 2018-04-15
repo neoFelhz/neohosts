@@ -74,7 +74,6 @@
 0.0.0.0 yun.rili.cn
 0.0.0.0 zhwnlapi.etouch.cn
 0.0.0.0 v2.fm.n.duokanbox.com
-0.0.0.0 ssp.ad.xiaomi.com
 0.0.0.0 sousuo.xm.sjzhushou.com
 0.0.0.0 info.3g.qq.com
 0.0.0.0 proxy.sec.miui.com
@@ -84,7 +83,6 @@
 0.0.0.0 wtradv.market.xiaomi.com
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 v2.reachmax.cn
-0.0.0.0 g.cn.miaozhen.com
 0.0.0.0 analytics3.starschina.com
 0.0.0.0 a.hl.mi.com
 0.0.0.0 api.jr.mi.com

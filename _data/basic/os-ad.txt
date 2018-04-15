@@ -58,7 +58,6 @@
 0.0.0.0 prw.lenovomm.com
 0.0.0.0 psb.lenovomm.com
 0.0.0.0 uss-pid.lenovomm.com
-0.0.0.0 wth.lenovomm.com
 0.0.0.0 yx.lenovomm.com
 0.0.0.0 lcs.dev.surepush.cn
 0.0.0.0 susapi.dev.surepush.cn

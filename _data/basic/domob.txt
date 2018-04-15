@@ -26,6 +26,7 @@
 0.0.0.0 z.domob.cn
 0.0.0.0 scc.domob.cn
 0.0.0.0 api.admob.com
+0.0.0.0 media.admob.com
 0.0.0.0 e.admob.com
 0.0.0.0 c.admob.com
 0.0.0.0 media.admob.com

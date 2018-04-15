@@ -1,0 +1,17 @@
+0.0.0.0 i.l.inmobicdn.net
+0.0.0.0 au.w.inmobi.cn
+0.0.0.0 sdkm.w.inmobi.cn
+0.0.0.0 a.ai.inmobi.com
+0.0.0.0 api.w.inmobi.com
+0.0.0.0 apptv.w.inmobi.com
+0.0.0.0 au.w.inmobi.com
+0.0.0.0 c.w.inmobi.com
+0.0.0.0 cf.cdn.inmobi.com
+0.0.0.0 config-ltvp.inmobi.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 e-ltvp.inmobi.com
+0.0.0.0 et.w.inmobi.com
+0.0.0.0 i.w.inmobi.com
+0.0.0.0 rules-ltvp.inmobi.com
+0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 www.inmobi.com

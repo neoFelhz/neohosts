@@ -29,3 +29,4 @@
 0.0.0.0 tb104x.corp.youdao.com
 0.0.0.0 tb060x.corp.youdao.com
 0.0.0.0 adpublish.ydstatic.com
+0.0.0.0 rlogs.youdao.com

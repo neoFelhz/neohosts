@@ -161,6 +161,5 @@
 0.0.0.0 stat.v.baidu.com
 0.0.0.0 videopush.baidu.com
 0.0.0.0 wisepush.video.baidu.com
-0.0.0.0 duapps.com
 0.0.0.0 ad.duapps.com
 0.0.0.0 api.mobula.sdk.duapps.com

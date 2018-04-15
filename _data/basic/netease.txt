@@ -4,7 +4,6 @@
 0.0.0.0 n.3g.163.com
 0.0.0.0 adgeo.163.com
 0.0.0.0 iad.g.163.com
-0.0.0.0 crashlytics.163.com
 0.0.0.0 count.mail.163.com
 0.0.0.0 r.mail.163.com
 0.0.0.0 ir.mail.163.com
@@ -12,14 +11,11 @@
 0.0.0.0 rec.g.163.com
 0.0.0.0 g.163.com
 0.0.0.0 g1.163.com
-0.0.0.0 analytics.ws.126.net
 0.0.0.0 android.push.126.net
 0.0.0.0 img1.126.net
 0.0.0.0 img2.126.net
-0.0.0.0 m.analytics.126.net
 0.0.0.0 news.push.126.net
 0.0.0.0 haitaoad.nosdn.127.net
-0.0.0.0 analytics.hz.netease.com
 0.0.0.0 statis.push.netease.com
 0.0.0.0 popme.163.com
 0.0.0.0 bobo.163.com
@@ -30,6 +26,5 @@
 0.0.0.0 oimagea2.ydstatic.com
 0.0.0.0 pagechoice.net
 0.0.0.0 prom.gome.com.cn
-0.0.0.0 rlogs.youdao.com
 0.0.0.0 static.flv.uuzuonline.com
 0.0.0.0 wanproxy.127.net

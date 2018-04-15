@@ -4,7 +4,6 @@
 0.0.0.0 gamebox.kugou.com
 0.0.0.0 install.kugou.com
 0.0.0.0 log.stat.kugou.com
-0.0.0.0 minidcsc.kugou.com
 0.0.0.0 mvads.kugou.com
 0.0.0.0 sdn.kugou.com
 0.0.0.0 tj.kugou.com

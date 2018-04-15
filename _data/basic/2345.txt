@@ -1,0 +1,8 @@
+0.0.0.0 zhushou.2345.com
+0.0.0.0 jifen.2345.com
+0.0.0.0 tg.jifen.2345.com
+0.0.0.0 wan.2345.com
+0.0.0.0 app.50bang.org
+0.0.0.0 guess.union2.50bang.org
+0.0.0.0 js.50bang.org
+0.0.0.0 union2.50bang.org
