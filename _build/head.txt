@@ -1,9 +1,10 @@
 #*********************************************************
 # Copyright (c), Neko Dev Team & neoHosts Team.
-# https://github.com/neko-dev/neohosts
+# https://github.com/neofelhz/neohosts
 #
-# This work is licensed under a Hosts License.
-# https://github.com/neko-dev/neohosts/blob/data/LICENSE
+# This work is licensed under a MIT License.
+# https://github.com/neofelhz/neohosts/blob/data/LICENSE
+#
 #*********************************************************
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1 localhost
