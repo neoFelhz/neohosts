@@ -380,6 +380,7 @@
 0.0.0.0 au.umeng.com
 0.0.0.0 a.waczt.cn
 0.0.0.0 ax.ggfeng.com
+0.0.0.0 a.youdao.com
 0.0.0.0 azabu-u.ac.jp
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 badad.googleplex.com
@@ -843,7 +844,7 @@
 0.0.0.0 file.ipinyou.com.cn
 0.0.0.0 files2.sogou.com
 0.0.0.0 files.adform.net
-0.0.0.0 flurry.cachefly.net0.0.0.0 a.youdao.com
+0.0.0.0 flurry.cachefly.net
 0.0.0.0 flurry.com
 0.0.0.0 fm.ipinyou.com
 0.0.0.0 fm.p0y.cn
@@ -2428,6 +2429,7 @@
 :: au.umeng.com
 :: a.waczt.cn
 :: ax.ggfeng.com
+:: a.youdao.com
 :: azabu-u.ac.jp
 :: b1sync.zemanta.com
 :: badad.googleplex.com
@@ -2892,7 +2894,7 @@
 :: file.ipinyou.com.cn
 :: files2.sogou.com
 :: files.adform.net
-:: flurry.cachefly.net:: a.youdao.com
+:: flurry.cachefly.net
 :: flurry.com
 :: fm.ipinyou.com
 :: fm.p0y.cn

@@ -501,6 +501,7 @@
 0.0.0.0 avualrhg9p.bid
 0.0.0.0 a.waczt.cn
 0.0.0.0 ax.ggfeng.com
+0.0.0.0 a.youdao.com
 0.0.0.0 azabu-u.ac.jp
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 badad.googleplex.com
@@ -1171,7 +1172,7 @@
 0.0.0.0 files2.sogou.com
 0.0.0.0 files.adform.net
 0.0.0.0 fim.adnxs.com
-0.0.0.0 flurry.cachefly.net0.0.0.0 a.youdao.com
+0.0.0.0 flurry.cachefly.net
 0.0.0.0 flurry.com
 0.0.0.0 fm.ipinyou.com
 0.0.0.0 fm.p0y.cn
@@ -3857,6 +3858,7 @@
 :: avualrhg9p.bid
 :: a.waczt.cn
 :: ax.ggfeng.com
+:: a.youdao.com
 :: azabu-u.ac.jp
 :: b1sync.zemanta.com
 :: badad.googleplex.com
@@ -4528,7 +4530,7 @@
 :: files2.sogou.com
 :: files.adform.net
 :: fim.adnxs.com
-:: flurry.cachefly.net:: a.youdao.com
+:: flurry.cachefly.net
 :: flurry.com
 :: fm.ipinyou.com
 :: fm.p0y.cn
