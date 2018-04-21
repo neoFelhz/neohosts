@@ -150,7 +150,6 @@
 0.0.0.0 py.qlogo.cn
 0.0.0.0 py2.qlogo.cn
 0.0.0.0 q.i.gdt.qq.com
-0.0.0.0 qqadapt.qpic.cn
 0.0.0.0 qss-client.qq.com
 0.0.0.0 rh.qq.com
 0.0.0.0 rich.qq.com
