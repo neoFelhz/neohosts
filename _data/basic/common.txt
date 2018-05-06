@@ -158,10 +158,10 @@
 0.0.0.0 api.domob.cn
 0.0.0.0 c.domob.cn
 0.0.0.0 domob.cn
-0.0.0.0 0.0.0.0.com.cn
+0.0.0.0 domob.com.cn
 0.0.0.0 dvx-android.domob.cn
 0.0.0.0 e.domob.cn
-0.0.0.0 e.0.0.0.0.com.cn
+0.0.0.0 e.domob.com.cn
 0.0.0.0 r.domob.cn
 0.0.0.0 r.ow.domob.cn
 0.0.0.0 s.domob.cn
