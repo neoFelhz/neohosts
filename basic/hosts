@@ -13,7 +13,6 @@
 ::1 ip6-loopback
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
-0.0.0.0 0.0.0.0.com.cn
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
 0.0.0.0 1148.adsina.allyes.com
@@ -255,6 +254,7 @@
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 a.global.msads.net
 0.0.0.0 agoodm.m.taobao.com
+0.0.0.0 agoodm.wapa.taobao.com
 0.0.0.0 a.hl.mi.com
 0.0.0.0 a.holagames.com
 0.0.0.0 aider-res.meizu.com
@@ -737,6 +737,7 @@
 0.0.0.0 dolphin.deliver.ifeng.com
 0.0.0.0 dol.tianya.cn
 0.0.0.0 domob.cn
+0.0.0.0 domob.com.cn
 0.0.0.0 dorangesource.alicdn.com
 0.0.0.0 down.dashendown.com
 0.0.0.0 download.adsage.com
@@ -772,7 +773,6 @@
 0.0.0.0 dxp.baidu.com
 0.0.0.0 dxprla.m.qxs.la
 0.0.0.0 dzl.baidu.com
-0.0.0.0 e.0.0.0.0.com.cn
 0.0.0.0 e7free.allyes.com
 0.0.0.0 e.admob.com
 0.0.0.0 e.ad.xiaomi.com
@@ -785,6 +785,7 @@
 0.0.0.0 ecmc.bdimg.com
 0.0.0.0 ecpm.tanx.com
 0.0.0.0 e.domob.cn
+0.0.0.0 e.domob.com.cn
 0.0.0.0 eee.eh39.co
 0.0.0.0 eee.kj78.org
 0.0.0.0 eee.ttyy888.co
@@ -2304,6 +2305,7 @@
 :: afs.googlesyndication.com
 :: a.global.msads.net
 :: agoodm.m.taobao.com
+:: agoodm.wapa.taobao.com
 :: a.hl.mi.com
 :: a.holagames.com
 :: aider-res.meizu.com
@@ -2615,7 +2617,6 @@
 :: cnzz.mmstat.com
 :: coed-d.openx.net
 :: col.hztags.net
-:: ::.com.cn
 :: config.adsage.cn
 :: config.adsage.com
 :: config.adview.cn
@@ -2787,6 +2788,7 @@
 :: dolphin.deliver.ifeng.com
 :: dol.tianya.cn
 :: domob.cn
+:: domob.com.cn
 :: dorangesource.alicdn.com
 :: down.dashendown.com
 :: download.adsage.com
@@ -2832,9 +2834,9 @@
 :: ecma.bdimg.com
 :: ecmb.bdimg.com
 :: ecmc.bdimg.com
-:: e.::.com.cn
 :: ecpm.tanx.com
 :: e.domob.cn
+:: e.domob.com.cn
 :: eee.eh39.co
 :: eee.kj78.org
 :: eee.ttyy888.co

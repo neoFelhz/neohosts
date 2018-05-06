@@ -13,7 +13,6 @@
 ::1 ip6-loopback
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
-0.0.0.0 0.0.0.0.com.cn
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0.r.msn.com
@@ -320,6 +319,7 @@
 0.0.0.0 a.global.msads.net
 0.0.0.0 ag.nukefans.net
 0.0.0.0 agoodm.m.taobao.com
+0.0.0.0 agoodm.wapa.taobao.com
 0.0.0.0 agr.voiceads.cn
 0.0.0.0 a.hl.mi.com
 0.0.0.0 a.holagames.com
@@ -997,6 +997,7 @@
 0.0.0.0 dolphin.deliver.ifeng.com
 0.0.0.0 dol.tianya.cn
 0.0.0.0 domob.cn
+0.0.0.0 domob.com.cn
 0.0.0.0 dongtaiwang.com
 0.0.0.0 dongtaiwang.org
 0.0.0.0 do-not-tracker.org
@@ -1050,7 +1051,6 @@
 0.0.0.0 d.yoyi.com.cn
 0.0.0.0 d.yoyi.tv
 0.0.0.0 dzl.baidu.com
-0.0.0.0 e.0.0.0.0.com.cn
 0.0.0.0 e.28487.net
 0.0.0.0 e7free.allyes.com
 0.0.0.0 e.admin60.com
@@ -1076,6 +1076,7 @@
 0.0.0.0 ecpm.tanx.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 e.domob.cn
+0.0.0.0 e.domob.com.cn
 0.0.0.0 eee.eh39.co
 0.0.0.0 eee.kj78.org
 0.0.0.0 eee.ttyy888.co
@@ -3677,6 +3678,7 @@
 :: a.global.msads.net
 :: ag.nukefans.net
 :: agoodm.m.taobao.com
+:: agoodm.wapa.taobao.com
 :: agr.voiceads.cn
 :: a.hl.mi.com
 :: a.holagames.com
@@ -4127,7 +4129,6 @@
 :: coinminerz.com
 :: coinnebula.com
 :: col.hztags.net
-:: ::.com.cn
 :: conde.adsame.com
 :: config.adsage.cn
 :: config.adsage.com
@@ -4355,6 +4356,7 @@
 :: dolphin.deliver.ifeng.com
 :: dol.tianya.cn
 :: domob.cn
+:: domob.com.cn
 :: dongtaiwang.com
 :: dongtaiwang.org
 :: do-not-tracker.org
@@ -4430,10 +4432,10 @@
 :: ecmb.bdimg.com
 :: ecmc.bdimg.com
 :: e.cn.miaozhen.com
-:: e.::.com.cn
 :: ecpm.tanx.com
 :: e.crashlytics.com
 :: e.domob.cn
+:: e.domob.com.cn
 :: eee.eh39.co
 :: eee.kj78.org
 :: eee.ttyy888.co
