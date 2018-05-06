@@ -30,3 +30,14 @@ rm ./_build/tmp/full/2.txt
 rm ./_build/tmp/full/3.txt
 rm ./_build/tmp/full/4.txt
 rm ./_build/tmp/full/5.txt
+
+echo "Building hosts with redirecting to 127.0.0.1 . . ."
+cp ./_build/tmp/basic/hosts ./_build/tmp/1.txt
+sed -i 's|0.0.0.0|127.0.0.1|g' ./_build/tmp/1.txt
+cp ./_build/tmp/full/hosts ./_build/tmp/2.txt
+sed -i 's|0.0.0.0|127.0.0.1|g' ./_build/tmp/2.txt
+cat ./_build/tmp/1.txt > ./_build/tmp/127.0.0.1/basic/hosts
+cat ./_build/tmp/2.txt > ./_build/tmp/127.0.0.1/full/hosts
+echo "Cleaning tmp . . ."
+rm ./_build/tmp/1.txt
+rm ./_build/tmp/2.txt
