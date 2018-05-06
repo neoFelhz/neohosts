@@ -6,7 +6,7 @@
 
 <p align="center">
 <img alt="Author" src="https://img.shields.io/badge/Author-Neko%20Dev%20Team%20&%20neoHosts%20Team-blue.svg?style=flat-square"/>
-<a href="https://travis-ci.org/neko-dev/neohosts"><img alt="Build Status" src="https://img.shields.io/travis/neko-dev/neohosts.svg?style=flat-square"/></a>
+<a href="https://travis-ci.org/neko-dev/neohosts"><img alt="Build Status" src="https://img.shields.io/travis/neoFelhz/neohosts.svg?style=flat-square"/></a>
 <a href="https://github.com/neko-dev/neohosts/blob/data/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Hosts%20License%20&%20SATA-757575.svg?style=flat-square"/></a>
 </p>
 
@@ -33,6 +33,15 @@
 - 360 和百度的部分软件下载
 - CNNIC 根证书劫持
 - 法轮功等境外反华势力网站
+
+### [Basic Compatible Hosts](https://hosts.nfz.moe/127.0.0.1/basic/hosts)
+
+> 基于 Basic Hosts，广告域名会被定向至 127.0.0.1 而不是 0.0.0.0，兼容性更好。
+
+### [Full Compatible Hosts](https://hosts.nfz.moe/127.0.0.1/full/hosts)
+
+> 基于 Full Hosts，广告域名会被定向至 127.0.0.1 而不是 0.0.0.0，兼容性更好。
+
 
 ## Docs 文档
 

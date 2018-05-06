@@ -15,3 +15,11 @@
 - 360 和百度的部分软件下载
 - CNNIC 根证书劫持
 - 法轮功等境外反华势力网站
+
+### [Basic Compatible Hosts](https://hosts.nfz.moe/127.0.0.1/basic/hosts)
+
+> 基于 Basic Hosts，广告域名会被定向至 127.0.0.1 而不是 0.0.0.0，兼容性更好。
+
+### [Full Compatible Hosts](https://hosts.nfz.moe/127.0.0.1/full/hosts)
+
+> 基于 Full Hosts，广告域名会被定向至 127.0.0.1 而不是 0.0.0.0，兼容性更好。
