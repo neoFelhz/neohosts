@@ -15,7 +15,7 @@
 0.0.0.0 pro.cn
 0.0.0.0 ssp.pro.cn
 0.0.0.0 www.pro.cn
- ADPush
+#ADPush
 0.0.0.0 dmp.adpush.cn
 0.0.0.0 img.adpush.cn
 0.0.0.0 net.adpush.cn
