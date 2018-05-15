@@ -3,9 +3,7 @@ dist: trusty
 script:
   - chmod +x ./_build/deploy.sh
   - chmod +x ./_build/build.sh
-  - chmod +x ./_build/mikrotik.sh
-  - ./_build/build.sh
-  - ./_build/mikrotik.sh 127.0.0.1
+  - ./_build/build.sh 127.0.0.1
   - ./_build/deploy.sh > /dev/null
 notifications:
   webhooks: https://fathomless-fjord-24024.herokuapp.com/notify?secret=helloworld
