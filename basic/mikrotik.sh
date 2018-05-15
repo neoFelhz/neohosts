@@ -2048,4 +2048,3 @@ ip dns static add address=127.0.0.1 name=zt.adsage.com
 ip dns static add address=127.0.0.1 name=ztrpm.lu.sogou.com
 ip dns static add address=127.0.0.1 name=zymo.mps.weibo.com
 ip dns static add address=127.0.0.1 name=zz.bdstatic.com
- ADPush
