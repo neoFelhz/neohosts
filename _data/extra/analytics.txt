@@ -23,7 +23,6 @@
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.yahoo.com
 # Bilibili
-0.0.0.0 data.bilibili.com
 0.0.0.0 cm.bilibili.com
 # 51LA
 0.0.0.0 ia.51.la

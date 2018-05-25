@@ -123,7 +123,6 @@
 0.0.0.0 hz.mmstat.com
 0.0.0.0 p3p.mmstat.com
 0.0.0.0 res.mmstat.com
-0.0.0.0 log.mmstat.com
 # Wrating
 0.0.0.0 163.wrating.com
 0.0.0.0 click.wrating.com
