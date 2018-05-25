@@ -1134,7 +1134,6 @@
 0.0.0.0 log.collect.yinyuetai.com
 0.0.0.0 log.cs.pp.cn
 0.0.0.0 log.mix.sina.com.cn
-0.0.0.0 log.mmstat.com
 0.0.0.0 log.music.baidu.com
 0.0.0.0 log.spotify.com
 0.0.0.0 log.stat.kugou.com
@@ -1549,7 +1548,6 @@
 0.0.0.0 rmads.eu.msn.com
 0.0.0.0 rmads.msn.com
 0.0.0.0 r.mail.163.com
-0.0.0.0 rm.api.weibo.com
 0.0.0.0 rm.gdt.qq.com
 0.0.0.0 rmoeu.mercury.sogou.com
 0.0.0.0 rm.ra.icast.cn
@@ -3184,7 +3182,6 @@
 :: log.collect.yinyuetai.com
 :: log.cs.pp.cn
 :: log.mix.sina.com.cn
-:: log.mmstat.com
 :: log.music.baidu.com
 :: log.spotify.com
 :: log.stat.kugou.com
@@ -3599,7 +3596,6 @@
 :: rmads.eu.msn.com
 :: rmads.msn.com
 :: r.mail.163.com
-:: rm.api.weibo.com
 :: rm.gdt.qq.com
 :: rmoeu.mercury.sogou.com
 :: rm.ra.icast.cn

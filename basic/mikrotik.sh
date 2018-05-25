@@ -1119,7 +1119,6 @@ ip dns static add address=127.0.0.1 name=lndnserror7.wo.com.cn
 ip dns static add address=127.0.0.1 name=log.collect.yinyuetai.com
 ip dns static add address=127.0.0.1 name=log.cs.pp.cn
 ip dns static add address=127.0.0.1 name=log.mix.sina.com.cn
-ip dns static add address=127.0.0.1 name=log.mmstat.com
 ip dns static add address=127.0.0.1 name=log.music.baidu.com
 ip dns static add address=127.0.0.1 name=log.spotify.com
 ip dns static add address=127.0.0.1 name=log.stat.kugou.com
@@ -1534,7 +1533,6 @@ ip dns static add address=127.0.0.1 name=rlogs.youdao.com
 ip dns static add address=127.0.0.1 name=rmads.eu.msn.com
 ip dns static add address=127.0.0.1 name=rmads.msn.com
 ip dns static add address=127.0.0.1 name=r.mail.163.com
-ip dns static add address=127.0.0.1 name=rm.api.weibo.com
 ip dns static add address=127.0.0.1 name=rm.gdt.qq.com
 ip dns static add address=127.0.0.1 name=rmoeu.mercury.sogou.com
 ip dns static add address=127.0.0.1 name=rm.ra.icast.cn

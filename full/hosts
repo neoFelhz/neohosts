@@ -922,7 +922,6 @@
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 databank.air.yoyi.com.cn
 0.0.0.0 databank.yoyi.com.cn
-0.0.0.0 data.bilibili.com
 0.0.0.0 data.flurry.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 datax.baidu.com
@@ -1641,7 +1640,6 @@
 0.0.0.0 log.cs.pp.cn
 0.0.0.0 log.he2d.com
 0.0.0.0 log.mix.sina.com.cn
-0.0.0.0 log.mmstat.com
 0.0.0.0 log.music.baidu.com
 0.0.0.0 log.spotify.com
 0.0.0.0 log.stat.kugou.com
@@ -2199,7 +2197,6 @@
 0.0.0.0 rmads.eu.msn.com
 0.0.0.0 rmads.msn.com
 0.0.0.0 r.mail.163.com
-0.0.0.0 rm.api.weibo.com
 0.0.0.0 rmd.atdmt.com
 0.0.0.0 rm.gdt.qq.com
 0.0.0.0 rmoeu.mercury.sogou.com
@@ -4280,7 +4277,6 @@
 :: data.ads.oppomobile.com
 :: databank.air.yoyi.com.cn
 :: databank.yoyi.com.cn
-:: data.bilibili.com
 :: data.flurry.com
 :: data.mistat.xiaomi.com
 :: datax.baidu.com
@@ -4999,7 +4995,6 @@
 :: log.cs.pp.cn
 :: log.he2d.com
 :: log.mix.sina.com.cn
-:: log.mmstat.com
 :: log.music.baidu.com
 :: log.spotify.com
 :: log.stat.kugou.com
@@ -5557,7 +5552,6 @@
 :: rmads.eu.msn.com
 :: rmads.msn.com
 :: r.mail.163.com
-:: rm.api.weibo.com
 :: rmd.atdmt.com
 :: rm.gdt.qq.com
 :: rmoeu.mercury.sogou.com

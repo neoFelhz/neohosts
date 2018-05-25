@@ -907,7 +907,6 @@ ip dns static add address=127.0.0.1 name=daohang.114so.cn
 ip dns static add address=127.0.0.1 name=data.ads.oppomobile.com
 ip dns static add address=127.0.0.1 name=databank.air.yoyi.com.cn
 ip dns static add address=127.0.0.1 name=databank.yoyi.com.cn
-ip dns static add address=127.0.0.1 name=data.bilibili.com
 ip dns static add address=127.0.0.1 name=data.flurry.com
 ip dns static add address=127.0.0.1 name=data.mistat.xiaomi.com
 ip dns static add address=127.0.0.1 name=datax.baidu.com
@@ -1626,7 +1625,6 @@ ip dns static add address=127.0.0.1 name=log.collect.yinyuetai.com
 ip dns static add address=127.0.0.1 name=log.cs.pp.cn
 ip dns static add address=127.0.0.1 name=log.he2d.com
 ip dns static add address=127.0.0.1 name=log.mix.sina.com.cn
-ip dns static add address=127.0.0.1 name=log.mmstat.com
 ip dns static add address=127.0.0.1 name=log.music.baidu.com
 ip dns static add address=127.0.0.1 name=log.spotify.com
 ip dns static add address=127.0.0.1 name=log.stat.kugou.com
@@ -2184,7 +2182,6 @@ ip dns static add address=127.0.0.1 name=rlogs.youdao.com
 ip dns static add address=127.0.0.1 name=rmads.eu.msn.com
 ip dns static add address=127.0.0.1 name=rmads.msn.com
 ip dns static add address=127.0.0.1 name=r.mail.163.com
-ip dns static add address=127.0.0.1 name=rm.api.weibo.com
 ip dns static add address=127.0.0.1 name=rmd.atdmt.com
 ip dns static add address=127.0.0.1 name=rm.gdt.qq.com
 ip dns static add address=127.0.0.1 name=rmoeu.mercury.sogou.com
