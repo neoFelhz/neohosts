@@ -248,7 +248,6 @@ ip dns static add address=127.0.0.1 name=ai.taobao.com
 ip dns static add address=127.0.0.1 name=ai.yimg.jp
 ip dns static add address=127.0.0.1 name=aka-cdn.adtechus.com
 ip dns static add address=127.0.0.1 name=aka-cdn-ns.adtechus.com
-ip dns static add address=127.0.0.1 name=akxsrsdbursfpx.bid
 ip dns static add address=127.0.0.1 name=alimama.alicdn.com
 ip dns static add address=127.0.0.1 name=alissl.ucdl.pp.uc.cn
 ip dns static add address=127.0.0.1 name=alitui.weibo.com
@@ -425,7 +424,6 @@ ip dns static add address=127.0.0.1 name=bokee.allyes.com
 ip dns static add address=127.0.0.1 name=bp.mobad.ijinshan.com
 ip dns static add address=127.0.0.1 name=brand.sogou.com
 ip dns static add address=127.0.0.1 name=bro.flyme.cn
-ip dns static add address=127.0.0.1 name=browser.gwdang.com
 ip dns static add address=127.0.0.1 name=bsiet.husky.sogou.com
 ip dns static add address=127.0.0.1 name=bs.l.qq.com
 ip dns static add address=127.0.0.1 name=bss.pandora.xiaomi.com
@@ -1539,7 +1537,6 @@ ip dns static add address=127.0.0.1 name=rm.ra.icast.cn
 ip dns static add address=127.0.0.1 name=rm.sina.com.cn
 ip dns static add address=127.0.0.1 name=r.msn.com
 ip dns static add address=127.0.0.1 name=rmtx.ra.icast.cn
-ip dns static add address=127.0.0.1 name=router.gwdang.com
 ip dns static add address=127.0.0.1 name=r.ow.domob.cn
 ip dns static add address=127.0.0.1 name=rpc-php.trafficfactory.biz
 ip dns static add address=127.0.0.1 name=rp.gwallet.com
@@ -1982,18 +1979,15 @@ ip dns static add address=127.0.0.1 name=www.allyes.com
 ip dns static add address=127.0.0.1 name=www.chenggao.cn
 ip dns static add address=127.0.0.1 name=www.count.51yes.com
 ip dns static add address=127.0.0.1 name=www.doumob.com
-ip dns static add address=127.0.0.1 name=www.esrpxyahzna.bid
 ip dns static add address=127.0.0.1 name=www.fathionmall.com
 ip dns static add address=127.0.0.1 name=www.flurry.com
 ip dns static add address=127.0.0.1 name=www.googleadservices.com
 ip dns static add address=127.0.0.1 name=www.gz00005.top
 ip dns static add address=127.0.0.1 name=www.hao934.com
-ip dns static add address=127.0.0.1 name=www.hpqxznpb.bid
 ip dns static add address=127.0.0.1 name=www.huaxinxunye.cn
 ip dns static add address=127.0.0.1 name=www.i1236.net
 ip dns static add address=127.0.0.1 name=www.ipinyou.com
 ip dns static add address=127.0.0.1 name=www.ipinyou.com.cn
-ip dns static add address=127.0.0.1 name=www.mdpjnppsbjv.bid
 ip dns static add address=127.0.0.1 name=www.minesage.com
 ip dns static add address=127.0.0.1 name=www.ok365.com
 ip dns static add address=127.0.0.1 name=www.openx.net
