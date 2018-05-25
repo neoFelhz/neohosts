@@ -3,8 +3,6 @@
 0.0.0.0 m.kubiqq.com
 0.0.0.0 m5.apk.67mo.com
 0.0.0.0 ieonline.microsoft.com
-0.0.0.0 browser.gwdang.com
-0.0.0.0 router.gwdang.com
 0.0.0.0 offline-adv.oray.com
 0.0.0.0 hao.qquu8.com
 0.0.0.0 hao549.com
