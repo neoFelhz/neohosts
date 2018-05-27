@@ -50,7 +50,7 @@ sed -e '/^#/d' ./_build/tmp/basic/1.txt > ./_build/tmp/basic/2.txt
 sed -e '/^:/d' ./_build/tmp/basic/2.txt > ./_build/tmp/basic/3.txt
 sed -e '/^127.0.0.1/d' ./_build/tmp/basic/3.txt > ./_build/tmp/basic/4.txt
 sed -i 's|0.0.0.0 |ip dns static add address=127.0.0.1 name=|g' ./_build/tmp/basic/4.txt
-cat ./_build/tmp/basic/4.txt > ./_build/tmp/basic/mikrotik.sh
+cat ./_build/tmp/basic/4.txt > ./_build/tmp/basic/mikrotik.rsc
 echo "Cleaning tmp . . ."
 rm ./_build/tmp/basic/1.txt
 rm ./_build/tmp/basic/2.txt
@@ -63,7 +63,7 @@ sed -e '/^#/d' ./_build/tmp/full/1.txt > ./_build/tmp/full/2.txt
 sed -e '/^:/d' ./_build/tmp/full/2.txt > ./_build/tmp/full/3.txt
 sed -e '/^127.0.0.1/d' ./_build/tmp/full/3.txt > ./_build/tmp/full/4.txt
 sed -i 's|0.0.0.0 |ip dns static add address=127.0.0.1 name=|g' ./_build/tmp/full/4.txt
-cat ./_build/tmp/full/4.txt > ./_build/tmp/full/mikrotik.sh
+cat ./_build/tmp/full/4.txt > ./_build/tmp/full/mikrotik.rsc
 echo "Cleaning tmp . . ."
 rm ./_build/tmp/full/1.txt
 rm ./_build/tmp/full/2.txt
