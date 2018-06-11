@@ -574,3 +574,5 @@
 0.0.0.0 dvser02.china.com
 0.0.0.0 rank.hit.china.com
 0.0.0.0 sssvd.china.com
+0.0.0.0 bd-s.baixing.net
+0.0.0.0 bd-js.baixing.net

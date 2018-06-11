@@ -34,7 +34,6 @@
 0.0.0.0 simaba.taobao.com
 0.0.0.0 rj.m.taobao.com
 0.0.0.0 agoodm.m.taobao.com
-0.0.0.0 agoodm.wapa.taobao.com
 0.0.0.0 apoll.m.taobao.com
 0.0.0.0 unitacs.m.taobao.com
 0.0.0.0 w.m.taobao.com

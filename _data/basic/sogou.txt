@@ -90,7 +90,6 @@
 0.0.0.0 pv.focus.cn
 0.0.0.0 cdn.optaim.com
 0.0.0.0 clk.optaim.com
-0.0.0.0 cm.optaim.com
 0.0.0.0 imp.optaim.com
 0.0.0.0 tk.optaim.com
 0.0.0.0 athena.wan.sogou.com
