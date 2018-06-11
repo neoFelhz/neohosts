@@ -42,6 +42,13 @@
 
 > 基于 Full Hosts，广告域名会被定向至 127.0.0.1 而不是 0.0.0.0，兼容性更好。
 
+### [Basic Mikrotik](https://hosts.nfz.moe/basic/mikrotik.rsc)
+
+> 基于 Basic Hosts 的 Mikrotik 脚本，建议定期从源抓取并执行。
+
+### [Full Mikrotik](https://hosts.nfz.moe/full/mikrotik.rsc)
+
+> 基于 Full Hosts 的 Mikrotik 脚本，建议定期从源抓取并执行。
 
 ## Docs 文档
 
