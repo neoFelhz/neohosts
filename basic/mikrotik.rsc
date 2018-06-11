@@ -54,6 +54,7 @@ ip dns static add address=127.0.0.1 name=a.benshiw.net
 ip dns static add address=127.0.0.1 name=abtest.mistat.xiaomi.com
 ip dns static add address=127.0.0.1 name=ac3.msn.com
 ip dns static add address=127.0.0.1 name=ac.atpanel.com
+ip dns static add address=127.0.0.1 name=acceptable.a-ads.com
 ip dns static add address=127.0.0.1 name=acjs.aliyun.com
 ip dns static add address=127.0.0.1 name=ac.mmstat.com
 ip dns static add address=127.0.0.1 name=acookie.alimama.com
