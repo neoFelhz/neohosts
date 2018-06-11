@@ -353,6 +353,8 @@
 0.0.0.0 app.wapx.cn
 0.0.0.0 ads.wapx.cn
 0.0.0.0 app.waps.cn
+# a.ad
+0.0.0.0 acceptable.a-ads.com
 # Others
 0.0.0.0 push.wandoujia.com
 0.0.0.0 liveupdate.mac.sandai.net
