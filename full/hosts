@@ -147,7 +147,6 @@
 0.0.0.0 adadvisor.net
 0.0.0.0 ad.adwo.com
 0.0.0.0 ad-apac.doubleclick.net
-0.0.0.0 adapi.lenovogame.com
 0.0.0.0 ad.api.moji.com
 0.0.0.0 adapi.shouji.360.cn
 0.0.0.0 adasad.myweb.hinet.net
@@ -164,7 +163,6 @@
 0.0.0.0 adcast.deviantart.com
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ad.cn.doubleclick.net
-0.0.0.0 adcore.lenovomm.com
 0.0.0.0 ad-count.adwo.com
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad.dev.360.cn
@@ -309,6 +307,7 @@
 0.0.0.0 aecpm.alicdn.com
 0.0.0.0 a.epinv.com
 0.0.0.0 aeventlog.beacon.qq.com
+0.0.0.0 afd.baidu.com
 0.0.0.0 afd.l.google.com
 0.0.0.0 afp.adchina.com
 0.0.0.0 afp.alicdn.com
@@ -320,7 +319,6 @@
 0.0.0.0 a.global.msads.net
 0.0.0.0 ag.nukefans.net
 0.0.0.0 agoodm.m.taobao.com
-0.0.0.0 agoodm.wapa.taobao.com
 0.0.0.0 agr.voiceads.cn
 0.0.0.0 a.hl.mi.com
 0.0.0.0 a.holagames.com
@@ -350,6 +348,7 @@
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 alog.umeng.com
 0.0.0.0 alpha.brand.sogou.com
+0.0.0.0 als.baidu.com
 0.0.0.0 ama.adwo.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 am.g.ireader.com
@@ -406,7 +405,6 @@
 0.0.0.0 api.atdmt.com
 0.0.0.0 api.authedmine.com
 0.0.0.0 api.bailingjiankang.com
-0.0.0.0 api.bs.zui.com
 0.0.0.0 api.coin-hive.com
 0.0.0.0 api.coinhive.com
 0.0.0.0 apiconfig.adwo.com
@@ -517,6 +515,7 @@
 0.0.0.0 b.appjiagu.com
 0.0.0.0 bar.baidu.com
 0.0.0.0 bazinga.mse.sogou.com
+0.0.0.0 b.bdstatic.com
 0.0.0.0 bce.baidu.com
 0.0.0.0 bc.geocities.yahoo.co.jp
 0.0.0.0 bcjjg.bugsevent.com
@@ -529,8 +528,10 @@
 0.0.0.0 bdd.hainan.net
 0.0.0.0 bdfrm.bidvertiser.com
 0.0.0.0 bdimg.share.baidu.com
+0.0.0.0 bd-js.baixing.net
 0.0.0.0 b.domob.cn
 0.0.0.0 bdplus.baidu.com
+0.0.0.0 bd-s.baixing.net
 0.0.0.0 bds.hainan.net
 0.0.0.0 bd.soarfi.cn
 0.0.0.0 bdv.bidvertiser.com
@@ -736,7 +737,6 @@
 0.0.0.0 cm.ipinyou.com
 0.0.0.0 cm.l.qq.com
 0.0.0.0 cm.netseer.com
-0.0.0.0 cm.optaim.com
 0.0.0.0 cm.p4p.cn.yahoo.com
 0.0.0.0 cm.pos.baidu.com
 0.0.0.0 cm.reachmax.cn
@@ -1601,11 +1601,9 @@
 0.0.0.0 lb.l.qq.com
 0.0.0.0 lb.statsevent.com
 0.0.0.0 lc.jiathis.com
-0.0.0.0 lcs.dev.surepush.cn
 0.0.0.0 l.domob.cn
 0.0.0.0 ldpgl.code.mytanwan.com
 0.0.0.0 lds.lenovomm.com
-0.0.0.0 lds.zui.com
 0.0.0.0 ldy.350.com
 0.0.0.0 leak.360.cn
 0.0.0.0 ledou.dl.uu.cc
@@ -2065,9 +2063,7 @@
 0.0.0.0 promotion.gomlab.com
 0.0.0.0 proton.flurry.com
 0.0.0.0 proxy.sec.miui.com
-0.0.0.0 prw.lenovomm.com
 0.0.0.0 pr.ybp.yahoo.com
-0.0.0.0 psb.lenovomm.com
 0.0.0.0 p.sdu8cvc.com
 0.0.0.0 psfq.gou.sogou.com
 0.0.0.0 ps.haohaowan8.com
@@ -2082,7 +2078,6 @@
 0.0.0.0 puds.ucweb.com
 0.0.0.0 pull.push.sogou.com
 0.0.0.0 pups.bdimg.com
-0.0.0.0 pushapi.lenovomm.com
 0.0.0.0 push.mobile.kugou.com
 0.0.0.0 push.res.meizu.com
 0.0.0.0 push.wandoujia.com
@@ -2420,7 +2415,6 @@
 0.0.0.0 s.clkservice.youdao.com
 0.0.0.0 s.cpro.baidu.com
 0.0.0.0 script-bd.baixing.net
-0.0.0.0 sdac.lenovomm.com
 0.0.0.0 sdapprecv.app.cntvwb.cn
 0.0.0.0 sddnserror1.wo.com.cn
 0.0.0.0 sddnserror2.wo.com.cn
@@ -2688,7 +2682,6 @@
 0.0.0.0 s.union.360.cn
 0.0.0.0 survey.miaozhen.com
 0.0.0.0 susapi.dev.surepush.cn
-0.0.0.0 susapi.lenovomm.com
 0.0.0.0 sv.map.baidu.com
 0.0.0.0 swa.gtimg.com
 0.0.0.0 sw.mobile.sogou.com
@@ -2758,7 +2751,6 @@
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 test.api.xlmc.sandai.net
 0.0.0.0 test.e.ad.xiaomi.com
-0.0.0.0 test.surepush.cn
 0.0.0.0 test.zeus.ad.xiaomi.com
 0.0.0.0 textlink.simba.taobao.com
 0.0.0.0 tf.hftaili.com
@@ -3308,7 +3300,6 @@
 0.0.0.0 yun.tuia.cn
 0.0.0.0 yun.yuyiya.com
 0.0.0.0 y.xinghao89.com
-0.0.0.0 yx.lenovomm.com
 0.0.0.0 yyffeicd.m.qxs.la
 0.0.0.0 z11.cnzz.com
 0.0.0.0 z13.cnzz.com
@@ -3497,7 +3488,6 @@
 :: adadvisor.net
 :: ad.adwo.com
 :: ad-apac.doubleclick.net
-:: adapi.lenovogame.com
 :: ad.api.moji.com
 :: adapi.shouji.360.cn
 :: adasad.myweb.hinet.net
@@ -3514,7 +3504,6 @@
 :: adcast.deviantart.com
 :: adclick.g.doubleclick.net
 :: ad.cn.doubleclick.net
-:: adcore.lenovomm.com
 :: ad-count.adwo.com
 :: ad-delivery.net
 :: ad.dev.360.cn
@@ -3659,6 +3648,7 @@
 :: aecpm.alicdn.com
 :: a.epinv.com
 :: aeventlog.beacon.qq.com
+:: afd.baidu.com
 :: afd.l.google.com
 :: afp.adchina.com
 :: afp.alicdn.com
@@ -3670,7 +3660,6 @@
 :: a.global.msads.net
 :: ag.nukefans.net
 :: agoodm.m.taobao.com
-:: agoodm.wapa.taobao.com
 :: agr.voiceads.cn
 :: a.hl.mi.com
 :: a.holagames.com
@@ -3700,6 +3689,7 @@
 :: alog.umengcloud.com
 :: alog.umeng.com
 :: alpha.brand.sogou.com
+:: als.baidu.com
 :: ama.adwo.com
 :: amdc.m.taobao.com
 :: am.g.ireader.com
@@ -3756,7 +3746,6 @@
 :: api.atdmt.com
 :: api.authedmine.com
 :: api.bailingjiankang.com
-:: api.bs.zui.com
 :: api.coin-hive.com
 :: api.coinhive.com
 :: apiconfig.adwo.com
@@ -3867,6 +3856,7 @@
 :: b.appjiagu.com
 :: bar.baidu.com
 :: bazinga.mse.sogou.com
+:: b.bdstatic.com
 :: bce.baidu.com
 :: bc.geocities.yahoo.co.jp
 :: bcjjg.bugsevent.com
@@ -3879,8 +3869,10 @@
 :: bdd.hainan.net
 :: bdfrm.bidvertiser.com
 :: bdimg.share.baidu.com
+:: bd-js.baixing.net
 :: b.domob.cn
 :: bdplus.baidu.com
+:: bd-s.baixing.net
 :: bds.hainan.net
 :: bd.soarfi.cn
 :: bdv.bidvertiser.com
@@ -4086,7 +4078,6 @@
 :: cm.ipinyou.com
 :: cm.l.qq.com
 :: cm.netseer.com
-:: cm.optaim.com
 :: cm.p4p.cn.yahoo.com
 :: cm.pos.baidu.com
 :: cm.reachmax.cn
@@ -4951,11 +4942,9 @@
 :: lb.l.qq.com
 :: lb.statsevent.com
 :: lc.jiathis.com
-:: lcs.dev.surepush.cn
 :: l.domob.cn
 :: ldpgl.code.mytanwan.com
 :: lds.lenovomm.com
-:: lds.zui.com
 :: ldy.350.com
 :: leak.360.cn
 :: ledou.dl.uu.cc
@@ -5415,9 +5404,7 @@
 :: promotion.gomlab.com
 :: proton.flurry.com
 :: proxy.sec.miui.com
-:: prw.lenovomm.com
 :: pr.ybp.yahoo.com
-:: psb.lenovomm.com
 :: p.sdu8cvc.com
 :: psfq.gou.sogou.com
 :: ps.haohaowan8.com
@@ -5432,7 +5419,6 @@
 :: puds.ucweb.com
 :: pull.push.sogou.com
 :: pups.bdimg.com
-:: pushapi.lenovomm.com
 :: push.mobile.kugou.com
 :: push.res.meizu.com
 :: push.wandoujia.com
@@ -5770,7 +5756,6 @@
 :: s.clkservice.youdao.com
 :: s.cpro.baidu.com
 :: script-bd.baixing.net
-:: sdac.lenovomm.com
 :: sdapprecv.app.cntvwb.cn
 :: sddnserror1.wo.com.cn
 :: sddnserror2.wo.com.cn
@@ -6038,7 +6023,6 @@
 :: s.union.360.cn
 :: survey.miaozhen.com
 :: susapi.dev.surepush.cn
-:: susapi.lenovomm.com
 :: sv.map.baidu.com
 :: swa.gtimg.com
 :: sw.mobile.sogou.com
@@ -6108,7 +6092,6 @@
 :: test.ad.xiaomi.com
 :: test.api.xlmc.sandai.net
 :: test.e.ad.xiaomi.com
-:: test.surepush.cn
 :: test.zeus.ad.xiaomi.com
 :: textlink.simba.taobao.com
 :: tf.hftaili.com
@@ -6658,7 +6641,6 @@
 :: yun.tuia.cn
 :: yun.yuyiya.com
 :: y.xinghao89.com
-:: yx.lenovomm.com
 :: yyffeicd.m.qxs.la
 :: z11.cnzz.com
 :: z13.cnzz.com
