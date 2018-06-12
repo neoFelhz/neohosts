@@ -14,7 +14,7 @@
 - 常见下载劫持
 - 360 和百度的部分软件下载
 - CNNIC 根证书劫持
-- 法轮功等境外反华势力网站
+- 法轮功等可能令人产生不适的激进宗教内容网站
 
 ### [Basic Compatible Hosts](https://hosts.nfz.moe/127.0.0.1/basic/hosts)
 
