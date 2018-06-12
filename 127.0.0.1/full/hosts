@@ -147,6 +147,7 @@
 127.0.0.1 adadvisor.net
 127.0.0.1 ad.adwo.com
 127.0.0.1 ad-apac.doubleclick.net
+127.0.0.1 adapi.lenovogame.com
 127.0.0.1 ad.api.moji.com
 127.0.0.1 adapi.shouji.360.cn
 127.0.0.1 adasad.myweb.hinet.net
@@ -163,6 +164,7 @@
 127.0.0.1 adcast.deviantart.com
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 ad.cn.doubleclick.net
+127.0.0.1 adcore.lenovomm.com
 127.0.0.1 ad-count.adwo.com
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad.dev.360.cn
@@ -354,7 +356,6 @@
 127.0.0.1 am.g.ireader.com
 127.0.0.1 amps.yoyi.com.cn
 127.0.0.1 a.m.shuhuangge.org
-127.0.0.1 ams.lenovomm.com
 127.0.0.1 analy.qq.com
 127.0.0.1 analytics3.starschina.com
 127.0.0.1 analytics.ad.daum.net
@@ -1187,10 +1188,8 @@
 127.0.0.1 fotacontrol.adfuture.cn
 127.0.0.1 fpbjiansuo.mn586.com
 127.0.0.1 fpb.mn586.com
-127.0.0.1 fsr.lenovomm.com
 127.0.0.1 fs.uc.nearme.com.cn
 127.0.0.1 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
-127.0.0.1 fus.lenovomm.com
 127.0.0.1 fw.adsafeprotected.com
 127.0.0.1 fw.qq.com
 127.0.0.1 fw.vpon.com
@@ -1343,6 +1342,7 @@
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 i1.go2yd.com
 127.0.0.1 ia.51.la
+127.0.0.1 iadctest.qwapi.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 i.adsame.com
 127.0.0.1 ias816.ujikdd041o.cn
@@ -1396,7 +1396,6 @@
 127.0.0.1 image.zzd.sm.cn
 127.0.0.1 imagzine.oppomobile.com
 127.0.0.1 imc.l.qq.com
-127.0.0.1 imfsr.lenovomm.com
 127.0.0.1 img01.taotaosou.cn
 127.0.0.1 img0.egou.com
 127.0.0.1 img1.126.net
@@ -1601,9 +1600,9 @@
 127.0.0.1 lb.l.qq.com
 127.0.0.1 lb.statsevent.com
 127.0.0.1 lc.jiathis.com
+127.0.0.1 lcs.dev.surepush.cn
 127.0.0.1 l.domob.cn
 127.0.0.1 ldpgl.code.mytanwan.com
-127.0.0.1 lds.lenovomm.com
 127.0.0.1 ldy.350.com
 127.0.0.1 leak.360.cn
 127.0.0.1 ledou.dl.uu.cc
@@ -1617,7 +1616,6 @@
 127.0.0.1 livem.l.qq.com
 127.0.0.1 livep.l.qq.com
 127.0.0.1 lives.l.qq.com
-127.0.0.1 liveupdate.mac.sandai.net
 127.0.0.1 lk.brand.sogou.com
 127.0.0.1 ll.atdmt.com
 127.0.0.1 lm.dawenxue.org
@@ -1732,7 +1730,6 @@
 127.0.0.1 m.feifish66.com
 127.0.0.1 m.fhxsw.org
 127.0.0.1 mfp.deliver.ifeng.com
-127.0.0.1 mfsr.lenovomm.com
 127.0.0.1 m.fstaw.com
 127.0.0.1 m.game.weibo.cn
 127.0.0.1 m.gdt.vip1790.cn
@@ -1979,7 +1976,6 @@
 127.0.0.1 pay.holaq.com
 127.0.0.1 pb3.pstatp.com
 127.0.0.1 pbd.sogou.com
-127.0.0.1 pbs.lenovomm.com
 127.0.0.1 pb.sogou.com
 127.0.0.1 pb.wang502.com
 127.0.0.1 pc.107788.com
@@ -2078,6 +2074,7 @@
 127.0.0.1 puds.ucweb.com
 127.0.0.1 pull.push.sogou.com
 127.0.0.1 pups.bdimg.com
+127.0.0.1 pushapi.lenovomm.com
 127.0.0.1 push.mobile.kugou.com
 127.0.0.1 push.res.meizu.com
 127.0.0.1 push.wandoujia.com
@@ -2682,6 +2679,7 @@
 127.0.0.1 s.union.360.cn
 127.0.0.1 survey.miaozhen.com
 127.0.0.1 susapi.dev.surepush.cn
+127.0.0.1 susapi.lenovomm.com
 127.0.0.1 sv.map.baidu.com
 127.0.0.1 swa.gtimg.com
 127.0.0.1 sw.mobile.sogou.com
@@ -2751,6 +2749,7 @@
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.api.xlmc.sandai.net
 127.0.0.1 test.e.ad.xiaomi.com
+127.0.0.1 test.surepush.cn
 127.0.0.1 test.zeus.ad.xiaomi.com
 127.0.0.1 textlink.simba.taobao.com
 127.0.0.1 tf.hftaili.com
@@ -2896,7 +2895,6 @@
 127.0.0.1 us.bannyat.com
 127.0.0.1 user1.game.qq.com
 127.0.0.1 userimg.qunar.com
-127.0.0.1 uss-pid.lenovomm.com
 127.0.0.1 us-u.openx.net
 127.0.0.1 usync.aws.rubiconproject.com
 127.0.0.1 ut.gtags.net
@@ -3488,6 +3486,7 @@
 :: adadvisor.net
 :: ad.adwo.com
 :: ad-apac.doubleclick.net
+:: adapi.lenovogame.com
 :: ad.api.moji.com
 :: adapi.shouji.360.cn
 :: adasad.myweb.hinet.net
@@ -3504,6 +3503,7 @@
 :: adcast.deviantart.com
 :: adclick.g.doubleclick.net
 :: ad.cn.doubleclick.net
+:: adcore.lenovomm.com
 :: ad-count.adwo.com
 :: ad-delivery.net
 :: ad.dev.360.cn
@@ -3695,7 +3695,6 @@
 :: am.g.ireader.com
 :: amps.yoyi.com.cn
 :: a.m.shuhuangge.org
-:: ams.lenovomm.com
 :: analy.qq.com
 :: analytics3.starschina.com
 :: analytics.ad.daum.net
@@ -4528,10 +4527,8 @@
 :: fotacontrol.adfuture.cn
 :: fpbjiansuo.mn586.com
 :: fpb.mn586.com
-:: fsr.lenovomm.com
 :: fs.uc.nearme.com.cn
 :: fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
-:: fus.lenovomm.com
 :: fw.adsafeprotected.com
 :: fw.qq.com
 :: fw.vpon.com
@@ -4684,6 +4681,7 @@
 :: hzvs1.cnzz.com
 :: i1.go2yd.com
 :: ia.51.la
+:: iadctest.qwapi.com
 :: iad.g.163.com
 :: i.adsame.com
 :: ias816.ujikdd041o.cn
@@ -4737,7 +4735,6 @@
 :: image.zzd.sm.cn
 :: imagzine.oppomobile.com
 :: imc.l.qq.com
-:: imfsr.lenovomm.com
 :: img01.taotaosou.cn
 :: img0.egou.com
 :: img1.126.net
@@ -4942,9 +4939,9 @@
 :: lb.l.qq.com
 :: lb.statsevent.com
 :: lc.jiathis.com
+:: lcs.dev.surepush.cn
 :: l.domob.cn
 :: ldpgl.code.mytanwan.com
-:: lds.lenovomm.com
 :: ldy.350.com
 :: leak.360.cn
 :: ledou.dl.uu.cc
@@ -4958,7 +4955,6 @@
 :: livem.l.qq.com
 :: livep.l.qq.com
 :: lives.l.qq.com
-:: liveupdate.mac.sandai.net
 :: lk.brand.sogou.com
 :: ll.atdmt.com
 :: lm.dawenxue.org
@@ -5073,7 +5069,6 @@
 :: m.feifish66.com
 :: m.fhxsw.org
 :: mfp.deliver.ifeng.com
-:: mfsr.lenovomm.com
 :: m.fstaw.com
 :: m.game.weibo.cn
 :: m.gdt.vip1790.cn
@@ -5320,7 +5315,6 @@
 :: pay.holaq.com
 :: pb3.pstatp.com
 :: pbd.sogou.com
-:: pbs.lenovomm.com
 :: pb.sogou.com
 :: pb.wang502.com
 :: pc.107788.com
@@ -5419,6 +5413,7 @@
 :: puds.ucweb.com
 :: pull.push.sogou.com
 :: pups.bdimg.com
+:: pushapi.lenovomm.com
 :: push.mobile.kugou.com
 :: push.res.meizu.com
 :: push.wandoujia.com
@@ -6023,6 +6018,7 @@
 :: s.union.360.cn
 :: survey.miaozhen.com
 :: susapi.dev.surepush.cn
+:: susapi.lenovomm.com
 :: sv.map.baidu.com
 :: swa.gtimg.com
 :: sw.mobile.sogou.com
@@ -6092,6 +6088,7 @@
 :: test.ad.xiaomi.com
 :: test.api.xlmc.sandai.net
 :: test.e.ad.xiaomi.com
+:: test.surepush.cn
 :: test.zeus.ad.xiaomi.com
 :: textlink.simba.taobao.com
 :: tf.hftaili.com
@@ -6237,7 +6234,6 @@
 :: us.bannyat.com
 :: user1.game.qq.com
 :: userimg.qunar.com
-:: uss-pid.lenovomm.com
 :: us-u.openx.net
 :: usync.aws.rubiconproject.com
 :: ut.gtags.net
