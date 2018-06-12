@@ -89,6 +89,9 @@
 0.0.0.0 s.effectivemeasure.net
 0.0.0.0 sg-cdn.effectivemeasure.net
 0.0.0.0 www9.effectivemeasure.net
+# Tencent Bugly
+0.0.0.0 aexception.bugly.qq.com
+0.0.0.0 android.bugly.qq.com
 # Others
 0.0.0.0 s.qhupdate.com
 0.0.0.0 hs.qhupdate.com
@@ -112,3 +115,7 @@
 0.0.0.0 do-not-tracker.org
 0.0.0.0 tongji.tom.com
 0.0.0.0 track.china.com
+0.0.0.0 udpolimenew.baidu.com
+0.0.0.0 mime.baidu.com
+0.0.0.0 mlog.hiido.com
+0.0.0.0 data.haoma.sogou.com
