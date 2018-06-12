@@ -309,6 +309,7 @@
 127.0.0.1 aecpm.alicdn.com
 127.0.0.1 a.epinv.com
 127.0.0.1 aeventlog.beacon.qq.com
+127.0.0.1 aexception.bugly.qq.com
 127.0.0.1 afd.baidu.com
 127.0.0.1 afd.l.google.com
 127.0.0.1 afp.adchina.com
@@ -348,6 +349,7 @@
 127.0.0.1 allyes.com
 127.0.0.1 allyesshafa.allyes.com
 127.0.0.1 alog.umengcloud.com
+127.0.0.1 alog.umeng.co
 127.0.0.1 alog.umeng.com
 127.0.0.1 alpha.brand.sogou.com
 127.0.0.1 als.baidu.com
@@ -373,6 +375,7 @@
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 analytics.yam.com
 127.0.0.1 andmlbf.tj.ijinshan.com
+127.0.0.1 android.bugly.qq.com
 127.0.0.1 android-lrcresource.wps.cn
 127.0.0.1 android.push.126.net
 127.0.0.1 android.rqd.qq.com
@@ -923,6 +926,7 @@
 127.0.0.1 databank.air.yoyi.com.cn
 127.0.0.1 databank.yoyi.com.cn
 127.0.0.1 data.flurry.com
+127.0.0.1 data.haoma.sogou.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 datax.baidu.com
 127.0.0.1 dat.gtags.net
@@ -1745,6 +1749,7 @@
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 migrate.driveapi.micloud.xiaomi.net
 127.0.0.1 migu.kssws.ks-cdn.com
+127.0.0.1 mime.baidu.com
 127.0.0.1 m.inccnd.com
 127.0.0.1 minfo.wps.cn
 127.0.0.1 minghui.com
@@ -1765,6 +1770,7 @@
 127.0.0.1 m.kuwoyy.com
 127.0.0.1 m.laojiayoufang.com
 127.0.0.1 mlb.did.ijinshan.com
+127.0.0.1 mlog.hiido.com
 127.0.0.1 mlog.search.xiaomi.net
 127.0.0.1 m.lu.sogou.com
 127.0.0.1 mm.admob.com
@@ -2850,6 +2856,7 @@
 127.0.0.1 udash.umengcloud.com
 127.0.0.1 udc.msn.com
 127.0.0.1 u.domob.cn
+127.0.0.1 udpolimenew.baidu.com
 127.0.0.1 uebawtz7.me
 127.0.0.1 uedas.qdmm.com
 127.0.0.1 uedas.qidian.com
@@ -3648,6 +3655,7 @@
 :: aecpm.alicdn.com
 :: a.epinv.com
 :: aeventlog.beacon.qq.com
+:: aexception.bugly.qq.com
 :: afd.baidu.com
 :: afd.l.google.com
 :: afp.adchina.com
@@ -3687,6 +3695,7 @@
 :: allyes.com
 :: allyesshafa.allyes.com
 :: alog.umengcloud.com
+:: alog.umeng.co
 :: alog.umeng.com
 :: alpha.brand.sogou.com
 :: als.baidu.com
@@ -3712,6 +3721,7 @@
 :: analytics.yahoo.com
 :: analytics.yam.com
 :: andmlbf.tj.ijinshan.com
+:: android.bugly.qq.com
 :: android-lrcresource.wps.cn
 :: android.push.126.net
 :: android.rqd.qq.com
@@ -4262,6 +4272,7 @@
 :: databank.air.yoyi.com.cn
 :: databank.yoyi.com.cn
 :: data.flurry.com
+:: data.haoma.sogou.com
 :: data.mistat.xiaomi.com
 :: datax.baidu.com
 :: dat.gtags.net
@@ -5084,6 +5095,7 @@
 :: mi.gdt.qq.com
 :: migrate.driveapi.micloud.xiaomi.net
 :: migu.kssws.ks-cdn.com
+:: mime.baidu.com
 :: m.inccnd.com
 :: minfo.wps.cn
 :: minghui.com
@@ -5104,6 +5116,7 @@
 :: m.kuwoyy.com
 :: m.laojiayoufang.com
 :: mlb.did.ijinshan.com
+:: mlog.hiido.com
 :: mlog.search.xiaomi.net
 :: m.lu.sogou.com
 :: mm.admob.com
@@ -6189,6 +6202,7 @@
 :: udash.umengcloud.com
 :: udc.msn.com
 :: u.domob.cn
+:: udpolimenew.baidu.com
 :: uebawtz7.me
 :: uedas.qdmm.com
 :: uedas.qidian.com

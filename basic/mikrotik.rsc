@@ -270,6 +270,7 @@ ip dns static add address=127.0.0.1 name=allyesbjafa.allyes.com
 ip dns static add address=127.0.0.1 name=allyes.com
 ip dns static add address=127.0.0.1 name=allyesshafa.allyes.com
 ip dns static add address=127.0.0.1 name=alog.umengcloud.com
+ip dns static add address=127.0.0.1 name=alog.umeng.co
 ip dns static add address=127.0.0.1 name=alog.umeng.com
 ip dns static add address=127.0.0.1 name=alpha.brand.sogou.com
 ip dns static add address=127.0.0.1 name=als.baidu.com

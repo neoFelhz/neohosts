@@ -309,6 +309,7 @@
 0.0.0.0 aecpm.alicdn.com
 0.0.0.0 a.epinv.com
 0.0.0.0 aeventlog.beacon.qq.com
+0.0.0.0 aexception.bugly.qq.com
 0.0.0.0 afd.baidu.com
 0.0.0.0 afd.l.google.com
 0.0.0.0 afp.adchina.com
@@ -348,6 +349,7 @@
 0.0.0.0 allyes.com
 0.0.0.0 allyesshafa.allyes.com
 0.0.0.0 alog.umengcloud.com
+0.0.0.0 alog.umeng.co
 0.0.0.0 alog.umeng.com
 0.0.0.0 alpha.brand.sogou.com
 0.0.0.0 als.baidu.com
@@ -373,6 +375,7 @@
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yam.com
 0.0.0.0 andmlbf.tj.ijinshan.com
+0.0.0.0 android.bugly.qq.com
 0.0.0.0 android-lrcresource.wps.cn
 0.0.0.0 android.push.126.net
 0.0.0.0 android.rqd.qq.com
@@ -923,6 +926,7 @@
 0.0.0.0 databank.air.yoyi.com.cn
 0.0.0.0 databank.yoyi.com.cn
 0.0.0.0 data.flurry.com
+0.0.0.0 data.haoma.sogou.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 datax.baidu.com
 0.0.0.0 dat.gtags.net
@@ -1745,6 +1749,7 @@
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 migrate.driveapi.micloud.xiaomi.net
 0.0.0.0 migu.kssws.ks-cdn.com
+0.0.0.0 mime.baidu.com
 0.0.0.0 m.inccnd.com
 0.0.0.0 minfo.wps.cn
 0.0.0.0 minghui.com
@@ -1765,6 +1770,7 @@
 0.0.0.0 m.kuwoyy.com
 0.0.0.0 m.laojiayoufang.com
 0.0.0.0 mlb.did.ijinshan.com
+0.0.0.0 mlog.hiido.com
 0.0.0.0 mlog.search.xiaomi.net
 0.0.0.0 m.lu.sogou.com
 0.0.0.0 mm.admob.com
@@ -2850,6 +2856,7 @@
 0.0.0.0 udash.umengcloud.com
 0.0.0.0 udc.msn.com
 0.0.0.0 u.domob.cn
+0.0.0.0 udpolimenew.baidu.com
 0.0.0.0 uebawtz7.me
 0.0.0.0 uedas.qdmm.com
 0.0.0.0 uedas.qidian.com
@@ -3648,6 +3655,7 @@
 :: aecpm.alicdn.com
 :: a.epinv.com
 :: aeventlog.beacon.qq.com
+:: aexception.bugly.qq.com
 :: afd.baidu.com
 :: afd.l.google.com
 :: afp.adchina.com
@@ -3687,6 +3695,7 @@
 :: allyes.com
 :: allyesshafa.allyes.com
 :: alog.umengcloud.com
+:: alog.umeng.co
 :: alog.umeng.com
 :: alpha.brand.sogou.com
 :: als.baidu.com
@@ -3712,6 +3721,7 @@
 :: analytics.yahoo.com
 :: analytics.yam.com
 :: andmlbf.tj.ijinshan.com
+:: android.bugly.qq.com
 :: android-lrcresource.wps.cn
 :: android.push.126.net
 :: android.rqd.qq.com
@@ -4262,6 +4272,7 @@
 :: databank.air.yoyi.com.cn
 :: databank.yoyi.com.cn
 :: data.flurry.com
+:: data.haoma.sogou.com
 :: data.mistat.xiaomi.com
 :: datax.baidu.com
 :: dat.gtags.net
@@ -5084,6 +5095,7 @@
 :: mi.gdt.qq.com
 :: migrate.driveapi.micloud.xiaomi.net
 :: migu.kssws.ks-cdn.com
+:: mime.baidu.com
 :: m.inccnd.com
 :: minfo.wps.cn
 :: minghui.com
@@ -5104,6 +5116,7 @@
 :: m.kuwoyy.com
 :: m.laojiayoufang.com
 :: mlb.did.ijinshan.com
+:: mlog.hiido.com
 :: mlog.search.xiaomi.net
 :: m.lu.sogou.com
 :: mm.admob.com
@@ -6189,6 +6202,7 @@
 :: udash.umengcloud.com
 :: udc.msn.com
 :: u.domob.cn
+:: udpolimenew.baidu.com
 :: uebawtz7.me
 :: uedas.qdmm.com
 :: uedas.qidian.com
