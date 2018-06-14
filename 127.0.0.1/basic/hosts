@@ -13,7 +13,8 @@
 ::1 ip6-loopback
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
-#version='Thu, 14 Jun 2018 13:29:32 +0000'
+#url=https://github.com/neofelhz/neohosts
+#version=20180614221748
 #*********************************************************
 127.0.0.1 0.r.msn.com
 127.0.0.1 1100.adsina.allyes.com
