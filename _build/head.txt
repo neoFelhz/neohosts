@@ -13,3 +13,4 @@
 ::1 ip6-loopback
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
+#url=https://github.com/neofelhz/neohosts

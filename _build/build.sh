@@ -3,8 +3,8 @@ mkdir ./_build/tmp/full -p
 mkdir ./_build/tmp/127.0.0.1/basic -p
 mkdir ./_build/tmp/127.0.0.1/full -p
 echo "Adding version code to head"
-DATE="$(echo $(date --rfc-2822))"
-echo "#version='$DATE'" >> ./_build/head.txt
+DATE="$(echo $(date +%Y%m%d%H%M%S))"
+echo "#version=$DATE" >> ./_build/head.txt
 echo "#*********************************************************" >> ./_build/head.txt
 echo "Building standard hosts . . ."
 find ./_data/basic -type f -name "*.txt" | xargs cat > ./_build/tmp/basic/1.txt
