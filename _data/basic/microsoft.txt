@@ -28,7 +28,6 @@
 0.0.0.0 crl.microsoft.com
 0.0.0.0 rad.microsoft.com
 0.0.0.0 watson.microsoft.com
-0.0.0.0 c.bing.com
 0.0.0.0 c.msn.com
 0.0.0.0 otf.msn.com
 0.0.0.0 ieonline.microsoft.com

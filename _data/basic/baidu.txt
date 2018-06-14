@@ -187,3 +187,5 @@
 0.0.0.0 bj.bcebos.com
 0.0.0.0 tob-cms.bj.bcebos.com
 0.0.0.0 wenku-cms.bj.bcebos.com
+# wangmeng
+0.0.0.0 zzy1.quyaoya.com
