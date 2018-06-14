@@ -227,6 +227,7 @@ ip dns static add address=127.0.0.1 name=adserver.adtechus.com
 ip dns static add address=127.0.0.1 name=adserver-us.adtech.advertising.com
 ip dns static add address=127.0.0.1 name=adserver.xpanama.net
 ip dns static add address=127.0.0.1 name=adserver.yahoo.com
+ip dns static add address=127.0.0.1 name=adservice.google.com
 ip dns static add address=127.0.0.1 name=ads.eu.msn.com
 ip dns static add address=127.0.0.1 name=adsfile.qq.com
 ip dns static add address=127.0.0.1 name=ads.flurry.com
@@ -612,7 +613,6 @@ ip dns static add address=127.0.0.1 name=c.baidu.com
 ip dns static add address=127.0.0.1 name=cb.alimama.cn
 ip dns static add address=127.0.0.1 name=cb.baidu.com
 ip dns static add address=127.0.0.1 name=c.betrad.com
-ip dns static add address=127.0.0.1 name=c.bing.com
 ip dns static add address=127.0.0.1 name=c.biz.weibo.com
 ip dns static add address=127.0.0.1 name=cbjs.baidu.com
 ip dns static add address=127.0.0.1 name=cb.l.qq.com
@@ -3344,3 +3344,4 @@ ip dns static add address=127.0.0.1 name=zymo.mps.weibo.com
 ip dns static add address=127.0.0.1 name=zz2.hslyqs.com
 ip dns static add address=127.0.0.1 name=zz.bdstatic.com
 ip dns static add address=127.0.0.1 name=zzimg.51.la
+ip dns static add address=127.0.0.1 name=zzy1.quyaoya.com

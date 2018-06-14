@@ -194,6 +194,7 @@
 127.0.0.1 adserver-us.adtech.advertising.com
 127.0.0.1 adserver.xpanama.net
 127.0.0.1 adserver.yahoo.com
+127.0.0.1 adservice.google.com
 127.0.0.1 ads.eu.msn.com
 127.0.0.1 adsfile.qq.com
 127.0.0.1 ads.flurry.com
@@ -492,7 +493,6 @@
 127.0.0.1 cb.alimama.cn
 127.0.0.1 cb.baidu.com
 127.0.0.1 c.betrad.com
-127.0.0.1 c.bing.com
 127.0.0.1 c.biz.weibo.com
 127.0.0.1 cbjs.baidu.com
 127.0.0.1 cb.l.qq.com
@@ -2119,6 +2119,7 @@
 127.0.0.1 ztrpm.lu.sogou.com
 127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 zz.bdstatic.com
+127.0.0.1 zzy1.quyaoya.com
 :: 0.r.msn.com
 :: 1100.adsina.allyes.com
 :: 1148.adsina.allyes.com
@@ -2300,6 +2301,7 @@
 :: adserver-us.adtech.advertising.com
 :: adserver.xpanama.net
 :: adserver.yahoo.com
+:: adservice.google.com
 :: ads.eu.msn.com
 :: adsfile.qq.com
 :: ads.flurry.com
@@ -2598,7 +2600,6 @@
 :: cb.alimama.cn
 :: cb.baidu.com
 :: c.betrad.com
-:: c.bing.com
 :: c.biz.weibo.com
 :: cbjs.baidu.com
 :: cb.l.qq.com
@@ -4225,3 +4226,4 @@
 :: ztrpm.lu.sogou.com
 :: zymo.mps.weibo.com
 :: zz.bdstatic.com
+:: zzy1.quyaoya.com
