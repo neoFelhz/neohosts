@@ -116,6 +116,5 @@
 0.0.0.0 tongji.tom.com
 0.0.0.0 track.china.com
 0.0.0.0 udpolimenew.baidu.com
-0.0.0.0 mime.baidu.com
 0.0.0.0 mlog.hiido.com
 0.0.0.0 data.haoma.sogou.com

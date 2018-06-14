@@ -54,7 +54,6 @@
 0.0.0.0 utility.baidu.com
 0.0.0.0 utk.baidu.com
 0.0.0.0 wangmeng.baidu.com
-0.0.0.0 r6.mo.baidu.com
 0.0.0.0 res.mi.baidu.com
 0.0.0.0 cbjs.baidu.com
 0.0.0.0 cm.baidu.com
