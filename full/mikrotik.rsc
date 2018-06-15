@@ -1734,7 +1734,6 @@ ip dns static add address=127.0.0.1 name=migcreport.g.mi.com
 ip dns static add address=127.0.0.1 name=mi.gdt.qq.com
 ip dns static add address=127.0.0.1 name=migrate.driveapi.micloud.xiaomi.net
 ip dns static add address=127.0.0.1 name=migu.kssws.ks-cdn.com
-ip dns static add address=127.0.0.1 name=mime.baidu.com
 ip dns static add address=127.0.0.1 name=m.inccnd.com
 ip dns static add address=127.0.0.1 name=minfo.wps.cn
 ip dns static add address=127.0.0.1 name=minghui.com
@@ -2108,7 +2107,6 @@ ip dns static add address=127.0.0.1 name=r.254a.com
 ip dns static add address=127.0.0.1 name=r2.adwo.com
 ip dns static add address=127.0.0.1 name=r3 adwo.com
 ip dns static add address=127.0.0.1 name=r3.adwo.com
-ip dns static add address=127.0.0.1 name=r6.mo.baidu.com
 ip dns static add address=127.0.0.1 name=r8nu86wg.me
 ip dns static add address=127.0.0.1 name=rabbit.meitustat.com
 ip dns static add address=127.0.0.1 name=rabbit.mtadvert.com

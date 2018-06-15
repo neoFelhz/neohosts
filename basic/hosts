@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180614221748
+#version=20180615024606
 #*********************************************************
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
@@ -1531,7 +1531,6 @@
 0.0.0.0 r2.adwo.com
 0.0.0.0 r3 adwo.com
 0.0.0.0 r3.adwo.com
-0.0.0.0 r6.mo.baidu.com
 0.0.0.0 rabbit.meitustat.com
 0.0.0.0 rabbit.mtadvert.com
 0.0.0.0 rabbit.tg.meitu.com
@@ -3638,7 +3637,6 @@
 :: r2.adwo.com
 :: r3 adwo.com
 :: r3.adwo.com
-:: r6.mo.baidu.com
 :: rabbit.meitustat.com
 :: rabbit.mtadvert.com
 :: rabbit.tg.meitu.com

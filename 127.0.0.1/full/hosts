@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180614221748
+#version=20180615024606
 #*********************************************************
 127.0.0.1 0127.adsame.com
 127.0.0.1 0aqpqdju.me
@@ -1752,7 +1752,6 @@
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 migrate.driveapi.micloud.xiaomi.net
 127.0.0.1 migu.kssws.ks-cdn.com
-127.0.0.1 mime.baidu.com
 127.0.0.1 m.inccnd.com
 127.0.0.1 minfo.wps.cn
 127.0.0.1 minghui.com
@@ -2126,7 +2125,6 @@
 127.0.0.1 r2.adwo.com
 127.0.0.1 r3 adwo.com
 127.0.0.1 r3.adwo.com
-127.0.0.1 r6.mo.baidu.com
 127.0.0.1 r8nu86wg.me
 127.0.0.1 rabbit.meitustat.com
 127.0.0.1 rabbit.mtadvert.com
@@ -5099,7 +5097,6 @@
 :: mi.gdt.qq.com
 :: migrate.driveapi.micloud.xiaomi.net
 :: migu.kssws.ks-cdn.com
-:: mime.baidu.com
 :: m.inccnd.com
 :: minfo.wps.cn
 :: minghui.com
@@ -5473,7 +5470,6 @@
 :: r2.adwo.com
 :: r3 adwo.com
 :: r3.adwo.com
-:: r6.mo.baidu.com
 :: r8nu86wg.me
 :: rabbit.meitustat.com
 :: rabbit.mtadvert.com
