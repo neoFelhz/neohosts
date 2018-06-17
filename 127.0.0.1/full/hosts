@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180615024606
+#version=20180617030918
 #*********************************************************
 127.0.0.1 0127.adsame.com
 127.0.0.1 0aqpqdju.me
@@ -2123,7 +2123,6 @@
 127.0.0.1 qxm.pluto.sogou.com
 127.0.0.1 r.254a.com
 127.0.0.1 r2.adwo.com
-127.0.0.1 r3 adwo.com
 127.0.0.1 r3.adwo.com
 127.0.0.1 r8nu86wg.me
 127.0.0.1 rabbit.meitustat.com
@@ -5468,7 +5467,6 @@
 :: qxm.pluto.sogou.com
 :: r.254a.com
 :: r2.adwo.com
-:: r3 adwo.com
 :: r3.adwo.com
 :: r8nu86wg.me
 :: rabbit.meitustat.com
