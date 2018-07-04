@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180617030918
+#version=20180704033406
 #*********************************************************
 127.0.0.1 0127.adsame.com
 127.0.0.1 0aqpqdju.me
@@ -950,6 +950,7 @@
 127.0.0.1 delivery.dmkt-sp.jp
 127.0.0.1 demo.adsame.com
 127.0.0.1 de.pandora.xiaomi.com
+127.0.0.1 devnull.perfops.net
 127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 dev.umeng.com
 127.0.0.1 dfc1.benbaisteel.com
@@ -2219,6 +2220,7 @@
 127.0.0.1 rub.pxl.ace.advertising.com
 127.0.0.1 rudy.adsnative.com
 127.0.0.1 rules-ltvp.inmobi.com
+127.0.0.1 rum.perfops.net
 127.0.0.1 rwq.youle55.com
 127.0.0.1 r.youmi.net
 127.0.0.1 s0.2mdn.net
@@ -4294,6 +4296,7 @@
 :: delivery.dmkt-sp.jp
 :: demo.adsame.com
 :: de.pandora.xiaomi.com
+:: devnull.perfops.net
 :: dev.tg.wan.360.cn
 :: dev.umeng.com
 :: dfc1.benbaisteel.com
@@ -5563,6 +5566,7 @@
 :: rub.pxl.ace.advertising.com
 :: rudy.adsnative.com
 :: rules-ltvp.inmobi.com
+:: rum.perfops.net
 :: rwq.youle55.com
 :: r.youmi.net
 :: s0.2mdn.net

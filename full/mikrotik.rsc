@@ -932,6 +932,7 @@ ip dns static add address=127.0.0.1 name=ddrrccck.m.qxs.la
 ip dns static add address=127.0.0.1 name=delivery.dmkt-sp.jp
 ip dns static add address=127.0.0.1 name=demo.adsame.com
 ip dns static add address=127.0.0.1 name=de.pandora.xiaomi.com
+ip dns static add address=127.0.0.1 name=devnull.perfops.net
 ip dns static add address=127.0.0.1 name=dev.tg.wan.360.cn
 ip dns static add address=127.0.0.1 name=dev.umeng.com
 ip dns static add address=127.0.0.1 name=dfc1.benbaisteel.com
@@ -2201,6 +2202,7 @@ ip dns static add address=127.0.0.1 name=rubicon-match.dotomi.com
 ip dns static add address=127.0.0.1 name=rub.pxl.ace.advertising.com
 ip dns static add address=127.0.0.1 name=rudy.adsnative.com
 ip dns static add address=127.0.0.1 name=rules-ltvp.inmobi.com
+ip dns static add address=127.0.0.1 name=rum.perfops.net
 ip dns static add address=127.0.0.1 name=rwq.youle55.com
 ip dns static add address=127.0.0.1 name=r.youmi.net
 ip dns static add address=127.0.0.1 name=s0.2mdn.net
