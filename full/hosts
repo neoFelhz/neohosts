@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180704033406
+#version=20180708125937
 #*********************************************************
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
@@ -165,6 +165,7 @@
 0.0.0.0 adbma.adk2.co
 0.0.0.0 ad.caiyunapp.com
 0.0.0.0 adcast.deviantart.com
+0.0.0.0 ad.cdn.sex
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ad.cn.doubleclick.net
 0.0.0.0 adcore.lenovomm.com
@@ -3511,6 +3512,7 @@
 :: adbma.adk2.co
 :: ad.caiyunapp.com
 :: adcast.deviantart.com
+:: ad.cdn.sex
 :: adclick.g.doubleclick.net
 :: ad.cn.doubleclick.net
 :: adcore.lenovomm.com

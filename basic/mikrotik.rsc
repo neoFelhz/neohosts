@@ -109,6 +109,7 @@ ip dns static add address=127.0.0.1 name=adashx.m.taobao.com
 ip dns static add address=127.0.0.1 name=ad-bg.adwo.com
 ip dns static add address=127.0.0.1 name=ad.caiyunapp.com
 ip dns static add address=127.0.0.1 name=adcast.deviantart.com
+ip dns static add address=127.0.0.1 name=ad.cdn.sex
 ip dns static add address=127.0.0.1 name=adclick.g.doubleclick.net
 ip dns static add address=127.0.0.1 name=ad.cn.doubleclick.net
 ip dns static add address=127.0.0.1 name=adcore.lenovomm.com

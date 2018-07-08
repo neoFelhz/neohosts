@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180704033406
+#version=20180708125937
 #*********************************************************
 127.0.0.1 0.r.msn.com
 127.0.0.1 1100.adsina.allyes.com
@@ -127,6 +127,7 @@
 127.0.0.1 ad-bg.adwo.com
 127.0.0.1 ad.caiyunapp.com
 127.0.0.1 adcast.deviantart.com
+127.0.0.1 ad.cdn.sex
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 ad.cn.doubleclick.net
 127.0.0.1 adcore.lenovomm.com
@@ -2232,6 +2233,7 @@
 :: ad-bg.adwo.com
 :: ad.caiyunapp.com
 :: adcast.deviantart.com
+:: ad.cdn.sex
 :: adclick.g.doubleclick.net
 :: ad.cn.doubleclick.net
 :: adcore.lenovomm.com
