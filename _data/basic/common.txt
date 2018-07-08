@@ -442,6 +442,8 @@
 0.0.0.0 static.youmi.net
 0.0.0.0 t.youmi.net
 0.0.0.0 track.dmp.youmi.net
+# 91Porn
+0.0.0.0 ad.cdn.sex
 # Others
 0.0.0.0 push.wandoujia.com
 0.0.0.0 ss.missyouxi.com
