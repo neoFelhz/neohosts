@@ -182,10 +182,6 @@
 0.0.0.0 ww9.onetad.com
 0.0.0.0 wwv.onetad.com
 0.0.0.0 www.onetad.com
-# gxwztv
-0.0.0.0 drdj.m.gxwztv.com
-0.0.0.0 yfcode.m.gxwztv.com
-0.0.0.0 yfxpcode.m.gxwztv.com
 # criteo
 0.0.0.0 cas.criteo.com
 0.0.0.0 dis.criteo.com

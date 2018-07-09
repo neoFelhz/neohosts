@@ -1,7 +1,9 @@
 # Netease
 0.0.0.0 mr.da.netease.com
 0.0.0.0 pr.da.netease.com
+0.0.0.0 wr.da.netease.com
 0.0.0.0 rd.da.netease.com
+0.0.0.0 iad.g.163.com
 0.0.0.0 stat.ws.126.net
 0.0.0.0 analytics.ws.126.net
 0.0.0.0 analytics.hz.netease.com

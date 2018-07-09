@@ -537,9 +537,7 @@
 0.0.0.0 m.fhxsw.org
 0.0.0.0 m.guanren9.com
 0.0.0.0 m.yangjingbang.net
-0.0.0.0 miui.hftaili.com
 0.0.0.0 s.l8l9.com
-0.0.0.0 tf.hftaili.com
 0.0.0.0 a.m.shuhuangge.org
 0.0.0.0 ow.s1.shuhuangge.org
 0.0.0.0 ow.s2.shuhuangge.org
