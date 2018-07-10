@@ -1009,7 +1009,6 @@ ip dns static add address=127.0.0.1 name=dp.g.doubleclick.net
 ip dns static add address=127.0.0.1 name=dp.im.weibo.cn
 ip dns static add address=127.0.0.1 name=dpm.demdex.net
 ip dns static add address=127.0.0.1 name=dps.wtdtjs.com
-ip dns static add address=127.0.0.1 name=drdj.m.gxwztv.com
 ip dns static add address=127.0.0.1 name=dressimage.img-cn-beijing.aliyuncs.com
 ip dns static add address=127.0.0.1 name=d.rexuebi.com
 ip dns static add address=127.0.0.1 name=dr.holaworld.cn
@@ -1747,7 +1746,6 @@ ip dns static add address=127.0.0.1 name=minipage.2345.com
 ip dns static add address=127.0.0.1 name=mipcache.bdstatic.com
 ip dns static add address=127.0.0.1 name=m.irs01.com
 ip dns static add address=127.0.0.1 name=mis.g.mi.com
-ip dns static add address=127.0.0.1 name=miui.hftaili.com
 ip dns static add address=127.0.0.1 name=mix.adsame.com
 ip dns static add address=127.0.0.1 name=m.jackaow.com
 ip dns static add address=127.0.0.1 name=m.jollyspring.com
@@ -2743,7 +2741,6 @@ ip dns static add address=127.0.0.1 name=test.e.ad.xiaomi.com
 ip dns static add address=127.0.0.1 name=test.surepush.cn
 ip dns static add address=127.0.0.1 name=test.zeus.ad.xiaomi.com
 ip dns static add address=127.0.0.1 name=textlink.simba.taobao.com
-ip dns static add address=127.0.0.1 name=tf.hftaili.com
 ip dns static add address=127.0.0.1 name=t-flow.flyme.cn
 ip dns static add address=127.0.0.1 name=t.gdt.qq.com
 ip dns static add address=127.0.0.1 name=tg.jifen.2345.com
@@ -3012,6 +3009,7 @@ ip dns static add address=127.0.0.1 name=wn.pos.baidu.com
 ip dns static add address=127.0.0.1 name=wo.iuni.com.cn
 ip dns static add address=127.0.0.1 name=woocall.sina.com.cn
 ip dns static add address=127.0.0.1 name=woodpecker.uc.cn
+ip dns static add address=127.0.0.1 name=wr.da.netease.com
 ip dns static add address=127.0.0.1 name=ws001.authedmine.com
 ip dns static add address=127.0.0.1 name=ws001.coin-hive.com
 ip dns static add address=127.0.0.1 name=ws001.coinhive.com
@@ -3271,8 +3269,6 @@ ip dns static add address=127.0.0.1 name=yee.js.cn
 ip dns static add address=127.0.0.1 name=yellowto.com
 ip dns static add address=127.0.0.1 name=yepdigital.adk2x.com
 ip dns static add address=127.0.0.1 name=yeskyafp.allyes.com
-ip dns static add address=127.0.0.1 name=yfcode.m.gxwztv.com
-ip dns static add address=127.0.0.1 name=yfxpcode.m.gxwztv.com
 ip dns static add address=127.0.0.1 name=y.hk9600.com
 ip dns static add address=127.0.0.1 name=yiliao.hupan.com
 ip dns static add address=127.0.0.1 name=yktd.ads.cn.miaozhen.com

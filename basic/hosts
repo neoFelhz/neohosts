@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180708125937
+#version=20180710020823
 #*********************************************************
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
@@ -1254,7 +1254,6 @@
 0.0.0.0 mipcache.bdstatic.com
 0.0.0.0 m.irs01.com
 0.0.0.0 mis.g.mi.com
-0.0.0.0 miui.hftaili.com
 0.0.0.0 m.kubiqq.com
 0.0.0.0 m.laojiayoufang.com
 0.0.0.0 mlb.did.ijinshan.com
@@ -1857,7 +1856,6 @@
 0.0.0.0 test.surepush.cn
 0.0.0.0 test.zeus.ad.xiaomi.com
 0.0.0.0 textlink.simba.taobao.com
-0.0.0.0 tf.hftaili.com
 0.0.0.0 t-flow.flyme.cn
 0.0.0.0 t.gdt.qq.com
 0.0.0.0 tg.jifen.2345.com
@@ -3360,7 +3358,6 @@
 :: mipcache.bdstatic.com
 :: m.irs01.com
 :: mis.g.mi.com
-:: miui.hftaili.com
 :: m.kubiqq.com
 :: m.laojiayoufang.com
 :: mlb.did.ijinshan.com
@@ -3963,7 +3960,6 @@
 :: test.surepush.cn
 :: test.zeus.ad.xiaomi.com
 :: textlink.simba.taobao.com
-:: tf.hftaili.com
 :: t-flow.flyme.cn
 :: t.gdt.qq.com
 :: tg.jifen.2345.com

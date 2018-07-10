@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180708125937
+#version=20180710020823
 #*********************************************************
 127.0.0.1 0127.adsame.com
 127.0.0.1 0aqpqdju.me
@@ -1027,7 +1027,6 @@
 127.0.0.1 dp.im.weibo.cn
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dps.wtdtjs.com
-127.0.0.1 drdj.m.gxwztv.com
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 d.rexuebi.com
 127.0.0.1 dr.holaworld.cn
@@ -1765,7 +1764,6 @@
 127.0.0.1 mipcache.bdstatic.com
 127.0.0.1 m.irs01.com
 127.0.0.1 mis.g.mi.com
-127.0.0.1 miui.hftaili.com
 127.0.0.1 mix.adsame.com
 127.0.0.1 m.jackaow.com
 127.0.0.1 m.jollyspring.com
@@ -2761,7 +2759,6 @@
 127.0.0.1 test.surepush.cn
 127.0.0.1 test.zeus.ad.xiaomi.com
 127.0.0.1 textlink.simba.taobao.com
-127.0.0.1 tf.hftaili.com
 127.0.0.1 t-flow.flyme.cn
 127.0.0.1 t.gdt.qq.com
 127.0.0.1 tg.jifen.2345.com
@@ -3030,6 +3027,7 @@
 127.0.0.1 wo.iuni.com.cn
 127.0.0.1 woocall.sina.com.cn
 127.0.0.1 woodpecker.uc.cn
+127.0.0.1 wr.da.netease.com
 127.0.0.1 ws001.authedmine.com
 127.0.0.1 ws001.coin-hive.com
 127.0.0.1 ws001.coinhive.com
@@ -3289,8 +3287,6 @@
 127.0.0.1 yellowto.com
 127.0.0.1 yepdigital.adk2x.com
 127.0.0.1 yeskyafp.allyes.com
-127.0.0.1 yfcode.m.gxwztv.com
-127.0.0.1 yfxpcode.m.gxwztv.com
 127.0.0.1 y.hk9600.com
 127.0.0.1 yiliao.hupan.com
 127.0.0.1 yktd.ads.cn.miaozhen.com
@@ -4374,7 +4370,6 @@
 :: dp.im.weibo.cn
 :: dpm.demdex.net
 :: dps.wtdtjs.com
-:: drdj.m.gxwztv.com
 :: dressimage.img-cn-beijing.aliyuncs.com
 :: d.rexuebi.com
 :: dr.holaworld.cn
@@ -5112,7 +5107,6 @@
 :: mipcache.bdstatic.com
 :: m.irs01.com
 :: mis.g.mi.com
-:: miui.hftaili.com
 :: mix.adsame.com
 :: m.jackaow.com
 :: m.jollyspring.com
@@ -6108,7 +6102,6 @@
 :: test.surepush.cn
 :: test.zeus.ad.xiaomi.com
 :: textlink.simba.taobao.com
-:: tf.hftaili.com
 :: t-flow.flyme.cn
 :: t.gdt.qq.com
 :: tg.jifen.2345.com
@@ -6377,6 +6370,7 @@
 :: wo.iuni.com.cn
 :: woocall.sina.com.cn
 :: woodpecker.uc.cn
+:: wr.da.netease.com
 :: ws001.authedmine.com
 :: ws001.coin-hive.com
 :: ws001.coinhive.com
@@ -6636,8 +6630,6 @@
 :: yellowto.com
 :: yepdigital.adk2x.com
 :: yeskyafp.allyes.com
-:: yfcode.m.gxwztv.com
-:: yfxpcode.m.gxwztv.com
 :: y.hk9600.com
 :: yiliao.hupan.com
 :: yktd.ads.cn.miaozhen.com

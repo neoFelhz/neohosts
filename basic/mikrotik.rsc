@@ -1236,7 +1236,6 @@ ip dns static add address=127.0.0.1 name=mini.jijiplayer.com
 ip dns static add address=127.0.0.1 name=mipcache.bdstatic.com
 ip dns static add address=127.0.0.1 name=m.irs01.com
 ip dns static add address=127.0.0.1 name=mis.g.mi.com
-ip dns static add address=127.0.0.1 name=miui.hftaili.com
 ip dns static add address=127.0.0.1 name=m.kubiqq.com
 ip dns static add address=127.0.0.1 name=m.laojiayoufang.com
 ip dns static add address=127.0.0.1 name=mlb.did.ijinshan.com
@@ -1839,7 +1838,6 @@ ip dns static add address=127.0.0.1 name=test.e.ad.xiaomi.com
 ip dns static add address=127.0.0.1 name=test.surepush.cn
 ip dns static add address=127.0.0.1 name=test.zeus.ad.xiaomi.com
 ip dns static add address=127.0.0.1 name=textlink.simba.taobao.com
-ip dns static add address=127.0.0.1 name=tf.hftaili.com
 ip dns static add address=127.0.0.1 name=t-flow.flyme.cn
 ip dns static add address=127.0.0.1 name=t.gdt.qq.com
 ip dns static add address=127.0.0.1 name=tg.jifen.2345.com
