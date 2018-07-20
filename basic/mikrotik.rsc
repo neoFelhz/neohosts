@@ -2088,7 +2088,6 @@ ip dns static add address=127.0.0.1 name=youle.tom.com
 ip dns static add address=127.0.0.1 name=ypv.chengadx.com
 ip dns static add address=127.0.0.1 name=yt.mmstat.com
 ip dns static add address=127.0.0.1 name=yun.lvehaisen.com
-ip dns static add address=127.0.0.1 name=yun.rili.cn
 ip dns static add address=127.0.0.1 name=yun.tuia.cn
 ip dns static add address=127.0.0.1 name=yun.yuyiya.com
 ip dns static add address=127.0.0.1 name=yyffeicd.m.qxs.la

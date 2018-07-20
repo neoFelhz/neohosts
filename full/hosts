@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180720050355
+#version=20180720052103
 #*********************************************************
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
@@ -3303,7 +3303,6 @@
 0.0.0.0 yt.mmstat.com
 0.0.0.0 yuanming.net
 0.0.0.0 yun.lvehaisen.com
-0.0.0.0 yun.rili.cn
 0.0.0.0 yun.tuia.cn
 0.0.0.0 yun.yuyiya.com
 0.0.0.0 y.xinghao89.com
@@ -6650,7 +6649,6 @@
 :: yt.mmstat.com
 :: yuanming.net
 :: yun.lvehaisen.com
-:: yun.rili.cn
 :: yun.tuia.cn
 :: yun.yuyiya.com
 :: y.xinghao89.com

@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180720050355
+#version=20180720052103
 #*********************************************************
 127.0.0.1 0.r.msn.com
 127.0.0.1 1100.adsina.allyes.com
@@ -2106,7 +2106,6 @@
 127.0.0.1 ypv.chengadx.com
 127.0.0.1 yt.mmstat.com
 127.0.0.1 yun.lvehaisen.com
-127.0.0.1 yun.rili.cn
 127.0.0.1 yun.tuia.cn
 127.0.0.1 yun.yuyiya.com
 127.0.0.1 yyffeicd.m.qxs.la
@@ -4214,7 +4213,6 @@
 :: ypv.chengadx.com
 :: yt.mmstat.com
 :: yun.lvehaisen.com
-:: yun.rili.cn
 :: yun.tuia.cn
 :: yun.yuyiya.com
 :: yyffeicd.m.qxs.la
