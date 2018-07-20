@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180710020823
+#version=20180720050355
 #*********************************************************
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
@@ -123,6 +123,7 @@
 0.0.0.0 acookie.alimama.com
 0.0.0.0 acookie.linezing.com
 0.0.0.0 acs4baichuan.m.taobao.com
+0.0.0.0 acstatic-dun.126.net
 0.0.0.0 act.commercial.shouji.360.cn
 0.0.0.0 activate.adobe.com
 0.0.0.0 activate-sea.adobe.com
@@ -661,6 +662,7 @@
 0.0.0.0 cdnimg.liehu.ijinshan.com
 0.0.0.0 cdnis.hyperpromote.com
 0.0.0.0 cdn.lu.sogoucdn.com
+0.0.0.0 cdn.newapi.com
 0.0.0.0 cdn.optaim.com
 0.0.0.0 cdnpa.hyperpromote.com
 0.0.0.0 cdn.popcash.net
@@ -858,7 +860,6 @@
 0.0.0.0 cp.jiajv.net
 0.0.0.0 cpro2.baidu.com
 0.0.0.0 cpro2.baidustatic.com
-0.0.0.0 cpro.9xu.com
 0.0.0.0 cpro.baidu.com
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 cpro.tieba.baidu.com
@@ -883,7 +884,6 @@
 0.0.0.0 cs.dqwjzm.com
 0.0.0.0 cs.twcczhu.com
 0.0.0.0 c.sz.gt.igexin.com
-0.0.0.0 cszlks.com
 0.0.0.0 ct.210189.com
 0.0.0.0 cti.w55c.net
 0.0.0.0 ct.niu.xunlei.com
@@ -1644,6 +1644,7 @@
 0.0.0.0 log.he2d.com
 0.0.0.0 log.mix.sina.com.cn
 0.0.0.0 log.music.baidu.com
+0.0.0.0 logs.newapi.com
 0.0.0.0 log.spotify.com
 0.0.0.0 log.stat.kugou.com
 0.0.0.0 log.tbs.qq.com
@@ -1667,7 +1668,6 @@
 0.0.0.0 m2374.oadz.com
 0.0.0.0 m.28487.net
 0.0.0.0 m3bnqqqw.com
-0.0.0.0 m5.apk.67mo.com
 0.0.0.0 m.7180443.com
 0.0.0.0 m-78.jp
 0.0.0.0 m947.oadz.com
@@ -1715,6 +1715,7 @@
 0.0.0.0 mcore.vcgame.cn
 0.0.0.0 m.ctsywy.com
 0.0.0.0 mc.yandex.ru
+0.0.0.0 md.1drj.com
 0.0.0.0 m.dante2007.com
 0.0.0.0 mdap.alipaylog.com
 0.0.0.0 mdc.meitustat.com
@@ -1752,7 +1753,6 @@
 0.0.0.0 migcreport.g.mi.com
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 migrate.driveapi.micloud.xiaomi.net
-0.0.0.0 migu.kssws.ks-cdn.com
 0.0.0.0 m.inccnd.com
 0.0.0.0 minfo.wps.cn
 0.0.0.0 minghui.com
@@ -2082,6 +2082,7 @@
 0.0.0.0 puds.ucweb.com
 0.0.0.0 pull.push.sogou.com
 0.0.0.0 pups.bdimg.com
+0.0.0.0 push.5z5zw.com
 0.0.0.0 pushapi.lenovomm.com
 0.0.0.0 push.mobile.kugou.com
 0.0.0.0 push.res.meizu.com
@@ -3209,6 +3210,7 @@
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
 0.0.0.0 www.jisucn.com
+0.0.0.0 www.jiubuhua.com
 0.0.0.0 www.jizzads.com
 0.0.0.0 www.keyrun.cn
 0.0.0.0 www.kuguopush.com
@@ -3273,6 +3275,7 @@
 0.0.0.0 xinhuanet.adsame.com
 0.0.0.0 xinsheng.net
 0.0.0.0 xji.qwxcs.com
+0.0.0.0 xs.1drj.com
 0.0.0.0 xs.he9630.com
 0.0.0.0 xtruh.uranus.sogou.com
 0.0.0.0 xunlei.adx.admaster.com.cn
@@ -3320,6 +3323,7 @@
 0.0.0.0 zbz.m.qxs.la
 0.0.0.0 zc.adpush.cn
 0.0.0.0 zc.biz.weibo.com
+0.0.0.0 z.clickvip.shop
 0.0.0.0 z.domob.cn
 0.0.0.0 zgdfz6h7po.me
 0.0.0.0 zgty365.com
@@ -3466,6 +3470,7 @@
 :: acookie.alimama.com
 :: acookie.linezing.com
 :: acs4baichuan.m.taobao.com
+:: acstatic-dun.126.net
 :: act.commercial.shouji.360.cn
 :: activate.adobe.com
 :: activate-sea.adobe.com
@@ -4004,6 +4009,7 @@
 :: cdnimg.liehu.ijinshan.com
 :: cdnis.hyperpromote.com
 :: cdn.lu.sogoucdn.com
+:: cdn.newapi.com
 :: cdn.optaim.com
 :: cdnpa.hyperpromote.com
 :: cdn.popcash.net
@@ -4201,7 +4207,6 @@
 :: cp.jiajv.net
 :: cpro2.baidu.com
 :: cpro2.baidustatic.com
-:: cpro.9xu.com
 :: cpro.baidu.com
 :: cpro.baidustatic.com
 :: cpro.tieba.baidu.com
@@ -4226,7 +4231,6 @@
 :: cs.dqwjzm.com
 :: cs.twcczhu.com
 :: c.sz.gt.igexin.com
-:: cszlks.com
 :: ct.210189.com
 :: cti.w55c.net
 :: ct.niu.xunlei.com
@@ -4987,6 +4991,7 @@
 :: log.he2d.com
 :: log.mix.sina.com.cn
 :: log.music.baidu.com
+:: logs.newapi.com
 :: log.spotify.com
 :: log.stat.kugou.com
 :: log.tbs.qq.com
@@ -5010,7 +5015,6 @@
 :: m2374.oadz.com
 :: m.28487.net
 :: m3bnqqqw.com
-:: m5.apk.67mo.com
 :: m.7180443.com
 :: m-78.jp
 :: m947.oadz.com
@@ -5058,6 +5062,7 @@
 :: mcore.vcgame.cn
 :: m.ctsywy.com
 :: mc.yandex.ru
+:: md.1drj.com
 :: m.dante2007.com
 :: mdap.alipaylog.com
 :: mdc.meitustat.com
@@ -5095,7 +5100,6 @@
 :: migcreport.g.mi.com
 :: mi.gdt.qq.com
 :: migrate.driveapi.micloud.xiaomi.net
-:: migu.kssws.ks-cdn.com
 :: m.inccnd.com
 :: minfo.wps.cn
 :: minghui.com
@@ -5425,6 +5429,7 @@
 :: puds.ucweb.com
 :: pull.push.sogou.com
 :: pups.bdimg.com
+:: push.5z5zw.com
 :: pushapi.lenovomm.com
 :: push.mobile.kugou.com
 :: push.res.meizu.com
@@ -6552,6 +6557,7 @@
 :: www.ipinyou.com
 :: www.ipinyou.com.cn
 :: www.jisucn.com
+:: www.jiubuhua.com
 :: www.jizzads.com
 :: www.keyrun.cn
 :: www.kuguopush.com
@@ -6616,6 +6622,7 @@
 :: xinhuanet.adsame.com
 :: xinsheng.net
 :: xji.qwxcs.com
+:: xs.1drj.com
 :: xs.he9630.com
 :: xtruh.uranus.sogou.com
 :: xunlei.adx.admaster.com.cn
@@ -6663,6 +6670,7 @@
 :: zbz.m.qxs.la
 :: zc.adpush.cn
 :: zc.biz.weibo.com
+:: z.clickvip.shop
 :: z.domob.cn
 :: zgdfz6h7po.me
 :: zgty365.com

@@ -105,6 +105,7 @@ ip dns static add address=127.0.0.1 name=a.cnzz.com
 ip dns static add address=127.0.0.1 name=acookie.alimama.com
 ip dns static add address=127.0.0.1 name=acookie.linezing.com
 ip dns static add address=127.0.0.1 name=acs4baichuan.m.taobao.com
+ip dns static add address=127.0.0.1 name=acstatic-dun.126.net
 ip dns static add address=127.0.0.1 name=act.commercial.shouji.360.cn
 ip dns static add address=127.0.0.1 name=activate.adobe.com
 ip dns static add address=127.0.0.1 name=activate-sea.adobe.com
@@ -643,6 +644,7 @@ ip dns static add address=127.0.0.1 name=cdn.hyperpromote.com
 ip dns static add address=127.0.0.1 name=cdnimg.liehu.ijinshan.com
 ip dns static add address=127.0.0.1 name=cdnis.hyperpromote.com
 ip dns static add address=127.0.0.1 name=cdn.lu.sogoucdn.com
+ip dns static add address=127.0.0.1 name=cdn.newapi.com
 ip dns static add address=127.0.0.1 name=cdn.optaim.com
 ip dns static add address=127.0.0.1 name=cdnpa.hyperpromote.com
 ip dns static add address=127.0.0.1 name=cdn.popcash.net
@@ -840,7 +842,6 @@ ip dns static add address=127.0.0.1 name=cpc.sogou.com
 ip dns static add address=127.0.0.1 name=cp.jiajv.net
 ip dns static add address=127.0.0.1 name=cpro2.baidu.com
 ip dns static add address=127.0.0.1 name=cpro2.baidustatic.com
-ip dns static add address=127.0.0.1 name=cpro.9xu.com
 ip dns static add address=127.0.0.1 name=cpro.baidu.com
 ip dns static add address=127.0.0.1 name=cpro.baidustatic.com
 ip dns static add address=127.0.0.1 name=cpro.tieba.baidu.com
@@ -865,7 +866,6 @@ ip dns static add address=127.0.0.1 name=crs.baidu.com
 ip dns static add address=127.0.0.1 name=cs.dqwjzm.com
 ip dns static add address=127.0.0.1 name=cs.twcczhu.com
 ip dns static add address=127.0.0.1 name=c.sz.gt.igexin.com
-ip dns static add address=127.0.0.1 name=cszlks.com
 ip dns static add address=127.0.0.1 name=ct.210189.com
 ip dns static add address=127.0.0.1 name=cti.w55c.net
 ip dns static add address=127.0.0.1 name=ct.niu.xunlei.com
@@ -1626,6 +1626,7 @@ ip dns static add address=127.0.0.1 name=log.cs.pp.cn
 ip dns static add address=127.0.0.1 name=log.he2d.com
 ip dns static add address=127.0.0.1 name=log.mix.sina.com.cn
 ip dns static add address=127.0.0.1 name=log.music.baidu.com
+ip dns static add address=127.0.0.1 name=logs.newapi.com
 ip dns static add address=127.0.0.1 name=log.spotify.com
 ip dns static add address=127.0.0.1 name=log.stat.kugou.com
 ip dns static add address=127.0.0.1 name=log.tbs.qq.com
@@ -1649,7 +1650,6 @@ ip dns static add address=127.0.0.1 name=m1.baidu.com
 ip dns static add address=127.0.0.1 name=m2374.oadz.com
 ip dns static add address=127.0.0.1 name=m.28487.net
 ip dns static add address=127.0.0.1 name=m3bnqqqw.com
-ip dns static add address=127.0.0.1 name=m5.apk.67mo.com
 ip dns static add address=127.0.0.1 name=m.7180443.com
 ip dns static add address=127.0.0.1 name=m-78.jp
 ip dns static add address=127.0.0.1 name=m947.oadz.com
@@ -1697,6 +1697,7 @@ ip dns static add address=127.0.0.1 name=m.clubske.com
 ip dns static add address=127.0.0.1 name=mcore.vcgame.cn
 ip dns static add address=127.0.0.1 name=m.ctsywy.com
 ip dns static add address=127.0.0.1 name=mc.yandex.ru
+ip dns static add address=127.0.0.1 name=md.1drj.com
 ip dns static add address=127.0.0.1 name=m.dante2007.com
 ip dns static add address=127.0.0.1 name=mdap.alipaylog.com
 ip dns static add address=127.0.0.1 name=mdc.meitustat.com
@@ -1734,7 +1735,6 @@ ip dns static add address=127.0.0.1 name=migc.g.mi.com
 ip dns static add address=127.0.0.1 name=migcreport.g.mi.com
 ip dns static add address=127.0.0.1 name=mi.gdt.qq.com
 ip dns static add address=127.0.0.1 name=migrate.driveapi.micloud.xiaomi.net
-ip dns static add address=127.0.0.1 name=migu.kssws.ks-cdn.com
 ip dns static add address=127.0.0.1 name=m.inccnd.com
 ip dns static add address=127.0.0.1 name=minfo.wps.cn
 ip dns static add address=127.0.0.1 name=minghui.com
@@ -2064,6 +2064,7 @@ ip dns static add address=127.0.0.1 name=puds.test.uae.uc.cn
 ip dns static add address=127.0.0.1 name=puds.ucweb.com
 ip dns static add address=127.0.0.1 name=pull.push.sogou.com
 ip dns static add address=127.0.0.1 name=pups.bdimg.com
+ip dns static add address=127.0.0.1 name=push.5z5zw.com
 ip dns static add address=127.0.0.1 name=pushapi.lenovomm.com
 ip dns static add address=127.0.0.1 name=push.mobile.kugou.com
 ip dns static add address=127.0.0.1 name=push.res.meizu.com
@@ -3191,6 +3192,7 @@ ip dns static add address=127.0.0.1 name=www.inmobi.com
 ip dns static add address=127.0.0.1 name=www.ipinyou.com
 ip dns static add address=127.0.0.1 name=www.ipinyou.com.cn
 ip dns static add address=127.0.0.1 name=www.jisucn.com
+ip dns static add address=127.0.0.1 name=www.jiubuhua.com
 ip dns static add address=127.0.0.1 name=www.jizzads.com
 ip dns static add address=127.0.0.1 name=www.keyrun.cn
 ip dns static add address=127.0.0.1 name=www.kuguopush.com
@@ -3255,6 +3257,7 @@ ip dns static add address=127.0.0.1 name=xiaomiir.yaokantv.com
 ip dns static add address=127.0.0.1 name=xinhuanet.adsame.com
 ip dns static add address=127.0.0.1 name=xinsheng.net
 ip dns static add address=127.0.0.1 name=xji.qwxcs.com
+ip dns static add address=127.0.0.1 name=xs.1drj.com
 ip dns static add address=127.0.0.1 name=xs.he9630.com
 ip dns static add address=127.0.0.1 name=xtruh.uranus.sogou.com
 ip dns static add address=127.0.0.1 name=xunlei.adx.admaster.com.cn
@@ -3302,6 +3305,7 @@ ip dns static add address=127.0.0.1 name=z9.cnzz.com
 ip dns static add address=127.0.0.1 name=zbz.m.qxs.la
 ip dns static add address=127.0.0.1 name=zc.adpush.cn
 ip dns static add address=127.0.0.1 name=zc.biz.weibo.com
+ip dns static add address=127.0.0.1 name=z.clickvip.shop
 ip dns static add address=127.0.0.1 name=z.domob.cn
 ip dns static add address=127.0.0.1 name=zgdfz6h7po.me
 ip dns static add address=127.0.0.1 name=zgty365.com

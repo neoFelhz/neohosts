@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180710020823
+#version=20180720050355
 #*********************************************************
 127.0.0.1 0.r.msn.com
 127.0.0.1 1100.adsina.allyes.com
@@ -87,6 +87,7 @@
 127.0.0.1 ac.mmstat.com
 127.0.0.1 acookie.alimama.com
 127.0.0.1 acs4baichuan.m.taobao.com
+127.0.0.1 acstatic-dun.126.net
 127.0.0.1 act.commercial.shouji.360.cn
 127.0.0.1 activate.adobe.com
 127.0.0.1 activate-sea.adobe.com
@@ -517,6 +518,7 @@
 127.0.0.1 cdn.flurry.com
 127.0.0.1 cdnimg.liehu.ijinshan.com
 127.0.0.1 cdn.lu.sogoucdn.com
+127.0.0.1 cdn.newapi.com
 127.0.0.1 cdn.optaim.com
 127.0.0.1 cdn.popcash.net
 127.0.0.1 cdn.popmyads.com
@@ -667,7 +669,6 @@
 127.0.0.1 cpc.sogou.com
 127.0.0.1 cpro2.baidu.com
 127.0.0.1 cpro2.baidustatic.com
-127.0.0.1 cpro.9xu.com
 127.0.0.1 cpro.baidu.com
 127.0.0.1 cpro.baidustatic.com
 127.0.0.1 cpro.tieba.baidu.com
@@ -687,7 +688,6 @@
 127.0.0.1 cr-p16.ladsp.com
 127.0.0.1 crs.baidu.com
 127.0.0.1 cs.dqwjzm.com
-127.0.0.1 cszlks.com
 127.0.0.1 cti.w55c.net
 127.0.0.1 ct.niu.xunlei.com
 127.0.0.1 cupid.jebe.renren.com
@@ -1168,6 +1168,7 @@
 127.0.0.1 log.cs.pp.cn
 127.0.0.1 log.mix.sina.com.cn
 127.0.0.1 log.music.baidu.com
+127.0.0.1 logs.newapi.com
 127.0.0.1 log.spotify.com
 127.0.0.1 log.stat.kugou.com
 127.0.0.1 log.tbs.qq.com
@@ -1183,7 +1184,6 @@
 127.0.0.1 m1.baidu.com
 127.0.0.1 m.28487.net
 127.0.0.1 m3bnqqqw.com
-127.0.0.1 m5.apk.67mo.com
 127.0.0.1 m.7180443.com
 127.0.0.1 m-78.jp
 127.0.0.1 ma.baidu.com
@@ -1218,6 +1218,7 @@
 127.0.0.1 m.clkservice.youdao.com
 127.0.0.1 mcore.vcgame.cn
 127.0.0.1 mc.yandex.ru
+127.0.0.1 md.1drj.com
 127.0.0.1 mdap.alipaylog.com
 127.0.0.1 mdc.meitustat.com
 127.0.0.1 md.he9630.com
@@ -1246,7 +1247,6 @@
 127.0.0.1 migcreport.g.mi.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 migrate.driveapi.micloud.xiaomi.net
-127.0.0.1 migu.kssws.ks-cdn.com
 127.0.0.1 minfo.wps.cn
 127.0.0.1 mini2015.qq.com
 127.0.0.1 mini.cpc.sogou.com
@@ -1498,6 +1498,7 @@
 127.0.0.1 puds.ucweb.com
 127.0.0.1 pull.push.sogou.com
 127.0.0.1 pups.bdimg.com
+127.0.0.1 push.5z5zw.com
 127.0.0.1 pushapi.lenovomm.com
 127.0.0.1 push.mobile.kugou.com
 127.0.0.1 push.res.meizu.com
@@ -2065,6 +2066,7 @@
 127.0.0.1 www.i1236.net
 127.0.0.1 www.ipinyou.com
 127.0.0.1 www.ipinyou.com.cn
+127.0.0.1 www.jiubuhua.com
 127.0.0.1 www.minesage.com
 127.0.0.1 www.ok365.com
 127.0.0.1 www.openx.net
@@ -2085,6 +2087,7 @@
 127.0.0.1 x.domob.cn
 127.0.0.1 xf.yellowto.com
 127.0.0.1 xiaomiir.yaokantv.com
+127.0.0.1 xs.1drj.com
 127.0.0.1 xs.he9630.com
 127.0.0.1 xtruh.uranus.sogou.com
 127.0.0.1 xunlei.adx.admaster.com.cn
@@ -2110,6 +2113,7 @@
 127.0.0.1 zbz.m.qxs.la
 127.0.0.1 zc.adpush.cn
 127.0.0.1 zc.biz.weibo.com
+127.0.0.1 z.clickvip.shop
 127.0.0.1 z.domob.cn
 127.0.0.1 zhushou.2345.com
 127.0.0.1 zhwnlapi.etouch.cn
@@ -2191,6 +2195,7 @@
 :: ac.mmstat.com
 :: acookie.alimama.com
 :: acs4baichuan.m.taobao.com
+:: acstatic-dun.126.net
 :: act.commercial.shouji.360.cn
 :: activate.adobe.com
 :: activate-sea.adobe.com
@@ -2621,6 +2626,7 @@
 :: cdn.flurry.com
 :: cdnimg.liehu.ijinshan.com
 :: cdn.lu.sogoucdn.com
+:: cdn.newapi.com
 :: cdn.optaim.com
 :: cdn.popcash.net
 :: cdn.popmyads.com
@@ -2771,7 +2777,6 @@
 :: cpc.sogou.com
 :: cpro2.baidu.com
 :: cpro2.baidustatic.com
-:: cpro.9xu.com
 :: cpro.baidu.com
 :: cpro.baidustatic.com
 :: cpro.tieba.baidu.com
@@ -2791,7 +2796,6 @@
 :: cr-p16.ladsp.com
 :: crs.baidu.com
 :: cs.dqwjzm.com
-:: cszlks.com
 :: cti.w55c.net
 :: ct.niu.xunlei.com
 :: cupid.jebe.renren.com
@@ -3272,6 +3276,7 @@
 :: log.cs.pp.cn
 :: log.mix.sina.com.cn
 :: log.music.baidu.com
+:: logs.newapi.com
 :: log.spotify.com
 :: log.stat.kugou.com
 :: log.tbs.qq.com
@@ -3287,7 +3292,6 @@
 :: m1.baidu.com
 :: m.28487.net
 :: m3bnqqqw.com
-:: m5.apk.67mo.com
 :: m.7180443.com
 :: m-78.jp
 :: ma.baidu.com
@@ -3322,6 +3326,7 @@
 :: m.clkservice.youdao.com
 :: mcore.vcgame.cn
 :: mc.yandex.ru
+:: md.1drj.com
 :: mdap.alipaylog.com
 :: mdc.meitustat.com
 :: md.he9630.com
@@ -3350,7 +3355,6 @@
 :: migcreport.g.mi.com
 :: mi.gdt.qq.com
 :: migrate.driveapi.micloud.xiaomi.net
-:: migu.kssws.ks-cdn.com
 :: minfo.wps.cn
 :: mini2015.qq.com
 :: mini.cpc.sogou.com
@@ -3602,6 +3606,7 @@
 :: puds.ucweb.com
 :: pull.push.sogou.com
 :: pups.bdimg.com
+:: push.5z5zw.com
 :: pushapi.lenovomm.com
 :: push.mobile.kugou.com
 :: push.res.meizu.com
@@ -4169,6 +4174,7 @@
 :: www.i1236.net
 :: www.ipinyou.com
 :: www.ipinyou.com.cn
+:: www.jiubuhua.com
 :: www.minesage.com
 :: www.ok365.com
 :: www.openx.net
@@ -4189,6 +4195,7 @@
 :: x.domob.cn
 :: xf.yellowto.com
 :: xiaomiir.yaokantv.com
+:: xs.1drj.com
 :: xs.he9630.com
 :: xtruh.uranus.sogou.com
 :: xunlei.adx.admaster.com.cn
@@ -4214,6 +4221,7 @@
 :: zbz.m.qxs.la
 :: zc.adpush.cn
 :: zc.biz.weibo.com
+:: z.clickvip.shop
 :: z.domob.cn
 :: zhushou.2345.com
 :: zhwnlapi.etouch.cn
