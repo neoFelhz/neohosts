@@ -15,6 +15,7 @@
 0.0.0.0 img1.126.net
 0.0.0.0 img2.126.net
 0.0.0.0 news.push.126.net
+0.0.0.0 acstatic-dun.126.net
 0.0.0.0 haitaoad.nosdn.127.net
 0.0.0.0 statis.push.netease.com
 0.0.0.0 popme.163.com

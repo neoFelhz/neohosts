@@ -1,7 +1,6 @@
 0.0.0.0 navi.gd.chinamobile.com
 0.0.0.0 hivedata.cc
 0.0.0.0 m.kubiqq.com
-0.0.0.0 m5.apk.67mo.com
 0.0.0.0 ieonline.microsoft.com
 0.0.0.0 offline-adv.oray.com
 0.0.0.0 hao.qquu8.com
@@ -44,11 +43,9 @@
 0.0.0.0 yun.tuia.cn
 0.0.0.0 res.ipingke.com
 0.0.0.0 ggle.lywf.me
-0.0.0.0 cszlks.com
 0.0.0.0 ax.ggfeng.com
 0.0.0.0 cloudcdn.yousee.com
 0.0.0.0 ds.jlbksy.com
-0.0.0.0 migu.kssws.ks-cdn.com
 0.0.0.0 news.766ba.net
 0.0.0.0 sc.ggdoubi.com
 0.0.0.0 sc.ggfeng.com

@@ -68,3 +68,10 @@
 0.0.0.0 nfdnserror15.wo.com.cn
 0.0.0.0 nfdnserror16.wo.com.cn
 0.0.0.0 nfdnserror17.wo.com.cn
+0.0.0.0 logs.newapi.com
+0.0.0.0 cdn.newapi.com
+0.0.0.0 md.1drj.com
+0.0.0.0 push.5z5zw.com
+0.0.0.0 www.jiubuhua.com
+0.0.0.0 xs.1drj.com
+0.0.0.0 z.clickvip.shop

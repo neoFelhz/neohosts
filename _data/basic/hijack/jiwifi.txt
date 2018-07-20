@@ -4,7 +4,6 @@
 0.0.0.0 930.dragonparking.com
 0.0.0.0 track.dragonparking.com
 0.0.0.0 cdn.dragonstatic.com
-0.0.0.0 cpro.9xu.com
 0.0.0.0 dl.9xu.com
 0.0.0.0 js.union-wifi.com
 0.0.0.0 rcv.union-wifi.com
