@@ -45,7 +45,6 @@
 0.0.0.0 spcode.baidu.com
 0.0.0.0 tk.baidu.com
 0.0.0.0 tkweb.baidu.com
-0.0.0.0 tongji.baidu.com
 0.0.0.0 toolbar.baidu.com
 0.0.0.0 tracker.baidu.com
 0.0.0.0 ucstat.baidu.com
