@@ -1857,7 +1857,6 @@ ip dns static add address=127.0.0.1 name=tns.simba.taobao.com
 ip dns static add address=127.0.0.1 name=tob-cms.bj.bcebos.com
 ip dns static add address=127.0.0.1 name=token.rubiconproject.com
 ip dns static add address=127.0.0.1 name=tom.allyes.com
-ip dns static add address=127.0.0.1 name=tongji.baidu.com
 ip dns static add address=127.0.0.1 name=tongji.meizu.com
 ip dns static add address=127.0.0.1 name=tongji-res1.meizu.com
 ip dns static add address=127.0.0.1 name=tongji.wrating.com

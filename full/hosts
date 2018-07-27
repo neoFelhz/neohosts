@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180720052103
+#version=20180727095550
 #*********************************************************
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
@@ -2779,7 +2779,6 @@
 0.0.0.0 tob-cms.bj.bcebos.com
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tom.allyes.com
-0.0.0.0 tongji.baidu.com
 0.0.0.0 tongji.linezing.com
 0.0.0.0 tongji.meizu.com
 0.0.0.0 tongji-res1.meizu.com
@@ -6125,7 +6124,6 @@
 :: tob-cms.bj.bcebos.com
 :: token.rubiconproject.com
 :: tom.allyes.com
-:: tongji.baidu.com
 :: tongji.linezing.com
 :: tongji.meizu.com
 :: tongji-res1.meizu.com
