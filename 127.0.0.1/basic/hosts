@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180727095550
+#version=20180806033826
 #*********************************************************
 127.0.0.1 0.r.msn.com
 127.0.0.1 1100.adsina.allyes.com
@@ -87,7 +87,6 @@
 127.0.0.1 ac.mmstat.com
 127.0.0.1 acookie.alimama.com
 127.0.0.1 acs4baichuan.m.taobao.com
-127.0.0.1 acstatic-dun.126.net
 127.0.0.1 act.commercial.shouji.360.cn
 127.0.0.1 activate.adobe.com
 127.0.0.1 activate-sea.adobe.com
@@ -2193,7 +2192,6 @@
 :: ac.mmstat.com
 :: acookie.alimama.com
 :: acs4baichuan.m.taobao.com
-:: acstatic-dun.126.net
 :: act.commercial.shouji.360.cn
 :: activate.adobe.com
 :: activate-sea.adobe.com

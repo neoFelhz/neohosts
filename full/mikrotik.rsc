@@ -105,7 +105,6 @@ ip dns static add address=127.0.0.1 name=a.cnzz.com
 ip dns static add address=127.0.0.1 name=acookie.alimama.com
 ip dns static add address=127.0.0.1 name=acookie.linezing.com
 ip dns static add address=127.0.0.1 name=acs4baichuan.m.taobao.com
-ip dns static add address=127.0.0.1 name=acstatic-dun.126.net
 ip dns static add address=127.0.0.1 name=act.commercial.shouji.360.cn
 ip dns static add address=127.0.0.1 name=activate.adobe.com
 ip dns static add address=127.0.0.1 name=activate-sea.adobe.com
