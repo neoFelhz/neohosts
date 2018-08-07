@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180806033826
+#version=20180807033818
 #*********************************************************
 127.0.0.1 0127.adsame.com
 127.0.0.1 0aqpqdju.me
@@ -1786,7 +1786,6 @@
 127.0.0.1 mobileads.google.com
 127.0.0.1 mobileads.msn.com
 127.0.0.1 mobilelog.kugou.com
-127.0.0.1 mobile.qzone.qq.com
 127.0.0.1 mo.haloapps.cn
 127.0.0.1 moka.inte.sogoucdn.com
 127.0.0.1 monitor.uu.qq.com
@@ -5130,7 +5129,6 @@
 :: mobileads.google.com
 :: mobileads.msn.com
 :: mobilelog.kugou.com
-:: mobile.qzone.qq.com
 :: mo.haloapps.cn
 :: moka.inte.sogoucdn.com
 :: monitor.uu.qq.com

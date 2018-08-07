@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180806033826
+#version=20180807033818
 #*********************************************************
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
@@ -1268,7 +1268,6 @@
 0.0.0.0 mobileads.google.com
 0.0.0.0 mobileads.msn.com
 0.0.0.0 mobilelog.kugou.com
-0.0.0.0 mobile.qzone.qq.com
 0.0.0.0 mo.haloapps.cn
 0.0.0.0 moka.inte.sogoucdn.com
 0.0.0.0 monitor.uu.qq.com
@@ -3373,7 +3372,6 @@
 :: mobileads.google.com
 :: mobileads.msn.com
 :: mobilelog.kugou.com
-:: mobile.qzone.qq.com
 :: mo.haloapps.cn
 :: moka.inte.sogoucdn.com
 :: monitor.uu.qq.com

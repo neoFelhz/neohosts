@@ -1768,7 +1768,6 @@ ip dns static add address=127.0.0.1 name=mobi.adsage.com
 ip dns static add address=127.0.0.1 name=mobileads.google.com
 ip dns static add address=127.0.0.1 name=mobileads.msn.com
 ip dns static add address=127.0.0.1 name=mobilelog.kugou.com
-ip dns static add address=127.0.0.1 name=mobile.qzone.qq.com
 ip dns static add address=127.0.0.1 name=mo.haloapps.cn
 ip dns static add address=127.0.0.1 name=moka.inte.sogoucdn.com
 ip dns static add address=127.0.0.1 name=monitor.uu.qq.com
