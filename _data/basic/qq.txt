@@ -135,7 +135,6 @@
 0.0.0.0 m.gdt.vip1790.cn
 0.0.0.0 m.qpic.cn
 0.0.0.0 mapp.qzone.qq.com
-0.0.0.0 mobile.qzone.qq.com
 0.0.0.0 monitor.uu.qq.com
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 oth.str.mdt.qq.com
