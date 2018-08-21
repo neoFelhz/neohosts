@@ -29,4 +29,4 @@ sudo killall -HUP mDNSResponder
 
 ## Chrome 浏览器
 
-在完成对系统的 DNS 缓存的刷新之后，在 Chrome 浏览器访问 `chrome://dns/` 清理 Chrome 浏览器的 DNS 缓存。
+在完成对系统的 DNS 缓存的刷新之后，在 Chrome 浏览器访问 `chrome://net-internals/#dns` 清理 Chrome 浏览器的 DNS 缓存。
