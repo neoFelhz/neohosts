@@ -2848,6 +2848,7 @@ ip dns static add address=127.0.0.1 name=uimg.27admin.com
 ip dns static add address=127.0.0.1 name=ulic.baidu.com
 ip dns static add address=127.0.0.1 name=ulink.cc
 ip dns static add address=127.0.0.1 name=ulog.imap.baidu.com
+ip dns static add address=127.0.0.1 name=ulogs.umeng.com
 ip dns static add address=127.0.0.1 name=um2.eqads.com
 ip dns static add address=127.0.0.1 name=uma.gtags.net
 ip dns static add address=127.0.0.1 name=umeng.com

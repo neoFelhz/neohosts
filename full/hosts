@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180826064539
+#version=20180826064743
 #*********************************************************
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
@@ -2866,6 +2866,7 @@
 0.0.0.0 ulic.baidu.com
 0.0.0.0 ulink.cc
 0.0.0.0 ulog.imap.baidu.com
+0.0.0.0 ulogs.umeng.com
 0.0.0.0 um2.eqads.com
 0.0.0.0 uma.gtags.net
 0.0.0.0 umeng.com
@@ -6208,6 +6209,7 @@
 :: ulic.baidu.com
 :: ulink.cc
 :: ulog.imap.baidu.com
+:: ulogs.umeng.com
 :: um2.eqads.com
 :: uma.gtags.net
 :: umeng.com
