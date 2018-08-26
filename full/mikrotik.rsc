@@ -3138,7 +3138,6 @@ ip dns static add address=127.0.0.1 name=www.1680go.com
 ip dns static add address=127.0.0.1 name=www1.wooboo.com.cn
 ip dns static add address=127.0.0.1 name=www.202m.com
 ip dns static add address=127.0.0.1 name=www.268mob.cn
-ip dns static add address=127.0.0.1 name=www.51.la
 ip dns static add address=127.0.0.1 name=www.51link.com
 ip dns static add address=127.0.0.1 name=www5.jkjjkj.top
 ip dns static add address=127.0.0.1 name=www6.smartadserver.com

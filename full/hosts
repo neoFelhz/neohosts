@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180821014810
+#version=20180826064539
 #*********************************************************
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
@@ -3156,7 +3156,6 @@
 0.0.0.0 www1.wooboo.com.cn
 0.0.0.0 www.202m.com
 0.0.0.0 www.268mob.cn
-0.0.0.0 www.51.la
 0.0.0.0 www.51link.com
 0.0.0.0 www5.jkjjkj.top
 0.0.0.0 www6.smartadserver.com
@@ -6499,7 +6498,6 @@
 :: www1.wooboo.com.cn
 :: www.202m.com
 :: www.268mob.cn
-:: www.51.la
 :: www.51link.com
 :: www5.jkjjkj.top
 :: www6.smartadserver.com
