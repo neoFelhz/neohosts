@@ -41,7 +41,6 @@
 0.0.0.0 web.51.la
 0.0.0.0 web1.51.la
 0.0.0.0 web2.51.la
-0.0.0.0 www.51.la
 # CSDN
 0.0.0.0 dc.csdn.net
 # crashlytics
