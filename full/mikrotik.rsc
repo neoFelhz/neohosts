@@ -1187,6 +1187,7 @@ ip dns static add address=127.0.0.1 name=fych.uranus.sogou.com
 ip dns static add address=127.0.0.1 name=fz863.com
 ip dns static add address=127.0.0.1 name=g1.163.com
 ip dns static add address=127.0.0.1 name=g.163.com
+ip dns static add address=127.0.0.1 name=g1.tagtic.cn
 ip dns static add address=127.0.0.1 name=g.adnxs.com
 ip dns static add address=127.0.0.1 name=g.ads.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=gafxa.code.mytanwan.com
@@ -1401,6 +1402,8 @@ ip dns static add address=127.0.0.1 name=img3.lianmengma.com
 ip dns static add address=127.0.0.1 name=img752.de92.com
 ip dns static add address=127.0.0.1 name=img.9ads.net
 ip dns static add address=127.0.0.1 name=img.adbox.sina.com.cn
+ip dns static add address=127.0.0.1 name=img.adnyg.com
+ip dns static add address=127.0.0.1 name=img.adnyg.com.w.kunlungr.com
 ip dns static add address=127.0.0.1 name=img-ad.oupeng.com
 ip dns static add address=127.0.0.1 name=img.adpush.cn
 ip dns static add address=127.0.0.1 name=img.ad.zhangyue.com
@@ -1628,6 +1631,7 @@ ip dns static add address=127.0.0.1 name=log.music.baidu.com
 ip dns static add address=127.0.0.1 name=logs.newapi.com
 ip dns static add address=127.0.0.1 name=log.spotify.com
 ip dns static add address=127.0.0.1 name=log.stat.kugou.com
+ip dns static add address=127.0.0.1 name=log.tagtic.cn
 ip dns static add address=127.0.0.1 name=log.tbs.qq.com
 ip dns static add address=127.0.0.1 name=log.umsns.com
 ip dns static add address=127.0.0.1 name=log.umtrack.com
@@ -1984,6 +1988,7 @@ ip dns static add address=127.0.0.1 name=pegasus.cmcm.com
 ip dns static add address=127.0.0.1 name=pfpip.sina.com
 ip dns static add address=127.0.0.1 name=pfp.sina.com.cn
 ip dns static add address=127.0.0.1 name=pgdt.gtimg.cn
+ip dns static add address=127.0.0.1 name=pgdt.ugdtimg.com
 ip dns static add address=127.0.0.1 name=photobucket.adnxs.com
 ip dns static add address=127.0.0.1 name=phs.tanx.com
 ip dns static add address=127.0.0.1 name=pic.14bobo.com
@@ -2435,6 +2440,7 @@ ip dns static add address=127.0.0.1 name=sdksitter.m.sjzhushou.com
 ip dns static add address=127.0.0.1 name=sdl.domob.cn
 ip dns static add address=127.0.0.1 name=sdn.kugou.com
 ip dns static add address=127.0.0.1 name=s.domob.cn
+ip dns static add address=127.0.0.1 name=sdownload.stargame.com
 ip dns static add address=127.0.0.1 name=sdsp.ipinyou.com
 ip dns static add address=127.0.0.1 name=sdu.adwo.com
 ip dns static add address=127.0.0.1 name=sea.napi.ucweb.com

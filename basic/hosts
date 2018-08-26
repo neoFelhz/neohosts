@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180826064743
+#version=20180826064912
 #*********************************************************
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
@@ -895,6 +895,7 @@
 0.0.0.0 fych.uranus.sogou.com
 0.0.0.0 g1.163.com
 0.0.0.0 g.163.com
+0.0.0.0 g1.tagtic.cn
 0.0.0.0 g.adnxs.com
 0.0.0.0 galaxy.bjcathay.com
 0.0.0.0 galaxy.sogoucdn.com
@@ -1041,6 +1042,8 @@
 0.0.0.0 img2.km.com
 0.0.0.0 img3.km.com
 0.0.0.0 img.adbox.sina.com.cn
+0.0.0.0 img.adnyg.com
+0.0.0.0 img.adnyg.com.w.kunlungr.com
 0.0.0.0 img-ad.oupeng.com
 0.0.0.0 img.adpush.cn
 0.0.0.0 img.ad.zhangyue.com
@@ -1170,6 +1173,7 @@
 0.0.0.0 logs.newapi.com
 0.0.0.0 log.spotify.com
 0.0.0.0 log.stat.kugou.com
+0.0.0.0 log.tagtic.cn
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 log.umsns.com
 0.0.0.0 log.umtrack.com
@@ -1432,6 +1436,7 @@
 0.0.0.0 pfpip.sina.com
 0.0.0.0 pfp.sina.com.cn
 0.0.0.0 pgdt.gtimg.cn
+0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 photobucket.adnxs.com
 0.0.0.0 phs.tanx.com
 0.0.0.0 pic.517m.cn
@@ -1669,6 +1674,7 @@
 0.0.0.0 sdl.domob.cn
 0.0.0.0 sdn.kugou.com
 0.0.0.0 s.domob.cn
+0.0.0.0 sdownload.stargame.com
 0.0.0.0 sdsp.ipinyou.com
 0.0.0.0 sdu.adwo.com
 0.0.0.0 sea.napi.ucweb.com
@@ -3000,6 +3006,7 @@
 :: fych.uranus.sogou.com
 :: g1.163.com
 :: g.163.com
+:: g1.tagtic.cn
 :: g.adnxs.com
 :: galaxy.bjcathay.com
 :: galaxy.sogoucdn.com
@@ -3146,6 +3153,8 @@
 :: img2.km.com
 :: img3.km.com
 :: img.adbox.sina.com.cn
+:: img.adnyg.com
+:: img.adnyg.com.w.kunlungr.com
 :: img-ad.oupeng.com
 :: img.adpush.cn
 :: img.ad.zhangyue.com
@@ -3275,6 +3284,7 @@
 :: logs.newapi.com
 :: log.spotify.com
 :: log.stat.kugou.com
+:: log.tagtic.cn
 :: log.tbs.qq.com
 :: log.umsns.com
 :: log.umtrack.com
@@ -3537,6 +3547,7 @@
 :: pfpip.sina.com
 :: pfp.sina.com.cn
 :: pgdt.gtimg.cn
+:: pgdt.ugdtimg.com
 :: photobucket.adnxs.com
 :: phs.tanx.com
 :: pic.517m.cn
@@ -3774,6 +3785,7 @@
 :: sdl.domob.cn
 :: sdn.kugou.com
 :: s.domob.cn
+:: sdownload.stargame.com
 :: sdsp.ipinyou.com
 :: sdu.adwo.com
 :: sea.napi.ucweb.com

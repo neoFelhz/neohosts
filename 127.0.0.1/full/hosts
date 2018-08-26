@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180826064743
+#version=20180826064912
 #*********************************************************
 127.0.0.1 0127.adsame.com
 127.0.0.1 0aqpqdju.me
@@ -1205,6 +1205,7 @@
 127.0.0.1 fz863.com
 127.0.0.1 g1.163.com
 127.0.0.1 g.163.com
+127.0.0.1 g1.tagtic.cn
 127.0.0.1 g.adnxs.com
 127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 gafxa.code.mytanwan.com
@@ -1419,6 +1420,8 @@
 127.0.0.1 img752.de92.com
 127.0.0.1 img.9ads.net
 127.0.0.1 img.adbox.sina.com.cn
+127.0.0.1 img.adnyg.com
+127.0.0.1 img.adnyg.com.w.kunlungr.com
 127.0.0.1 img-ad.oupeng.com
 127.0.0.1 img.adpush.cn
 127.0.0.1 img.ad.zhangyue.com
@@ -1646,6 +1649,7 @@
 127.0.0.1 logs.newapi.com
 127.0.0.1 log.spotify.com
 127.0.0.1 log.stat.kugou.com
+127.0.0.1 log.tagtic.cn
 127.0.0.1 log.tbs.qq.com
 127.0.0.1 log.umsns.com
 127.0.0.1 log.umtrack.com
@@ -2002,6 +2006,7 @@
 127.0.0.1 pfpip.sina.com
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 pgdt.ugdtimg.com
 127.0.0.1 photobucket.adnxs.com
 127.0.0.1 phs.tanx.com
 127.0.0.1 pic.14bobo.com
@@ -2453,6 +2458,7 @@
 127.0.0.1 sdl.domob.cn
 127.0.0.1 sdn.kugou.com
 127.0.0.1 s.domob.cn
+127.0.0.1 sdownload.stargame.com
 127.0.0.1 sdsp.ipinyou.com
 127.0.0.1 sdu.adwo.com
 127.0.0.1 sea.napi.ucweb.com
@@ -4548,6 +4554,7 @@
 :: fz863.com
 :: g1.163.com
 :: g.163.com
+:: g1.tagtic.cn
 :: g.adnxs.com
 :: g.ads.cn.miaozhen.com
 :: gafxa.code.mytanwan.com
@@ -4762,6 +4769,8 @@
 :: img752.de92.com
 :: img.9ads.net
 :: img.adbox.sina.com.cn
+:: img.adnyg.com
+:: img.adnyg.com.w.kunlungr.com
 :: img-ad.oupeng.com
 :: img.adpush.cn
 :: img.ad.zhangyue.com
@@ -4989,6 +4998,7 @@
 :: logs.newapi.com
 :: log.spotify.com
 :: log.stat.kugou.com
+:: log.tagtic.cn
 :: log.tbs.qq.com
 :: log.umsns.com
 :: log.umtrack.com
@@ -5345,6 +5355,7 @@
 :: pfpip.sina.com
 :: pfp.sina.com.cn
 :: pgdt.gtimg.cn
+:: pgdt.ugdtimg.com
 :: photobucket.adnxs.com
 :: phs.tanx.com
 :: pic.14bobo.com
@@ -5796,6 +5807,7 @@
 :: sdl.domob.cn
 :: sdn.kugou.com
 :: s.domob.cn
+:: sdownload.stargame.com
 :: sdsp.ipinyou.com
 :: sdu.adwo.com
 :: sea.napi.ucweb.com
