@@ -444,6 +444,13 @@
 0.0.0.0 track.dmp.youmi.net
 # 91Porn
 0.0.0.0 ad.cdn.sex
+# App startpage AD
+0.0.0.0 g1.tagtic.cn
+0.0.0.0 img.adnyg.com
+0.0.0.0 img.adnyg.com.w.kunlungr.com
+0.0.0.0 log.tagtic.cn
+0.0.0.0 pgdt.ugdtimg.com
+0.0.0.0 sdownload.stargame.com
 # Others
 0.0.0.0 push.wandoujia.com
 0.0.0.0 ss.missyouxi.com
