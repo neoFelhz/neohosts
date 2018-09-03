@@ -131,3 +131,4 @@
 0.0.0.0 cloudservice22.kingsoft-office-service.com
 0.0.0.0 mo.res.wpscdn.cn
 0.0.0.0 mostat.wps.cn
+0.0.0.0 mivideo.g.mi.com
