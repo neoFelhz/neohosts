@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180826064912
+#version=20180903044739
 #*********************************************************
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
@@ -514,6 +514,7 @@
 0.0.0.0 badad.googleplex.com
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 baichuan.baidu.com
+0.0.0.0 baidu.greenxf.cn
 0.0.0.0 baidutv.baidu.com
 0.0.0.0 banlv.baidu.com
 0.0.0.0 bannedbook.org
@@ -532,7 +533,9 @@
 0.0.0.0 b.clkservice.youdao.com
 0.0.0.0 b.code.tanwanyx.com
 0.0.0.0 bd1.dopa.com
+0.0.0.0 bd1.pipaw.com
 0.0.0.0 bd2.dopa.com
+0.0.0.0 bd2.pipaw.com
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdd.hainan.net
 0.0.0.0 bdfrm.bidvertiser.com
@@ -1767,6 +1770,7 @@
 0.0.0.0 mipcache.bdstatic.com
 0.0.0.0 m.irs01.com
 0.0.0.0 mis.g.mi.com
+0.0.0.0 mivideo.g.mi.com
 0.0.0.0 mix.adsame.com
 0.0.0.0 m.jackaow.com
 0.0.0.0 m.jollyspring.com
@@ -2595,6 +2599,7 @@
 0.0.0.0 spe.atdmt.com
 0.0.0.0 sp.fastclick.net
 0.0.0.0 s.pomhz.com
+0.0.0.0 spro.so.com
 0.0.0.0 s.qhupdate.com
 0.0.0.0 s.qqhpg.com
 0.0.0.0 s.qzkxt.com
@@ -2913,6 +2918,7 @@
 0.0.0.0 utility.baidu.com
 0.0.0.0 utk.baidu.com
 0.0.0.0 utop.umengcloud.com
+0.0.0.0 utp.ucweb.com
 0.0.0.0 u.uc123.com
 0.0.0.0 u.ucfly.com
 0.0.0.0 uuidapi.yunos.com
@@ -2975,7 +2981,11 @@
 0.0.0.0 vpic.video.qq.com
 0.0.0.0 vps.inte.sogou.com
 0.0.0.0 vqq.admaster.com.cn
+0.0.0.0 vs19.gzcu.u3.ucweb.com
 0.0.0.0 vs2.gzcu.u3.ucweb.com
+0.0.0.0 vs7.gzcu.u3.ucweb.com
+0.0.0.0 vs8.gzct.u3.ucweb.com
+0.0.0.0 vs8.gzcu.u3.ucweb.com
 0.0.0.0 vsohu.admaster.com.cn
 0.0.0.0 vtechweb.adsame.com
 0.0.0.0 vt.ipinyou.com
@@ -3863,6 +3873,7 @@
 :: badad.googleplex.com
 :: b.ads1.msn.com
 :: baichuan.baidu.com
+:: baidu.greenxf.cn
 :: baidutv.baidu.com
 :: banlv.baidu.com
 :: bannedbook.org
@@ -3881,7 +3892,9 @@
 :: b.clkservice.youdao.com
 :: b.code.tanwanyx.com
 :: bd1.dopa.com
+:: bd1.pipaw.com
 :: bd2.dopa.com
+:: bd2.pipaw.com
 :: bdapi.ads.oppomobile.com
 :: bdd.hainan.net
 :: bdfrm.bidvertiser.com
@@ -5116,6 +5129,7 @@
 :: mipcache.bdstatic.com
 :: m.irs01.com
 :: mis.g.mi.com
+:: mivideo.g.mi.com
 :: mix.adsame.com
 :: m.jackaow.com
 :: m.jollyspring.com
@@ -5944,6 +5958,7 @@
 :: spe.atdmt.com
 :: sp.fastclick.net
 :: s.pomhz.com
+:: spro.so.com
 :: s.qhupdate.com
 :: s.qqhpg.com
 :: s.qzkxt.com
@@ -6262,6 +6277,7 @@
 :: utility.baidu.com
 :: utk.baidu.com
 :: utop.umengcloud.com
+:: utp.ucweb.com
 :: u.uc123.com
 :: u.ucfly.com
 :: uuidapi.yunos.com
@@ -6324,7 +6340,11 @@
 :: vpic.video.qq.com
 :: vps.inte.sogou.com
 :: vqq.admaster.com.cn
+:: vs19.gzcu.u3.ucweb.com
 :: vs2.gzcu.u3.ucweb.com
+:: vs7.gzcu.u3.ucweb.com
+:: vs8.gzct.u3.ucweb.com
+:: vs8.gzcu.u3.ucweb.com
 :: vsohu.admaster.com.cn
 :: vtechweb.adsame.com
 :: vt.ipinyou.com

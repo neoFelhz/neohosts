@@ -496,6 +496,7 @@ ip dns static add address=127.0.0.1 name=b1sync.zemanta.com
 ip dns static add address=127.0.0.1 name=badad.googleplex.com
 ip dns static add address=127.0.0.1 name=b.ads1.msn.com
 ip dns static add address=127.0.0.1 name=baichuan.baidu.com
+ip dns static add address=127.0.0.1 name=baidu.greenxf.cn
 ip dns static add address=127.0.0.1 name=baidutv.baidu.com
 ip dns static add address=127.0.0.1 name=banlv.baidu.com
 ip dns static add address=127.0.0.1 name=bannedbook.org
@@ -514,7 +515,9 @@ ip dns static add address=127.0.0.1 name=bcjxf.bugsevent.com
 ip dns static add address=127.0.0.1 name=b.clkservice.youdao.com
 ip dns static add address=127.0.0.1 name=b.code.tanwanyx.com
 ip dns static add address=127.0.0.1 name=bd1.dopa.com
+ip dns static add address=127.0.0.1 name=bd1.pipaw.com
 ip dns static add address=127.0.0.1 name=bd2.dopa.com
+ip dns static add address=127.0.0.1 name=bd2.pipaw.com
 ip dns static add address=127.0.0.1 name=bdapi.ads.oppomobile.com
 ip dns static add address=127.0.0.1 name=bdd.hainan.net
 ip dns static add address=127.0.0.1 name=bdfrm.bidvertiser.com
@@ -1749,6 +1752,7 @@ ip dns static add address=127.0.0.1 name=minipage.2345.com
 ip dns static add address=127.0.0.1 name=mipcache.bdstatic.com
 ip dns static add address=127.0.0.1 name=m.irs01.com
 ip dns static add address=127.0.0.1 name=mis.g.mi.com
+ip dns static add address=127.0.0.1 name=mivideo.g.mi.com
 ip dns static add address=127.0.0.1 name=mix.adsame.com
 ip dns static add address=127.0.0.1 name=m.jackaow.com
 ip dns static add address=127.0.0.1 name=m.jollyspring.com
@@ -2577,6 +2581,7 @@ ip dns static add address=127.0.0.1 name=spd.atdmt.com
 ip dns static add address=127.0.0.1 name=spe.atdmt.com
 ip dns static add address=127.0.0.1 name=sp.fastclick.net
 ip dns static add address=127.0.0.1 name=s.pomhz.com
+ip dns static add address=127.0.0.1 name=spro.so.com
 ip dns static add address=127.0.0.1 name=s.qhupdate.com
 ip dns static add address=127.0.0.1 name=s.qqhpg.com
 ip dns static add address=127.0.0.1 name=s.qzkxt.com
@@ -2895,6 +2900,7 @@ ip dns static add address=127.0.0.1 name=ut.gtags.net
 ip dns static add address=127.0.0.1 name=utility.baidu.com
 ip dns static add address=127.0.0.1 name=utk.baidu.com
 ip dns static add address=127.0.0.1 name=utop.umengcloud.com
+ip dns static add address=127.0.0.1 name=utp.ucweb.com
 ip dns static add address=127.0.0.1 name=u.uc123.com
 ip dns static add address=127.0.0.1 name=u.ucfly.com
 ip dns static add address=127.0.0.1 name=uuidapi.yunos.com
@@ -2957,7 +2963,11 @@ ip dns static add address=127.0.0.1 name=v.oq68.com
 ip dns static add address=127.0.0.1 name=vpic.video.qq.com
 ip dns static add address=127.0.0.1 name=vps.inte.sogou.com
 ip dns static add address=127.0.0.1 name=vqq.admaster.com.cn
+ip dns static add address=127.0.0.1 name=vs19.gzcu.u3.ucweb.com
 ip dns static add address=127.0.0.1 name=vs2.gzcu.u3.ucweb.com
+ip dns static add address=127.0.0.1 name=vs7.gzcu.u3.ucweb.com
+ip dns static add address=127.0.0.1 name=vs8.gzct.u3.ucweb.com
+ip dns static add address=127.0.0.1 name=vs8.gzcu.u3.ucweb.com
 ip dns static add address=127.0.0.1 name=vsohu.admaster.com.cn
 ip dns static add address=127.0.0.1 name=vtechweb.adsame.com
 ip dns static add address=127.0.0.1 name=vt.ipinyou.com

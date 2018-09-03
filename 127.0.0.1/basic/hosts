@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180826064912
+#version=20180903044739
 #*********************************************************
 127.0.0.1 0.r.msn.com
 127.0.0.1 1100.adsina.allyes.com
@@ -406,6 +406,7 @@
 127.0.0.1 badad.googleplex.com
 127.0.0.1 b.ads1.msn.com
 127.0.0.1 baichuan.baidu.com
+127.0.0.1 baidu.greenxf.cn
 127.0.0.1 baidutv.baidu.com
 127.0.0.1 banner.alimama.com
 127.0.0.1 banner.img.static.youmi.net
@@ -419,7 +420,9 @@
 127.0.0.1 bcjxf.bugsevent.com
 127.0.0.1 b.clkservice.youdao.com
 127.0.0.1 bd1.dopa.com
+127.0.0.1 bd1.pipaw.com
 127.0.0.1 bd2.dopa.com
+127.0.0.1 bd2.pipaw.com
 127.0.0.1 bdapi.ads.oppomobile.com
 127.0.0.1 bdd.hainan.net
 127.0.0.1 bdimg.share.baidu.com
@@ -1257,6 +1260,7 @@
 127.0.0.1 mipcache.bdstatic.com
 127.0.0.1 m.irs01.com
 127.0.0.1 mis.g.mi.com
+127.0.0.1 mivideo.g.mi.com
 127.0.0.1 m.kubiqq.com
 127.0.0.1 m.laojiayoufang.com
 127.0.0.1 mlb.did.ijinshan.com
@@ -1741,6 +1745,7 @@
 127.0.0.1 sp3.cndm.com
 127.0.0.1 spcode.baidu.com
 127.0.0.1 sp.fastclick.net
+127.0.0.1 spro.so.com
 127.0.0.1 s.qhupdate.com
 127.0.0.1 srd.simba.taobao.com
 127.0.0.1 sroomafp.allyes.com
@@ -1967,6 +1972,7 @@
 127.0.0.1 utility.baidu.com
 127.0.0.1 utk.baidu.com
 127.0.0.1 utop.umengcloud.com
+127.0.0.1 utp.ucweb.com
 127.0.0.1 u.uc123.com
 127.0.0.1 u.ucfly.com
 127.0.0.1 uuidapi.yunos.com
@@ -1997,7 +2003,11 @@
 127.0.0.1 vpic.video.qq.com
 127.0.0.1 vps.inte.sogou.com
 127.0.0.1 vqq.admaster.com.cn
+127.0.0.1 vs19.gzcu.u3.ucweb.com
 127.0.0.1 vs2.gzcu.u3.ucweb.com
+127.0.0.1 vs7.gzcu.u3.ucweb.com
+127.0.0.1 vs8.gzct.u3.ucweb.com
+127.0.0.1 vs8.gzcu.u3.ucweb.com
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 vt.ipinyou.com
 127.0.0.1 vv84.bj.bcebos.com
@@ -2517,6 +2527,7 @@
 :: badad.googleplex.com
 :: b.ads1.msn.com
 :: baichuan.baidu.com
+:: baidu.greenxf.cn
 :: baidutv.baidu.com
 :: banner.alimama.com
 :: banner.img.static.youmi.net
@@ -2530,7 +2541,9 @@
 :: bcjxf.bugsevent.com
 :: b.clkservice.youdao.com
 :: bd1.dopa.com
+:: bd1.pipaw.com
 :: bd2.dopa.com
+:: bd2.pipaw.com
 :: bdapi.ads.oppomobile.com
 :: bdd.hainan.net
 :: bdimg.share.baidu.com
@@ -3368,6 +3381,7 @@
 :: mipcache.bdstatic.com
 :: m.irs01.com
 :: mis.g.mi.com
+:: mivideo.g.mi.com
 :: m.kubiqq.com
 :: m.laojiayoufang.com
 :: mlb.did.ijinshan.com
@@ -3852,6 +3866,7 @@
 :: sp3.cndm.com
 :: spcode.baidu.com
 :: sp.fastclick.net
+:: spro.so.com
 :: s.qhupdate.com
 :: srd.simba.taobao.com
 :: sroomafp.allyes.com
@@ -4078,6 +4093,7 @@
 :: utility.baidu.com
 :: utk.baidu.com
 :: utop.umengcloud.com
+:: utp.ucweb.com
 :: u.uc123.com
 :: u.ucfly.com
 :: uuidapi.yunos.com
@@ -4108,7 +4124,11 @@
 :: vpic.video.qq.com
 :: vps.inte.sogou.com
 :: vqq.admaster.com.cn
+:: vs19.gzcu.u3.ucweb.com
 :: vs2.gzcu.u3.ucweb.com
+:: vs7.gzcu.u3.ucweb.com
+:: vs8.gzct.u3.ucweb.com
+:: vs8.gzcu.u3.ucweb.com
 :: vsohu.admaster.com.cn
 :: vt.ipinyou.com
 :: vv84.bj.bcebos.com
