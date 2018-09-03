@@ -53,3 +53,8 @@
 0.0.0.0 huichuan.sm.cn
 0.0.0.0 u.uc123.com
 0.0.0.0 u.ucfly.com
+0.0.0.0 utp.ucweb.com
+0.0.0.0 vs19.gzcu.u3.ucweb.com
+0.0.0.0 vs7.gzcu.u3.ucweb.com
+0.0.0.0 vs8.gzct.u3.ucweb.com
+0.0.0.0 vs8.gzcu.u3.ucweb.com

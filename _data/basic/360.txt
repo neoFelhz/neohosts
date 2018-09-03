@@ -36,3 +36,4 @@
 0.0.0.0 s.union.360.cn
 0.0.0.0 click.stat.hao.360.cn
 0.0.0.0 act.commercial.shouji.360.cn
+0.0.0.0 spro.so.com
