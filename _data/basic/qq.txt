@@ -192,3 +192,6 @@
 0.0.0.0 news.mpush.qq.com
 0.0.0.0 canvas.gdt.qq.com
 0.0.0.0 pms.mb.qq.com
+0.0.0.0 pcbrowser.dd.qq.com
+0.0.0.0 stdl.qq.com
+
