@@ -1,3 +1,4 @@
+
 ip dns static add address=127.0.0.1 name=0.r.msn.com
 ip dns static add address=127.0.0.1 name=1100.adsina.allyes.com
 ip dns static add address=127.0.0.1 name=1148.adsina.allyes.com
@@ -1414,6 +1415,7 @@ ip dns static add address=127.0.0.1 name=pb3.pstatp.com
 ip dns static add address=127.0.0.1 name=pbd.sogou.com
 ip dns static add address=127.0.0.1 name=pb.sogou.com
 ip dns static add address=127.0.0.1 name=pb.wang502.com
+ip dns static add address=127.0.0.1 name=pcbrowser.dd.qq.com
 ip dns static add address=127.0.0.1 name=pcfg.wps.cn
 ip dns static add address=127.0.0.1 name=p.clkservice.youdao.com
 ip dns static add address=127.0.0.1 name=pcookie.tanx.com
@@ -1791,6 +1793,7 @@ ip dns static add address=127.0.0.1 name=stats.ipinyou.com
 ip dns static add address=127.0.0.1 name=stats.umsns.com
 ip dns static add address=127.0.0.1 name=stat.v.baidu.com
 ip dns static add address=127.0.0.1 name=stat.zuimeitianqi.com
+ip dns static add address=127.0.0.1 name=stdl.qq.com
 ip dns static add address=127.0.0.1 name=st.holalauncher.com
 ip dns static add address=127.0.0.1 name=st.holaworld.cn
 ip dns static add address=127.0.0.1 name=stjzh.gdtarget.com

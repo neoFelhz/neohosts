@@ -14,8 +14,9 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180914020513
+#version=20180914020625
 #*********************************************************
+
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
 0.0.0.0 1148.adsina.allyes.com
@@ -1432,6 +1433,7 @@
 0.0.0.0 pbd.sogou.com
 0.0.0.0 pb.sogou.com
 0.0.0.0 pb.wang502.com
+0.0.0.0 pcbrowser.dd.qq.com
 0.0.0.0 pcfg.wps.cn
 0.0.0.0 p.clkservice.youdao.com
 0.0.0.0 pcookie.tanx.com
@@ -1809,6 +1811,7 @@
 0.0.0.0 stats.umsns.com
 0.0.0.0 stat.v.baidu.com
 0.0.0.0 stat.zuimeitianqi.com
+0.0.0.0 stdl.qq.com
 0.0.0.0 st.holalauncher.com
 0.0.0.0 st.holaworld.cn
 0.0.0.0 stjzh.gdtarget.com
@@ -3563,6 +3566,7 @@
 :: pbd.sogou.com
 :: pb.sogou.com
 :: pb.wang502.com
+:: pcbrowser.dd.qq.com
 :: pcfg.wps.cn
 :: p.clkservice.youdao.com
 :: pcookie.tanx.com
@@ -3940,6 +3944,7 @@
 :: stats.umsns.com
 :: stat.v.baidu.com
 :: stat.zuimeitianqi.com
+:: stdl.qq.com
 :: st.holalauncher.com
 :: st.holaworld.cn
 :: stjzh.gdtarget.com
