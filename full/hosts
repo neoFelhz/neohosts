@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180903044739
+#version=20180914020513
 #*********************************************************
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
@@ -546,6 +546,7 @@
 0.0.0.0 bd-s.baixing.net
 0.0.0.0 bds.hainan.net
 0.0.0.0 bd.soarfi.cn
+0.0.0.0 bdsp.x.jd.com
 0.0.0.0 bdv.bidvertiser.com
 0.0.0.0 beacon.gtimg.com
 0.0.0.0 beacon.sina.com.cn
@@ -640,6 +641,7 @@
 0.0.0.0 cb.l.qq.com
 0.0.0.0 c.bxb.oupeng.com
 0.0.0.0 ccclub.cmbchina.com
+0.0.0.0 ccc-x.jd.com
 0.0.0.0 c.cnzz.com
 0.0.0.0 c.danangmo.cn
 0.0.0.0 cdn0.mobmore.com
@@ -747,6 +749,7 @@
 0.0.0.0 cm.he2d.com
 0.0.0.0 c.minisplat.cn
 0.0.0.0 cm.ipinyou.com
+0.0.0.0 cm.jd.com
 0.0.0.0 cm.l.qq.com
 0.0.0.0 cm.netseer.com
 0.0.0.0 cm.p4p.cn.yahoo.com
@@ -761,6 +764,7 @@
 0.0.0.0 cms.tanx.com
 0.0.0.0 cm.vamaker.com
 0.0.0.0 cnf.adbana.com
+0.0.0.0 c-nfa.jd.com
 0.0.0.0 cnnic.cn
 0.0.0.0 cnnic.net
 0.0.0.0 cnnic.net.cn
@@ -1233,6 +1237,7 @@
 0.0.0.0 get.sogou.com
 0.0.0.0 ggle.lywf.me
 0.0.0.0 g.haluoha.com
+0.0.0.0 gia.jd.com
 0.0.0.0 gif.lu.sogoucdn.com
 0.0.0.0 gimg.baidu.com
 0.0.0.0 gload.adhood.com
@@ -1446,6 +1451,7 @@
 0.0.0.0 img.twcczhu.com
 0.0.0.0 img.users.51.la
 0.0.0.0 img.wan.sogou.com
+0.0.0.0 img-x.jd.com
 0.0.0.0 i.mmcdn.cn
 0.0.0.0 imp.optaim.com
 0.0.0.0 impservice2.youdao.com
@@ -1458,6 +1464,7 @@
 0.0.0.0 impservice-test.dictapp.youdao.com
 0.0.0.0 impservice.union.youdao.com
 0.0.0.0 impservice.youdao.com
+0.0.0.0 im-x.jd.com
 0.0.0.0 in1.feed.uu.cc
 0.0.0.0 in1.secure.uu.cc
 0.0.0.0 in.aikan6.com
@@ -2924,6 +2931,7 @@
 0.0.0.0 uuidapi.yunos.com
 0.0.0.0 uusee.adsame.com
 0.0.0.0 uxip.meizu.com
+0.0.0.0 u.x.jd.com
 0.0.0.0 v1.0594529.com
 0.0.0.0 v10.cnzz.com
 0.0.0.0 v11.cnzz.com
@@ -3039,6 +3047,7 @@
 0.0.0.0 wmedia.adk2x.com
 0.0.0.0 w.m.taobao.com
 0.0.0.0 wn.pos.baidu.com
+0.0.0.0 wn.x.jd.com
 0.0.0.0 wo.iuni.com.cn
 0.0.0.0 woocall.sina.com.cn
 0.0.0.0 woodpecker.uc.cn
@@ -3287,6 +3296,7 @@
 0.0.0.0 xiaomiir.yaokantv.com
 0.0.0.0 xinhuanet.adsame.com
 0.0.0.0 xinsheng.net
+0.0.0.0 x.jd.com
 0.0.0.0 xji.qwxcs.com
 0.0.0.0 xs.1drj.com
 0.0.0.0 xs.he9630.com
@@ -3905,6 +3915,7 @@
 :: bd-s.baixing.net
 :: bds.hainan.net
 :: bd.soarfi.cn
+:: bdsp.x.jd.com
 :: bdv.bidvertiser.com
 :: beacon.gtimg.com
 :: beacon.sina.com.cn
@@ -3999,6 +4010,7 @@
 :: cb.l.qq.com
 :: c.bxb.oupeng.com
 :: ccclub.cmbchina.com
+:: ccc-x.jd.com
 :: c.cnzz.com
 :: c.danangmo.cn
 :: cdn0.mobmore.com
@@ -4106,6 +4118,7 @@
 :: cm.he2d.com
 :: c.minisplat.cn
 :: cm.ipinyou.com
+:: cm.jd.com
 :: cm.l.qq.com
 :: cm.netseer.com
 :: cm.p4p.cn.yahoo.com
@@ -4120,6 +4133,7 @@
 :: cms.tanx.com
 :: cm.vamaker.com
 :: cnf.adbana.com
+:: c-nfa.jd.com
 :: cnnic.cn
 :: cnnic.net
 :: cnnic.net.cn
@@ -4592,6 +4606,7 @@
 :: get.sogou.com
 :: ggle.lywf.me
 :: g.haluoha.com
+:: gia.jd.com
 :: gif.lu.sogoucdn.com
 :: gimg.baidu.com
 :: gload.adhood.com
@@ -4805,6 +4820,7 @@
 :: img.twcczhu.com
 :: img.users.51.la
 :: img.wan.sogou.com
+:: img-x.jd.com
 :: i.mmcdn.cn
 :: imp.optaim.com
 :: impservice2.youdao.com
@@ -4817,6 +4833,7 @@
 :: impservice-test.dictapp.youdao.com
 :: impservice.union.youdao.com
 :: impservice.youdao.com
+:: im-x.jd.com
 :: in1.feed.uu.cc
 :: in1.secure.uu.cc
 :: in.aikan6.com
@@ -6283,6 +6300,7 @@
 :: uuidapi.yunos.com
 :: uusee.adsame.com
 :: uxip.meizu.com
+:: u.x.jd.com
 :: v1.0594529.com
 :: v10.cnzz.com
 :: v11.cnzz.com
@@ -6398,6 +6416,7 @@
 :: wmedia.adk2x.com
 :: w.m.taobao.com
 :: wn.pos.baidu.com
+:: wn.x.jd.com
 :: wo.iuni.com.cn
 :: woocall.sina.com.cn
 :: woodpecker.uc.cn
@@ -6646,6 +6665,7 @@
 :: xiaomiir.yaokantv.com
 :: xinhuanet.adsame.com
 :: xinsheng.net
+:: x.jd.com
 :: xji.qwxcs.com
 :: xs.1drj.com
 :: xs.he9630.com

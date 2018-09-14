@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180903044739
+#version=20180914020513
 #*********************************************************
 127.0.0.1 0.r.msn.com
 127.0.0.1 1100.adsina.allyes.com
@@ -432,6 +432,7 @@
 127.0.0.1 bd-s.baixing.net
 127.0.0.1 bds.hainan.net
 127.0.0.1 bd.soarfi.cn
+127.0.0.1 bdsp.x.jd.com
 127.0.0.1 beacon.gtimg.com
 127.0.0.1 beacon.sina.com.cn
 127.0.0.1 beap.adss.yahoo.com
@@ -505,6 +506,7 @@
 127.0.0.1 cb.l.qq.com
 127.0.0.1 c.bxb.oupeng.com
 127.0.0.1 ccclub.cmbchina.com
+127.0.0.1 ccc-x.jd.com
 127.0.0.1 cdn0.mobmore.com
 127.0.0.1 cdn2.moji002.com
 127.0.0.1 cdn.adnxs.com
@@ -584,6 +586,7 @@
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 c.minisplat.cn
 127.0.0.1 cm.ipinyou.com
+127.0.0.1 cm.jd.com
 127.0.0.1 cm.l.qq.com
 127.0.0.1 cm.netseer.com
 127.0.0.1 cm.p4p.cn.yahoo.com
@@ -594,6 +597,7 @@
 127.0.0.1 cms.opendsp.tanx.com
 127.0.0.1 cms.quantserve.com
 127.0.0.1 cms.tanx.com
+127.0.0.1 c-nfa.jd.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 code.fastclick.net
 127.0.0.1 coed-d.openx.net
@@ -919,6 +923,7 @@
 127.0.0.1 get.sogou.com
 127.0.0.1 ggle.lywf.me
 127.0.0.1 g.haluoha.com
+127.0.0.1 gia.jd.com
 127.0.0.1 gif.lu.sogoucdn.com
 127.0.0.1 gimg.baidu.com
 127.0.0.1 gload.adhood.com
@@ -1059,6 +1064,7 @@
 127.0.0.1 img.taotaosou.cn
 127.0.0.1 img.toppr.com.cn
 127.0.0.1 img.wan.sogou.com
+127.0.0.1 img-x.jd.com
 127.0.0.1 i.mmcdn.cn
 127.0.0.1 imp.optaim.com
 127.0.0.1 impservice2.youdao.com
@@ -1071,6 +1077,7 @@
 127.0.0.1 impservice-test.dictapp.youdao.com
 127.0.0.1 impservice.union.youdao.com
 127.0.0.1 impservice.youdao.com
+127.0.0.1 im-x.jd.com
 127.0.0.1 in1.feed.uu.cc
 127.0.0.1 in1.secure.uu.cc
 127.0.0.1 info.3g.qq.com
@@ -1977,6 +1984,7 @@
 127.0.0.1 u.ucfly.com
 127.0.0.1 uuidapi.yunos.com
 127.0.0.1 uxip.meizu.com
+127.0.0.1 u.x.jd.com
 127.0.0.1 v1-feed.idreamsky.com
 127.0.0.1 v1.log.moji.com
 127.0.0.1 v2.fm.n.duokanbox.com
@@ -2045,6 +2053,7 @@
 127.0.0.1 wm.baidu.com
 127.0.0.1 w.m.taobao.com
 127.0.0.1 wn.pos.baidu.com
+127.0.0.1 wn.x.jd.com
 127.0.0.1 wo.iuni.com.cn
 127.0.0.1 woocall.sina.com.cn
 127.0.0.1 woodpecker.uc.cn
@@ -2101,6 +2110,7 @@
 127.0.0.1 x.domob.cn
 127.0.0.1 xf.yellowto.com
 127.0.0.1 xiaomiir.yaokantv.com
+127.0.0.1 x.jd.com
 127.0.0.1 xs.1drj.com
 127.0.0.1 xs.he9630.com
 127.0.0.1 xtruh.uranus.sogou.com
@@ -2553,6 +2563,7 @@
 :: bd-s.baixing.net
 :: bds.hainan.net
 :: bd.soarfi.cn
+:: bdsp.x.jd.com
 :: beacon.gtimg.com
 :: beacon.sina.com.cn
 :: beap.adss.yahoo.com
@@ -2626,6 +2637,7 @@
 :: cb.l.qq.com
 :: c.bxb.oupeng.com
 :: ccclub.cmbchina.com
+:: ccc-x.jd.com
 :: cdn0.mobmore.com
 :: cdn2.moji002.com
 :: cdn.adnxs.com
@@ -2705,6 +2717,7 @@
 :: cm.g.doubleclick.net
 :: c.minisplat.cn
 :: cm.ipinyou.com
+:: cm.jd.com
 :: cm.l.qq.com
 :: cm.netseer.com
 :: cm.p4p.cn.yahoo.com
@@ -2715,6 +2728,7 @@
 :: cms.opendsp.tanx.com
 :: cms.quantserve.com
 :: cms.tanx.com
+:: c-nfa.jd.com
 :: cnzz.mmstat.com
 :: code.fastclick.net
 :: coed-d.openx.net
@@ -3040,6 +3054,7 @@
 :: get.sogou.com
 :: ggle.lywf.me
 :: g.haluoha.com
+:: gia.jd.com
 :: gif.lu.sogoucdn.com
 :: gimg.baidu.com
 :: gload.adhood.com
@@ -3180,6 +3195,7 @@
 :: img.taotaosou.cn
 :: img.toppr.com.cn
 :: img.wan.sogou.com
+:: img-x.jd.com
 :: i.mmcdn.cn
 :: imp.optaim.com
 :: impservice2.youdao.com
@@ -3192,6 +3208,7 @@
 :: impservice-test.dictapp.youdao.com
 :: impservice.union.youdao.com
 :: impservice.youdao.com
+:: im-x.jd.com
 :: in1.feed.uu.cc
 :: in1.secure.uu.cc
 :: info.3g.qq.com
@@ -4098,6 +4115,7 @@
 :: u.ucfly.com
 :: uuidapi.yunos.com
 :: uxip.meizu.com
+:: u.x.jd.com
 :: v1-feed.idreamsky.com
 :: v1.log.moji.com
 :: v2.fm.n.duokanbox.com
@@ -4166,6 +4184,7 @@
 :: wm.baidu.com
 :: w.m.taobao.com
 :: wn.pos.baidu.com
+:: wn.x.jd.com
 :: wo.iuni.com.cn
 :: woocall.sina.com.cn
 :: woodpecker.uc.cn
@@ -4222,6 +4241,7 @@
 :: x.domob.cn
 :: xf.yellowto.com
 :: xiaomiir.yaokantv.com
+:: x.jd.com
 :: xs.1drj.com
 :: xs.he9630.com
 :: xtruh.uranus.sogou.com
