@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180914020625
+#version=20180914020853
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -704,10 +704,12 @@
 127.0.0.1 cz01016102.ms758.com
 127.0.0.1 d00.sina.com.cn
 127.0.0.1 d0.sina.com.cn
+127.0.0.1 d0.sinaimg.cn
 127.0.0.1 d1grtyyel8f1mh.cloudfront.net
 127.0.0.1 d1.sina.com.cn
 127.0.0.1 d1.sinaimg.cn
 127.0.0.1 d2.sina.com.cn
+127.0.0.1 d2.sinaimg.cn
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d36eyd5j1kt1m6.cloudfront.net
 127.0.0.1 d3g.qq.com
@@ -715,9 +717,11 @@
 127.0.0.1 d3.sinaimg.cn
 127.0.0.1 d3v1lb83psg9di.cloudfront.net
 127.0.0.1 d4.sina.com.cn
+127.0.0.1 d4.sinaimg.cn
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
 127.0.0.1 d5p.de17a.com
 127.0.0.1 d5.sina.com.cn
+127.0.0.1 d5.sinaimg.cn
 127.0.0.1 d6.sina.com.cn
 127.0.0.1 d6.sinaimg.cn
 127.0.0.1 d7.sina.com.cn
@@ -725,6 +729,7 @@
 127.0.0.1 d8.sina.com.cn
 127.0.0.1 d8.sinaimg.cn
 127.0.0.1 d9.sina.com.cn
+127.0.0.1 d9.sinaimg.cn
 127.0.0.1 daohang.114so.cn
 127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 data.flurry.com
@@ -2837,10 +2842,12 @@
 :: cz01016102.ms758.com
 :: d00.sina.com.cn
 :: d0.sina.com.cn
+:: d0.sinaimg.cn
 :: d1grtyyel8f1mh.cloudfront.net
 :: d1.sina.com.cn
 :: d1.sinaimg.cn
 :: d2.sina.com.cn
+:: d2.sinaimg.cn
 :: d31qbv1cthcecs.cloudfront.net
 :: d36eyd5j1kt1m6.cloudfront.net
 :: d3g.qq.com
@@ -2848,9 +2855,11 @@
 :: d3.sinaimg.cn
 :: d3v1lb83psg9di.cloudfront.net
 :: d4.sina.com.cn
+:: d4.sinaimg.cn
 :: d5nxst8fruw4z.cloudfront.net
 :: d5p.de17a.com
 :: d5.sina.com.cn
+:: d5.sinaimg.cn
 :: d6.sina.com.cn
 :: d6.sinaimg.cn
 :: d7.sina.com.cn
@@ -2858,6 +2867,7 @@
 :: d8.sina.com.cn
 :: d8.sinaimg.cn
 :: d9.sina.com.cn
+:: d9.sinaimg.cn
 :: daohang.114so.cn
 :: data.ads.oppomobile.com
 :: data.flurry.com

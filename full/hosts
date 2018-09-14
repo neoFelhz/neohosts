@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180914020625
+#version=20180914020853
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -906,11 +906,13 @@
 0.0.0.0 cz01016102.ms758.com
 0.0.0.0 d00.sina.com.cn
 0.0.0.0 d0.sina.com.cn
+0.0.0.0 d0.sinaimg.cn
 0.0.0.0 d.107788.com
 0.0.0.0 d1grtyyel8f1mh.cloudfront.net
 0.0.0.0 d1.sina.com.cn
 0.0.0.0 d1.sinaimg.cn
 0.0.0.0 d2.sina.com.cn
+0.0.0.0 d2.sinaimg.cn
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d36eyd5j1kt1m6.cloudfront.net
 0.0.0.0 d3g.qq.com
@@ -918,9 +920,11 @@
 0.0.0.0 d3.sinaimg.cn
 0.0.0.0 d3v1lb83psg9di.cloudfront.net
 0.0.0.0 d4.sina.com.cn
+0.0.0.0 d4.sinaimg.cn
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 d5p.de17a.com
 0.0.0.0 d5.sina.com.cn
+0.0.0.0 d5.sinaimg.cn
 0.0.0.0 d6.sina.com.cn
 0.0.0.0 d6.sinaimg.cn
 0.0.0.0 d7.sina.com.cn
@@ -928,6 +932,7 @@
 0.0.0.0 d8.sina.com.cn
 0.0.0.0 d8.sinaimg.cn
 0.0.0.0 d9.sina.com.cn
+0.0.0.0 d9.sinaimg.cn
 0.0.0.0 dafahao.com
 0.0.0.0 dafahao.org
 0.0.0.0 dajiyuan.com
@@ -4277,11 +4282,13 @@
 :: cz01016102.ms758.com
 :: d00.sina.com.cn
 :: d0.sina.com.cn
+:: d0.sinaimg.cn
 :: d.107788.com
 :: d1grtyyel8f1mh.cloudfront.net
 :: d1.sina.com.cn
 :: d1.sinaimg.cn
 :: d2.sina.com.cn
+:: d2.sinaimg.cn
 :: d31qbv1cthcecs.cloudfront.net
 :: d36eyd5j1kt1m6.cloudfront.net
 :: d3g.qq.com
@@ -4289,9 +4296,11 @@
 :: d3.sinaimg.cn
 :: d3v1lb83psg9di.cloudfront.net
 :: d4.sina.com.cn
+:: d4.sinaimg.cn
 :: d5nxst8fruw4z.cloudfront.net
 :: d5p.de17a.com
 :: d5.sina.com.cn
+:: d5.sinaimg.cn
 :: d6.sina.com.cn
 :: d6.sinaimg.cn
 :: d7.sina.com.cn
@@ -4299,6 +4308,7 @@
 :: d8.sina.com.cn
 :: d8.sinaimg.cn
 :: d9.sina.com.cn
+:: d9.sinaimg.cn
 :: dafahao.com
 :: dafahao.org
 :: dajiyuan.com

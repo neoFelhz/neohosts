@@ -888,11 +888,13 @@ ip dns static add address=127.0.0.1 name=c.xhsxgmt.cn
 ip dns static add address=127.0.0.1 name=cz01016102.ms758.com
 ip dns static add address=127.0.0.1 name=d00.sina.com.cn
 ip dns static add address=127.0.0.1 name=d0.sina.com.cn
+ip dns static add address=127.0.0.1 name=d0.sinaimg.cn
 ip dns static add address=127.0.0.1 name=d.107788.com
 ip dns static add address=127.0.0.1 name=d1grtyyel8f1mh.cloudfront.net
 ip dns static add address=127.0.0.1 name=d1.sina.com.cn
 ip dns static add address=127.0.0.1 name=d1.sinaimg.cn
 ip dns static add address=127.0.0.1 name=d2.sina.com.cn
+ip dns static add address=127.0.0.1 name=d2.sinaimg.cn
 ip dns static add address=127.0.0.1 name=d31qbv1cthcecs.cloudfront.net
 ip dns static add address=127.0.0.1 name=d36eyd5j1kt1m6.cloudfront.net
 ip dns static add address=127.0.0.1 name=d3g.qq.com
@@ -900,9 +902,11 @@ ip dns static add address=127.0.0.1 name=d3.sina.com.cn
 ip dns static add address=127.0.0.1 name=d3.sinaimg.cn
 ip dns static add address=127.0.0.1 name=d3v1lb83psg9di.cloudfront.net
 ip dns static add address=127.0.0.1 name=d4.sina.com.cn
+ip dns static add address=127.0.0.1 name=d4.sinaimg.cn
 ip dns static add address=127.0.0.1 name=d5nxst8fruw4z.cloudfront.net
 ip dns static add address=127.0.0.1 name=d5p.de17a.com
 ip dns static add address=127.0.0.1 name=d5.sina.com.cn
+ip dns static add address=127.0.0.1 name=d5.sinaimg.cn
 ip dns static add address=127.0.0.1 name=d6.sina.com.cn
 ip dns static add address=127.0.0.1 name=d6.sinaimg.cn
 ip dns static add address=127.0.0.1 name=d7.sina.com.cn
@@ -910,6 +914,7 @@ ip dns static add address=127.0.0.1 name=d7.sinaimg.cn
 ip dns static add address=127.0.0.1 name=d8.sina.com.cn
 ip dns static add address=127.0.0.1 name=d8.sinaimg.cn
 ip dns static add address=127.0.0.1 name=d9.sina.com.cn
+ip dns static add address=127.0.0.1 name=d9.sinaimg.cn
 ip dns static add address=127.0.0.1 name=dafahao.com
 ip dns static add address=127.0.0.1 name=dafahao.org
 ip dns static add address=127.0.0.1 name=dajiyuan.com
