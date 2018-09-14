@@ -74,11 +74,16 @@
 0.0.0.0 ad3.sina.com.cn
 0.0.0.0 ad4.sina.com.cn
 0.0.0.0 ad5.sina.com.cn
+0.0.0.0 d0.sinaimg.cn
 0.0.0.0 d1.sinaimg.cn
+0.0.0.0 d2.sinaimg.cn
 0.0.0.0 d3.sinaimg.cn
+0.0.0.0 d4.sinaimg.cn
+0.0.0.0 d5.sinaimg.cn
 0.0.0.0 d6.sinaimg.cn
 0.0.0.0 d7.sinaimg.cn
 0.0.0.0 d8.sinaimg.cn
+0.0.0.0 d9.sinaimg.cn
 0.0.0.0 d0.sina.com.cn
 0.0.0.0 d00.sina.com.cn
 0.0.0.0 d1.sina.com.cn
