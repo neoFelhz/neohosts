@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180914020853
+#version=20180924032744
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -434,6 +434,7 @@
 127.0.0.1 bds.hainan.net
 127.0.0.1 bd.soarfi.cn
 127.0.0.1 bdsp.x.jd.com
+127.0.0.1 bdtv.tianlangkm.com
 127.0.0.1 beacon.gtimg.com
 127.0.0.1 beacon.sina.com.cn
 127.0.0.1 beap.adss.yahoo.com
@@ -2572,6 +2573,7 @@
 :: bds.hainan.net
 :: bd.soarfi.cn
 :: bdsp.x.jd.com
+:: bdtv.tianlangkm.com
 :: beacon.gtimg.com
 :: beacon.sina.com.cn
 :: beap.adss.yahoo.com

@@ -530,6 +530,7 @@ ip dns static add address=127.0.0.1 name=bd-s.baixing.net
 ip dns static add address=127.0.0.1 name=bds.hainan.net
 ip dns static add address=127.0.0.1 name=bd.soarfi.cn
 ip dns static add address=127.0.0.1 name=bdsp.x.jd.com
+ip dns static add address=127.0.0.1 name=bdtv.tianlangkm.com
 ip dns static add address=127.0.0.1 name=bdv.bidvertiser.com
 ip dns static add address=127.0.0.1 name=beacon.gtimg.com
 ip dns static add address=127.0.0.1 name=beacon.sina.com.cn
