@@ -661,3 +661,4 @@
 0.0.0.0 bd-s.baixing.net
 0.0.0.0 bd-js.baixing.net
 0.0.0.0 iadctest.qwapi.com
+0.0.0.0 bdtv.tianlangkm.com
