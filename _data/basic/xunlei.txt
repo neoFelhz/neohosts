@@ -6,3 +6,4 @@
 0.0.0.0 mou.niu.xunlei.com
 0.0.0.0 static.m.sjzhushou.com
 0.0.0.0 m.sjzhushou.com
+0.0.0.0 scene.vip.xunlei.com
