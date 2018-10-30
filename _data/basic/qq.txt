@@ -142,8 +142,6 @@
 0.0.0.0 p.store.qq.com
 0.0.0.0 p2.l.qq.com
 0.0.0.0 pagespeed.report.qq.com
-0.0.0.0 pingfore.qq.com
-0.0.0.0 pingfore.tenpay.com
 0.0.0.0 pinghot.qq.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 py.qlogo.cn
