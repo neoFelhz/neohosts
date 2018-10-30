@@ -38,7 +38,6 @@
 0.0.0.0 unitacs.m.taobao.com
 0.0.0.0 w.m.taobao.com
 0.0.0.0 ai.taobao.com
-0.0.0.0 api.wapa.taobao.com
 0.0.0.0 api.waptest.taobao.com
 0.0.0.0 temai.taobao.com
 0.0.0.0 re.taobao.com
@@ -122,6 +121,10 @@
 0.0.0.0 hz.mmstat.com
 0.0.0.0 p3p.mmstat.com
 0.0.0.0 res.mmstat.com
+#mct01
+0.0.0.0 a.mct01.com
+0.0.0.0 cm.mct01.com
+0.0.0.0 static.mct01.com
 # Wrating
 0.0.0.0 163.wrating.com
 0.0.0.0 click.wrating.com
@@ -135,6 +138,7 @@
 0.0.0.0 cookiemapping.wrating.com
 0.0.0.0 sina.wrating.com
 0.0.0.0 tongji.wrating.com
+0.0.0.0 cntv.wrating.com
 # IPINYOU
 0.0.0.0 cm.ipinyou.com
 0.0.0.0 fm.ipinyou.com
