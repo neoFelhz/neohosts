@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181030061454
+#version=20181030061708
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -1362,6 +1362,8 @@
 0.0.0.0 news.mpush.qq.com
 0.0.0.0 news.push.126.net
 0.0.0.0 newspush.sinajs.cn
+0.0.0.0 news.qhstatic.com
+0.0.0.0 new.taobc.com
 0.0.0.0 nex.163.com
 0.0.0.0 nfdnserror10.wo.com.cn
 0.0.0.0 nfdnserror11.wo.com.cn
@@ -1440,6 +1442,7 @@
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead-tpc.l.google.com
 0.0.0.0 pagechoice.net
+0.0.0.0 pageshow.dftoutiao.com
 0.0.0.0 pagespeed.report.qq.com
 0.0.0.0 p.alimama.com
 0.0.0.0 palmnews.sina.cn
@@ -1457,6 +1460,7 @@
 0.0.0.0 pcbrowser.dd.qq.com
 0.0.0.0 pcfg.wps.cn
 0.0.0.0 p.clkservice.youdao.com
+0.0.0.0 pcminitj.dftoutiao.com
 0.0.0.0 pcookie.tanx.com
 0.0.0.0 pc.quansj.cn
 0.0.0.0 pc.videoclick.baidu.com
@@ -1504,6 +1508,7 @@
 0.0.0.0 pop.sjk.ijinshan.com
 0.0.0.0 popup.msn.com
 0.0.0.0 pos.baidu.com
+0.0.0.0 position.dftoutiao.com
 0.0.0.0 post.ra.icast.cn
 0.0.0.0 pptv.adx.admaster.com.cn
 0.0.0.0 pptv.cm.admaster.com.cn
@@ -1742,6 +1747,7 @@
 0.0.0.0 shop.admin.yinyuetai.com
 0.0.0.0 shop.yinyuetai.com
 0.0.0.0 shouji.sougou.com
+0.0.0.0 show.look.360.cn
 0.0.0.0 show.re.taobao.com
 0.0.0.0 showwxml.qq.com
 0.0.0.0 simaba.taobao.com
@@ -3527,6 +3533,8 @@
 :: news.mpush.qq.com
 :: news.push.126.net
 :: newspush.sinajs.cn
+:: news.qhstatic.com
+:: new.taobc.com
 :: nex.163.com
 :: nfdnserror10.wo.com.cn
 :: nfdnserror11.wo.com.cn
@@ -3605,6 +3613,7 @@
 :: pagead.l.google.com
 :: pagead-tpc.l.google.com
 :: pagechoice.net
+:: pageshow.dftoutiao.com
 :: pagespeed.report.qq.com
 :: p.alimama.com
 :: palmnews.sina.cn
@@ -3622,6 +3631,7 @@
 :: pcbrowser.dd.qq.com
 :: pcfg.wps.cn
 :: p.clkservice.youdao.com
+:: pcminitj.dftoutiao.com
 :: pcookie.tanx.com
 :: pc.quansj.cn
 :: pc.videoclick.baidu.com
@@ -3669,6 +3679,7 @@
 :: pop.sjk.ijinshan.com
 :: popup.msn.com
 :: pos.baidu.com
+:: position.dftoutiao.com
 :: post.ra.icast.cn
 :: pptv.adx.admaster.com.cn
 :: pptv.cm.admaster.com.cn
@@ -3907,6 +3918,7 @@
 :: shop.admin.yinyuetai.com
 :: shop.yinyuetai.com
 :: shouji.sougou.com
+:: show.look.360.cn
 :: show.re.taobao.com
 :: showwxml.qq.com
 :: simaba.taobao.com

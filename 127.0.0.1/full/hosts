@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181030061454
+#version=20181030061708
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -1907,6 +1907,8 @@
 127.0.0.1 news.mpush.qq.com
 127.0.0.1 news.push.126.net
 127.0.0.1 newspush.sinajs.cn
+127.0.0.1 news.qhstatic.com
+127.0.0.1 new.taobc.com
 127.0.0.1 new.users.51.la
 127.0.0.1 newvector.map.baidu.com
 127.0.0.1 nex.163.com
@@ -2004,6 +2006,7 @@
 127.0.0.1 pagead.l.google.com
 127.0.0.1 pagead-tpc.l.google.com
 127.0.0.1 pagechoice.net
+127.0.0.1 pageshow.dftoutiao.com
 127.0.0.1 pagespeed.report.qq.com
 127.0.0.1 p.alimama.com
 127.0.0.1 palmnews.sina.cn
@@ -2025,6 +2028,7 @@
 127.0.0.1 pcbrowser.dd.qq.com
 127.0.0.1 pcfg.wps.cn
 127.0.0.1 p.clkservice.youdao.com
+127.0.0.1 pcminitj.dftoutiao.com
 127.0.0.1 pcookie.cnzz.com
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 pc.quansj.cn
@@ -2083,6 +2087,7 @@
 127.0.0.1 pop.sjk.ijinshan.com
 127.0.0.1 popup.msn.com
 127.0.0.1 pos.baidu.com
+127.0.0.1 position.dftoutiao.com
 127.0.0.1 post.ra.icast.cn
 127.0.0.1 pptv.adx.admaster.com.cn
 127.0.0.1 pptv.cm.admaster.com.cn
@@ -2581,6 +2586,7 @@
 127.0.0.1 shop.yinyuetai.com
 127.0.0.1 shouji.360.cn
 127.0.0.1 shouji.sougou.com
+127.0.0.1 show.look.360.cn
 127.0.0.1 show.re.taobao.com
 127.0.0.1 showwxml.qq.com
 127.0.0.1 s.hystq.com
@@ -5310,6 +5316,8 @@
 :: news.mpush.qq.com
 :: news.push.126.net
 :: newspush.sinajs.cn
+:: news.qhstatic.com
+:: new.taobc.com
 :: new.users.51.la
 :: newvector.map.baidu.com
 :: nex.163.com
@@ -5407,6 +5415,7 @@
 :: pagead.l.google.com
 :: pagead-tpc.l.google.com
 :: pagechoice.net
+:: pageshow.dftoutiao.com
 :: pagespeed.report.qq.com
 :: p.alimama.com
 :: palmnews.sina.cn
@@ -5428,6 +5437,7 @@
 :: pcbrowser.dd.qq.com
 :: pcfg.wps.cn
 :: p.clkservice.youdao.com
+:: pcminitj.dftoutiao.com
 :: pcookie.cnzz.com
 :: pcookie.tanx.com
 :: pc.quansj.cn
@@ -5486,6 +5496,7 @@
 :: pop.sjk.ijinshan.com
 :: popup.msn.com
 :: pos.baidu.com
+:: position.dftoutiao.com
 :: post.ra.icast.cn
 :: pptv.adx.admaster.com.cn
 :: pptv.cm.admaster.com.cn
@@ -5984,6 +5995,7 @@
 :: shop.yinyuetai.com
 :: shouji.360.cn
 :: shouji.sougou.com
+:: show.look.360.cn
 :: show.re.taobao.com
 :: showwxml.qq.com
 :: s.hystq.com

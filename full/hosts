@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181030061454
+#version=20181030061708
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -1907,6 +1907,8 @@
 0.0.0.0 news.mpush.qq.com
 0.0.0.0 news.push.126.net
 0.0.0.0 newspush.sinajs.cn
+0.0.0.0 news.qhstatic.com
+0.0.0.0 new.taobc.com
 0.0.0.0 new.users.51.la
 0.0.0.0 newvector.map.baidu.com
 0.0.0.0 nex.163.com
@@ -2004,6 +2006,7 @@
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead-tpc.l.google.com
 0.0.0.0 pagechoice.net
+0.0.0.0 pageshow.dftoutiao.com
 0.0.0.0 pagespeed.report.qq.com
 0.0.0.0 p.alimama.com
 0.0.0.0 palmnews.sina.cn
@@ -2025,6 +2028,7 @@
 0.0.0.0 pcbrowser.dd.qq.com
 0.0.0.0 pcfg.wps.cn
 0.0.0.0 p.clkservice.youdao.com
+0.0.0.0 pcminitj.dftoutiao.com
 0.0.0.0 pcookie.cnzz.com
 0.0.0.0 pcookie.tanx.com
 0.0.0.0 pc.quansj.cn
@@ -2083,6 +2087,7 @@
 0.0.0.0 pop.sjk.ijinshan.com
 0.0.0.0 popup.msn.com
 0.0.0.0 pos.baidu.com
+0.0.0.0 position.dftoutiao.com
 0.0.0.0 post.ra.icast.cn
 0.0.0.0 pptv.adx.admaster.com.cn
 0.0.0.0 pptv.cm.admaster.com.cn
@@ -2581,6 +2586,7 @@
 0.0.0.0 shop.yinyuetai.com
 0.0.0.0 shouji.360.cn
 0.0.0.0 shouji.sougou.com
+0.0.0.0 show.look.360.cn
 0.0.0.0 show.re.taobao.com
 0.0.0.0 showwxml.qq.com
 0.0.0.0 s.hystq.com
@@ -5310,6 +5316,8 @@
 :: news.mpush.qq.com
 :: news.push.126.net
 :: newspush.sinajs.cn
+:: news.qhstatic.com
+:: new.taobc.com
 :: new.users.51.la
 :: newvector.map.baidu.com
 :: nex.163.com
@@ -5407,6 +5415,7 @@
 :: pagead.l.google.com
 :: pagead-tpc.l.google.com
 :: pagechoice.net
+:: pageshow.dftoutiao.com
 :: pagespeed.report.qq.com
 :: p.alimama.com
 :: palmnews.sina.cn
@@ -5428,6 +5437,7 @@
 :: pcbrowser.dd.qq.com
 :: pcfg.wps.cn
 :: p.clkservice.youdao.com
+:: pcminitj.dftoutiao.com
 :: pcookie.cnzz.com
 :: pcookie.tanx.com
 :: pc.quansj.cn
@@ -5486,6 +5496,7 @@
 :: pop.sjk.ijinshan.com
 :: popup.msn.com
 :: pos.baidu.com
+:: position.dftoutiao.com
 :: post.ra.icast.cn
 :: pptv.adx.admaster.com.cn
 :: pptv.cm.admaster.com.cn
@@ -5984,6 +5995,7 @@
 :: shop.yinyuetai.com
 :: shouji.360.cn
 :: shouji.sougou.com
+:: show.look.360.cn
 :: show.re.taobao.com
 :: showwxml.qq.com
 :: s.hystq.com

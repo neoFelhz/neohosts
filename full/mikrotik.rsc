@@ -1889,6 +1889,8 @@ ip dns static add address=127.0.0.1 name=news.766ba.net
 ip dns static add address=127.0.0.1 name=news.mpush.qq.com
 ip dns static add address=127.0.0.1 name=news.push.126.net
 ip dns static add address=127.0.0.1 name=newspush.sinajs.cn
+ip dns static add address=127.0.0.1 name=news.qhstatic.com
+ip dns static add address=127.0.0.1 name=new.taobc.com
 ip dns static add address=127.0.0.1 name=new.users.51.la
 ip dns static add address=127.0.0.1 name=newvector.map.baidu.com
 ip dns static add address=127.0.0.1 name=nex.163.com
@@ -1986,6 +1988,7 @@ ip dns static add address=127.0.0.1 name=pagead.google.com
 ip dns static add address=127.0.0.1 name=pagead.l.google.com
 ip dns static add address=127.0.0.1 name=pagead-tpc.l.google.com
 ip dns static add address=127.0.0.1 name=pagechoice.net
+ip dns static add address=127.0.0.1 name=pageshow.dftoutiao.com
 ip dns static add address=127.0.0.1 name=pagespeed.report.qq.com
 ip dns static add address=127.0.0.1 name=p.alimama.com
 ip dns static add address=127.0.0.1 name=palmnews.sina.cn
@@ -2007,6 +2010,7 @@ ip dns static add address=127.0.0.1 name=pc.107788.com
 ip dns static add address=127.0.0.1 name=pcbrowser.dd.qq.com
 ip dns static add address=127.0.0.1 name=pcfg.wps.cn
 ip dns static add address=127.0.0.1 name=p.clkservice.youdao.com
+ip dns static add address=127.0.0.1 name=pcminitj.dftoutiao.com
 ip dns static add address=127.0.0.1 name=pcookie.cnzz.com
 ip dns static add address=127.0.0.1 name=pcookie.tanx.com
 ip dns static add address=127.0.0.1 name=pc.quansj.cn
@@ -2065,6 +2069,7 @@ ip dns static add address=127.0.0.1 name=popme.163.com
 ip dns static add address=127.0.0.1 name=pop.sjk.ijinshan.com
 ip dns static add address=127.0.0.1 name=popup.msn.com
 ip dns static add address=127.0.0.1 name=pos.baidu.com
+ip dns static add address=127.0.0.1 name=position.dftoutiao.com
 ip dns static add address=127.0.0.1 name=post.ra.icast.cn
 ip dns static add address=127.0.0.1 name=pptv.adx.admaster.com.cn
 ip dns static add address=127.0.0.1 name=pptv.cm.admaster.com.cn
@@ -2563,6 +2568,7 @@ ip dns static add address=127.0.0.1 name=shop.admin.yinyuetai.com
 ip dns static add address=127.0.0.1 name=shop.yinyuetai.com
 ip dns static add address=127.0.0.1 name=shouji.360.cn
 ip dns static add address=127.0.0.1 name=shouji.sougou.com
+ip dns static add address=127.0.0.1 name=show.look.360.cn
 ip dns static add address=127.0.0.1 name=show.re.taobao.com
 ip dns static add address=127.0.0.1 name=showwxml.qq.com
 ip dns static add address=127.0.0.1 name=s.hystq.com
