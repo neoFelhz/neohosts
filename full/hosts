@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181030060619
+#version=20181030061454
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -49,6 +49,7 @@
 0.0.0.0 312036.com
 0.0.0.0 3dns-2.adobe.com
 0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3rd.t.sohu.com
 0.0.0.0 4171764.fls.doubleclick.net
 0.0.0.0 4336wang.cn
 0.0.0.0 44.adsina.allyes.com
@@ -70,6 +71,7 @@
 0.0.0.0 818.dopa.com
 0.0.0.0 818.ok365.com
 0.0.0.0 846.move7.com
+0.0.0.0 888.tv.sohu.com
 0.0.0.0 8b4pea.c.admaster.com.cn
 0.0.0.0 8b6dfa.v.admaster.com.cn
 0.0.0.0 8chzga.v.admaster.com.cn
@@ -199,6 +201,7 @@
 0.0.0.0 ad.jsnbrynb.com
 0.0.0.0 adlaunch.moji.com
 0.0.0.0 adlog.flurry.com
+0.0.0.0 ad.mail.sohu.com
 0.0.0.0 adm.baidu.com
 0.0.0.0 admd.yam.com
 0.0.0.0 admeld.adnxs.com
@@ -266,6 +269,7 @@
 0.0.0.0 adsmogo.com
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.ninemsn.com.au
+0.0.0.0 ad.sohu.com
 0.0.0.0 adsolution.imtt.qq.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 adsp.xunlei.com
@@ -805,6 +809,7 @@
 0.0.0.0 cookiemapping.wrating.com
 0.0.0.0 corebug.adsame.com
 0.0.0.0 coro.benbaisteel.com
+0.0.0.0 corp.sohu.com
 0.0.0.0 couchcoaster.jp
 0.0.0.0 count10.51yes.com
 0.0.0.0 count11.51yes.com
@@ -867,6 +872,7 @@
 0.0.0.0 cpc.click.alimama.com
 0.0.0.0 cpc.haohaowan8.com
 0.0.0.0 cpc.sogou.com
+0.0.0.0 cpc.sohu.com
 0.0.0.0 cp.jiajv.net
 0.0.0.0 cpro2.baidu.com
 0.0.0.0 cpro2.baidustatic.com
@@ -1014,6 +1020,7 @@
 0.0.0.0 dns1.oadz.com
 0.0.0.0 dns2.oadz.com
 0.0.0.0 do69ifsly4.me
+0.0.0.0 doc.go.sohu.com
 0.0.0.0 dol.deliver.ifeng.com
 0.0.0.0 dolphin1.adsame.com
 0.0.0.0 dolphin.adsame.com
@@ -1404,6 +1411,7 @@
 0.0.0.0 ifs.tanx.com
 0.0.0.0 i.gdt.qq.com
 0.0.0.0 ig.nukefans.net
+0.0.0.0 i.go.sohu.com
 0.0.0.0 i.haloapps.com
 0.0.0.0 i.holalauncher.com
 0.0.0.0 i.huilixieye.net
@@ -1420,6 +1428,7 @@
 0.0.0.0 image.haiyunx.com
 0.0.0.0 image.p4p.sogou.com
 0.0.0.0 images.fastclick.net
+0.0.0.0 images.sohu.com
 0.0.0.0 images.taboola.com
 0.0.0.0 image.zzd.sm.cn
 0.0.0.0 imagzine.oppomobile.com
@@ -1465,6 +1474,7 @@
 0.0.0.0 img.wan.sogou.com
 0.0.0.0 img-x.jd.com
 0.0.0.0 i.mmcdn.cn
+0.0.0.0 imp.go.sohu.com
 0.0.0.0 imp.optaim.com
 0.0.0.0 impservice2.youdao.com
 0.0.0.0 impservice.chnl.youdao.com
@@ -2408,6 +2418,7 @@
 0.0.0.0 sa0.tuisong.baidu.com
 0.0.0.0 sa1.tuisong.baidu.com
 0.0.0.0 sa3.tuisong.baidu.com
+0.0.0.0 s.ads.sohu.com
 0.0.0.0 s.aikan6.com
 0.0.0.0 s.alitui.weibo.com
 0.0.0.0 s.amazon-adsystem.com
@@ -2550,6 +2561,7 @@
 0.0.0.0 s.gdt.qq.com
 0.0.0.0 sg.keytui.com
 0.0.0.0 s.go2yd.com
+0.0.0.0 s.go.sohu.com
 0.0.0.0 s.gyeet.com
 0.0.0.0 shadu.baidu.com
 0.0.0.0 shaft.jebe.renren.com
@@ -2720,6 +2732,7 @@
 0.0.0.0 survey.miaozhen.com
 0.0.0.0 susapi.dev.surepush.cn
 0.0.0.0 susapi.lenovomm.com
+0.0.0.0 suvset.sohu.com
 0.0.0.0 sv.map.baidu.com
 0.0.0.0 swa.gtimg.com
 0.0.0.0 sw.mobile.sogou.com
@@ -2760,6 +2773,7 @@
 0.0.0.0 t4.51maiwanju.com
 0.0.0.0 t5.51maiwanju.com
 0.0.0.0 t6.51maiwanju.com
+0.0.0.0 t.ads.sohu.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tajs.qq.com
 0.0.0.0 t.alimama.com
@@ -2795,6 +2809,7 @@
 0.0.0.0 t-flow.flyme.cn
 0.0.0.0 t.gdt.qq.com
 0.0.0.0 tg.jifen.2345.com
+0.0.0.0 t.go.sohu.com
 0.0.0.0 theta.sogoucdn.com
 0.0.0.0 tj.b.qq.com
 0.0.0.0 tj.kugou.com
@@ -2867,6 +2882,7 @@
 0.0.0.0 tw.pub.vpon.com
 0.0.0.0 twsina.allyes.com
 0.0.0.0 txtad.jijiplayer.com
+0.0.0.0 txt.go.sohu.com
 0.0.0.0 tyaqy.m.cn.miaozhen.com
 0.0.0.0 t.youmi.net
 0.0.0.0 tytx.m.cn.miaozhen.com
@@ -3299,6 +3315,7 @@
 0.0.0.0 wx.xwjqr.com
 0.0.0.0 w.yinyuehu.cn
 0.0.0.0 w.ymapp.com
+0.0.0.0 x1.go.sohu.com
 0.0.0.0 x.adpro.cn
 0.0.0.0 xcar.adsame.com
 0.0.0.0 x.cnxad.com
@@ -3314,6 +3331,7 @@
 0.0.0.0 xinsheng.net
 0.0.0.0 x.jd.com
 0.0.0.0 xji.qwxcs.com
+0.0.0.0 xls.go.sohu.com
 0.0.0.0 xs.1drj.com
 0.0.0.0 xs.he9630.com
 0.0.0.0 xtruh.uranus.sogou.com
@@ -3434,6 +3452,7 @@
 :: 312036.com
 :: 3dns-2.adobe.com
 :: 3dns-3.adobe.com
+:: 3rd.t.sohu.com
 :: 4171764.fls.doubleclick.net
 :: 4336wang.cn
 :: 44.adsina.allyes.com
@@ -3455,6 +3474,7 @@
 :: 818.dopa.com
 :: 818.ok365.com
 :: 846.move7.com
+:: 888.tv.sohu.com
 :: 8b4pea.c.admaster.com.cn
 :: 8b6dfa.v.admaster.com.cn
 :: 8chzga.v.admaster.com.cn
@@ -3584,6 +3604,7 @@
 :: ad.jsnbrynb.com
 :: adlaunch.moji.com
 :: adlog.flurry.com
+:: ad.mail.sohu.com
 :: adm.baidu.com
 :: admd.yam.com
 :: admeld.adnxs.com
@@ -3651,6 +3672,7 @@
 :: adsmogo.com
 :: ads.msn.com
 :: ads.ninemsn.com.au
+:: ad.sohu.com
 :: adsolution.imtt.qq.com
 :: ads.pubmatic.com
 :: adsp.xunlei.com
@@ -4190,6 +4212,7 @@
 :: cookiemapping.wrating.com
 :: corebug.adsame.com
 :: coro.benbaisteel.com
+:: corp.sohu.com
 :: couchcoaster.jp
 :: count10.51yes.com
 :: count11.51yes.com
@@ -4252,6 +4275,7 @@
 :: cpc.click.alimama.com
 :: cpc.haohaowan8.com
 :: cpc.sogou.com
+:: cpc.sohu.com
 :: cp.jiajv.net
 :: cpro2.baidu.com
 :: cpro2.baidustatic.com
@@ -4399,6 +4423,7 @@
 :: dns1.oadz.com
 :: dns2.oadz.com
 :: do69ifsly4.me
+:: doc.go.sohu.com
 :: dol.deliver.ifeng.com
 :: dolphin1.adsame.com
 :: dolphin.adsame.com
@@ -4789,6 +4814,7 @@
 :: ifs.tanx.com
 :: i.gdt.qq.com
 :: ig.nukefans.net
+:: i.go.sohu.com
 :: i.haloapps.com
 :: i.holalauncher.com
 :: i.huilixieye.net
@@ -4805,6 +4831,7 @@
 :: image.haiyunx.com
 :: image.p4p.sogou.com
 :: images.fastclick.net
+:: images.sohu.com
 :: images.taboola.com
 :: image.zzd.sm.cn
 :: imagzine.oppomobile.com
@@ -4850,6 +4877,7 @@
 :: img.wan.sogou.com
 :: img-x.jd.com
 :: i.mmcdn.cn
+:: imp.go.sohu.com
 :: imp.optaim.com
 :: impservice2.youdao.com
 :: impservice.chnl.youdao.com
@@ -5793,6 +5821,7 @@
 :: sa0.tuisong.baidu.com
 :: sa1.tuisong.baidu.com
 :: sa3.tuisong.baidu.com
+:: s.ads.sohu.com
 :: s.aikan6.com
 :: s.alitui.weibo.com
 :: s.amazon-adsystem.com
@@ -5935,6 +5964,7 @@
 :: s.gdt.qq.com
 :: sg.keytui.com
 :: s.go2yd.com
+:: s.go.sohu.com
 :: s.gyeet.com
 :: shadu.baidu.com
 :: shaft.jebe.renren.com
@@ -6105,6 +6135,7 @@
 :: survey.miaozhen.com
 :: susapi.dev.surepush.cn
 :: susapi.lenovomm.com
+:: suvset.sohu.com
 :: sv.map.baidu.com
 :: swa.gtimg.com
 :: sw.mobile.sogou.com
@@ -6145,6 +6176,7 @@
 :: t4.51maiwanju.com
 :: t5.51maiwanju.com
 :: t6.51maiwanju.com
+:: t.ads.sohu.com
 :: tags.bluekai.com
 :: tajs.qq.com
 :: t.alimama.com
@@ -6180,6 +6212,7 @@
 :: t-flow.flyme.cn
 :: t.gdt.qq.com
 :: tg.jifen.2345.com
+:: t.go.sohu.com
 :: theta.sogoucdn.com
 :: tj.b.qq.com
 :: tj.kugou.com
@@ -6252,6 +6285,7 @@
 :: tw.pub.vpon.com
 :: twsina.allyes.com
 :: txtad.jijiplayer.com
+:: txt.go.sohu.com
 :: tyaqy.m.cn.miaozhen.com
 :: t.youmi.net
 :: tytx.m.cn.miaozhen.com
@@ -6684,6 +6718,7 @@
 :: wx.xwjqr.com
 :: w.yinyuehu.cn
 :: w.ymapp.com
+:: x1.go.sohu.com
 :: x.adpro.cn
 :: xcar.adsame.com
 :: x.cnxad.com
@@ -6699,6 +6734,7 @@
 :: xinsheng.net
 :: x.jd.com
 :: xji.qwxcs.com
+:: xls.go.sohu.com
 :: xs.1drj.com
 :: xs.he9630.com
 :: xtruh.uranus.sogou.com
