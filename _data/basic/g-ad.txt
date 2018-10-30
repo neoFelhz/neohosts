@@ -38,6 +38,7 @@
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 adservice.google.com
 0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
 # Youtube
 0.0.0.0 ads.youtube.com
 0.0.0.0 azabu-u.ac.jp
