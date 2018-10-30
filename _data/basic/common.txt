@@ -111,8 +111,6 @@
 0.0.0.0 activate.wip3.adobe.com
 0.0.0.0 ereg.wip3.adobe.com
 0.0.0.0 wwis-dubc1-vip60.adobe.com
-# malwarebytes
-0.0.0.0 keystone.mwbsys.com
 # Deviantart
 0.0.0.0 adcast.deviantart.com
 0.0.0.0 adimg.deviantart.net
@@ -284,8 +282,6 @@
 0.0.0.0 stat.moji.com
 0.0.0.0 v1.log.moji.com
 0.0.0.0 cdn2.moji002.com
-# Sohu
-0.0.0.0 adnet.sohu.com
 # Adesk
 0.0.0.0 service.ad.adesk.com
 # advertising.com
