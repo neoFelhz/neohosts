@@ -34,3 +34,5 @@
 0.0.0.0 uid.ksosoft.com
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 ws.ksmobile.net
+0.0.0.0 haiwai-ic.ksosoft.com
+0.0.0.0 hoplink.ksosoft.com
