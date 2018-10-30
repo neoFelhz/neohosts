@@ -37,3 +37,9 @@
 0.0.0.0 click.stat.hao.360.cn
 0.0.0.0 act.commercial.shouji.360.cn
 0.0.0.0 spro.so.com
+0.0.0.0 news.qhstatic.com
+0.0.0.0 show.look.360.cn
+0.0.0.0 pageshow.dftoutiao.com
+0.0.0.0 pcminitj.dftoutiao.com
+0.0.0.0 position.dftoutiao.com
+0.0.0.0 new.taobc.com
