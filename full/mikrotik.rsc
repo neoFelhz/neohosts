@@ -714,7 +714,6 @@ ip dns static add address=127.0.0.1 name=clkservice.youdao.com
 ip dns static add address=127.0.0.1 name=cloudcdn.dopa.com
 ip dns static add address=127.0.0.1 name=cloudcdn.dopa.com.cn
 ip dns static add address=127.0.0.1 name=cloudcdn.yousee.com
-ip dns static add address=127.0.0.1 name=cloudservice22.kingsoft-office-service.com
 ip dns static add address=127.0.0.1 name=c.l.qq.com
 ip dns static add address=127.0.0.1 name=cm066.getui.igexin.com
 ip dns static add address=127.0.0.1 name=cm.adgrx.com
@@ -1029,6 +1028,7 @@ ip dns static add address=127.0.0.1 name=dressimage.img-cn-beijing.aliyuncs.com
 ip dns static add address=127.0.0.1 name=d.rexuebi.com
 ip dns static add address=127.0.0.1 name=dr.holaworld.cn
 ip dns static add address=127.0.0.1 name=drmcmm.baidu.com
+ip dns static add address=127.0.0.1 name=d.s11.cn
 ip dns static add address=127.0.0.1 name=ds.jlbksy.com
 ip dns static add address=127.0.0.1 name=dsp.adfarm1.adition.com
 ip dns static add address=127.0.0.1 name=dsp.brand.sogou.com
@@ -1268,6 +1268,7 @@ ip dns static add address=127.0.0.1 name=h2.18sd.cn
 ip dns static add address=127.0.0.1 name=h5.holalauncher.com
 ip dns static add address=127.0.0.1 name=h5.mse.360.cn
 ip dns static add address=127.0.0.1 name=haitaoad.nosdn.127.net
+ip dns static add address=127.0.0.1 name=haiwai-ic.ksosoft.com
 ip dns static add address=127.0.0.1 name=hao549.com
 ip dns static add address=127.0.0.1 name=hao.7654.com
 ip dns static add address=127.0.0.1 name=hao.qquu8.com
@@ -1310,6 +1311,7 @@ ip dns static add address=127.0.0.1 name=hndnserror4.wo.com.cn
 ip dns static add address=127.0.0.1 name=hndnserror5.wo.com.cn
 ip dns static add address=127.0.0.1 name=hndnserror6.wo.com.cn
 ip dns static add address=127.0.0.1 name=hndnserror7.wo.com.cn
+ip dns static add address=127.0.0.1 name=hoplink.ksosoft.com
 ip dns static add address=127.0.0.1 name=hot.browser.miui.com
 ip dns static add address=127.0.0.1 name=hot.m.shouji.360tpcdn.com
 ip dns static add address=127.0.0.1 name=houtai.2345.com
@@ -2441,6 +2443,7 @@ ip dns static add address=127.0.0.1 name=sdkapp.mobile.sina.cn
 ip dns static add address=127.0.0.1 name=sdkapp.uve.weibo.com
 ip dns static add address=127.0.0.1 name=sdk.cferw.com
 ip dns static add address=127.0.0.1 name=sdkclick.mobile.sina.cn
+ip dns static add address=127.0.0.1 name=sdkconfig.ad.intl.xiaomi.com
 ip dns static add address=127.0.0.1 name=sdkconfig.ad.xiaomi.com
 ip dns static add address=127.0.0.1 name=sdk.conf.igexin.com
 ip dns static add address=127.0.0.1 name=sdk.e.qq.com
@@ -2925,6 +2928,7 @@ ip dns static add address=127.0.0.1 name=u.ucfly.com
 ip dns static add address=127.0.0.1 name=uuidapi.yunos.com
 ip dns static add address=127.0.0.1 name=uusee.adsame.com
 ip dns static add address=127.0.0.1 name=uxip.meizu.com
+ip dns static add address=127.0.0.1 name=u-x.jd.com
 ip dns static add address=127.0.0.1 name=u.x.jd.com
 ip dns static add address=127.0.0.1 name=v1.0594529.com
 ip dns static add address=127.0.0.1 name=v10.cnzz.com
@@ -3341,6 +3345,7 @@ ip dns static add address=127.0.0.1 name=zc.adpush.cn
 ip dns static add address=127.0.0.1 name=zc.biz.weibo.com
 ip dns static add address=127.0.0.1 name=z.clickvip.shop
 ip dns static add address=127.0.0.1 name=z.domob.cn
+ip dns static add address=127.0.0.1 name=zeus.ad.xiaomi.com
 ip dns static add address=127.0.0.1 name=zgdfz6h7po.me
 ip dns static add address=127.0.0.1 name=zgty365.com
 ip dns static add address=127.0.0.1 name=zh-cn.shenyun.com

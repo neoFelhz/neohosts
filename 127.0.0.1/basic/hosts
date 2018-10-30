@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181030054947
+#version=20181030055954
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -574,7 +574,6 @@
 127.0.0.1 cloudcdn.dopa.com
 127.0.0.1 cloudcdn.dopa.com.cn
 127.0.0.1 cloudcdn.yousee.com
-127.0.0.1 cloudservice22.kingsoft-office-service.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 cm066.getui.igexin.com
 127.0.0.1 cm.adgrx.com
@@ -794,6 +793,7 @@
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 dr.holaworld.cn
 127.0.0.1 drmcmm.baidu.com
+127.0.0.1 d.s11.cn
 127.0.0.1 ds.jlbksy.com
 127.0.0.1 dsp.adfarm1.adition.com
 127.0.0.1 dsp.brand.sogou.com
@@ -961,6 +961,7 @@
 127.0.0.1 gxe.husky.sogou.com
 127.0.0.1 h5.holalauncher.com
 127.0.0.1 haitaoad.nosdn.127.net
+127.0.0.1 haiwai-ic.ksosoft.com
 127.0.0.1 hao549.com
 127.0.0.1 hao.7654.com
 127.0.0.1 hao.qquu8.com
@@ -997,6 +998,7 @@
 127.0.0.1 hndnserror5.wo.com.cn
 127.0.0.1 hndnserror6.wo.com.cn
 127.0.0.1 hndnserror7.wo.com.cn
+127.0.0.1 hoplink.ksosoft.com
 127.0.0.1 hot.browser.miui.com
 127.0.0.1 hpd.baidu.com
 127.0.0.1 hs.qhupdate.com
@@ -1680,6 +1682,7 @@
 127.0.0.1 sdkapp.uve.weibo.com
 127.0.0.1 sdk.cferw.com
 127.0.0.1 sdkclick.mobile.sina.cn
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 sdkinit.taobao.com
@@ -1996,6 +1999,7 @@
 127.0.0.1 u.ucfly.com
 127.0.0.1 uuidapi.yunos.com
 127.0.0.1 uxip.meizu.com
+127.0.0.1 u-x.jd.com
 127.0.0.1 u.x.jd.com
 127.0.0.1 v1-feed.idreamsky.com
 127.0.0.1 v1.log.moji.com
@@ -2150,6 +2154,7 @@
 127.0.0.1 zc.biz.weibo.com
 127.0.0.1 z.clickvip.shop
 127.0.0.1 z.domob.cn
+127.0.0.1 zeus.ad.xiaomi.com
 127.0.0.1 zhushou.2345.com
 127.0.0.1 zhwnlapi.etouch.cn
 127.0.0.1 zjvnet.allyes.com
@@ -2716,7 +2721,6 @@
 :: cloudcdn.dopa.com
 :: cloudcdn.dopa.com.cn
 :: cloudcdn.yousee.com
-:: cloudservice22.kingsoft-office-service.com
 :: c.l.qq.com
 :: cm066.getui.igexin.com
 :: cm.adgrx.com
@@ -2936,6 +2940,7 @@
 :: dressimage.img-cn-beijing.aliyuncs.com
 :: dr.holaworld.cn
 :: drmcmm.baidu.com
+:: d.s11.cn
 :: ds.jlbksy.com
 :: dsp.adfarm1.adition.com
 :: dsp.brand.sogou.com
@@ -3103,6 +3108,7 @@
 :: gxe.husky.sogou.com
 :: h5.holalauncher.com
 :: haitaoad.nosdn.127.net
+:: haiwai-ic.ksosoft.com
 :: hao549.com
 :: hao.7654.com
 :: hao.qquu8.com
@@ -3139,6 +3145,7 @@
 :: hndnserror5.wo.com.cn
 :: hndnserror6.wo.com.cn
 :: hndnserror7.wo.com.cn
+:: hoplink.ksosoft.com
 :: hot.browser.miui.com
 :: hpd.baidu.com
 :: hs.qhupdate.com
@@ -3822,6 +3829,7 @@
 :: sdkapp.uve.weibo.com
 :: sdk.cferw.com
 :: sdkclick.mobile.sina.cn
+:: sdkconfig.ad.intl.xiaomi.com
 :: sdkconfig.ad.xiaomi.com
 :: sdk.e.qq.com
 :: sdkinit.taobao.com
@@ -4138,6 +4146,7 @@
 :: u.ucfly.com
 :: uuidapi.yunos.com
 :: uxip.meizu.com
+:: u-x.jd.com
 :: u.x.jd.com
 :: v1-feed.idreamsky.com
 :: v1.log.moji.com
@@ -4292,6 +4301,7 @@
 :: zc.biz.weibo.com
 :: z.clickvip.shop
 :: z.domob.cn
+:: zeus.ad.xiaomi.com
 :: zhushou.2345.com
 :: zhwnlapi.etouch.cn
 :: zjvnet.allyes.com
