@@ -1448,8 +1448,6 @@ ip dns static add address=127.0.0.1 name=pic.51yes.com
 ip dns static add address=127.0.0.1 name=pics.taobaocdn.com
 ip dns static add address=127.0.0.1 name=pindao.huoban.taobao.com
 ip dns static add address=127.0.0.1 name=ping.acc.sogou.com
-ip dns static add address=127.0.0.1 name=pingfore.qq.com
-ip dns static add address=127.0.0.1 name=pingfore.tenpay.com
 ip dns static add address=127.0.0.1 name=pinghot.qq.com
 ip dns static add address=127.0.0.1 name=pingma.qq.com
 ip dns static add address=127.0.0.1 name=ping.pinyin.sogou.com

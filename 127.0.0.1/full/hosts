@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181030054657
+#version=20181030054947
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -2042,8 +2042,6 @@
 127.0.0.1 pics.taobaocdn.com
 127.0.0.1 pindao.huoban.taobao.com
 127.0.0.1 ping.acc.sogou.com
-127.0.0.1 pingfore.qq.com
-127.0.0.1 pingfore.tenpay.com
 127.0.0.1 pinghot.qq.com
 127.0.0.1 pingma.qq.com
 127.0.0.1 ping.pinyin.sogou.com
@@ -5424,8 +5422,6 @@
 :: pics.taobaocdn.com
 :: pindao.huoban.taobao.com
 :: ping.acc.sogou.com
-:: pingfore.qq.com
-:: pingfore.tenpay.com
 :: pinghot.qq.com
 :: pingma.qq.com
 :: ping.pinyin.sogou.com
