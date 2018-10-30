@@ -1641,6 +1641,7 @@ ip dns static add address=127.0.0.1 name=s.baidu.com
 ip dns static add address=127.0.0.1 name=sbeacon.sina.com.cn
 ip dns static add address=127.0.0.1 name=scc.domob.cn
 ip dns static add address=127.0.0.1 name=scdown.qq.com
+ip dns static add address=127.0.0.1 name=scene.vip.xunlei.com
 ip dns static add address=127.0.0.1 name=sc.ggdoubi.com
 ip dns static add address=127.0.0.1 name=sc.ggfeng.com
 ip dns static add address=127.0.0.1 name=schemas.android.com

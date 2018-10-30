@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181030055954
+#version=20181030060124
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -1659,6 +1659,7 @@
 127.0.0.1 sbeacon.sina.com.cn
 127.0.0.1 scc.domob.cn
 127.0.0.1 scdown.qq.com
+127.0.0.1 scene.vip.xunlei.com
 127.0.0.1 sc.ggdoubi.com
 127.0.0.1 sc.ggfeng.com
 127.0.0.1 schemas.android.com
@@ -3806,6 +3807,7 @@
 :: sbeacon.sina.com.cn
 :: scc.domob.cn
 :: scdown.qq.com
+:: scene.vip.xunlei.com
 :: sc.ggdoubi.com
 :: sc.ggfeng.com
 :: schemas.android.com
