@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181030060124
+#version=20181030060619
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -1956,7 +1956,6 @@
 0.0.0.0 ucstat.baidu.com
 0.0.0.0 ucus.ucweb.com
 0.0.0.0 udash.umengcloud.com
-0.0.0.0 udc.msn.com
 0.0.0.0 u.domob.cn
 0.0.0.0 uedas.qdmm.com
 0.0.0.0 uedas.qidian.com
@@ -4104,7 +4103,6 @@
 :: ucstat.baidu.com
 :: ucus.ucweb.com
 :: udash.umengcloud.com
-:: udc.msn.com
 :: u.domob.cn
 :: uedas.qdmm.com
 :: uedas.qidian.com

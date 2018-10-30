@@ -1938,7 +1938,6 @@ ip dns static add address=127.0.0.1 name=uc9.ucweb.com
 ip dns static add address=127.0.0.1 name=ucstat.baidu.com
 ip dns static add address=127.0.0.1 name=ucus.ucweb.com
 ip dns static add address=127.0.0.1 name=udash.umengcloud.com
-ip dns static add address=127.0.0.1 name=udc.msn.com
 ip dns static add address=127.0.0.1 name=u.domob.cn
 ip dns static add address=127.0.0.1 name=uedas.qdmm.com
 ip dns static add address=127.0.0.1 name=uedas.qidian.com
