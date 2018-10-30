@@ -190,3 +190,4 @@
 0.0.0.0 baidu.greenxf.cn
 0.0.0.0 bd1.pipaw.com
 0.0.0.0 bd2.pipaw.com
+0.0.0.0 d.s11.cn
