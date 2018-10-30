@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181030061708
+#version=20181030062537
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -141,6 +141,7 @@
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.dqwjzm.com
 127.0.0.1 ad.duapps.com
+127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 adfill.adview.cn
@@ -260,6 +261,7 @@
 127.0.0.1 adx.ads.oppomobile.com
 127.0.0.1 adx.g.doubleclick.net
 127.0.0.1 adx.pro.cn
+127.0.0.1 adx-static.ksosoft.com
 127.0.0.1 ad.xxguan.cn
 127.0.0.1 adx.xiaodutv.com
 127.0.0.1 adxxx.com
@@ -303,6 +305,7 @@
 127.0.0.1 alpha.brand.sogou.com
 127.0.0.1 als.baidu.com
 127.0.0.1 ama.adwo.com
+127.0.0.1 a.mct01.com
 127.0.0.1 amdc.m.taobao.com
 127.0.0.1 am.g.ireader.com
 127.0.0.1 a.m.shuhuangge.org
@@ -366,7 +369,6 @@
 127.0.0.1 api.tr.blismedia.com
 127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
-127.0.0.1 api.wapa.taobao.com
 127.0.0.1 api.waptest.taobao.com
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 api.youxiaoad.com
@@ -596,6 +598,7 @@
 127.0.0.1 cm.ipinyou.com
 127.0.0.1 cm.jd.com
 127.0.0.1 cm.l.qq.com
+127.0.0.1 cm.mct01.com
 127.0.0.1 cm.netseer.com
 127.0.0.1 cm.p4p.cn.yahoo.com
 127.0.0.1 cm.pos.baidu.com
@@ -606,6 +609,7 @@
 127.0.0.1 cms.quantserve.com
 127.0.0.1 cms.tanx.com
 127.0.0.1 c-nfa.jd.com
+127.0.0.1 cntv.wrating.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 code.fastclick.net
 127.0.0.1 coed-d.openx.net
@@ -675,6 +679,7 @@
 127.0.0.1 count8.51yes.com
 127.0.0.1 count9.51yes.com
 127.0.0.1 counter.kingsoft.com
+127.0.0.1 counter.ksosoft.com
 127.0.0.1 counter.sina.com.cn
 127.0.0.1 count.mail.163.com
 127.0.0.1 countt.51yes.com
@@ -820,6 +825,8 @@
 127.0.0.1 dvser02.china.com
 127.0.0.1 dvser.china.com
 127.0.0.1 dvx-android.domob.cn
+127.0.0.1 dw-collect.ksosoft.com
+127.0.0.1 dw-online.ksosoft.com
 127.0.0.1 dwtrack.qidian.com
 127.0.0.1 dxp.baidu.com
 127.0.0.1 dxprla.m.qxs.la
@@ -1158,7 +1165,6 @@
 127.0.0.1 j.wit.qq.com
 127.0.0.1 jxlog.istreamsche.com
 127.0.0.1 k.domob.cn
-127.0.0.1 keystone.mwbsys.com
 127.0.0.1 kgmobilestat.kugou.com
 127.0.0.1 kn.zzdahan.com
 127.0.0.1 kr.sybspools.com
@@ -1494,6 +1500,7 @@
 127.0.0.1 pixel.sitescout.com
 127.0.0.1 pixel.tapad.com
 127.0.0.1 pix.impdesk.com
+127.0.0.1 pixiu.shangshufang.ksosoft.com
 127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 pkg-cdn.youmi.net
 127.0.0.1 p.kjwx8.com
@@ -1827,6 +1834,7 @@
 127.0.0.1 static.exosrv.com
 127.0.0.1 static.flv.uuzuonline.com
 127.0.0.1 static.googleadsserving.cn
+127.0.0.1 static.mct01.com
 127.0.0.1 static.m.sjzhushou.com
 127.0.0.1 static.tzyiyuantuan.com
 127.0.0.1 static.youmi.net
@@ -2312,6 +2320,7 @@
 :: ad.doubleclick.net
 :: ad.dqwjzm.com
 :: ad.duapps.com
+:: ade.googlesyndication.com
 :: adeventtracker.spotify.com
 :: adfarm.mediaplex.com
 :: adfill.adview.cn
@@ -2431,6 +2440,7 @@
 :: adx.ads.oppomobile.com
 :: adx.g.doubleclick.net
 :: adx.pro.cn
+:: adx-static.ksosoft.com
 :: ad.xxguan.cn
 :: adx.xiaodutv.com
 :: adxxx.com
@@ -2474,6 +2484,7 @@
 :: alpha.brand.sogou.com
 :: als.baidu.com
 :: ama.adwo.com
+:: a.mct01.com
 :: amdc.m.taobao.com
 :: am.g.ireader.com
 :: a.m.shuhuangge.org
@@ -2537,7 +2548,6 @@
 :: api.tr.blismedia.com
 :: api.tuisong.baidu.com
 :: api.tw06.xlmc.sec.miui.com
-:: api.wapa.taobao.com
 :: api.waptest.taobao.com
 :: api.wsq.umeng.com
 :: api.youxiaoad.com
@@ -2767,6 +2777,7 @@
 :: cm.ipinyou.com
 :: cm.jd.com
 :: cm.l.qq.com
+:: cm.mct01.com
 :: cm.netseer.com
 :: cm.p4p.cn.yahoo.com
 :: cm.pos.baidu.com
@@ -2777,6 +2788,7 @@
 :: cms.quantserve.com
 :: cms.tanx.com
 :: c-nfa.jd.com
+:: cntv.wrating.com
 :: cnzz.mmstat.com
 :: code.fastclick.net
 :: coed-d.openx.net
@@ -2846,6 +2858,7 @@
 :: count8.51yes.com
 :: count9.51yes.com
 :: counter.kingsoft.com
+:: counter.ksosoft.com
 :: counter.sina.com.cn
 :: count.mail.163.com
 :: countt.51yes.com
@@ -2991,6 +3004,8 @@
 :: dvser02.china.com
 :: dvser.china.com
 :: dvx-android.domob.cn
+:: dw-collect.ksosoft.com
+:: dw-online.ksosoft.com
 :: dwtrack.qidian.com
 :: dxp.baidu.com
 :: dxprla.m.qxs.la
@@ -3329,7 +3344,6 @@
 :: j.wit.qq.com
 :: jxlog.istreamsche.com
 :: k.domob.cn
-:: keystone.mwbsys.com
 :: kgmobilestat.kugou.com
 :: kn.zzdahan.com
 :: kr.sybspools.com
@@ -3665,6 +3679,7 @@
 :: pixel.sitescout.com
 :: pixel.tapad.com
 :: pix.impdesk.com
+:: pixiu.shangshufang.ksosoft.com
 :: pjyu.golden1.sogou.com
 :: pkg-cdn.youmi.net
 :: p.kjwx8.com
@@ -3998,6 +4013,7 @@
 :: static.exosrv.com
 :: static.flv.uuzuonline.com
 :: static.googleadsserving.cn
+:: static.mct01.com
 :: static.m.sjzhushou.com
 :: static.tzyiyuantuan.com
 :: static.youmi.net

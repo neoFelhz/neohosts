@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181030061708
+#version=20181030062537
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -179,6 +179,7 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.dqwjzm.com
 0.0.0.0 ad.duapps.com
+0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adfarm.mediaplex.com
 0.0.0.0 adfill.adview.cn
@@ -207,7 +208,6 @@
 0.0.0.0 admeld.adnxs.com
 0.0.0.0 adm.icast.cn
 0.0.0.0 admin.cooguo.com
-0.0.0.0 admin.wooboo.com.cn
 0.0.0.0 adm.leju.sina.com.cn
 0.0.0.0 adn.atdmt.com
 0.0.0.0 ad.netowl.jp
@@ -219,7 +219,6 @@
 0.0.0.0 a.domob.cn
 0.0.0.0 a.dounanhuahui.com
 0.0.0.0 adping.qq.com
-0.0.0.0 adplace.adsame.com
 0.0.0.0 ad.player.baidu.com
 0.0.0.0 adplexmedia.adk2.co
 0.0.0.0 adplexmedia.adk2x.com
@@ -237,7 +236,6 @@
 0.0.0.0 ads.979799777.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads-a.juicyads.com
-0.0.0.0 adsame.com
 0.0.0.0 adsamer.adsame.com
 0.0.0.0 ads.bssdl.kugou.com
 0.0.0.0 adscdn.baidu.com
@@ -313,6 +311,7 @@
 0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 adx.pro.cn
+0.0.0.0 adx-static.ksosoft.com
 0.0.0.0 ad.xxguan.cn
 0.0.0.0 adx.xiaodutv.com
 0.0.0.0 adxxx.com
@@ -367,6 +366,7 @@
 0.0.0.0 alpha.brand.sogou.com
 0.0.0.0 als.baidu.com
 0.0.0.0 ama.adwo.com
+0.0.0.0 a.mct01.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 am.g.ireader.com
 0.0.0.0 amps.yoyi.com.cn
@@ -457,7 +457,6 @@
 0.0.0.0 api.tuisong.baidu.com
 0.0.0.0 api.tw06.xlmc.sec.miui.com
 0.0.0.0 api.viglink.com
-0.0.0.0 api.wapa.taobao.com
 0.0.0.0 api.waptest.taobao.com
 0.0.0.0 api.w.inmobi.com
 0.0.0.0 api.wsq.umeng.com
@@ -759,6 +758,7 @@
 0.0.0.0 cm.ipinyou.com
 0.0.0.0 cm.jd.com
 0.0.0.0 cm.l.qq.com
+0.0.0.0 cm.mct01.com
 0.0.0.0 cm.netseer.com
 0.0.0.0 cm.p4p.cn.yahoo.com
 0.0.0.0 cm.pos.baidu.com
@@ -777,6 +777,7 @@
 0.0.0.0 cnnic.net
 0.0.0.0 cnnic.net.cn
 0.0.0.0 cn.pub.vpon.com
+0.0.0.0 cntv.wrating.com
 0.0.0.0 c.nz.gt.igexin.com
 0.0.0.0 cnzz.mmstat.com
 0.0.0.0 code11.onetad.com
@@ -863,6 +864,7 @@
 0.0.0.0 count8.51yes.com
 0.0.0.0 count9.51yes.com
 0.0.0.0 counter.kingsoft.com
+0.0.0.0 counter.ksosoft.com
 0.0.0.0 counter.sina.com.cn
 0.0.0.0 count.mail.163.com
 0.0.0.0 countt.51yes.com
@@ -1042,7 +1044,6 @@
 0.0.0.0 download.mackeeper.com
 0.0.0.0 download.sd.baidu.com
 0.0.0.0 download.sj.qq.com
-0.0.0.0 download.wooboo.com.cn
 0.0.0.0 download.zhushou.sogou.com
 0.0.0.0 dp.559.cc
 0.0.0.0 dp.g.doubleclick.net
@@ -1074,6 +1075,8 @@
 0.0.0.0 dvser02.china.com
 0.0.0.0 dvser.china.com
 0.0.0.0 dvx-android.domob.cn
+0.0.0.0 dw-collect.ksosoft.com
+0.0.0.0 dw-online.ksosoft.com
 0.0.0.0 dwtrack.qidian.com
 0.0.0.0 dxp.baidu.com
 0.0.0.0 dxprla.m.qxs.la
@@ -1616,7 +1619,6 @@
 0.0.0.0 k.ctsywy.com
 0.0.0.0 k.domob.cn
 0.0.0.0 keyrun.cn
-0.0.0.0 keystone.mwbsys.com
 0.0.0.0 kfewaz.zh1155.com
 0.0.0.0 kgmobilestat.kugou.com
 0.0.0.0 kho3au7l4z.me
@@ -1692,6 +1694,7 @@
 0.0.0.0 l.qq.com
 0.0.0.0 ls.l.qq.com
 0.0.0.0 lu.sogou.com
+0.0.0.0 lwq.wangketuan.com
 0.0.0.0 lxcdn.dl.files.xiaomi.net
 0.0.0.0 lycos-eu.imrworldwide.com
 0.0.0.0 m.12365chia.com
@@ -1884,6 +1887,7 @@
 0.0.0.0 my1fc.m.b5200.net
 0.0.0.0 my1fimg.m.b5200.net
 0.0.0.0 my.adsmogo.com
+0.0.0.0 m.yalayi.com
 0.0.0.0 m.yangjingbang.net
 0.0.0.0 m.yoyi.com.cn
 0.0.0.0 n.3g.163.com
@@ -2071,6 +2075,7 @@
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pix.impdesk.com
+0.0.0.0 pixiu.shangshufang.ksosoft.com
 0.0.0.0 pjyu.golden1.sogou.com
 0.0.0.0 pkg-cdn.youmi.net
 0.0.0.0 p.kjwx8.com
@@ -2691,6 +2696,7 @@
 0.0.0.0 static.flv.uuzuonline.com
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 static.mackeeper.com
+0.0.0.0 static.mct01.com
 0.0.0.0 static.m.sjzhushou.com
 0.0.0.0 static-one.ffwap.com
 0.0.0.0 static-two.ffwap.com
@@ -3213,11 +3219,9 @@
 0.0.0.0 ww8.onetad.com
 0.0.0.0 ww9.onetad.com
 0.0.0.0 wwis-dubc1-vip60.adobe.com
-0.0.0.0 w.wooboo.com.cn
 0.0.0.0 wwv.onetad.com
 0.0.0.0 www.114so.cn
 0.0.0.0 www.1680go.com
-0.0.0.0 www1.wooboo.com.cn
 0.0.0.0 www.202m.com
 0.0.0.0 www.268mob.cn
 0.0.0.0 www.51link.com
@@ -3331,6 +3335,7 @@
 0.0.0.0 x.domob.cn
 0.0.0.0 xf.yellowto.com
 0.0.0.0 xgmc6lu8fs.me
+0.0.0.0 xhtd.99hg.wang
 0.0.0.0 xiangchaokankan.m.cn.miaozhen.com
 0.0.0.0 xiaomiir.yaokantv.com
 0.0.0.0 xinhuanet.adsame.com
@@ -3588,6 +3593,7 @@
 :: ad.doubleclick.net
 :: ad.dqwjzm.com
 :: ad.duapps.com
+:: ade.googlesyndication.com
 :: adeventtracker.spotify.com
 :: adfarm.mediaplex.com
 :: adfill.adview.cn
@@ -3616,7 +3622,6 @@
 :: admeld.adnxs.com
 :: adm.icast.cn
 :: admin.cooguo.com
-:: admin.wooboo.com.cn
 :: adm.leju.sina.com.cn
 :: adn.atdmt.com
 :: ad.netowl.jp
@@ -3628,7 +3633,6 @@
 :: a.domob.cn
 :: a.dounanhuahui.com
 :: adping.qq.com
-:: adplace.adsame.com
 :: ad.player.baidu.com
 :: adplexmedia.adk2.co
 :: adplexmedia.adk2x.com
@@ -3646,7 +3650,6 @@
 :: ads.979799777.com
 :: ads.adaptv.advertising.com
 :: ads-a.juicyads.com
-:: adsame.com
 :: adsamer.adsame.com
 :: ads.bssdl.kugou.com
 :: adscdn.baidu.com
@@ -3722,6 +3725,7 @@
 :: adx.ads.oppomobile.com
 :: adx.g.doubleclick.net
 :: adx.pro.cn
+:: adx-static.ksosoft.com
 :: ad.xxguan.cn
 :: adx.xiaodutv.com
 :: adxxx.com
@@ -3776,6 +3780,7 @@
 :: alpha.brand.sogou.com
 :: als.baidu.com
 :: ama.adwo.com
+:: a.mct01.com
 :: amdc.m.taobao.com
 :: am.g.ireader.com
 :: amps.yoyi.com.cn
@@ -3866,7 +3871,6 @@
 :: api.tuisong.baidu.com
 :: api.tw06.xlmc.sec.miui.com
 :: api.viglink.com
-:: api.wapa.taobao.com
 :: api.waptest.taobao.com
 :: api.w.inmobi.com
 :: api.wsq.umeng.com
@@ -4168,6 +4172,7 @@
 :: cm.ipinyou.com
 :: cm.jd.com
 :: cm.l.qq.com
+:: cm.mct01.com
 :: cm.netseer.com
 :: cm.p4p.cn.yahoo.com
 :: cm.pos.baidu.com
@@ -4186,6 +4191,7 @@
 :: cnnic.net
 :: cnnic.net.cn
 :: cn.pub.vpon.com
+:: cntv.wrating.com
 :: c.nz.gt.igexin.com
 :: cnzz.mmstat.com
 :: code11.onetad.com
@@ -4272,6 +4278,7 @@
 :: count8.51yes.com
 :: count9.51yes.com
 :: counter.kingsoft.com
+:: counter.ksosoft.com
 :: counter.sina.com.cn
 :: count.mail.163.com
 :: countt.51yes.com
@@ -4451,7 +4458,6 @@
 :: download.mackeeper.com
 :: download.sd.baidu.com
 :: download.sj.qq.com
-:: download.wooboo.com.cn
 :: download.zhushou.sogou.com
 :: dp.559.cc
 :: dp.g.doubleclick.net
@@ -4483,6 +4489,8 @@
 :: dvser02.china.com
 :: dvser.china.com
 :: dvx-android.domob.cn
+:: dw-collect.ksosoft.com
+:: dw-online.ksosoft.com
 :: dwtrack.qidian.com
 :: dxp.baidu.com
 :: dxprla.m.qxs.la
@@ -5025,7 +5033,6 @@
 :: k.ctsywy.com
 :: k.domob.cn
 :: keyrun.cn
-:: keystone.mwbsys.com
 :: kfewaz.zh1155.com
 :: kgmobilestat.kugou.com
 :: kho3au7l4z.me
@@ -5101,6 +5108,7 @@
 :: l.qq.com
 :: ls.l.qq.com
 :: lu.sogou.com
+:: lwq.wangketuan.com
 :: lxcdn.dl.files.xiaomi.net
 :: lycos-eu.imrworldwide.com
 :: m.12365chia.com
@@ -5293,6 +5301,7 @@
 :: my1fc.m.b5200.net
 :: my1fimg.m.b5200.net
 :: my.adsmogo.com
+:: m.yalayi.com
 :: m.yangjingbang.net
 :: m.yoyi.com.cn
 :: n.3g.163.com
@@ -5480,6 +5489,7 @@
 :: pixel.sitescout.com
 :: pixel.tapad.com
 :: pix.impdesk.com
+:: pixiu.shangshufang.ksosoft.com
 :: pjyu.golden1.sogou.com
 :: pkg-cdn.youmi.net
 :: p.kjwx8.com
@@ -6100,6 +6110,7 @@
 :: static.flv.uuzuonline.com
 :: static.googleadsserving.cn
 :: static.mackeeper.com
+:: static.mct01.com
 :: static.m.sjzhushou.com
 :: static-one.ffwap.com
 :: static-two.ffwap.com
@@ -6622,11 +6633,9 @@
 :: ww8.onetad.com
 :: ww9.onetad.com
 :: wwis-dubc1-vip60.adobe.com
-:: w.wooboo.com.cn
 :: wwv.onetad.com
 :: www.114so.cn
 :: www.1680go.com
-:: www1.wooboo.com.cn
 :: www.202m.com
 :: www.268mob.cn
 :: www.51link.com
@@ -6740,6 +6749,7 @@
 :: x.domob.cn
 :: xf.yellowto.com
 :: xgmc6lu8fs.me
+:: xhtd.99hg.wang
 :: xiangchaokankan.m.cn.miaozhen.com
 :: xiaomiir.yaokantv.com
 :: xinhuanet.adsame.com
