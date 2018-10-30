@@ -142,13 +142,9 @@
 0.0.0.0 tw.pub.vpon.com
 0.0.0.0 www.vpon.com
 # wooboo
-0.0.0.0 admin.wooboo.com.cn
-0.0.0.0 download.wooboo.com.cn
 0.0.0.0 m.wooboo.com.cn
 0.0.0.0 static.wooboo.com.cn
-0.0.0.0 w.wooboo.com.cn
 0.0.0.0 wap.wooboo.com.cn
-0.0.0.0 www1.wooboo.com.cn
 0.0.0.0 www.wooboo.com.cn
 # keyrun
 0.0.0.0 linkpage.cn
@@ -274,8 +270,6 @@
 # ADSAME
 0.0.0.0 0127.adsame.com
 0.0.0.0 114study.adsame.com
-0.0.0.0 adplace.adsame.com
-0.0.0.0 adsame.com
 0.0.0.0 adsamer.adsame.com
 0.0.0.0 asp.adsame.com
 0.0.0.0 autobild.adsame.com
@@ -394,3 +388,6 @@
 0.0.0.0 ns8.adk2x.com
 0.0.0.0 wmedia.adk2x.com
 0.0.0.0 yepdigital.adk2x.com
+0.0.0.0 m.yalayi.com
+0.0.0.0 lwq.wangketuan.com
+0.0.0.0 xhtd.99hg.wang
