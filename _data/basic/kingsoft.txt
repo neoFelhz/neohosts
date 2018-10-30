@@ -36,3 +36,8 @@
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 haiwai-ic.ksosoft.com
 0.0.0.0 hoplink.ksosoft.com
+0.0.0.0 adx-static.ksosoft.com
+0.0.0.0 counter.ksosoft.com
+0.0.0.0 dw-online.ksosoft.com
+0.0.0.0 dw-collect.ksosoft.com
+0.0.0.0 pixiu.shangshufang.ksosoft.com
