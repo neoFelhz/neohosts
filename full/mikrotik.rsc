@@ -32,6 +32,7 @@ ip dns static add address=127.0.0.1 name=312036.com
 ip dns static add address=127.0.0.1 name=3dns-2.adobe.com
 ip dns static add address=127.0.0.1 name=3dns-3.adobe.com
 ip dns static add address=127.0.0.1 name=4171764.fls.doubleclick.net
+ip dns static add address=127.0.0.1 name=4336wang.cn
 ip dns static add address=127.0.0.1 name=44.adsina.allyes.com
 ip dns static add address=127.0.0.1 name=45.adsina.allyes.com
 ip dns static add address=127.0.0.1 name=46sg.com
@@ -214,6 +215,7 @@ ip dns static add address=127.0.0.1 name=ads2.msads.net
 ip dns static add address=127.0.0.1 name=ads2.msn.com
 ip dns static add address=127.0.0.1 name=ads.979799777.com
 ip dns static add address=127.0.0.1 name=ads.adaptv.advertising.com
+ip dns static add address=127.0.0.1 name=ads-a.juicyads.com
 ip dns static add address=127.0.0.1 name=adsame.com
 ip dns static add address=127.0.0.1 name=adsamer.adsame.com
 ip dns static add address=127.0.0.1 name=ads.bssdl.kugou.com
@@ -291,6 +293,7 @@ ip dns static add address=127.0.0.1 name=adx.g.doubleclick.net
 ip dns static add address=127.0.0.1 name=adx.pro.cn
 ip dns static add address=127.0.0.1 name=ad.xxguan.cn
 ip dns static add address=127.0.0.1 name=adx.xiaodutv.com
+ip dns static add address=127.0.0.1 name=adxxx.com
 ip dns static add address=127.0.0.1 name=adzjvnet.allyes.com
 ip dns static add address=127.0.0.1 name=ad.zuimeitianqi.com
 ip dns static add address=127.0.0.1 name=ae.bdstatic.com
@@ -2057,6 +2060,7 @@ ip dns static add address=127.0.0.1 name=pptv.adx.admaster.com.cn
 ip dns static add address=127.0.0.1 name=pptv.cm.admaster.com.cn
 ip dns static add address=127.0.0.1 name=ppurifier.game.xiaomi.com
 ip dns static add address=127.0.0.1 name=practivate.adobe.com
+ip dns static add address=127.0.0.1 name=pr.adxxx.com
 ip dns static add address=127.0.0.1 name=pr-bh.ybp.yahoo.com
 ip dns static add address=127.0.0.1 name=prc.rjje4.com
 ip dns static add address=127.0.0.1 name=pr.da.netease.com
@@ -2645,6 +2649,7 @@ ip dns static add address=127.0.0.1 name=static.adwo.com
 ip dns static add address=127.0.0.1 name=static.alimama.com
 ip dns static add address=127.0.0.1 name=static.criteo.net
 ip dns static add address=127.0.0.1 name=static.doubleclick.net
+ip dns static add address=127.0.0.1 name=static.exosrv.com
 ip dns static add address=127.0.0.1 name=static.flv.uuzuonline.com
 ip dns static add address=127.0.0.1 name=static.googleadsserving.cn
 ip dns static add address=127.0.0.1 name=static.mackeeper.com

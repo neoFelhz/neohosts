@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180924032744
+#version=20181030054657
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -40,6 +40,7 @@
 0.0.0.0 3dns-2.adobe.com
 0.0.0.0 3dns-3.adobe.com
 0.0.0.0 4171764.fls.doubleclick.net
+0.0.0.0 4336wang.cn
 0.0.0.0 44.adsina.allyes.com
 0.0.0.0 45.adsina.allyes.com
 0.0.0.0 46sg.com
@@ -186,6 +187,7 @@
 0.0.0.0 ads2.msn.com
 0.0.0.0 ads.979799777.com
 0.0.0.0 ads.adaptv.advertising.com
+0.0.0.0 ads-a.juicyads.com
 0.0.0.0 ads.bssdl.kugou.com
 0.0.0.0 adscdn.baidu.com
 0.0.0.0 adsclick.qq.com
@@ -256,6 +258,7 @@
 0.0.0.0 adx.pro.cn
 0.0.0.0 ad.xxguan.cn
 0.0.0.0 adx.xiaodutv.com
+0.0.0.0 adxxx.com
 0.0.0.0 adzjvnet.allyes.com
 0.0.0.0 ad.zuimeitianqi.com
 0.0.0.0 ae.bdstatic.com
@@ -1496,6 +1499,7 @@
 0.0.0.0 pptv.cm.admaster.com.cn
 0.0.0.0 ppurifier.game.xiaomi.com
 0.0.0.0 practivate.adobe.com
+0.0.0.0 pr.adxxx.com
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 pre.api.tw06.xlmc.sandai.net
 0.0.0.0 pre.ra.icast.cn
@@ -1800,6 +1804,7 @@
 0.0.0.0 static.adwo.com
 0.0.0.0 static.alimama.com
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static.exosrv.com
 0.0.0.0 static.flv.uuzuonline.com
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 static.m.sjzhushou.com
@@ -2179,6 +2184,7 @@
 :: 3dns-2.adobe.com
 :: 3dns-3.adobe.com
 :: 4171764.fls.doubleclick.net
+:: 4336wang.cn
 :: 44.adsina.allyes.com
 :: 45.adsina.allyes.com
 :: 46sg.com
@@ -2325,6 +2331,7 @@
 :: ads2.msn.com
 :: ads.979799777.com
 :: ads.adaptv.advertising.com
+:: ads-a.juicyads.com
 :: ads.bssdl.kugou.com
 :: adscdn.baidu.com
 :: adsclick.qq.com
@@ -2395,6 +2402,7 @@
 :: adx.pro.cn
 :: ad.xxguan.cn
 :: adx.xiaodutv.com
+:: adxxx.com
 :: adzjvnet.allyes.com
 :: ad.zuimeitianqi.com
 :: ae.bdstatic.com
@@ -3635,6 +3643,7 @@
 :: pptv.cm.admaster.com.cn
 :: ppurifier.game.xiaomi.com
 :: practivate.adobe.com
+:: pr.adxxx.com
 :: pr-bh.ybp.yahoo.com
 :: pre.api.tw06.xlmc.sandai.net
 :: pre.ra.icast.cn
@@ -3939,6 +3948,7 @@
 :: static.adwo.com
 :: static.alimama.com
 :: static.doubleclick.net
+:: static.exosrv.com
 :: static.flv.uuzuonline.com
 :: static.googleadsserving.cn
 :: static.m.sjzhushou.com

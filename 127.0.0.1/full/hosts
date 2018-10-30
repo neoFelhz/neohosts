@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20180924032744
+#version=20181030054657
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -50,6 +50,7 @@
 127.0.0.1 3dns-2.adobe.com
 127.0.0.1 3dns-3.adobe.com
 127.0.0.1 4171764.fls.doubleclick.net
+127.0.0.1 4336wang.cn
 127.0.0.1 44.adsina.allyes.com
 127.0.0.1 45.adsina.allyes.com
 127.0.0.1 46sg.com
@@ -232,6 +233,7 @@
 127.0.0.1 ads2.msn.com
 127.0.0.1 ads.979799777.com
 127.0.0.1 ads.adaptv.advertising.com
+127.0.0.1 ads-a.juicyads.com
 127.0.0.1 adsame.com
 127.0.0.1 adsamer.adsame.com
 127.0.0.1 ads.bssdl.kugou.com
@@ -309,6 +311,7 @@
 127.0.0.1 adx.pro.cn
 127.0.0.1 ad.xxguan.cn
 127.0.0.1 adx.xiaodutv.com
+127.0.0.1 adxxx.com
 127.0.0.1 adzjvnet.allyes.com
 127.0.0.1 ad.zuimeitianqi.com
 127.0.0.1 ae.bdstatic.com
@@ -2075,6 +2078,7 @@
 127.0.0.1 pptv.cm.admaster.com.cn
 127.0.0.1 ppurifier.game.xiaomi.com
 127.0.0.1 practivate.adobe.com
+127.0.0.1 pr.adxxx.com
 127.0.0.1 pr-bh.ybp.yahoo.com
 127.0.0.1 prc.rjje4.com
 127.0.0.1 pr.da.netease.com
@@ -2663,6 +2667,7 @@
 127.0.0.1 static.alimama.com
 127.0.0.1 static.criteo.net
 127.0.0.1 static.doubleclick.net
+127.0.0.1 static.exosrv.com
 127.0.0.1 static.flv.uuzuonline.com
 127.0.0.1 static.googleadsserving.cn
 127.0.0.1 static.mackeeper.com
@@ -3427,6 +3432,7 @@
 :: 3dns-2.adobe.com
 :: 3dns-3.adobe.com
 :: 4171764.fls.doubleclick.net
+:: 4336wang.cn
 :: 44.adsina.allyes.com
 :: 45.adsina.allyes.com
 :: 46sg.com
@@ -3609,6 +3615,7 @@
 :: ads2.msn.com
 :: ads.979799777.com
 :: ads.adaptv.advertising.com
+:: ads-a.juicyads.com
 :: adsame.com
 :: adsamer.adsame.com
 :: ads.bssdl.kugou.com
@@ -3686,6 +3693,7 @@
 :: adx.pro.cn
 :: ad.xxguan.cn
 :: adx.xiaodutv.com
+:: adxxx.com
 :: adzjvnet.allyes.com
 :: ad.zuimeitianqi.com
 :: ae.bdstatic.com
@@ -5452,6 +5460,7 @@
 :: pptv.cm.admaster.com.cn
 :: ppurifier.game.xiaomi.com
 :: practivate.adobe.com
+:: pr.adxxx.com
 :: pr-bh.ybp.yahoo.com
 :: prc.rjje4.com
 :: pr.da.netease.com
@@ -6040,6 +6049,7 @@
 :: static.alimama.com
 :: static.criteo.net
 :: static.doubleclick.net
+:: static.exosrv.com
 :: static.flv.uuzuonline.com
 :: static.googleadsserving.cn
 :: static.mackeeper.com
