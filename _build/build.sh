@@ -72,3 +72,9 @@ rm ./_build/tmp/full/1.txt
 rm ./_build/tmp/full/2.txt
 rm ./_build/tmp/full/3.txt
 rm ./_build/tmp/full/4.txt
+
+echo "Building dnsmasq configration . . ."
+cat ./_build/tmp/basic/hosts | awk '{gsub(/^eTV(.*)$/,"server=/"$2"/")}1' | sed -e '/^#/d' | sed -e '/^:/d' | sed -e '/^127.0.0.1/d' | sed -e '/^$/d' | awk '{print tolower($0)}' | awk '{gsub(/^[\s\t]*0\.0\.0\.0[\s\t]*(.*)[\s\t]*$/,"server=/"$2"/")}1' | sort | uniq | tee ./_build/tmp/basic/dnsmasq.nxdomain.conf > /dev/null
+cat ./_build/tmp/full/hosts  | awk '{gsub(/^eTV(.*)$/,"server=/"$2"/")}1' | sed -e '/^#/d' | sed -e '/^:/d' | sed -e '/^127.0.0.1/d' | sed -e '/^$/d' | sed -e '/^$/d' | awk '{print tolower($0)}' | awk '{gsub(/^[\s\t]*0\.0\.0\.0[\s\t]*(.*)[\s\t]*$/,"server=/"$2"/")}1' | sort | uniq | tee ./_build/tmp/full/dnsmasq.nxdomain.conf  > /dev/null
+# TODO remove `awk '{gsub(/^eTV(.*)$/,"server=/"$2"/")}1'`
+# TODO cat ./_build/tmp/full/hosts | grep 'eTV'
