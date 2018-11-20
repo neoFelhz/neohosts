@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181030063101
+#version=20181120100858
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -3045,6 +3045,7 @@
 127.0.0.1 union.baidu.com
 127.0.0.1 union.dbba.cn
 127.0.0.1 union.discuz.qq.com
+127.0.0.1 uniondm.cz88.net
 127.0.0.1 unionimage.baidu.com
 127.0.0.1 union.mop.com
 127.0.0.1 union.sogou.com
@@ -6601,6 +6602,7 @@ eTV:: api.push.le.com
 :: union.baidu.com
 :: union.dbba.cn
 :: union.discuz.qq.com
+:: uniondm.cz88.net
 :: unionimage.baidu.com
 :: union.mop.com
 :: union.sogou.com

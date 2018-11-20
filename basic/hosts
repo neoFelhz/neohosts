@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181030063101
+#version=20181120100858
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -2003,6 +2003,7 @@
 0.0.0.0 union.baidu.com
 0.0.0.0 union.dbba.cn
 0.0.0.0 union.discuz.qq.com
+0.0.0.0 uniondm.cz88.net
 0.0.0.0 unionimage.baidu.com
 0.0.0.0 union.mop.com
 0.0.0.0 union.sogou.com
@@ -4182,6 +4183,7 @@
 :: union.baidu.com
 :: union.dbba.cn
 :: union.discuz.qq.com
+:: uniondm.cz88.net
 :: unionimage.baidu.com
 :: union.mop.com
 :: union.sogou.com

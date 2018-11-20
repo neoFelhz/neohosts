@@ -1985,6 +1985,7 @@ ip dns static add address=127.0.0.1 name=union2.50bang.org
 ip dns static add address=127.0.0.1 name=union.baidu.com
 ip dns static add address=127.0.0.1 name=union.dbba.cn
 ip dns static add address=127.0.0.1 name=union.discuz.qq.com
+ip dns static add address=127.0.0.1 name=uniondm.cz88.net
 ip dns static add address=127.0.0.1 name=unionimage.baidu.com
 ip dns static add address=127.0.0.1 name=union.mop.com
 ip dns static add address=127.0.0.1 name=union.sogou.com
