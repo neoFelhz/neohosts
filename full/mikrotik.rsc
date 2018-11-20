@@ -2715,6 +2715,7 @@ ip dns static add address=127.0.0.1 name=source.youxiaoad.com
 ip dns static add address=127.0.0.1 name=sousuo.xm.sjzhushou.com
 ip dns static add address=127.0.0.1 name=sp0.baidu.com
 ip dns static add address=127.0.0.1 name=sp3.cndm.com
+ip dns static add address=127.0.0.1 name=spcdnsp.i-mobile.co.jp
 ip dns static add address=127.0.0.1 name=spcode.baidu.com
 ip dns static add address=127.0.0.1 name=spd.atdmt.com
 ip dns static add address=127.0.0.1 name=spe.atdmt.com

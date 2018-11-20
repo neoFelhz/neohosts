@@ -1771,6 +1771,7 @@ ip dns static add address=127.0.0.1 name=song.fanxing.kugou.com
 ip dns static add address=127.0.0.1 name=source.youxiaoad.com
 ip dns static add address=127.0.0.1 name=sousuo.xm.sjzhushou.com
 ip dns static add address=127.0.0.1 name=sp3.cndm.com
+ip dns static add address=127.0.0.1 name=spcdnsp.i-mobile.co.jp
 ip dns static add address=127.0.0.1 name=spcode.baidu.com
 ip dns static add address=127.0.0.1 name=sp.fastclick.net
 ip dns static add address=127.0.0.1 name=spro.so.com

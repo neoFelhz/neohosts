@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181120100858
+#version=20181120101737
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -1789,6 +1789,7 @@
 0.0.0.0 source.youxiaoad.com
 0.0.0.0 sousuo.xm.sjzhushou.com
 0.0.0.0 sp3.cndm.com
+0.0.0.0 spcdnsp.i-mobile.co.jp
 0.0.0.0 spcode.baidu.com
 0.0.0.0 sp.fastclick.net
 0.0.0.0 spro.so.com
@@ -3969,6 +3970,7 @@
 :: source.youxiaoad.com
 :: sousuo.xm.sjzhushou.com
 :: sp3.cndm.com
+:: spcdnsp.i-mobile.co.jp
 :: spcode.baidu.com
 :: sp.fastclick.net
 :: spro.so.com

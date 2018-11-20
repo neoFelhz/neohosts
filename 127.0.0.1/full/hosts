@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181120100858
+#version=20181120101737
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -2733,6 +2733,7 @@
 127.0.0.1 sousuo.xm.sjzhushou.com
 127.0.0.1 sp0.baidu.com
 127.0.0.1 sp3.cndm.com
+127.0.0.1 spcdnsp.i-mobile.co.jp
 127.0.0.1 spcode.baidu.com
 127.0.0.1 spd.atdmt.com
 127.0.0.1 spe.atdmt.com
@@ -6290,6 +6291,7 @@ eTV:: api.push.le.com
 :: sousuo.xm.sjzhushou.com
 :: sp0.baidu.com
 :: sp3.cndm.com
+:: spcdnsp.i-mobile.co.jp
 :: spcode.baidu.com
 :: spd.atdmt.com
 :: spe.atdmt.com
