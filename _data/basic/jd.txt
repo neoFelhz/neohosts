@@ -1,11 +1,9 @@
 0.0.0.0 bdsp.x.jd.com
-0.0.0.0 c-nfa.jd.com
-0.0.0.0 ccc-x.jd.com
 0.0.0.0 cm.jd.com
 0.0.0.0 gia.jd.com
 0.0.0.0 im-x.jd.com
 0.0.0.0 img-x.jd.com
+0.0.0.0 u-x.jd.com
 0.0.0.0 u.x.jd.com
 0.0.0.0 wn.x.jd.com
 0.0.0.0 x.jd.com
-0.0.0.0 u-x.jd.com
