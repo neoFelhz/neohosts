@@ -10,7 +10,7 @@
 
 ### Introduction 介绍
 
-- 自由：我们使用 `Hosts License & SATA` **自由协议**而不是 `CC BY-NC-ND` 这样的非自由协议，希望能够促进和帮助更多项目
+- 自由：我们使用 `MIT & SATA` **自由协议**而不是 `CC BY-NC-ND` 这样的非自由协议，希望能够促进和帮助更多项目
 - 克制：我们保证**不因个人喜好屏蔽非广告有关网站**；我们会仔细研究和分析，**我们不会随意屏蔽任何一个域名**
 - 负责：我们不搞“捐赠才能反馈”、不搞 VIP 特权。**所有用户都应该能免费、完整地使用本项目、自由地反馈问题**
 
@@ -27,7 +27,7 @@ Authored and maintained by [neoFelhz](https://github.com/neoFelhz) with `Neko De
 
 ### License 许可证
 
-本项目的 hosts，README，wiki 等资源基于 [Google Hosts](https://github.com/googlehosts) 推出的 [`hosts License`](https://github.com/googlehosts/hosts-license) 协议发布,并增加了 `SATA` 协议，这意味着你可以拷贝、再发行本项目的内容, 但是你将必须：
+本项目的 hosts，README，wiki 等资源基于 MIT 并增加了 `SATA` 协议，这意味着你可以拷贝、再发行本项目的内容, 但是你将必须：
 
 - **使用完全相同的条款和格式发布**；
 - 提供原作者信息以及协议声明；
