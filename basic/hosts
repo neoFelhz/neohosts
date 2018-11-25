@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181122142312
+#version=20181125185210
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -97,6 +97,7 @@
 0.0.0.0 activate-sjc0.adobe.com
 0.0.0.0 activate.wip3.adobe.com
 0.0.0.0 activeqq.3g.qq.com
+0.0.0.0 activity.tuipear.com
 0.0.0.0 activity.yuyiya.com
 0.0.0.0 actsdk.idreamsky.com
 0.0.0.0 acuityplatform.com
@@ -312,8 +313,6 @@
 0.0.0.0 analy.qq.com
 0.0.0.0 analytics3.starschina.com
 0.0.0.0 analytics.ad.daum.net
-0.0.0.0 analytics.msn.com
-0.0.0.0 analytics.r.msn.com
 0.0.0.0 analytics.snssdk.com
 0.0.0.0 analytics.spotify.com
 0.0.0.0 analytics.yam.com
@@ -459,6 +458,7 @@
 0.0.0.0 bigdata.adsunflower.com
 0.0.0.0 bigdata.adups.com
 0.0.0.0 bigdata.advmob.cn
+0.0.0.0 bingads.microsoft.com
 0.0.0.0 bite.theta.sogoucdn.com
 0.0.0.0 biz.live.xunlei.com
 0.0.0.0 biz.weibo.com
@@ -517,7 +517,6 @@
 0.0.0.0 cb.l.qq.com
 0.0.0.0 c.bxb.oupeng.com
 0.0.0.0 ccclub.cmbchina.com
-0.0.0.0 ccc-x.jd.com
 0.0.0.0 cdn0.mobmore.com
 0.0.0.0 cdn2.moji002.com
 0.0.0.0 cdn.adnxs.com
@@ -549,6 +548,8 @@
 0.0.0.0 cgi.connect.qq.com
 0.0.0.0 chance.adsensor.org
 0.0.0.0 channel.fanxing.kugou.com
+0.0.0.0 choice.microsoft.com
+0.0.0.0 choice.microsoft.com.nsatc.net
 0.0.0.0 cjhq.baidu.com
 0.0.0.0 cj.qidian.com
 0.0.0.0 cjroq.bealge.sogou.com
@@ -608,7 +609,6 @@
 0.0.0.0 cms.opendsp.tanx.com
 0.0.0.0 cms.quantserve.com
 0.0.0.0 cms.tanx.com
-0.0.0.0 c-nfa.jd.com
 0.0.0.0 cntv.wrating.com
 0.0.0.0 cnzz.mmstat.com
 0.0.0.0 code.fastclick.net
@@ -764,8 +764,10 @@
 0.0.0.0 dev.umeng.com
 0.0.0.0 dfc1.benbaisteel.com
 0.0.0.0 df.tanx.com
+0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 d.gdt.qq.com
 0.0.0.0 dh.holaworld.cn
+0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 dir.minigame.qq.com
 0.0.0.0 discuz.gtimg.cn
 0.0.0.0 display.360totalsecurity.com
@@ -783,7 +785,9 @@
 0.0.0.0 dl.uu.cc
 0.0.0.0 dl.wan.sogoucdn.com
 0.0.0.0 dl.youjia2016.com
+0.0.0.0 dm.aizhan.com
 0.0.0.0 dm.bytedance.com
+0.0.0.0 dmm.aizhan.com
 0.0.0.0 dmp.adpush.cn
 0.0.0.0 dmpclick.deliver.ifeng.com
 0.0.0.0 dm.pstatp.com
@@ -918,6 +922,7 @@
 0.0.0.0 folder.advmob.cn
 0.0.0.0 fota4.adups.cn
 0.0.0.0 fotacontrol.adfuture.cn
+0.0.0.0 fpbb.aizhan.com
 0.0.0.0 fs.uc.nearme.com.cn
 0.0.0.0 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 fw.adsafeprotected.com
@@ -1027,6 +1032,8 @@
 0.0.0.0 hyfh.benbaisteel.com
 0.0.0.0 hz.mmstat.com
 0.0.0.0 i1.go2yd.com
+0.0.0.0 i1.services.social.microsoft.com
+0.0.0.0 i1.services.social.microsoft.com.nsatc.net
 0.0.0.0 iadctest.qwapi.com
 0.0.0.0 iad.g.163.com
 0.0.0.0 ib.adnxs.com
@@ -1403,6 +1410,8 @@
 0.0.0.0 oascentral.sina.com
 0.0.0.0 oascentral.sina.com.hk
 0.0.0.0 obeyter.com
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
 0.0.0.0 o.domob.cn
@@ -1606,10 +1615,12 @@
 0.0.0.0 rec.g.163.com
 0.0.0.0 recmd.html5.qq.com
 0.0.0.0 redirect.simba.taobao.com
+0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 release.baidu.com
 0.0.0.0 re.m.taobao.com
 0.0.0.0 report.adview.cn
+0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 rescn.u3.ucweb.com
 0.0.0.0 res.icast.cn
 0.0.0.0 res.ipingke.com
@@ -1738,9 +1749,11 @@
 0.0.0.0 server.m.pp.cn
 0.0.0.0 service.ad.adesk.com
 0.0.0.0 service.epro.sogou.com
+0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 service.urchin.com
 0.0.0.0 sestat.baidu.com
 0.0.0.0 setting.snswin.qq.com
+0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 sg.a.stat.mi.com
 0.0.0.0 s.gdt.qq.com
 0.0.0.0 s.go2yd.com
@@ -1794,6 +1807,9 @@
 0.0.0.0 sp.fastclick.net
 0.0.0.0 spro.so.com
 0.0.0.0 s.qhupdate.com
+0.0.0.0 sqm.df.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 srd.simba.taobao.com
 0.0.0.0 sroomafp.allyes.com
 0.0.0.0 srv.buysellads.com
@@ -1846,6 +1862,8 @@
 0.0.0.0 stat.pandora.xiaomi.com
 0.0.0.0 stats.chinaz.com
 0.0.0.0 stats.dmp.ghac.cn
+0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 stat.simba.taobao.com
 0.0.0.0 stats.ipinyou.com
 0.0.0.0 stats.umsns.com
@@ -1864,6 +1882,7 @@
 0.0.0.0 su.bdstatic.com
 0.0.0.0 subswin.com
 0.0.0.0 s.union.360.cn
+0.0.0.0 survey.watson.microsoft.com
 0.0.0.0 susapi.dev.surepush.cn
 0.0.0.0 susapi.lenovomm.com
 0.0.0.0 suvset.sohu.com
@@ -1909,6 +1928,11 @@
 0.0.0.0 tcss.qq.com
 0.0.0.0 t.domob.cn
 0.0.0.0 t-e.flyme.cn
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
+0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 temai.snssdk.com
 0.0.0.0 temai.taobao.com
 0.0.0.0 test2014.adview.cn
@@ -2056,6 +2080,9 @@
 0.0.0.0 vjoz.lu.sogou.com
 0.0.0.0 vletv.admaster.com.cn
 0.0.0.0 vmzqwz.cn
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vpic.video.qq.com
 0.0.0.0 vps.inte.sogou.com
 0.0.0.0 vqq.admaster.com.cn
@@ -2077,6 +2104,9 @@
 0.0.0.0 wap.mpush.qq.com
 0.0.0.0 wapwbclick.mobile.sina.cn
 0.0.0.0 watson.microsoft.com
+0.0.0.0 watson.ppe.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
 0.0.0.0 wbapp.mobile.sina.cn
 0.0.0.0 wbapp.uve.weibo.com
 0.0.0.0 wb.brand.sogou.com
@@ -2089,6 +2119,7 @@
 0.0.0.0 webstat.kuwo.cn
 0.0.0.0 web-track.go2yd.com
 0.0.0.0 wenku-cms.bj.bcebos.com
+0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 weyyae.com
 0.0.0.0 wgo.mmstat.com
 0.0.0.0 widget.weibo.com
@@ -2125,6 +2156,7 @@
 0.0.0.0 www.adview.cn
 0.0.0.0 www.adwo.com
 0.0.0.0 www.allyes.com
+0.0.0.0 www.bingads.microsoft.com
 0.0.0.0 www.chenggao.cn
 0.0.0.0 www.count.51yes.com
 0.0.0.0 www.doumob.com
@@ -2278,6 +2310,7 @@
 :: activate-sjc0.adobe.com
 :: activate.wip3.adobe.com
 :: activeqq.3g.qq.com
+:: activity.tuipear.com
 :: activity.yuyiya.com
 :: actsdk.idreamsky.com
 :: acuityplatform.com
@@ -2493,8 +2526,6 @@
 :: analy.qq.com
 :: analytics3.starschina.com
 :: analytics.ad.daum.net
-:: analytics.msn.com
-:: analytics.r.msn.com
 :: analytics.snssdk.com
 :: analytics.spotify.com
 :: analytics.yam.com
@@ -2640,6 +2671,7 @@
 :: bigdata.adsunflower.com
 :: bigdata.adups.com
 :: bigdata.advmob.cn
+:: bingads.microsoft.com
 :: bite.theta.sogoucdn.com
 :: biz.live.xunlei.com
 :: biz.weibo.com
@@ -2698,7 +2730,6 @@
 :: cb.l.qq.com
 :: c.bxb.oupeng.com
 :: ccclub.cmbchina.com
-:: ccc-x.jd.com
 :: cdn0.mobmore.com
 :: cdn2.moji002.com
 :: cdn.adnxs.com
@@ -2730,6 +2761,8 @@
 :: cgi.connect.qq.com
 :: chance.adsensor.org
 :: channel.fanxing.kugou.com
+:: choice.microsoft.com
+:: choice.microsoft.com.nsatc.net
 :: cjhq.baidu.com
 :: cj.qidian.com
 :: cjroq.bealge.sogou.com
@@ -2789,7 +2822,6 @@
 :: cms.opendsp.tanx.com
 :: cms.quantserve.com
 :: cms.tanx.com
-:: c-nfa.jd.com
 :: cntv.wrating.com
 :: cnzz.mmstat.com
 :: code.fastclick.net
@@ -2945,8 +2977,10 @@
 :: dev.umeng.com
 :: dfc1.benbaisteel.com
 :: df.tanx.com
+:: df.telemetry.microsoft.com
 :: d.gdt.qq.com
 :: dh.holaworld.cn
+:: diagnostics.support.microsoft.com
 :: dir.minigame.qq.com
 :: discuz.gtimg.cn
 :: display.360totalsecurity.com
@@ -2964,7 +2998,9 @@
 :: dl.uu.cc
 :: dl.wan.sogoucdn.com
 :: dl.youjia2016.com
+:: dm.aizhan.com
 :: dm.bytedance.com
+:: dmm.aizhan.com
 :: dmp.adpush.cn
 :: dmpclick.deliver.ifeng.com
 :: dm.pstatp.com
@@ -3099,6 +3135,7 @@
 :: folder.advmob.cn
 :: fota4.adups.cn
 :: fotacontrol.adfuture.cn
+:: fpbb.aizhan.com
 :: fs.uc.nearme.com.cn
 :: fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 :: fw.adsafeprotected.com
@@ -3208,6 +3245,8 @@
 :: hyfh.benbaisteel.com
 :: hz.mmstat.com
 :: i1.go2yd.com
+:: i1.services.social.microsoft.com
+:: i1.services.social.microsoft.com.nsatc.net
 :: iadctest.qwapi.com
 :: iad.g.163.com
 :: ib.adnxs.com
@@ -3584,6 +3623,8 @@
 :: oascentral.sina.com
 :: oascentral.sina.com.hk
 :: obeyter.com
+:: oca.telemetry.microsoft.com
+:: oca.telemetry.microsoft.com.nsatc.net
 :: oc.umeng.co
 :: oc.umeng.com
 :: o.domob.cn
@@ -3787,10 +3828,12 @@
 :: rec.g.163.com
 :: recmd.html5.qq.com
 :: redirect.simba.taobao.com
+:: redir.metaservices.microsoft.com
 :: referrer.disqus.com
 :: release.baidu.com
 :: re.m.taobao.com
 :: report.adview.cn
+:: reports.wes.df.telemetry.microsoft.com
 :: rescn.u3.ucweb.com
 :: res.icast.cn
 :: res.ipingke.com
@@ -3919,9 +3962,11 @@
 :: server.m.pp.cn
 :: service.ad.adesk.com
 :: service.epro.sogou.com
+:: services.wes.df.telemetry.microsoft.com
 :: service.urchin.com
 :: sestat.baidu.com
 :: setting.snswin.qq.com
+:: settings-sandbox.data.microsoft.com
 :: sg.a.stat.mi.com
 :: s.gdt.qq.com
 :: s.go2yd.com
@@ -3975,6 +4020,9 @@
 :: sp.fastclick.net
 :: spro.so.com
 :: s.qhupdate.com
+:: sqm.df.telemetry.microsoft.com
+:: sqm.telemetry.microsoft.com
+:: sqm.telemetry.microsoft.com.nsatc.net
 :: srd.simba.taobao.com
 :: sroomafp.allyes.com
 :: srv.buysellads.com
@@ -4027,6 +4075,8 @@
 :: stat.pandora.xiaomi.com
 :: stats.chinaz.com
 :: stats.dmp.ghac.cn
+:: statsfe1.ws.microsoft.com
+:: statsfe2.ws.microsoft.com
 :: stat.simba.taobao.com
 :: stats.ipinyou.com
 :: stats.umsns.com
@@ -4045,6 +4095,7 @@
 :: su.bdstatic.com
 :: subswin.com
 :: s.union.360.cn
+:: survey.watson.microsoft.com
 :: susapi.dev.surepush.cn
 :: susapi.lenovomm.com
 :: suvset.sohu.com
@@ -4090,6 +4141,11 @@
 :: tcss.qq.com
 :: t.domob.cn
 :: t-e.flyme.cn
+:: telecommand.telemetry.microsoft.com
+:: telecommand.telemetry.microsoft.com.nsatc.net
+:: telemetry.appex.bing.net
+:: telemetry.microsoft.com
+:: telemetry.urs.microsoft.com
 :: temai.snssdk.com
 :: temai.taobao.com
 :: test2014.adview.cn
@@ -4237,6 +4293,9 @@
 :: vjoz.lu.sogou.com
 :: vletv.admaster.com.cn
 :: vmzqwz.cn
+:: vortex.data.microsoft.com
+:: vortex-sandbox.data.microsoft.com
+:: vortex-win.data.microsoft.com
 :: vpic.video.qq.com
 :: vps.inte.sogou.com
 :: vqq.admaster.com.cn
@@ -4258,6 +4317,9 @@
 :: wap.mpush.qq.com
 :: wapwbclick.mobile.sina.cn
 :: watson.microsoft.com
+:: watson.ppe.telemetry.microsoft.com
+:: watson.telemetry.microsoft.com
+:: watson.telemetry.microsoft.com.nsatc.net
 :: wbapp.mobile.sina.cn
 :: wbapp.uve.weibo.com
 :: wb.brand.sogou.com
@@ -4270,6 +4332,7 @@
 :: webstat.kuwo.cn
 :: web-track.go2yd.com
 :: wenku-cms.bj.bcebos.com
+:: wes.df.telemetry.microsoft.com
 :: weyyae.com
 :: wgo.mmstat.com
 :: widget.weibo.com
@@ -4306,6 +4369,7 @@
 :: www.adview.cn
 :: www.adwo.com
 :: www.allyes.com
+:: www.bingads.microsoft.com
 :: www.chenggao.cn
 :: www.count.51yes.com
 :: www.doumob.com
