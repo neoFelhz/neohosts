@@ -664,3 +664,4 @@
 0.0.0.0 pr.adxxx.com
 0.0.0.0 adxxx.com
 0.0.0.0 spcdnsp.i-mobile.co.jp
+0.0.0.0 activity.tuipear.com
