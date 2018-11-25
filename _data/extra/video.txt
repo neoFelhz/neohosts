@@ -146,3 +146,6 @@ eTV0.0.0.0 api.push.le.com
 0.0.0.0 valf.atm.youku.com
 0.0.0.0 valp.atm.youku.com
 0.0.0.0 valt.atm.youku.com
+0.0.0.0 p2p.huya.com
+0.0.0.0 v.smtcdns.net
+0.0.0.0 api.cdnbye.com

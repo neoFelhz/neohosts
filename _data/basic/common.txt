@@ -665,3 +665,7 @@
 0.0.0.0 adxxx.com
 0.0.0.0 spcdnsp.i-mobile.co.jp
 0.0.0.0 activity.tuipear.com
+# Aizhan
+0.0.0.0 fpbb.aizhan.com
+0.0.0.0 dmm.aizhan.com
+0.0.0.0 dm.aizhan.com

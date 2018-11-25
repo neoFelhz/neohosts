@@ -394,3 +394,12 @@
 # Linkedin
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 px.ads.linkedin.com
+# emar
+0.0.0.0 eavs02.eqifa.com
+0.0.0.0 p.yiqifa.com
+0.0.0.0 image.yiqifa.com
+0.0.0.0 www.yiqifa.com
+0.0.0.0 www.emar.com.cn
+# duomai
+0.0.0.0 c.duomai.com
+0.0.0.0 duomai.com

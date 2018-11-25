@@ -43,6 +43,9 @@
 0.0.0.0 web2.51.la
 # CSDN
 0.0.0.0 dc.csdn.net
+# MSN
+0.0.0.0 analytics.msn.com
+0.0.0.0 analytics.r.msn.com
 # crashlytics
 0.0.0.0 e.crashlytics.com
 0.0.0.0 setting.crashlytics.com
@@ -121,3 +124,4 @@
 0.0.0.0 data.haoma.sogou.com
 0.0.0.0 devnull.perfops.net
 0.0.0.0 rum.perfops.net
+0.0.0.0 zhihu-web-analytics.zhihu.com
