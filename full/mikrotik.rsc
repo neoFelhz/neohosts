@@ -1764,6 +1764,7 @@ ip dns static add address=127.0.0.1 name=log.umsns.com
 ip dns static add address=127.0.0.1 name=log.umtrack.com
 ip dns static add address=127.0.0.1 name=logupdate.avlyun.sec.miui.com
 ip dns static add address=127.0.0.1 name=log.v2.hunantv.com
+ip dns static add address=127.0.0.1 name=log.vcdn.io
 ip dns static add address=127.0.0.1 name=log.vcgame.cn
 ip dns static add address=127.0.0.1 name=log.videojj.com
 ip dns static add address=127.0.0.1 name=log.voicecloud.cn

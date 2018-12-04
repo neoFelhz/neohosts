@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181125185210
+#version=20181204060321
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -1782,6 +1782,7 @@
 127.0.0.1 log.umtrack.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
 127.0.0.1 log.v2.hunantv.com
+127.0.0.1 log.vcdn.io
 127.0.0.1 log.vcgame.cn
 127.0.0.1 log.videojj.com
 127.0.0.1 log.voicecloud.cn
@@ -5506,6 +5507,7 @@ eTV:: api.push.le.com
 :: log.umtrack.com
 :: logupdate.avlyun.sec.miui.com
 :: log.v2.hunantv.com
+:: log.vcdn.io
 :: log.vcgame.cn
 :: log.videojj.com
 :: log.voicecloud.cn
