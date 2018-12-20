@@ -9,8 +9,6 @@
 0.0.0.0 ir.mail.163.com
 0.0.0.0 irpmt.mail.163.com
 0.0.0.0 rec.g.163.com
-0.0.0.0 g.163.com
-0.0.0.0 g1.163.com
 0.0.0.0 android.push.126.net
 0.0.0.0 img1.126.net
 0.0.0.0 img2.126.net
