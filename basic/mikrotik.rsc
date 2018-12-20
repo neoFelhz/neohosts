@@ -911,8 +911,6 @@ ip dns static add address=127.0.0.1 name=fw.adsafeprotected.com
 ip dns static add address=127.0.0.1 name=fw.qq.com
 ip dns static add address=127.0.0.1 name=fxc.aiquxs.com
 ip dns static add address=127.0.0.1 name=fych.uranus.sogou.com
-ip dns static add address=127.0.0.1 name=g1.163.com
-ip dns static add address=127.0.0.1 name=g.163.com
 ip dns static add address=127.0.0.1 name=g1.tagtic.cn
 ip dns static add address=127.0.0.1 name=g.adnxs.com
 ip dns static add address=127.0.0.1 name=galaxy.bjcathay.com
@@ -1520,7 +1518,6 @@ ip dns static add address=127.0.0.1 name=p.rfihub.com
 ip dns static add address=127.0.0.1 name=pro.cn
 ip dns static add address=127.0.0.1 name=prom.gome.com.cn
 ip dns static add address=127.0.0.1 name=promote.biz.weibo.cn
-ip dns static add address=127.0.0.1 name=promotion.aliyun.com
 ip dns static add address=127.0.0.1 name=promotion.gomlab.com
 ip dns static add address=127.0.0.1 name=proton.flurry.com
 ip dns static add address=127.0.0.1 name=proxy.sec.miui.com

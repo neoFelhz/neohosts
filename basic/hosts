@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181204060321
+#version=20181220091700
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -929,8 +929,6 @@
 0.0.0.0 fw.qq.com
 0.0.0.0 fxc.aiquxs.com
 0.0.0.0 fych.uranus.sogou.com
-0.0.0.0 g1.163.com
-0.0.0.0 g.163.com
 0.0.0.0 g1.tagtic.cn
 0.0.0.0 g.adnxs.com
 0.0.0.0 galaxy.bjcathay.com
@@ -1538,7 +1536,6 @@
 0.0.0.0 pro.cn
 0.0.0.0 prom.gome.com.cn
 0.0.0.0 promote.biz.weibo.cn
-0.0.0.0 promotion.aliyun.com
 0.0.0.0 promotion.gomlab.com
 0.0.0.0 proton.flurry.com
 0.0.0.0 proxy.sec.miui.com
@@ -3142,8 +3139,6 @@
 :: fw.qq.com
 :: fxc.aiquxs.com
 :: fych.uranus.sogou.com
-:: g1.163.com
-:: g.163.com
 :: g1.tagtic.cn
 :: g.adnxs.com
 :: galaxy.bjcathay.com
@@ -3751,7 +3746,6 @@
 :: pro.cn
 :: prom.gome.com.cn
 :: promote.biz.weibo.cn
-:: promotion.aliyun.com
 :: promotion.gomlab.com
 :: proton.flurry.com
 :: proxy.sec.miui.com

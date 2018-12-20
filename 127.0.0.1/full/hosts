@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181204060321
+#version=20181220091700
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -1290,8 +1290,6 @@
 127.0.0.1 fych.uranus.sogou.com
 127.0.0.1 fz863.com
 127.0.0.1 fz.letv.com
-127.0.0.1 g1.163.com
-127.0.0.1 g.163.com
 127.0.0.1 g1.tagtic.cn
 127.0.0.1 g3.letv.com
 127.0.0.1 g.adnxs.com
@@ -2248,7 +2246,6 @@
 127.0.0.1 pro.cn
 127.0.0.1 prom.gome.com.cn
 127.0.0.1 promote.biz.weibo.cn
-127.0.0.1 promotion.aliyun.com
 127.0.0.1 promotion.gomlab.com
 127.0.0.1 proton.flurry.com
 127.0.0.1 proxy.sec.miui.com
@@ -5015,8 +5012,6 @@ eTV:: api.push.le.com
 :: fych.uranus.sogou.com
 :: fz863.com
 :: fz.letv.com
-:: g1.163.com
-:: g.163.com
 :: g1.tagtic.cn
 :: g3.letv.com
 :: g.adnxs.com
@@ -5973,7 +5968,6 @@ eTV:: api.push.le.com
 :: pro.cn
 :: prom.gome.com.cn
 :: promote.biz.weibo.cn
-:: promotion.aliyun.com
 :: promotion.gomlab.com
 :: proton.flurry.com
 :: proxy.sec.miui.com
