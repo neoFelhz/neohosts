@@ -45,7 +45,6 @@
 0.0.0.0 show.re.taobao.com
 # Alibabacloud
 0.0.0.0 acjs.aliyun.com
-0.0.0.0 promotion.aliyun.com
 # AliCDN
 0.0.0.0 afp.alicdn.com
 0.0.0.0 afpmm.alicdn.com
