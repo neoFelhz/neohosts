@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181220091700
+#version=20181223064321
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -2846,6 +2846,7 @@
 127.0.0.1 staticadm.leju.sina.com.cn
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.adwo.com
+127.0.0.1 static.adxadserv.com
 127.0.0.1 static.alimama.com
 127.0.0.1 static.criteo.net
 127.0.0.1 static.danmu.baofeng.com
@@ -6568,6 +6569,7 @@ eTV:: api.push.le.com
 :: staticadm.leju.sina.com.cn
 :: static.adsafeprotected.com
 :: static.adwo.com
+:: static.adxadserv.com
 :: static.alimama.com
 :: static.criteo.net
 :: static.danmu.baofeng.com

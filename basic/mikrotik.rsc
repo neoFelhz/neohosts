@@ -1825,6 +1825,7 @@ ip dns static add address=127.0.0.1 name=stat.gw.youmi.net
 ip dns static add address=127.0.0.1 name=staticadm.leju.sina.com.cn
 ip dns static add address=127.0.0.1 name=static.adsafeprotected.com
 ip dns static add address=127.0.0.1 name=static.adwo.com
+ip dns static add address=127.0.0.1 name=static.adxadserv.com
 ip dns static add address=127.0.0.1 name=static.alimama.com
 ip dns static add address=127.0.0.1 name=static.doubleclick.net
 ip dns static add address=127.0.0.1 name=static.exosrv.com
