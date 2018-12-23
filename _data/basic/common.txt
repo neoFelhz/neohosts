@@ -661,6 +661,7 @@
 0.0.0.0 4336wang.cn
 0.0.0.0 ads-a.juicyads.com
 0.0.0.0 static.exosrv.com
+0.0.0.0 static.adxadserv.com
 0.0.0.0 pr.adxxx.com
 0.0.0.0 adxxx.com
 0.0.0.0 spcdnsp.i-mobile.co.jp
