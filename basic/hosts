@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20181223064321
+#version=20181230162223
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -203,6 +203,7 @@
 0.0.0.0 adserve2.tom.com
 0.0.0.0 adserver.adtech.de
 0.0.0.0 adserver.adtechus.com
+0.0.0.0 adserver.juicyads.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adserver.xpanama.net
 0.0.0.0 adserver.yahoo.com
@@ -2414,6 +2415,7 @@
 :: adserve2.tom.com
 :: adserver.adtech.de
 :: adserver.adtechus.com
+:: adserver.juicyads.com
 :: adserver-us.adtech.advertising.com
 :: adserver.xpanama.net
 :: adserver.yahoo.com

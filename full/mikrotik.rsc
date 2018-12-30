@@ -237,6 +237,7 @@ ip dns static add address=127.0.0.1 name=adsense.html5.qq.com
 ip dns static add address=127.0.0.1 name=adserve2.tom.com
 ip dns static add address=127.0.0.1 name=adserver.adtech.de
 ip dns static add address=127.0.0.1 name=adserver.adtechus.com
+ip dns static add address=127.0.0.1 name=adserver.juicyads.com
 ip dns static add address=127.0.0.1 name=adserver-us.adtech.advertising.com
 ip dns static add address=127.0.0.1 name=adserver.xpanama.net
 ip dns static add address=127.0.0.1 name=adserver.yahoo.com
