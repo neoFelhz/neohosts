@@ -127,7 +127,6 @@
 0.0.0.0 img1.sj.qq.com
 0.0.0.0 jingjia.qq.com
 0.0.0.0 jqmt.qq.com
-0.0.0.0 l.qq.com
 0.0.0.0 l2.l.qq.com
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 m.ee-skin.com
