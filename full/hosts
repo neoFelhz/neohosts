@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190106095942
+#version=20190106100438
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -1786,7 +1786,6 @@
 0.0.0.0 log.videojj.com
 0.0.0.0 log.voicecloud.cn
 0.0.0.0 log.web.kugou.com
-0.0.0.0 l.qq.com
 0.0.0.0 ls.l.qq.com
 0.0.0.0 lu.sogou.com
 0.0.0.0 lwq.wangketuan.com
@@ -5510,7 +5509,6 @@ eTV:: api.push.le.com
 :: log.videojj.com
 :: log.voicecloud.cn
 :: log.web.kugou.com
-:: l.qq.com
 :: ls.l.qq.com
 :: lu.sogou.com
 :: lwq.wangketuan.com

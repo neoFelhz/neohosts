@@ -1768,7 +1768,6 @@ ip dns static add address=127.0.0.1 name=log.vcgame.cn
 ip dns static add address=127.0.0.1 name=log.videojj.com
 ip dns static add address=127.0.0.1 name=log.voicecloud.cn
 ip dns static add address=127.0.0.1 name=log.web.kugou.com
-ip dns static add address=127.0.0.1 name=l.qq.com
 ip dns static add address=127.0.0.1 name=ls.l.qq.com
 ip dns static add address=127.0.0.1 name=lu.sogou.com
 ip dns static add address=127.0.0.1 name=lwq.wangketuan.com

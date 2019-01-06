@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190106095942
+#version=20190106100438
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -1224,7 +1224,6 @@
 127.0.0.1 logupdate.avlyun.sec.miui.com
 127.0.0.1 log.vcgame.cn
 127.0.0.1 log.web.kugou.com
-127.0.0.1 l.qq.com
 127.0.0.1 ls.l.qq.com
 127.0.0.1 lu.sogou.com
 127.0.0.1 lxcdn.dl.files.xiaomi.net
@@ -3436,7 +3435,6 @@
 :: logupdate.avlyun.sec.miui.com
 :: log.vcgame.cn
 :: log.web.kugou.com
-:: l.qq.com
 :: ls.l.qq.com
 :: lu.sogou.com
 :: lxcdn.dl.files.xiaomi.net
