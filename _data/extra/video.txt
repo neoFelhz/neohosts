@@ -66,7 +66,7 @@
 0.0.0.0 vi0.mzy2014.com
 0.0.0.0 vi1.mzy2014.com
 0.0.0.0 api.uniplayad.com
-eTV0.0.0.0 api.push.le.com
+0.0.0.0 api.push.le.com
 0.0.0.0 cn.api.push.le.com
 0.0.0.0 ark.letv.com
 0.0.0.0 fz.letv.com
