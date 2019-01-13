@@ -436,6 +436,7 @@ ip dns static add address=127.0.0.1 name=api.mp.uc.cn
 ip dns static add address=127.0.0.1 name=api.newad.ifeng.com
 ip dns static add address=127.0.0.1 name=api.open.uc.cn
 ip dns static add address=127.0.0.1 name=api.primecaster.net
+ip dns static add address=127.0.0.1 name=api.push.le.com
 ip dns static add address=127.0.0.1 name=api-push.meizu.com
 ip dns static add address=127.0.0.1 name=api.ra2.xlmc.sec.miui.com
 ip dns static add address=127.0.0.1 name=api.sec.miui.com
@@ -3720,5 +3721,3 @@ ip dns static add address=127.0.0.1 name=zz2.hslyqs.com
 ip dns static add address=127.0.0.1 name=zz.bdstatic.com
 ip dns static add address=127.0.0.1 name=zzimg.51.la
 ip dns static add address=127.0.0.1 name=zzy1.quyaoya.com
-eTVip dns static add address=127.0.0.1 name=api.push.le.com
-eTV:: api.push.le.com

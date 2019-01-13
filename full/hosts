@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190106100438
+#version=20190113133238
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -454,6 +454,7 @@
 0.0.0.0 api.newad.ifeng.com
 0.0.0.0 api.open.uc.cn
 0.0.0.0 api.primecaster.net
+0.0.0.0 api.push.le.com
 0.0.0.0 api-push.meizu.com
 0.0.0.0 api.ra2.xlmc.sec.miui.com
 0.0.0.0 api.sec.miui.com
@@ -4175,6 +4176,7 @@
 :: api.newad.ifeng.com
 :: api.open.uc.cn
 :: api.primecaster.net
+:: api.push.le.com
 :: api-push.meizu.com
 :: api.ra2.xlmc.sec.miui.com
 :: api.sec.miui.com
@@ -4932,8 +4934,6 @@
 :: etl.xlmc.sandai.net
 :: etl.xlmc.sec.miui.com
 :: et.tanx.com
-eTV0.0.0.0 api.push.le.com
-eTV:: api.push.le.com
 :: et.w.inmobi.com
 :: event.ksosoft.com
 :: eventlog.beacon.qq.com
