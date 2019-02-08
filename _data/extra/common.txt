@@ -403,3 +403,8 @@
 # duomai
 0.0.0.0 c.duomai.com
 0.0.0.0 duomai.com
+# steepto.com
+0.0.0.0 cdn.steepto.com
+0.0.0.0 www.steepto.com
+0.0.0.0 s-img.steepto.com
+
