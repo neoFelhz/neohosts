@@ -2587,6 +2587,7 @@ ip dns static add address=127.0.0.1 name=sax.sina.com.cn
 ip dns static add address=127.0.0.1 name=saxs.sina.com.cn
 ip dns static add address=127.0.0.1 name=s.baidu.com
 ip dns static add address=127.0.0.1 name=sbeacon.sina.com.cn
+ip dns static add address=127.0.0.1 name=sb.scorecardresearch.com
 ip dns static add address=127.0.0.1 name=scc.domob.cn
 ip dns static add address=127.0.0.1 name=scdown.qq.com
 ip dns static add address=127.0.0.1 name=scene.vip.xunlei.com
@@ -2695,6 +2696,7 @@ ip dns static add address=127.0.0.1 name=service.ad.adesk.com
 ip dns static add address=127.0.0.1 name=service.danmu.youku.com
 ip dns static add address=127.0.0.1 name=service.epro.sogou.com
 ip dns static add address=127.0.0.1 name=servicer.adskeeper.co.uk
+ip dns static add address=127.0.0.1 name=servicer.mgid.com
 ip dns static add address=127.0.0.1 name=services.wes.df.telemetry.microsoft.com
 ip dns static add address=127.0.0.1 name=service.urchin.com
 ip dns static add address=127.0.0.1 name=sestat.baidu.com

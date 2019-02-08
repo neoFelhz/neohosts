@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190208161548
+#version=20190208161617
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -2605,6 +2605,7 @@
 127.0.0.1 saxs.sina.com.cn
 127.0.0.1 s.baidu.com
 127.0.0.1 sbeacon.sina.com.cn
+127.0.0.1 sb.scorecardresearch.com
 127.0.0.1 scc.domob.cn
 127.0.0.1 scdown.qq.com
 127.0.0.1 scene.vip.xunlei.com
@@ -2713,6 +2714,7 @@
 127.0.0.1 service.danmu.youku.com
 127.0.0.1 service.epro.sogou.com
 127.0.0.1 servicer.adskeeper.co.uk
+127.0.0.1 servicer.mgid.com
 127.0.0.1 services.wes.df.telemetry.microsoft.com
 127.0.0.1 service.urchin.com
 127.0.0.1 sestat.baidu.com
@@ -6330,6 +6332,7 @@
 :: saxs.sina.com.cn
 :: s.baidu.com
 :: sbeacon.sina.com.cn
+:: sb.scorecardresearch.com
 :: scc.domob.cn
 :: scdown.qq.com
 :: scene.vip.xunlei.com
@@ -6438,6 +6441,7 @@
 :: service.danmu.youku.com
 :: service.epro.sogou.com
 :: servicer.adskeeper.co.uk
+:: servicer.mgid.com
 :: services.wes.df.telemetry.microsoft.com
 :: service.urchin.com
 :: sestat.baidu.com
