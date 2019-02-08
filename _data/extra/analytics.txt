@@ -96,6 +96,10 @@
 # Tencent Bugly
 0.0.0.0 aexception.bugly.qq.com
 0.0.0.0 android.bugly.qq.com
+# mgid
+0.0.0.0 servicer.mgid.com
+0.0.0.0 jsc.mgid.com
+0.0.0.0 cdn.mgid.com
 # Others
 0.0.0.0 s.qhupdate.com
 0.0.0.0 hs.qhupdate.com
@@ -127,4 +131,3 @@
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 log.vcdn.io
 0.0.0.0 sb.scorecardresearch.com
-0.0.0.0 servicer.mgid.com
