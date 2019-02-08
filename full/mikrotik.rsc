@@ -1317,6 +1317,7 @@ ip dns static add address=127.0.0.1 name=googlecommerce.com
 ip dns static add address=127.0.0.1 name=googlesyndication.com
 ip dns static add address=127.0.0.1 name=googletagmanager.com
 ip dns static add address=127.0.0.1 name=googletagservices.com
+ip dns static add address=127.0.0.1 name=go.padsdel.com
 ip dns static add address=127.0.0.1 name=goto.sogou.com
 ip dns static add address=127.0.0.1 name=green.erne.co
 ip dns static add address=127.0.0.1 name=g.rs.yoyi.com.cn

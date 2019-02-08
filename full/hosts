@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190208161817
+#version=20190208161923
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -1335,6 +1335,7 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
+0.0.0.0 go.padsdel.com
 0.0.0.0 goto.sogou.com
 0.0.0.0 green.erne.co
 0.0.0.0 g.rs.yoyi.com.cn
@@ -5064,6 +5065,7 @@
 :: googlesyndication.com
 :: googletagmanager.com
 :: googletagservices.com
+:: go.padsdel.com
 :: goto.sogou.com
 :: green.erne.co
 :: g.rs.yoyi.com.cn
