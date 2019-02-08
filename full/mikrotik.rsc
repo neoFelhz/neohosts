@@ -679,6 +679,7 @@ ip dns static add address=127.0.0.1 name=cdn.hyperpromote.com
 ip dns static add address=127.0.0.1 name=cdnimg.liehu.ijinshan.com
 ip dns static add address=127.0.0.1 name=cdnis.hyperpromote.com
 ip dns static add address=127.0.0.1 name=cdn.lu.sogoucdn.com
+ip dns static add address=127.0.0.1 name=cdn.mgid.com
 ip dns static add address=127.0.0.1 name=cdn.newapi.com
 ip dns static add address=127.0.0.1 name=cdn.optaim.com
 ip dns static add address=127.0.0.1 name=cdnpa.hyperpromote.com
@@ -1654,6 +1655,7 @@ ip dns static add address=127.0.0.1 name=jsadsdisplay.cn-beijing.log.aliyuncs.co
 ip dns static add address=127.0.0.1 name=js.adxkj.com
 ip dns static add address=127.0.0.1 name=js-apac-ss.ysm.yahoo.com
 ip dns static add address=127.0.0.1 name=jsc.adskeeper.co.uk
+ip dns static add address=127.0.0.1 name=jsc.mgid.com
 ip dns static add address=127.0.0.1 name=jserr.cnzz.com
 ip dns static add address=127.0.0.1 name=js.hs-analytics.net
 ip dns static add address=127.0.0.1 name=js.hslyqs.com

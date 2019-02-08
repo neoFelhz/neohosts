@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190208161617
+#version=20190208161817
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -697,6 +697,7 @@
 0.0.0.0 cdnimg.liehu.ijinshan.com
 0.0.0.0 cdnis.hyperpromote.com
 0.0.0.0 cdn.lu.sogoucdn.com
+0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.newapi.com
 0.0.0.0 cdn.optaim.com
 0.0.0.0 cdnpa.hyperpromote.com
@@ -1672,6 +1673,7 @@
 0.0.0.0 js.adxkj.com
 0.0.0.0 js-apac-ss.ysm.yahoo.com
 0.0.0.0 jsc.adskeeper.co.uk
+0.0.0.0 jsc.mgid.com
 0.0.0.0 jserr.cnzz.com
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hslyqs.com
@@ -4424,6 +4426,7 @@
 :: cdnimg.liehu.ijinshan.com
 :: cdnis.hyperpromote.com
 :: cdn.lu.sogoucdn.com
+:: cdn.mgid.com
 :: cdn.newapi.com
 :: cdn.optaim.com
 :: cdnpa.hyperpromote.com
@@ -5399,6 +5402,7 @@
 :: js.adxkj.com
 :: js-apac-ss.ysm.yahoo.com
 :: jsc.adskeeper.co.uk
+:: jsc.mgid.com
 :: jserr.cnzz.com
 :: js.hs-analytics.net
 :: js.hslyqs.com
