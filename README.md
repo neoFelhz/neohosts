@@ -7,7 +7,7 @@
 <p align="center">
 <img alt="Author" src="https://img.shields.io/badge/Author-Neko%20Dev%20Team%20&%20neoHosts%20Team-blue.svg?style=flat-square"/>
 <a href="https://travis-ci.org/neko-dev/neohosts"><img alt="Build Status" src="https://img.shields.io/travis/neoFelhz/neohosts.svg?style=flat-square"/></a>
-<a href="https://github.com/neko-dev/neohosts/blob/data/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Hosts%20License%20&%20SATA-757575.svg?style=flat-square"/></a>
+<a href="https://github.com/neoFelhz/neohosts/blob/data/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-757575.svg?style=flat-square"/></a>
 </p>
 
 ## Introduction 介绍
@@ -32,7 +32,7 @@
 - 常见下载劫持
 - 360 和百度的部分软件下载
 - CNNIC 根证书劫持
-- 法轮功等可能令人产生不适的激进宗教内容网站
+- 法轮功等可能令人反感的激进宗教内容网站
 
 ### [Basic Compatible Hosts](https://hosts.nfz.moe/127.0.0.1/basic/hosts)
 
@@ -69,7 +69,7 @@ Authored and maintained by [neoFelhz](https://github.com/neoFelhz) with `Neko De
 
 ## License 许可证
 
-本项目的 hosts，README，wiki 等资源基于 [MIT](./LICENSE) 协议发布,并增加了 `SATA` 协议。
+本项目的 hosts，README，wiki 等资源基于 [MIT](./LICENSE) 协议发布并增加了 `SATA` 协议。
 
 > 当你使用了使用 `SATA` 的开源软件或文档的时候，在遵守基础许可证的前提下，你**必须**马不停蹄地给你所使用的开源项目 “点赞” ，比如在 GitHub 上 star，然后你**必须**感谢这个帮助了你的开源项目的作者，作者信息可以在许可证头部的版权声明部分找到。
 
