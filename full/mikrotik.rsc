@@ -685,6 +685,7 @@ ip dns static add address=127.0.0.1 name=cdnpa.hyperpromote.com
 ip dns static add address=127.0.0.1 name=cdn.popcash.net
 ip dns static add address=127.0.0.1 name=cdn.popmyads.com
 ip dns static add address=127.0.0.1 name=cdn.puata.info
+ip dns static add address=127.0.0.1 name=cdn.steepto.com
 ip dns static add address=127.0.0.1 name=cdn.taboola.com
 ip dns static add address=127.0.0.1 name=cdn.taboolasyndication.com
 ip dns static add address=127.0.0.1 name=cdn.tanx.com
@@ -2734,6 +2735,7 @@ ip dns static add address=127.0.0.1 name=s.hystq.com
 ip dns static add address=127.0.0.1 name=simaba.taobao.com
 ip dns static add address=127.0.0.1 name=simba.m.taobao.com
 ip dns static add address=127.0.0.1 name=s.img.mix.sina.com.cn
+ip dns static add address=127.0.0.1 name=s-img.steepto.com
 ip dns static add address=127.0.0.1 name=sin1.g.adnxs.com
 ip dns static add address=127.0.0.1 name=sina.allyes.com
 ip dns static add address=127.0.0.1 name=sinas.allyes.com
@@ -3529,6 +3531,7 @@ ip dns static add address=127.0.0.1 name=www.shenyun.org
 ip dns static add address=127.0.0.1 name=www.shenyunperformingarts.org
 ip dns static add address=127.0.0.1 name=www.shenzhoufilm.com
 ip dns static add address=127.0.0.1 name=www.soundofhope.org
+ip dns static add address=127.0.0.1 name=www.steepto.com
 ip dns static add address=127.0.0.1 name=www.tixing51.net
 ip dns static add address=127.0.0.1 name=www.tuidang.org
 ip dns static add address=127.0.0.1 name=www.tz-dsp.com
