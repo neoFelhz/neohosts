@@ -140,9 +140,6 @@
 0.0.0.0 sa0.tuisong.baidu.com
 0.0.0.0 sa1.tuisong.baidu.com
 0.0.0.0 sa3.tuisong.baidu.com
-0.0.0.0 t10.baidu.com
-0.0.0.0 t11.baidu.com
-0.0.0.0 t12.baidu.com
 0.0.0.0 tk.baidu.com
 0.0.0.0 union.baidu.com
 0.0.0.0 utility.baidu.com
