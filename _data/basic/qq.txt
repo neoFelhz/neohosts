@@ -122,7 +122,6 @@
 0.0.0.0 httpring.qq.com
 0.0.0.0 if.mingxing.qq.com
 0.0.0.0 imc.l.qq.com
-0.0.0.0 img1.gtimg.com
 0.0.0.0 img1.sj.qq.com
 0.0.0.0 jingjia.qq.com
 0.0.0.0 jqmt.qq.com
@@ -190,4 +189,3 @@
 0.0.0.0 pms.mb.qq.com
 0.0.0.0 pcbrowser.dd.qq.com
 0.0.0.0 stdl.qq.com
-
