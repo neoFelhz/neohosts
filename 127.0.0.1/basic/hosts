@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190309054104
+#version=20190309054726
 #*********************************************************
 127.0.0.1 0.r.msn.com
 127.0.0.1 1100.adsina.allyes.com
@@ -1907,9 +1907,6 @@
 127.0.0.1 sync-tm.everesttech.net
 127.0.0.1 s.youmi.net
 127.0.0.1 sys.zhangyue.com
-127.0.0.1 t10.baidu.com
-127.0.0.1 t11.baidu.com
-127.0.0.1 t12.baidu.com
 127.0.0.1 t.ads.sohu.com
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tajs.qq.com
@@ -4118,9 +4115,6 @@
 :: sync-tm.everesttech.net
 :: s.youmi.net
 :: sys.zhangyue.com
-:: t10.baidu.com
-:: t11.baidu.com
-:: t12.baidu.com
 :: t.ads.sohu.com
 :: tags.bluekai.com
 :: tajs.qq.com

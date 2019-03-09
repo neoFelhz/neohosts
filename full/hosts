@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190309054104
+#version=20190309054726
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -2950,9 +2950,6 @@
 0.0.0.0 s.youmi.net
 0.0.0.0 sys.zhangyue.com
 0.0.0.0 s.zampdsp.com
-0.0.0.0 t10.baidu.com
-0.0.0.0 t11.baidu.com
-0.0.0.0 t12.baidu.com
 0.0.0.0 t1.51maiwanju.com
 0.0.0.0 t2.51maiwanju.com
 0.0.0.0 t2.ugg66.com
@@ -6679,9 +6676,6 @@
 :: s.youmi.net
 :: sys.zhangyue.com
 :: s.zampdsp.com
-:: t10.baidu.com
-:: t11.baidu.com
-:: t12.baidu.com
 :: t1.51maiwanju.com
 :: t2.51maiwanju.com
 :: t2.ugg66.com

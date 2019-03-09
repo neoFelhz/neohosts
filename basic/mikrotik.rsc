@@ -1889,9 +1889,6 @@ ip dns static add address=127.0.0.1 name=sync.tidaltv.com
 ip dns static add address=127.0.0.1 name=sync-tm.everesttech.net
 ip dns static add address=127.0.0.1 name=s.youmi.net
 ip dns static add address=127.0.0.1 name=sys.zhangyue.com
-ip dns static add address=127.0.0.1 name=t10.baidu.com
-ip dns static add address=127.0.0.1 name=t11.baidu.com
-ip dns static add address=127.0.0.1 name=t12.baidu.com
 ip dns static add address=127.0.0.1 name=t.ads.sohu.com
 ip dns static add address=127.0.0.1 name=tags.bluekai.com
 ip dns static add address=127.0.0.1 name=tajs.qq.com

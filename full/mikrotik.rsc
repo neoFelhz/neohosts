@@ -2932,9 +2932,6 @@ ip dns static add address=127.0.0.1 name=sync-tm.everesttech.net
 ip dns static add address=127.0.0.1 name=s.youmi.net
 ip dns static add address=127.0.0.1 name=sys.zhangyue.com
 ip dns static add address=127.0.0.1 name=s.zampdsp.com
-ip dns static add address=127.0.0.1 name=t10.baidu.com
-ip dns static add address=127.0.0.1 name=t11.baidu.com
-ip dns static add address=127.0.0.1 name=t12.baidu.com
 ip dns static add address=127.0.0.1 name=t1.51maiwanju.com
 ip dns static add address=127.0.0.1 name=t2.51maiwanju.com
 ip dns static add address=127.0.0.1 name=t2.ugg66.com
