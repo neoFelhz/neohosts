@@ -14,9 +14,8 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190208162103
+#version=20190309054104
 #*********************************************************
-
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
 0.0.0.0 1148.adsina.allyes.com
@@ -1077,7 +1076,6 @@
 0.0.0.0 img01.taotaosou.cn
 0.0.0.0 img0.egou.com
 0.0.0.0 img1.126.net
-0.0.0.0 img1.gtimg.com
 0.0.0.0 img1.km.com
 0.0.0.0 img1.pcfg.cache.wps.cn
 0.0.0.0 img1.sj.qq.com
@@ -3289,7 +3287,6 @@
 :: img01.taotaosou.cn
 :: img0.egou.com
 :: img1.126.net
-:: img1.gtimg.com
 :: img1.km.com
 :: img1.pcfg.cache.wps.cn
 :: img1.sj.qq.com

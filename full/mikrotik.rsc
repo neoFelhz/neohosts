@@ -1495,7 +1495,6 @@ ip dns static add address=127.0.0.1 name=imc.l.qq.com
 ip dns static add address=127.0.0.1 name=img01.taotaosou.cn
 ip dns static add address=127.0.0.1 name=img0.egou.com
 ip dns static add address=127.0.0.1 name=img1.126.net
-ip dns static add address=127.0.0.1 name=img1.gtimg.com
 ip dns static add address=127.0.0.1 name=img1.km.com
 ip dns static add address=127.0.0.1 name=img1.pcfg.cache.wps.cn
 ip dns static add address=127.0.0.1 name=img1.sj.qq.com
