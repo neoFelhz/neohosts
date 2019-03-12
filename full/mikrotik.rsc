@@ -430,7 +430,6 @@ ip dns static add address=127.0.0.1 name=api.iapps.ifeng.com
 ip dns static add address=127.0.0.1 name=api.iimedia.cn
 ip dns static add address=127.0.0.1 name=api.jr.mi.com
 ip dns static add address=127.0.0.1 name=api.koudaikj.com
-ip dns static add address=127.0.0.1 name=api.map.baidu.com
 ip dns static add address=127.0.0.1 name=api.mobula.sdk.duapps.com
 ip dns static add address=127.0.0.1 name=api.mp.uc.cn
 ip dns static add address=127.0.0.1 name=api.newad.ifeng.com
@@ -2009,7 +2008,6 @@ ip dns static add address=127.0.0.1 name=n.domob.cn
 ip dns static add address=127.0.0.1 name=neirong.baidu.com
 ip dns static add address=127.0.0.1 name=net.adpush.cn
 ip dns static add address=127.0.0.1 name=new.cnzz.com
-ip dns static add address=127.0.0.1 name=newloc.map.n.shifen.com
 ip dns static add address=127.0.0.1 name=new.ltheanine.cn
 ip dns static add address=127.0.0.1 name=news.766ba.net
 ip dns static add address=127.0.0.1 name=news.mpush.qq.com
@@ -2018,7 +2016,6 @@ ip dns static add address=127.0.0.1 name=newspush.sinajs.cn
 ip dns static add address=127.0.0.1 name=news.qhstatic.com
 ip dns static add address=127.0.0.1 name=new.taobc.com
 ip dns static add address=127.0.0.1 name=new.users.51.la
-ip dns static add address=127.0.0.1 name=newvector.map.baidu.com
 ip dns static add address=127.0.0.1 name=nex.163.com
 ip dns static add address=127.0.0.1 name=nfdnserror10.wo.com.cn
 ip dns static add address=127.0.0.1 name=nfdnserror11.wo.com.cn
@@ -2070,7 +2067,6 @@ ip dns static add address=127.0.0.1 name=oc.umeng.com
 ip dns static add address=127.0.0.1 name=o.domob.cn
 ip dns static add address=127.0.0.1 name=oeeee.adsame.com
 ip dns static add address=127.0.0.1 name=offline-adv.oray.com
-ip dns static add address=127.0.0.1 name=offnavi.map.baidu.com
 ip dns static add address=127.0.0.1 name=o.if.qidian.com
 ip dns static add address=127.0.0.1 name=oimagea2.ydstatic.com
 ip dns static add address=127.0.0.1 name=omg.inte.sogoucdn.com
@@ -2239,7 +2235,6 @@ ip dns static add address=127.0.0.1 name=pr.ybp.yahoo.com
 ip dns static add address=127.0.0.1 name=p.sdu8cvc.com
 ip dns static add address=127.0.0.1 name=psfq.gou.sogou.com
 ip dns static add address=127.0.0.1 name=ps.haohaowan8.com
-ip dns static add address=127.0.0.1 name=ps.map.baidu.com
 ip dns static add address=127.0.0.1 name=p.store.qq.com
 ip dns static add address=127.0.0.1 name=p.tanx.com
 ip dns static add address=127.0.0.1 name=p.tencentmind.com
@@ -2901,7 +2896,6 @@ ip dns static add address=127.0.0.1 name=survey.watson.microsoft.com
 ip dns static add address=127.0.0.1 name=susapi.dev.surepush.cn
 ip dns static add address=127.0.0.1 name=susapi.lenovomm.com
 ip dns static add address=127.0.0.1 name=suvset.sohu.com
-ip dns static add address=127.0.0.1 name=sv.map.baidu.com
 ip dns static add address=127.0.0.1 name=swa.gtimg.com
 ip dns static add address=127.0.0.1 name=sw.mobile.sogou.com
 ip dns static add address=127.0.0.1 name=s.wrating.com
@@ -3088,7 +3082,6 @@ ip dns static add address=127.0.0.1 name=uimg.123hala.com
 ip dns static add address=127.0.0.1 name=uimg.27admin.com
 ip dns static add address=127.0.0.1 name=ulic.baidu.com
 ip dns static add address=127.0.0.1 name=ulink.cc
-ip dns static add address=127.0.0.1 name=ulog.imap.baidu.com
 ip dns static add address=127.0.0.1 name=ulogs.umeng.com
 ip dns static add address=127.0.0.1 name=um2.eqads.com
 ip dns static add address=127.0.0.1 name=uma.gtags.net

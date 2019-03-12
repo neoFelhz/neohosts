@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190309054726
+#version=20190312074149
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -448,7 +448,6 @@
 0.0.0.0 api.iimedia.cn
 0.0.0.0 api.jr.mi.com
 0.0.0.0 api.koudaikj.com
-0.0.0.0 api.map.baidu.com
 0.0.0.0 api.mobula.sdk.duapps.com
 0.0.0.0 api.mp.uc.cn
 0.0.0.0 api.newad.ifeng.com
@@ -2027,7 +2026,6 @@
 0.0.0.0 neirong.baidu.com
 0.0.0.0 net.adpush.cn
 0.0.0.0 new.cnzz.com
-0.0.0.0 newloc.map.n.shifen.com
 0.0.0.0 new.ltheanine.cn
 0.0.0.0 news.766ba.net
 0.0.0.0 news.mpush.qq.com
@@ -2036,7 +2034,6 @@
 0.0.0.0 news.qhstatic.com
 0.0.0.0 new.taobc.com
 0.0.0.0 new.users.51.la
-0.0.0.0 newvector.map.baidu.com
 0.0.0.0 nex.163.com
 0.0.0.0 nfdnserror10.wo.com.cn
 0.0.0.0 nfdnserror11.wo.com.cn
@@ -2088,7 +2085,6 @@
 0.0.0.0 o.domob.cn
 0.0.0.0 oeeee.adsame.com
 0.0.0.0 offline-adv.oray.com
-0.0.0.0 offnavi.map.baidu.com
 0.0.0.0 o.if.qidian.com
 0.0.0.0 oimagea2.ydstatic.com
 0.0.0.0 omg.inte.sogoucdn.com
@@ -2257,7 +2253,6 @@
 0.0.0.0 p.sdu8cvc.com
 0.0.0.0 psfq.gou.sogou.com
 0.0.0.0 ps.haohaowan8.com
-0.0.0.0 ps.map.baidu.com
 0.0.0.0 p.store.qq.com
 0.0.0.0 p.tanx.com
 0.0.0.0 p.tencentmind.com
@@ -2919,7 +2914,6 @@
 0.0.0.0 susapi.dev.surepush.cn
 0.0.0.0 susapi.lenovomm.com
 0.0.0.0 suvset.sohu.com
-0.0.0.0 sv.map.baidu.com
 0.0.0.0 swa.gtimg.com
 0.0.0.0 sw.mobile.sogou.com
 0.0.0.0 s.wrating.com
@@ -3106,7 +3100,6 @@
 0.0.0.0 uimg.27admin.com
 0.0.0.0 ulic.baidu.com
 0.0.0.0 ulink.cc
-0.0.0.0 ulog.imap.baidu.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 um2.eqads.com
 0.0.0.0 uma.gtags.net
@@ -4174,7 +4167,6 @@
 :: api.iimedia.cn
 :: api.jr.mi.com
 :: api.koudaikj.com
-:: api.map.baidu.com
 :: api.mobula.sdk.duapps.com
 :: api.mp.uc.cn
 :: api.newad.ifeng.com
@@ -5753,7 +5745,6 @@
 :: neirong.baidu.com
 :: net.adpush.cn
 :: new.cnzz.com
-:: newloc.map.n.shifen.com
 :: new.ltheanine.cn
 :: news.766ba.net
 :: news.mpush.qq.com
@@ -5762,7 +5753,6 @@
 :: news.qhstatic.com
 :: new.taobc.com
 :: new.users.51.la
-:: newvector.map.baidu.com
 :: nex.163.com
 :: nfdnserror10.wo.com.cn
 :: nfdnserror11.wo.com.cn
@@ -5814,7 +5804,6 @@
 :: o.domob.cn
 :: oeeee.adsame.com
 :: offline-adv.oray.com
-:: offnavi.map.baidu.com
 :: o.if.qidian.com
 :: oimagea2.ydstatic.com
 :: omg.inte.sogoucdn.com
@@ -5983,7 +5972,6 @@
 :: p.sdu8cvc.com
 :: psfq.gou.sogou.com
 :: ps.haohaowan8.com
-:: ps.map.baidu.com
 :: p.store.qq.com
 :: p.tanx.com
 :: p.tencentmind.com
@@ -6645,7 +6633,6 @@
 :: susapi.dev.surepush.cn
 :: susapi.lenovomm.com
 :: suvset.sohu.com
-:: sv.map.baidu.com
 :: swa.gtimg.com
 :: sw.mobile.sogou.com
 :: s.wrating.com
@@ -6832,7 +6819,6 @@
 :: uimg.27admin.com
 :: ulic.baidu.com
 :: ulink.cc
-:: ulog.imap.baidu.com
 :: ulogs.umeng.com
 :: um2.eqads.com
 :: uma.gtags.net
