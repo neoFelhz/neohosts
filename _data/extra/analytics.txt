@@ -131,3 +131,4 @@
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 log.vcdn.io
 0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 amoeba.fudata.cn
