@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190312074149
+#version=20190315130422
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -378,6 +378,7 @@
 0.0.0.0 a.mct01.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 am.g.ireader.com
+0.0.0.0 amoeba.fudata.cn
 0.0.0.0 amps.yoyi.com.cn
 0.0.0.0 a.m.shuhuangge.org
 0.0.0.0 analy.qq.com
@@ -4097,6 +4098,7 @@
 :: a.mct01.com
 :: amdc.m.taobao.com
 :: am.g.ireader.com
+:: amoeba.fudata.cn
 :: amps.yoyi.com.cn
 :: a.m.shuhuangge.org
 :: analy.qq.com

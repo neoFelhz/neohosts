@@ -360,6 +360,7 @@ ip dns static add address=127.0.0.1 name=ama.adwo.com
 ip dns static add address=127.0.0.1 name=a.mct01.com
 ip dns static add address=127.0.0.1 name=amdc.m.taobao.com
 ip dns static add address=127.0.0.1 name=am.g.ireader.com
+ip dns static add address=127.0.0.1 name=amoeba.fudata.cn
 ip dns static add address=127.0.0.1 name=amps.yoyi.com.cn
 ip dns static add address=127.0.0.1 name=a.m.shuhuangge.org
 ip dns static add address=127.0.0.1 name=analy.qq.com
