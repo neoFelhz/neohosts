@@ -81,12 +81,9 @@
 0.0.0.0 ecmb.bdimg.com
 0.0.0.0 ecmc.bdimg.com
 0.0.0.0 su.bdimg.com
-0.0.0.0 ae.bdstatic.com
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 cpro2.baidustatic.com
 0.0.0.0 dup.baidustatic.com
-0.0.0.0 mipcache.bdstatic.com
-0.0.0.0 su.bdstatic.com
 0.0.0.0 adscdn.baidu.com
 0.0.0.0 api.cpu.baidu.com
 0.0.0.0 baichuan.baidu.com
@@ -106,7 +103,6 @@
 0.0.0.0 tuijian.baidu.com
 0.0.0.0 unionimage.baidu.com
 0.0.0.0 ubmcmm.baidustatic.com
-0.0.0.0 zz.bdstatic.com
 0.0.0.0 bdplus.baidu.com
 0.0.0.0 btlaunch.baidu.com
 0.0.0.0 datax.baidu.com
@@ -163,7 +159,6 @@
 0.0.0.0 wisepush.video.baidu.com
 0.0.0.0 ad.duapps.com
 0.0.0.0 api.mobula.sdk.duapps.com
-0.0.0.0 b.bdstatic.com
 # bdimg.com
 0.0.0.0 ecma.bdimg.com
 0.0.0.0 ecmb.bdimg.com
@@ -171,6 +166,7 @@
 0.0.0.0 su.bdimg.com
 # bdstatic.com
 0.0.0.0 ae.bdstatic.com
+0.0.0.0 b.bdstatic.com
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 cpro2.baidustatic.com
 0.0.0.0 dup.baidustatic.com

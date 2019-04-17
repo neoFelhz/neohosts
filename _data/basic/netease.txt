@@ -26,3 +26,4 @@
 0.0.0.0 prom.gome.com.cn
 0.0.0.0 static.flv.uuzuonline.com
 0.0.0.0 wanproxy.127.net
+0.0.0.0 pg-ad-b1.ws.126.net

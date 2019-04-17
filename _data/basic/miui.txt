@@ -133,3 +133,4 @@
 0.0.0.0 mostat.wps.cn
 0.0.0.0 mivideo.g.mi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 ssp.ad.xiaomi.com
