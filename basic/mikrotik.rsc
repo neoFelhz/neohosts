@@ -124,6 +124,7 @@ ip dns static add address=127.0.0.1 name=ad.doubleclick.net
 ip dns static add address=127.0.0.1 name=ad.dqwjzm.com
 ip dns static add address=127.0.0.1 name=ad.duapps.com
 ip dns static add address=127.0.0.1 name=ade.googlesyndication.com
+ip dns static add address=127.0.0.1 name=ad.ettoday.net
 ip dns static add address=127.0.0.1 name=adeventtracker.spotify.com
 ip dns static add address=127.0.0.1 name=adfarm.mediaplex.com
 ip dns static add address=127.0.0.1 name=adfill.adview.cn
@@ -268,6 +269,7 @@ ip dns static add address=127.0.0.1 name=agoodm.m.taobao.com
 ip dns static add address=127.0.0.1 name=a.hl.mi.com
 ip dns static add address=127.0.0.1 name=a.holagames.com
 ip dns static add address=127.0.0.1 name=aider-res.meizu.com
+ip dns static add address=127.0.0.1 name=aima.weathercn.com
 ip dns static add address=127.0.0.1 name=a.img.static.youmi.net
 ip dns static add address=127.0.0.1 name=ai.m.taobao.com
 ip dns static add address=127.0.0.1 name=ai.taobao.com
@@ -397,6 +399,7 @@ ip dns static add address=127.0.0.1 name=b1sync.zemanta.com
 ip dns static add address=127.0.0.1 name=badad.googleplex.com
 ip dns static add address=127.0.0.1 name=b.ads1.msn.com
 ip dns static add address=127.0.0.1 name=baichuan.baidu.com
+ip dns static add address=127.0.0.1 name=baidu1.weather.com.cn
 ip dns static add address=127.0.0.1 name=baidu.greenxf.cn
 ip dns static add address=127.0.0.1 name=baidutv.baidu.com
 ip dns static add address=127.0.0.1 name=banner.alimama.com
@@ -440,6 +443,7 @@ ip dns static add address=127.0.0.1 name=bigdata.adfuture.cn
 ip dns static add address=127.0.0.1 name=bigdata.adsunflower.com
 ip dns static add address=127.0.0.1 name=bigdata.adups.com
 ip dns static add address=127.0.0.1 name=bigdata.advmob.cn
+ip dns static add address=127.0.0.1 name=bima.weathercn.com
 ip dns static add address=127.0.0.1 name=bingads.microsoft.com
 ip dns static add address=127.0.0.1 name=bite.theta.sogoucdn.com
 ip dns static add address=127.0.0.1 name=biz.live.xunlei.com
@@ -767,6 +771,7 @@ ip dns static add address=127.0.0.1 name=dl.union.ijinshan.com
 ip dns static add address=127.0.0.1 name=dl.uu.cc
 ip dns static add address=127.0.0.1 name=dl.wan.sogoucdn.com
 ip dns static add address=127.0.0.1 name=dl.youjia2016.com
+ip dns static add address=127.0.0.1 name=dma.15tianqi.com
 ip dns static add address=127.0.0.1 name=dm.aizhan.com
 ip dns static add address=127.0.0.1 name=dm.bytedance.com
 ip dns static add address=127.0.0.1 name=dmm.aizhan.com
@@ -1139,6 +1144,7 @@ ip dns static add address=127.0.0.1 name=jpush.html5.qq.com
 ip dns static add address=127.0.0.1 name=jqmt.qq.com
 ip dns static add address=127.0.0.1 name=js.50bang.org
 ip dns static add address=127.0.0.1 name=js.51taifu.com
+ip dns static add address=127.0.0.1 name=jsa.15tianqi.com
 ip dns static add address=127.0.0.1 name=jsadsdisplay.cn-beijing.log.aliyuncs.com
 ip dns static add address=127.0.0.1 name=js-apac-ss.ysm.yahoo.com
 ip dns static add address=127.0.0.1 name=js.icast.cn
@@ -1244,6 +1250,7 @@ ip dns static add address=127.0.0.1 name=mb.yidianzixun.com
 ip dns static add address=127.0.0.1 name=mclick.simba.taobao.com
 ip dns static add address=127.0.0.1 name=m.clkservice.youdao.com
 ip dns static add address=127.0.0.1 name=mcore.vcgame.cn
+ip dns static add address=127.0.0.1 name=mc.weather.com.cn
 ip dns static add address=127.0.0.1 name=mc.yandex.ru
 ip dns static add address=127.0.0.1 name=md.1drj.com
 ip dns static add address=127.0.0.1 name=mdap.alipaylog.com
@@ -1467,6 +1474,7 @@ ip dns static add address=127.0.0.1 name=p.domob.cn
 ip dns static add address=127.0.0.1 name=pegasus.cmcm.com
 ip dns static add address=127.0.0.1 name=pfpip.sina.com
 ip dns static add address=127.0.0.1 name=pfp.sina.com.cn
+ip dns static add address=127.0.0.1 name=pg-ad-b1.ws.126.net
 ip dns static add address=127.0.0.1 name=pgdt.gtimg.cn
 ip dns static add address=127.0.0.1 name=pgdt.ugdtimg.com
 ip dns static add address=127.0.0.1 name=photobucket.adnxs.com
@@ -1801,6 +1809,7 @@ ip dns static add address=127.0.0.1 name=ssp.0531kt.com
 ip dns static add address=127.0.0.1 name=ssp1.dmpdsp.com
 ip dns static add address=127.0.0.1 name=ssp.86str.com
 ip dns static add address=127.0.0.1 name=ssp.adpush.cn
+ip dns static add address=127.0.0.1 name=ssp.ad.xiaomi.com
 ip dns static add address=127.0.0.1 name=sspapi.youxiaoad.com
 ip dns static add address=127.0.0.1 name=ssp.chaohutechan.com
 ip dns static add address=127.0.0.1 name=ssp.dmpdsp.com

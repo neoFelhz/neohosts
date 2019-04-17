@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190315130422
+#version=20190417010758
 #*********************************************************
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
@@ -142,6 +142,7 @@
 0.0.0.0 ad.dqwjzm.com
 0.0.0.0 ad.duapps.com
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 ad.ettoday.net
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adfarm.mediaplex.com
 0.0.0.0 adfill.adview.cn
@@ -286,6 +287,7 @@
 0.0.0.0 a.hl.mi.com
 0.0.0.0 a.holagames.com
 0.0.0.0 aider-res.meizu.com
+0.0.0.0 aima.weathercn.com
 0.0.0.0 a.img.static.youmi.net
 0.0.0.0 ai.m.taobao.com
 0.0.0.0 ai.taobao.com
@@ -415,6 +417,7 @@
 0.0.0.0 badad.googleplex.com
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 baichuan.baidu.com
+0.0.0.0 baidu1.weather.com.cn
 0.0.0.0 baidu.greenxf.cn
 0.0.0.0 baidutv.baidu.com
 0.0.0.0 banner.alimama.com
@@ -458,6 +461,7 @@
 0.0.0.0 bigdata.adsunflower.com
 0.0.0.0 bigdata.adups.com
 0.0.0.0 bigdata.advmob.cn
+0.0.0.0 bima.weathercn.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 bite.theta.sogoucdn.com
 0.0.0.0 biz.live.xunlei.com
@@ -785,6 +789,7 @@
 0.0.0.0 dl.uu.cc
 0.0.0.0 dl.wan.sogoucdn.com
 0.0.0.0 dl.youjia2016.com
+0.0.0.0 dma.15tianqi.com
 0.0.0.0 dm.aizhan.com
 0.0.0.0 dm.bytedance.com
 0.0.0.0 dmm.aizhan.com
@@ -1157,6 +1162,7 @@
 0.0.0.0 jqmt.qq.com
 0.0.0.0 js.50bang.org
 0.0.0.0 js.51taifu.com
+0.0.0.0 jsa.15tianqi.com
 0.0.0.0 jsadsdisplay.cn-beijing.log.aliyuncs.com
 0.0.0.0 js-apac-ss.ysm.yahoo.com
 0.0.0.0 js.icast.cn
@@ -1262,6 +1268,7 @@
 0.0.0.0 mclick.simba.taobao.com
 0.0.0.0 m.clkservice.youdao.com
 0.0.0.0 mcore.vcgame.cn
+0.0.0.0 mc.weather.com.cn
 0.0.0.0 mc.yandex.ru
 0.0.0.0 md.1drj.com
 0.0.0.0 mdap.alipaylog.com
@@ -1485,6 +1492,7 @@
 0.0.0.0 pegasus.cmcm.com
 0.0.0.0 pfpip.sina.com
 0.0.0.0 pfp.sina.com.cn
+0.0.0.0 pg-ad-b1.ws.126.net
 0.0.0.0 pgdt.gtimg.cn
 0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 photobucket.adnxs.com
@@ -1819,6 +1827,7 @@
 0.0.0.0 ssp1.dmpdsp.com
 0.0.0.0 ssp.86str.com
 0.0.0.0 ssp.adpush.cn
+0.0.0.0 ssp.ad.xiaomi.com
 0.0.0.0 sspapi.youxiaoad.com
 0.0.0.0 ssp.chaohutechan.com
 0.0.0.0 ssp.dmpdsp.com
@@ -2350,6 +2359,7 @@
 :: ad.dqwjzm.com
 :: ad.duapps.com
 :: ade.googlesyndication.com
+:: ad.ettoday.net
 :: adeventtracker.spotify.com
 :: adfarm.mediaplex.com
 :: adfill.adview.cn
@@ -2494,6 +2504,7 @@
 :: a.hl.mi.com
 :: a.holagames.com
 :: aider-res.meizu.com
+:: aima.weathercn.com
 :: a.img.static.youmi.net
 :: ai.m.taobao.com
 :: ai.taobao.com
@@ -2623,6 +2634,7 @@
 :: badad.googleplex.com
 :: b.ads1.msn.com
 :: baichuan.baidu.com
+:: baidu1.weather.com.cn
 :: baidu.greenxf.cn
 :: baidutv.baidu.com
 :: banner.alimama.com
@@ -2666,6 +2678,7 @@
 :: bigdata.adsunflower.com
 :: bigdata.adups.com
 :: bigdata.advmob.cn
+:: bima.weathercn.com
 :: bingads.microsoft.com
 :: bite.theta.sogoucdn.com
 :: biz.live.xunlei.com
@@ -2993,6 +3006,7 @@
 :: dl.uu.cc
 :: dl.wan.sogoucdn.com
 :: dl.youjia2016.com
+:: dma.15tianqi.com
 :: dm.aizhan.com
 :: dm.bytedance.com
 :: dmm.aizhan.com
@@ -3365,6 +3379,7 @@
 :: jqmt.qq.com
 :: js.50bang.org
 :: js.51taifu.com
+:: jsa.15tianqi.com
 :: jsadsdisplay.cn-beijing.log.aliyuncs.com
 :: js-apac-ss.ysm.yahoo.com
 :: js.icast.cn
@@ -3470,6 +3485,7 @@
 :: mclick.simba.taobao.com
 :: m.clkservice.youdao.com
 :: mcore.vcgame.cn
+:: mc.weather.com.cn
 :: mc.yandex.ru
 :: md.1drj.com
 :: mdap.alipaylog.com
@@ -3693,6 +3709,7 @@
 :: pegasus.cmcm.com
 :: pfpip.sina.com
 :: pfp.sina.com.cn
+:: pg-ad-b1.ws.126.net
 :: pgdt.gtimg.cn
 :: pgdt.ugdtimg.com
 :: photobucket.adnxs.com
@@ -4027,6 +4044,7 @@
 :: ssp1.dmpdsp.com
 :: ssp.86str.com
 :: ssp.adpush.cn
+:: ssp.ad.xiaomi.com
 :: sspapi.youxiaoad.com
 :: ssp.chaohutechan.com
 :: ssp.dmpdsp.com

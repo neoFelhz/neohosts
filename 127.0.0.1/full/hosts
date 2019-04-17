@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190315130422
+#version=20190417010758
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -186,6 +186,7 @@
 127.0.0.1 ad.dqwjzm.com
 127.0.0.1 ad.duapps.com
 127.0.0.1 ade.googlesyndication.com
+127.0.0.1 ad.ettoday.net
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 adfill.adview.cn
@@ -348,6 +349,7 @@
 127.0.0.1 a.holagames.com
 127.0.0.1 aider-res.meizu.com
 127.0.0.1 aidps.atdmt.com
+127.0.0.1 aima.weathercn.com
 127.0.0.1 a.img.static.youmi.net
 127.0.0.1 ai.m.taobao.com
 127.0.0.1 aim.yoyi.com.cn
@@ -537,6 +539,7 @@
 127.0.0.1 badad.googleplex.com
 127.0.0.1 b.ads1.msn.com
 127.0.0.1 baichuan.baidu.com
+127.0.0.1 baidu1.weather.com.cn
 127.0.0.1 baidu.greenxf.cn
 127.0.0.1 baidutv.baidu.com
 127.0.0.1 banlv.baidu.com
@@ -591,6 +594,7 @@
 127.0.0.1 bigdata.adsunflower.com
 127.0.0.1 bigdata.adups.com
 127.0.0.1 bigdata.advmob.cn
+127.0.0.1 bima.weathercn.com
 127.0.0.1 bingads.microsoft.com
 127.0.0.1 bingdianhuanyuan.cn
 127.0.0.1 bite.theta.sogoucdn.com
@@ -1064,6 +1068,7 @@
 127.0.0.1 dl-vip.pcfaster.baidu.co.th
 127.0.0.1 dl.wan.sogoucdn.com
 127.0.0.1 dl.youjia2016.com
+127.0.0.1 dma.15tianqi.com
 127.0.0.1 dm.aizhan.com
 127.0.0.1 dmapp.youku.com
 127.0.0.1 dm.bytedance.com
@@ -1669,6 +1674,7 @@
 127.0.0.1 js883.njqunyi.com
 127.0.0.1 js883.yongkang6.com
 127.0.0.1 js.9ads.net
+127.0.0.1 jsa.15tianqi.com
 127.0.0.1 jsadsdisplay.cn-beijing.log.aliyuncs.com
 127.0.0.1 js.adxkj.com
 127.0.0.1 js-apac-ss.ysm.yahoo.com
@@ -1859,6 +1865,7 @@
 127.0.0.1 m.clubske.com
 127.0.0.1 mcore.vcgame.cn
 127.0.0.1 m.ctsywy.com
+127.0.0.1 mc.weather.com.cn
 127.0.0.1 mc.yandex.ru
 127.0.0.1 md.1drj.com
 127.0.0.1 m.dante2007.com
@@ -2182,6 +2189,7 @@
 127.0.0.1 pegasus.cmcm.com
 127.0.0.1 pfpip.sina.com
 127.0.0.1 pfp.sina.com.cn
+127.0.0.1 pg-ad-b1.ws.126.net
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 pgdt.ugdtimg.com
 127.0.0.1 photobucket.adnxs.com
@@ -2824,6 +2832,7 @@
 127.0.0.1 ssp1.dmpdsp.com
 127.0.0.1 ssp.86str.com
 127.0.0.1 ssp.adpush.cn
+127.0.0.1 ssp.ad.xiaomi.com
 127.0.0.1 sspapi.youxiaoad.com
 127.0.0.1 ssp.chaohutechan.com
 127.0.0.1 ssp.dmpdsp.com
@@ -3906,6 +3915,7 @@
 :: ad.dqwjzm.com
 :: ad.duapps.com
 :: ade.googlesyndication.com
+:: ad.ettoday.net
 :: adeventtracker.spotify.com
 :: adfarm.mediaplex.com
 :: adfill.adview.cn
@@ -4068,6 +4078,7 @@
 :: a.holagames.com
 :: aider-res.meizu.com
 :: aidps.atdmt.com
+:: aima.weathercn.com
 :: a.img.static.youmi.net
 :: ai.m.taobao.com
 :: aim.yoyi.com.cn
@@ -4257,6 +4268,7 @@
 :: badad.googleplex.com
 :: b.ads1.msn.com
 :: baichuan.baidu.com
+:: baidu1.weather.com.cn
 :: baidu.greenxf.cn
 :: baidutv.baidu.com
 :: banlv.baidu.com
@@ -4311,6 +4323,7 @@
 :: bigdata.adsunflower.com
 :: bigdata.adups.com
 :: bigdata.advmob.cn
+:: bima.weathercn.com
 :: bingads.microsoft.com
 :: bingdianhuanyuan.cn
 :: bite.theta.sogoucdn.com
@@ -4784,6 +4797,7 @@
 :: dl-vip.pcfaster.baidu.co.th
 :: dl.wan.sogoucdn.com
 :: dl.youjia2016.com
+:: dma.15tianqi.com
 :: dm.aizhan.com
 :: dmapp.youku.com
 :: dm.bytedance.com
@@ -5389,6 +5403,7 @@
 :: js883.njqunyi.com
 :: js883.yongkang6.com
 :: js.9ads.net
+:: jsa.15tianqi.com
 :: jsadsdisplay.cn-beijing.log.aliyuncs.com
 :: js.adxkj.com
 :: js-apac-ss.ysm.yahoo.com
@@ -5579,6 +5594,7 @@
 :: m.clubske.com
 :: mcore.vcgame.cn
 :: m.ctsywy.com
+:: mc.weather.com.cn
 :: mc.yandex.ru
 :: md.1drj.com
 :: m.dante2007.com
@@ -5902,6 +5918,7 @@
 :: pegasus.cmcm.com
 :: pfpip.sina.com
 :: pfp.sina.com.cn
+:: pg-ad-b1.ws.126.net
 :: pgdt.gtimg.cn
 :: pgdt.ugdtimg.com
 :: photobucket.adnxs.com
@@ -6544,6 +6561,7 @@
 :: ssp1.dmpdsp.com
 :: ssp.86str.com
 :: ssp.adpush.cn
+:: ssp.ad.xiaomi.com
 :: sspapi.youxiaoad.com
 :: ssp.chaohutechan.com
 :: ssp.dmpdsp.com
