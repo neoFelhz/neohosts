@@ -18,11 +18,11 @@
 
 ## Download 下载
 
-### [Basic Hosts](https://hosts.nfz.moe/basic/hosts)
+### [Basic Hosts](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts)
 
 > 基础、克制的数据，推荐所有用户使用。
 
-### [Full Hosts](https://hosts.nfz.moe/full/hosts)
+### [Full Hosts](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts)
 
 > 包含全部数据，仅推荐强迫症使用。相比 Basic Hosts，Full Hosts 额外屏蔽了以下内容：
 
@@ -34,19 +34,19 @@
 - CNNIC 根证书劫持
 - 法轮功等可能令人反感的激进宗教内容网站
 
-### [Basic Compatible Hosts](https://hosts.nfz.moe/127.0.0.1/basic/hosts)
+### [Basic Compatible Hosts](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/127.0.0.1/basic/hosts)
 
 > 基于 Basic Hosts，广告域名会被定向至 127.0.0.1 而不是 0.0.0.0，兼容性更好。
 
-### [Full Compatible Hosts](https://hosts.nfz.moe/127.0.0.1/full/hosts)
+### [Full Compatible Hosts](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/127.0.0.1/full/hosts)
 
 > 基于 Full Hosts，广告域名会被定向至 127.0.0.1 而不是 0.0.0.0，兼容性更好。
 
-### [Basic Mikrotik](https://hosts.nfz.moe/basic/mikrotik.rsc)
+### [Basic Mikrotik](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/mikrotik.rsc)
 
 > 基于 Basic Hosts 的 Mikrotik 脚本，建议定期从源抓取并执行。
 
-### [Full Mikrotik](https://hosts.nfz.moe/full/mikrotik.rsc)
+### [Full Mikrotik](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/mikrotik.rsc)
 
 > 基于 Full Hosts 的 Mikrotik 脚本，建议定期从源抓取并执行。
 
