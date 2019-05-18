@@ -1008,7 +1008,6 @@ ip dns static add address=127.0.0.1 name=ddrrccck.m.qxs.la
 ip dns static add address=127.0.0.1 name=delivery.dmkt-sp.jp
 ip dns static add address=127.0.0.1 name=demo.adsame.com
 ip dns static add address=127.0.0.1 name=de.pandora.xiaomi.com
-ip dns static add address=127.0.0.1 name=devnull.perfops.net
 ip dns static add address=127.0.0.1 name=dev.tg.wan.360.cn
 ip dns static add address=127.0.0.1 name=dev.umeng.com
 ip dns static add address=127.0.0.1 name=dfc1.benbaisteel.com

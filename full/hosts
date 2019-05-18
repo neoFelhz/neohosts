@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190417062004
+#version=20190518104608
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -1026,7 +1026,6 @@
 0.0.0.0 delivery.dmkt-sp.jp
 0.0.0.0 demo.adsame.com
 0.0.0.0 de.pandora.xiaomi.com
-0.0.0.0 devnull.perfops.net
 0.0.0.0 dev.tg.wan.360.cn
 0.0.0.0 dev.umeng.com
 0.0.0.0 dfc1.benbaisteel.com
@@ -4755,7 +4754,6 @@
 :: delivery.dmkt-sp.jp
 :: demo.adsame.com
 :: de.pandora.xiaomi.com
-:: devnull.perfops.net
 :: dev.tg.wan.360.cn
 :: dev.umeng.com
 :: dfc1.benbaisteel.com
