@@ -131,3 +131,7 @@
 0.0.0.0 log.vcdn.io
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 amoeba.fudata.cn
+0.0.0.0 events.browsiprod.com
+0.0.0.0 vars.hotjar.com
+0.0.0.0 api.stack-sonar.com
+0.0.0.0 www.stack-sonar.com
