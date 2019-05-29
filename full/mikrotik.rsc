@@ -331,6 +331,7 @@ ip dns static add address=127.0.0.1 name=a.hl.mi.com
 ip dns static add address=127.0.0.1 name=a.holagames.com
 ip dns static add address=127.0.0.1 name=aider-res.meizu.com
 ip dns static add address=127.0.0.1 name=aidps.atdmt.com
+ip dns static add address=127.0.0.1 name=aid.send.microad.jp
 ip dns static add address=127.0.0.1 name=aima.weathercn.com
 ip dns static add address=127.0.0.1 name=a.img.static.youmi.net
 ip dns static add address=127.0.0.1 name=ai.m.taobao.com
@@ -1516,6 +1517,7 @@ ip dns static add address=127.0.0.1 name=img.adnyg.com.w.kunlungr.com
 ip dns static add address=127.0.0.1 name=img-ad.oupeng.com
 ip dns static add address=127.0.0.1 name=img.adpush.cn
 ip dns static add address=127.0.0.1 name=img.ad.zhangyue.com
+ip dns static add address=127.0.0.1 name=img.ak.impact-ad.jp
 ip dns static add address=127.0.0.1 name=img.alimama.cn
 ip dns static add address=127.0.0.1 name=imgaliyun.da.mgtv.com
 ip dns static add address=127.0.0.1 name=imgaliyun.res.mgtv.com
@@ -1611,6 +1613,7 @@ ip dns static add address=127.0.0.1 name=jellyfish.pandora.xiaomi.com
 ip dns static add address=127.0.0.1 name=j.fd7c.com
 ip dns static add address=127.0.0.1 name=jfdaily.adsame.com
 ip dns static add address=127.0.0.1 name=jfm4.pop.baofeng.net
+ip dns static add address=127.0.0.1 name=jgl.microad.net
 ip dns static add address=127.0.0.1 name=j.hongyangpai.com
 ip dns static add address=127.0.0.1 name=jiayi1.oss-cn-shanghai.aliyuncs.com
 ip dns static add address=127.0.0.1 name=jifen.2345.com
@@ -1624,6 +1627,7 @@ ip dns static add address=127.0.0.1 name=jldnserror2.wo.com.cn
 ip dns static add address=127.0.0.1 name=jldnserror3.wo.com.cn
 ip dns static add address=127.0.0.1 name=jldnserror4.wo.com.cn
 ip dns static add address=127.0.0.1 name=jldnserror5.wo.com.cn
+ip dns static add address=127.0.0.1 name=j.microad.net
 ip dns static add address=127.0.0.1 name=jpg.cooguo.com
 ip dns static add address=127.0.0.1 name=jpg.inte.sogoucdn.com
 ip dns static add address=127.0.0.1 name=jpush.html5.qq.com
@@ -2087,6 +2091,7 @@ ip dns static add address=127.0.0.1 name=opehs.tanx.com
 ip dns static add address=127.0.0.1 name=openapi.guanjia.qq.com
 ip dns static add address=127.0.0.1 name=openapi-news.meizu.com
 ip dns static add address=127.0.0.1 name=openbox.mobilem.360.cn
+ip dns static add address=127.0.0.1 name=open-pixon.ads-pixiv.net
 ip dns static add address=127.0.0.1 name=open.play.cn
 ip dns static add address=127.0.0.1 name=openrcv.baidu.com
 ip dns static add address=127.0.0.1 name=ope.tanx.com
@@ -2201,6 +2206,7 @@ ip dns static add address=127.0.0.1 name=pixel.sitescout.com
 ip dns static add address=127.0.0.1 name=pixel.tapad.com
 ip dns static add address=127.0.0.1 name=pix.impdesk.com
 ip dns static add address=127.0.0.1 name=pixiu.shangshufang.ksosoft.com
+ip dns static add address=127.0.0.1 name=pixon.ads-pixiv.net
 ip dns static add address=127.0.0.1 name=pjyu.golden1.sogou.com
 ip dns static add address=127.0.0.1 name=pkg-cdn.youmi.net
 ip dns static add address=127.0.0.1 name=p.kjwx8.com
@@ -2847,6 +2853,7 @@ ip dns static add address=127.0.0.1 name=static.doubleclick.net
 ip dns static add address=127.0.0.1 name=static.exosrv.com
 ip dns static add address=127.0.0.1 name=static.flv.uuzuonline.com
 ip dns static add address=127.0.0.1 name=static.googleadsserving.cn
+ip dns static add address=127.0.0.1 name=static.hotjar.com
 ip dns static add address=127.0.0.1 name=static.houyi.baofeng.net
 ip dns static add address=127.0.0.1 name=static.mackeeper.com
 ip dns static add address=127.0.0.1 name=static.mct01.com
@@ -2944,6 +2951,7 @@ ip dns static add address=127.0.0.1 name=t5.51maiwanju.com
 ip dns static add address=127.0.0.1 name=t6.51maiwanju.com
 ip dns static add address=127.0.0.1 name=t.ads.sohu.com
 ip dns static add address=127.0.0.1 name=tags.bluekai.com
+ip dns static add address=127.0.0.1 name=tag-store.ads-pixiv.net
 ip dns static add address=127.0.0.1 name=tajs.qq.com
 ip dns static add address=127.0.0.1 name=t.alimama.com
 ip dns static add address=127.0.0.1 name=talk.nz.igexin.com
@@ -3657,6 +3665,7 @@ ip dns static add address=127.0.0.1 name=yktd.ads.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=yktd.cm.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=yktd.m.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=ym.adnxs.com
+ip dns static add address=127.0.0.1 name=y.one.impact-ad.jp
 ip dns static add address=127.0.0.1 name=youjia2016.com
 ip dns static add address=127.0.0.1 name=youku-dtv.m.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=youle.tom.com

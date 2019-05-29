@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190518104608
+#version=20190529070332
 #*********************************************************
 127.0.0.1 0.r.msn.com
 127.0.0.1 1100.adsina.allyes.com
@@ -287,6 +287,7 @@
 127.0.0.1 a.hl.mi.com
 127.0.0.1 a.holagames.com
 127.0.0.1 aider-res.meizu.com
+127.0.0.1 aid.send.microad.jp
 127.0.0.1 aima.weathercn.com
 127.0.0.1 a.img.static.youmi.net
 127.0.0.1 ai.m.taobao.com
@@ -1093,6 +1094,7 @@
 127.0.0.1 img-ad.oupeng.com
 127.0.0.1 img.adpush.cn
 127.0.0.1 img.ad.zhangyue.com
+127.0.0.1 img.ak.impact-ad.jp
 127.0.0.1 img.alimama.cn
 127.0.0.1 img.amp.ad.sina.com.cn
 127.0.0.1 img-cdn-spot.ymcdn.cn
@@ -1148,6 +1150,7 @@
 127.0.0.1 jebe.renren.com
 127.0.0.1 jebe.xnimg.cn
 127.0.0.1 jellyfish.pandora.xiaomi.com
+127.0.0.1 jgl.microad.net
 127.0.0.1 j.hongyangpai.com
 127.0.0.1 jiayi1.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 jifen.2345.com
@@ -1157,6 +1160,7 @@
 127.0.0.1 jldnserror3.wo.com.cn
 127.0.0.1 jldnserror4.wo.com.cn
 127.0.0.1 jldnserror5.wo.com.cn
+127.0.0.1 j.microad.net
 127.0.0.1 jpg.inte.sogoucdn.com
 127.0.0.1 jpush.html5.qq.com
 127.0.0.1 jqmt.qq.com
@@ -1431,6 +1435,7 @@
 127.0.0.1 openapi.guanjia.qq.com
 127.0.0.1 openapi-news.meizu.com
 127.0.0.1 openbox.mobilem.360.cn
+127.0.0.1 open-pixon.ads-pixiv.net
 127.0.0.1 open.play.cn
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 ope.tanx.com
@@ -1515,6 +1520,7 @@
 127.0.0.1 pixel.tapad.com
 127.0.0.1 pix.impdesk.com
 127.0.0.1 pixiu.shangshufang.ksosoft.com
+127.0.0.1 pixon.ads-pixiv.net
 127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 pkg-cdn.youmi.net
 127.0.0.1 p.kjwx8.com
@@ -1857,6 +1863,7 @@
 127.0.0.1 static.exosrv.com
 127.0.0.1 static.flv.uuzuonline.com
 127.0.0.1 static.googleadsserving.cn
+127.0.0.1 static.hotjar.com
 127.0.0.1 static.mct01.com
 127.0.0.1 static.m.sjzhushou.com
 127.0.0.1 static.tzyiyuantuan.com
@@ -1918,6 +1925,7 @@
 127.0.0.1 sys.zhangyue.com
 127.0.0.1 t.ads.sohu.com
 127.0.0.1 tags.bluekai.com
+127.0.0.1 tag-store.ads-pixiv.net
 127.0.0.1 tajs.qq.com
 127.0.0.1 t.alimama.com
 127.0.0.1 tanxlog.istreamsche.com
@@ -2210,6 +2218,7 @@
 127.0.0.1 yeskyafp.allyes.com
 127.0.0.1 yiliao.hupan.com
 127.0.0.1 ym.adnxs.com
+127.0.0.1 y.one.impact-ad.jp
 127.0.0.1 youjia2016.com
 127.0.0.1 youle.tom.com
 127.0.0.1 ypv.chengadx.com
@@ -2504,6 +2513,7 @@
 :: a.hl.mi.com
 :: a.holagames.com
 :: aider-res.meizu.com
+:: aid.send.microad.jp
 :: aima.weathercn.com
 :: a.img.static.youmi.net
 :: ai.m.taobao.com
@@ -3310,6 +3320,7 @@
 :: img-ad.oupeng.com
 :: img.adpush.cn
 :: img.ad.zhangyue.com
+:: img.ak.impact-ad.jp
 :: img.alimama.cn
 :: img.amp.ad.sina.com.cn
 :: img-cdn-spot.ymcdn.cn
@@ -3365,6 +3376,7 @@
 :: jebe.renren.com
 :: jebe.xnimg.cn
 :: jellyfish.pandora.xiaomi.com
+:: jgl.microad.net
 :: j.hongyangpai.com
 :: jiayi1.oss-cn-shanghai.aliyuncs.com
 :: jifen.2345.com
@@ -3374,6 +3386,7 @@
 :: jldnserror3.wo.com.cn
 :: jldnserror4.wo.com.cn
 :: jldnserror5.wo.com.cn
+:: j.microad.net
 :: jpg.inte.sogoucdn.com
 :: jpush.html5.qq.com
 :: jqmt.qq.com
@@ -3648,6 +3661,7 @@
 :: openapi.guanjia.qq.com
 :: openapi-news.meizu.com
 :: openbox.mobilem.360.cn
+:: open-pixon.ads-pixiv.net
 :: open.play.cn
 :: openrcv.baidu.com
 :: ope.tanx.com
@@ -3732,6 +3746,7 @@
 :: pixel.tapad.com
 :: pix.impdesk.com
 :: pixiu.shangshufang.ksosoft.com
+:: pixon.ads-pixiv.net
 :: pjyu.golden1.sogou.com
 :: pkg-cdn.youmi.net
 :: p.kjwx8.com
@@ -4074,6 +4089,7 @@
 :: static.exosrv.com
 :: static.flv.uuzuonline.com
 :: static.googleadsserving.cn
+:: static.hotjar.com
 :: static.mct01.com
 :: static.m.sjzhushou.com
 :: static.tzyiyuantuan.com
@@ -4135,6 +4151,7 @@
 :: sys.zhangyue.com
 :: t.ads.sohu.com
 :: tags.bluekai.com
+:: tag-store.ads-pixiv.net
 :: tajs.qq.com
 :: t.alimama.com
 :: tanxlog.istreamsche.com
@@ -4427,6 +4444,7 @@
 :: yeskyafp.allyes.com
 :: yiliao.hupan.com
 :: ym.adnxs.com
+:: y.one.impact-ad.jp
 :: youjia2016.com
 :: youle.tom.com
 :: ypv.chengadx.com
