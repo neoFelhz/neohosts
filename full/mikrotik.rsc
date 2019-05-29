@@ -447,6 +447,7 @@ ip dns static add address=127.0.0.1 name=api.share.baidu.com
 ip dns static add address=127.0.0.1 name=api-shoulei-ssl.xunlei.com
 ip dns static add address=127.0.0.1 name=api.shuaji.360.cn
 ip dns static add address=127.0.0.1 name=api.so.lianmeng.360.cn
+ip dns static add address=127.0.0.1 name=api.stack-sonar.com
 ip dns static add address=127.0.0.1 name=apistaging.airpush.com
 ip dns static add address=127.0.0.1 name=apistat.adbana.com
 ip dns static add address=127.0.0.1 name=api.tongji.today
@@ -1207,6 +1208,7 @@ ip dns static add address=127.0.0.1 name=eventlog.beacon.qq.com
 ip dns static add address=127.0.0.1 name=eventlog.hd.baofeng.com
 ip dns static add address=127.0.0.1 name=event.mackeeper.com
 ip dns static add address=127.0.0.1 name=events.appsflyer.com
+ip dns static add address=127.0.0.1 name=events.browsiprod.com
 ip dns static add address=127.0.0.1 name=events.pingan.com
 ip dns static add address=127.0.0.1 name=eviltracker.net
 ip dns static add address=127.0.0.1 name=e.wikigifth.com
@@ -3189,6 +3191,7 @@ ip dns static add address=127.0.0.1 name=valf.atm.youku.com
 ip dns static add address=127.0.0.1 name=valp.atm.youku.com
 ip dns static add address=127.0.0.1 name=valt.atm.youku.com
 ip dns static add address=127.0.0.1 name=vamaker.cm.admaster.com.cn
+ip dns static add address=127.0.0.1 name=vars.hotjar.com
 ip dns static add address=127.0.0.1 name=vatrack.hinet.net
 ip dns static add address=127.0.0.1 name=va.videojj.com
 ip dns static add address=127.0.0.1 name=vbaof.admaster.com.cn
@@ -3542,6 +3545,7 @@ ip dns static add address=127.0.0.1 name=www.shenyun.org
 ip dns static add address=127.0.0.1 name=www.shenyunperformingarts.org
 ip dns static add address=127.0.0.1 name=www.shenzhoufilm.com
 ip dns static add address=127.0.0.1 name=www.soundofhope.org
+ip dns static add address=127.0.0.1 name=www.stack-sonar.com
 ip dns static add address=127.0.0.1 name=www.steepto.com
 ip dns static add address=127.0.0.1 name=www.tixing51.net
 ip dns static add address=127.0.0.1 name=www.tuidang.org

@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190529070332
+#version=20190529083506
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -465,6 +465,7 @@
 127.0.0.1 api-shoulei-ssl.xunlei.com
 127.0.0.1 api.shuaji.360.cn
 127.0.0.1 api.so.lianmeng.360.cn
+127.0.0.1 api.stack-sonar.com
 127.0.0.1 apistaging.airpush.com
 127.0.0.1 apistat.adbana.com
 127.0.0.1 api.tongji.today
@@ -1225,6 +1226,7 @@
 127.0.0.1 eventlog.hd.baofeng.com
 127.0.0.1 event.mackeeper.com
 127.0.0.1 events.appsflyer.com
+127.0.0.1 events.browsiprod.com
 127.0.0.1 events.pingan.com
 127.0.0.1 eviltracker.net
 127.0.0.1 e.wikigifth.com
@@ -3207,6 +3209,7 @@
 127.0.0.1 valp.atm.youku.com
 127.0.0.1 valt.atm.youku.com
 127.0.0.1 vamaker.cm.admaster.com.cn
+127.0.0.1 vars.hotjar.com
 127.0.0.1 vatrack.hinet.net
 127.0.0.1 va.videojj.com
 127.0.0.1 vbaof.admaster.com.cn
@@ -3560,6 +3563,7 @@
 127.0.0.1 www.shenyunperformingarts.org
 127.0.0.1 www.shenzhoufilm.com
 127.0.0.1 www.soundofhope.org
+127.0.0.1 www.stack-sonar.com
 127.0.0.1 www.steepto.com
 127.0.0.1 www.tixing51.net
 127.0.0.1 www.tuidang.org
@@ -4202,6 +4206,7 @@
 :: api-shoulei-ssl.xunlei.com
 :: api.shuaji.360.cn
 :: api.so.lianmeng.360.cn
+:: api.stack-sonar.com
 :: apistaging.airpush.com
 :: apistat.adbana.com
 :: api.tongji.today
@@ -4962,6 +4967,7 @@
 :: eventlog.hd.baofeng.com
 :: event.mackeeper.com
 :: events.appsflyer.com
+:: events.browsiprod.com
 :: events.pingan.com
 :: eviltracker.net
 :: e.wikigifth.com
@@ -6944,6 +6950,7 @@
 :: valp.atm.youku.com
 :: valt.atm.youku.com
 :: vamaker.cm.admaster.com.cn
+:: vars.hotjar.com
 :: vatrack.hinet.net
 :: va.videojj.com
 :: vbaof.admaster.com.cn
@@ -7297,6 +7304,7 @@
 :: www.shenyunperformingarts.org
 :: www.shenzhoufilm.com
 :: www.soundofhope.org
+:: www.stack-sonar.com
 :: www.steepto.com
 :: www.tixing51.net
 :: www.tuidang.org
