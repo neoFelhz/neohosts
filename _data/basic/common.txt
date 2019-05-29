@@ -675,7 +675,17 @@
 0.0.0.0 mc.weather.com.cn
 0.0.0.0 dma.15tianqi.com
 0.0.0.0 jsa.15tianqi.com
+0.0.0.0 static.hotjar.com
 # Aizhan
 0.0.0.0 fpbb.aizhan.com
 0.0.0.0 dmm.aizhan.com
 0.0.0.0 dm.aizhan.com
+# Pixiv
+0.0.0.0 pixon.ads-pixiv.net
+0.0.0.0 open-pixon.ads-pixiv.net
+0.0.0.0 tag-store.ads-pixiv.net
+0.0.0.0 j.microad.net
+0.0.0.0 jgl.microad.net
+0.0.0.0 aid.send.microad.jp
+0.0.0.0 img.ak.impact-ad.jp
+0.0.0.0 y.one.impact-ad.jp
