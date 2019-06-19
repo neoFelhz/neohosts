@@ -2419,7 +2419,6 @@ ip dns static add address=127.0.0.1 name=rubicon-match.dotomi.com
 ip dns static add address=127.0.0.1 name=rub.pxl.ace.advertising.com
 ip dns static add address=127.0.0.1 name=rudy.adsnative.com
 ip dns static add address=127.0.0.1 name=rules-ltvp.inmobi.com
-ip dns static add address=127.0.0.1 name=rum.perfops.net
 ip dns static add address=127.0.0.1 name=rwq.youle55.com
 ip dns static add address=127.0.0.1 name=r.youmi.net
 ip dns static add address=127.0.0.1 name=s0.2mdn.net
@@ -2436,6 +2435,7 @@ ip dns static add address=127.0.0.1 name=s107.cnzz.com
 ip dns static add address=127.0.0.1 name=s108.cnzz.com
 ip dns static add address=127.0.0.1 name=s109.cnzz.com
 ip dns static add address=127.0.0.1 name=s10.cnzz.com
+ip dns static add address=127.0.0.1 name=s10.histats.com
 ip dns static add address=127.0.0.1 name=s110.cnzz.com
 ip dns static add address=127.0.0.1 name=s111.cnzz.com
 ip dns static add address=127.0.0.1 name=s112.cnzz.com
@@ -2456,7 +2456,9 @@ ip dns static add address=127.0.0.1 name=s125.cnzz.com
 ip dns static add address=127.0.0.1 name=s126.cnzz.com
 ip dns static add address=127.0.0.1 name=s127.cnzz.com
 ip dns static add address=127.0.0.1 name=s128.cnzz.com
+ip dns static add address=127.0.0.1 name=s128.histats.com
 ip dns static add address=127.0.0.1 name=s129.cnzz.com
+ip dns static add address=127.0.0.1 name=s129js.histats.com
 ip dns static add address=127.0.0.1 name=s12.cnzz.com
 ip dns static add address=127.0.0.1 name=s1.2mdn.net
 ip dns static add address=127.0.0.1 name=s130.cnzz.com
@@ -2521,6 +2523,10 @@ ip dns static add address=127.0.0.1 name=s47.cnzz.com
 ip dns static add address=127.0.0.1 name=s48.cnzz.com
 ip dns static add address=127.0.0.1 name=s49.cnzz.com
 ip dns static add address=127.0.0.1 name=s4.cnzz.com
+ip dns static add address=127.0.0.1 name=s4.histats.com
+ip dns static add address=127.0.0.1 name=s4.hit.stat24.com
+ip dns static add address=127.0.0.1 name=s4.hit.stat.pl
+ip dns static add address=127.0.0.1 name=s4is.histats.com
 ip dns static add address=127.0.0.1 name=s50.cnzz.com
 ip dns static add address=127.0.0.1 name=s51.cnzz.com
 ip dns static add address=127.0.0.1 name=s52.cnzz.com
@@ -2840,6 +2846,7 @@ ip dns static add address=127.0.0.1 name=sspservice.ad-survey.com
 ip dns static add address=127.0.0.1 name=ssp.thescenseproject.com
 ip dns static add address=127.0.0.1 name=ssp.youxiaoad.com
 ip dns static add address=127.0.0.1 name=sssvd.china.com
+ip dns static add address=127.0.0.1 name=sstatic1.histats.com
 ip dns static add address=127.0.0.1 name=stadig0.ifeng.com
 ip dns static add address=127.0.0.1 name=stadig.ifeng.com
 ip dns static add address=127.0.0.1 name=staging.admin.e.mi.com

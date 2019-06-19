@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190619084013
+#version=20190619084851
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -2437,7 +2437,6 @@
 0.0.0.0 rub.pxl.ace.advertising.com
 0.0.0.0 rudy.adsnative.com
 0.0.0.0 rules-ltvp.inmobi.com
-0.0.0.0 rum.perfops.net
 0.0.0.0 rwq.youle55.com
 0.0.0.0 r.youmi.net
 0.0.0.0 s0.2mdn.net
@@ -2454,6 +2453,7 @@
 0.0.0.0 s108.cnzz.com
 0.0.0.0 s109.cnzz.com
 0.0.0.0 s10.cnzz.com
+0.0.0.0 s10.histats.com
 0.0.0.0 s110.cnzz.com
 0.0.0.0 s111.cnzz.com
 0.0.0.0 s112.cnzz.com
@@ -2474,7 +2474,9 @@
 0.0.0.0 s126.cnzz.com
 0.0.0.0 s127.cnzz.com
 0.0.0.0 s128.cnzz.com
+0.0.0.0 s128.histats.com
 0.0.0.0 s129.cnzz.com
+0.0.0.0 s129js.histats.com
 0.0.0.0 s12.cnzz.com
 0.0.0.0 s1.2mdn.net
 0.0.0.0 s130.cnzz.com
@@ -2539,6 +2541,10 @@
 0.0.0.0 s48.cnzz.com
 0.0.0.0 s49.cnzz.com
 0.0.0.0 s4.cnzz.com
+0.0.0.0 s4.histats.com
+0.0.0.0 s4.hit.stat24.com
+0.0.0.0 s4.hit.stat.pl
+0.0.0.0 s4is.histats.com
 0.0.0.0 s50.cnzz.com
 0.0.0.0 s51.cnzz.com
 0.0.0.0 s52.cnzz.com
@@ -2858,6 +2864,7 @@
 0.0.0.0 ssp.thescenseproject.com
 0.0.0.0 ssp.youxiaoad.com
 0.0.0.0 sssvd.china.com
+0.0.0.0 sstatic1.histats.com
 0.0.0.0 stadig0.ifeng.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 staging.admin.e.mi.com
@@ -6188,7 +6195,6 @@
 :: rub.pxl.ace.advertising.com
 :: rudy.adsnative.com
 :: rules-ltvp.inmobi.com
-:: rum.perfops.net
 :: rwq.youle55.com
 :: r.youmi.net
 :: s0.2mdn.net
@@ -6205,6 +6211,7 @@
 :: s108.cnzz.com
 :: s109.cnzz.com
 :: s10.cnzz.com
+:: s10.histats.com
 :: s110.cnzz.com
 :: s111.cnzz.com
 :: s112.cnzz.com
@@ -6225,7 +6232,9 @@
 :: s126.cnzz.com
 :: s127.cnzz.com
 :: s128.cnzz.com
+:: s128.histats.com
 :: s129.cnzz.com
+:: s129js.histats.com
 :: s12.cnzz.com
 :: s1.2mdn.net
 :: s130.cnzz.com
@@ -6290,6 +6299,10 @@
 :: s48.cnzz.com
 :: s49.cnzz.com
 :: s4.cnzz.com
+:: s4.histats.com
+:: s4.hit.stat24.com
+:: s4.hit.stat.pl
+:: s4is.histats.com
 :: s50.cnzz.com
 :: s51.cnzz.com
 :: s52.cnzz.com
@@ -6609,6 +6622,7 @@
 :: ssp.thescenseproject.com
 :: ssp.youxiaoad.com
 :: sssvd.china.com
+:: sstatic1.histats.com
 :: stadig0.ifeng.com
 :: stadig.ifeng.com
 :: staging.admin.e.mi.com
