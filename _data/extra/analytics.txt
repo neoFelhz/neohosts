@@ -100,6 +100,13 @@
 0.0.0.0 servicer.mgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 cdn.mgid.com
+# Histats
+0.0.0.0 sstatic1.histats.com
+0.0.0.0 s4is.histats.com
+0.0.0.0 s4.histats.com
+0.0.0.0 s129js.histats.com
+0.0.0.0 s128.histats.com
+0.0.0.0 s10.histats.com
 # Others
 0.0.0.0 s.qhupdate.com
 0.0.0.0 hs.qhupdate.com
@@ -126,7 +133,6 @@
 0.0.0.0 udpolimenew.baidu.com
 0.0.0.0 mlog.hiido.com
 0.0.0.0 data.haoma.sogou.com
-0.0.0.0 rum.perfops.net
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 log.vcdn.io
 0.0.0.0 sb.scorecardresearch.com
@@ -135,3 +141,5 @@
 0.0.0.0 vars.hotjar.com
 0.0.0.0 api.stack-sonar.com
 0.0.0.0 www.stack-sonar.com
+0.0.0.0 s4.hit.stat.pl
+0.0.0.0 s4.hit.stat24.com
