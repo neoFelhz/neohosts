@@ -661,6 +661,7 @@
 0.0.0.0 adserver.juicyads.com
 0.0.0.0 static.exosrv.com
 0.0.0.0 static.adxadserv.com
+0.0.0.0 ads.adxadserv.com
 0.0.0.0 pr.adxxx.com
 0.0.0.0 adxxx.com
 0.0.0.0 spcdnsp.i-mobile.co.jp
