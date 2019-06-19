@@ -407,4 +407,8 @@
 0.0.0.0 cdn.steepto.com
 0.0.0.0 www.steepto.com
 0.0.0.0 s-img.steepto.com
-
+# Others
+0.0.0.0 smpop.icfcdn.com
+0.0.0.0 cdn.onesignal.com
+0.0.0.0 www.kanjiantu.com
+0.0.0.0 www.1990tu.com
