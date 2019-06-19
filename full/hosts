@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190619084851
+#version=20190619085541
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -394,6 +394,8 @@
 0.0.0.0 analytics.atdmt.com
 0.0.0.0 analytics.hz.netease.com
 0.0.0.0 analytics.live.com
+0.0.0.0 analytics.msnbc.com
+0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 analytics.msn.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.r.msn.com
@@ -2465,6 +2467,7 @@
 0.0.0.0 s118.cnzz.com
 0.0.0.0 s119.cnzz.com
 0.0.0.0 s11.cnzz.com
+0.0.0.0 s11.histats.com
 0.0.0.0 s120.cnzz.com
 0.0.0.0 s121.cnzz.com
 0.0.0.0 s122.cnzz.com
@@ -4152,6 +4155,8 @@
 :: analytics.atdmt.com
 :: analytics.hz.netease.com
 :: analytics.live.com
+:: analytics.msnbc.com
+:: analytics.msnbc.msn.com
 :: analytics.msn.com
 :: analytics.query.yahoo.com
 :: analytics.r.msn.com
@@ -6223,6 +6228,7 @@
 :: s118.cnzz.com
 :: s119.cnzz.com
 :: s11.cnzz.com
+:: s11.histats.com
 :: s120.cnzz.com
 :: s121.cnzz.com
 :: s122.cnzz.com

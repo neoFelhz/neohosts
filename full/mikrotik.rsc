@@ -376,6 +376,8 @@ ip dns static add address=127.0.0.1 name=analytics.ad.daum.net
 ip dns static add address=127.0.0.1 name=analytics.atdmt.com
 ip dns static add address=127.0.0.1 name=analytics.hz.netease.com
 ip dns static add address=127.0.0.1 name=analytics.live.com
+ip dns static add address=127.0.0.1 name=analytics.msnbc.com
+ip dns static add address=127.0.0.1 name=analytics.msnbc.msn.com
 ip dns static add address=127.0.0.1 name=analytics.msn.com
 ip dns static add address=127.0.0.1 name=analytics.query.yahoo.com
 ip dns static add address=127.0.0.1 name=analytics.r.msn.com
@@ -2447,6 +2449,7 @@ ip dns static add address=127.0.0.1 name=s117.cnzz.com
 ip dns static add address=127.0.0.1 name=s118.cnzz.com
 ip dns static add address=127.0.0.1 name=s119.cnzz.com
 ip dns static add address=127.0.0.1 name=s11.cnzz.com
+ip dns static add address=127.0.0.1 name=s11.histats.com
 ip dns static add address=127.0.0.1 name=s120.cnzz.com
 ip dns static add address=127.0.0.1 name=s121.cnzz.com
 ip dns static add address=127.0.0.1 name=s122.cnzz.com
