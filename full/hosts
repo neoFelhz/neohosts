@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190529083506
+#version=20190619084013
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -86,12 +86,16 @@
 0.0.0.0 a1click.cpc.sogou.com
 0.0.0.0 a1.img.static.youmi.net
 0.0.0.0 a1.openxt.cn
+0.0.0.0 a1.zhanzhang.net
 0.0.0.0 a2315.oadz.com
 0.0.0.0 a2397.oadz.com
 0.0.0.0 a2.img.static.youmi.net
 0.0.0.0 a2.openxt.cn
+0.0.0.0 a2.zhanzhang.net
 0.0.0.0 a3.allyes.com
 0.0.0.0 a3.img.static.youmi.net
+0.0.0.0 a3.zhanzhang.net
+0.0.0.0 a4.zhanzhang.net
 0.0.0.0 a751.oadz.com
 0.0.0.0 a777.oadz.com
 0.0.0.0 a814.oadz.com
@@ -580,6 +584,7 @@
 0.0.0.0 bdv.bidvertiser.com
 0.0.0.0 beacon.gtimg.com
 0.0.0.0 beacon.sina.com.cn
+0.0.0.0 beacon.tingyun.com
 0.0.0.0 beap.adss.yahoo.com
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beha.ksmobile.com
@@ -1319,6 +1324,7 @@
 0.0.0.0 g.baidu.com
 0.0.0.0 gb.corp.163.com
 0.0.0.0 g.cn.miaozhen.com
+0.0.0.0 g.csdnimg.cn
 0.0.0.0 g.domob.cn
 0.0.0.0 g.d.yoyi.tv
 0.0.0.0 gemini.yahoo.com
@@ -1728,6 +1734,8 @@
 0.0.0.0 ktivn.uranus.sogou.com
 0.0.0.0 ku6.cnzz.com
 0.0.0.0 kuaikan.netmon.360safe.com
+0.0.0.0 kunpeng.csdn.net
+0.0.0.0 kunpeng-sc.csdnimg.cn
 0.0.0.0 kuzai.cooguo.com
 0.0.0.0 kv.stat.nearme.com.cn
 0.0.0.0 kwcdn.000dn.com
@@ -2029,6 +2037,7 @@
 0.0.0.0 nai.cpxkvc.com
 0.0.0.0 n.a.mosenni.com
 0.0.0.0 navi.gd.chinamobile.com
+0.0.0.0 nbrecsys.4paradigm.com
 0.0.0.0 nbsdk-baichuan.alicdn.com
 0.0.0.0 nbsdk-baichuan.taobao.com
 0.0.0.0 nc004x.corp.youdao.com
@@ -2877,6 +2886,7 @@
 0.0.0.0 static.houyi.baofeng.net
 0.0.0.0 static.mackeeper.com
 0.0.0.0 static.mct01.com
+0.0.0.0 static.mediav.com
 0.0.0.0 static.m.sjzhushou.com
 0.0.0.0 static-one.ffwap.com
 0.0.0.0 static-two.ffwap.com
@@ -3827,12 +3837,16 @@
 :: a1click.cpc.sogou.com
 :: a1.img.static.youmi.net
 :: a1.openxt.cn
+:: a1.zhanzhang.net
 :: a2315.oadz.com
 :: a2397.oadz.com
 :: a2.img.static.youmi.net
 :: a2.openxt.cn
+:: a2.zhanzhang.net
 :: a3.allyes.com
 :: a3.img.static.youmi.net
+:: a3.zhanzhang.net
+:: a4.zhanzhang.net
 :: a751.oadz.com
 :: a777.oadz.com
 :: a814.oadz.com
@@ -4321,6 +4335,7 @@
 :: bdv.bidvertiser.com
 :: beacon.gtimg.com
 :: beacon.sina.com.cn
+:: beacon.tingyun.com
 :: beap.adss.yahoo.com
 :: beap-bc.yahoo.com
 :: beha.ksmobile.com
@@ -5060,6 +5075,7 @@
 :: g.baidu.com
 :: gb.corp.163.com
 :: g.cn.miaozhen.com
+:: g.csdnimg.cn
 :: g.domob.cn
 :: g.d.yoyi.tv
 :: gemini.yahoo.com
@@ -5469,6 +5485,8 @@
 :: ktivn.uranus.sogou.com
 :: ku6.cnzz.com
 :: kuaikan.netmon.360safe.com
+:: kunpeng.csdn.net
+:: kunpeng-sc.csdnimg.cn
 :: kuzai.cooguo.com
 :: kv.stat.nearme.com.cn
 :: kwcdn.000dn.com
@@ -5770,6 +5788,7 @@
 :: nai.cpxkvc.com
 :: n.a.mosenni.com
 :: navi.gd.chinamobile.com
+:: nbrecsys.4paradigm.com
 :: nbsdk-baichuan.alicdn.com
 :: nbsdk-baichuan.taobao.com
 :: nc004x.corp.youdao.com
@@ -6618,6 +6637,7 @@
 :: static.houyi.baofeng.net
 :: static.mackeeper.com
 :: static.mct01.com
+:: static.mediav.com
 :: static.m.sjzhushou.com
 :: static-one.ffwap.com
 :: static-two.ffwap.com
