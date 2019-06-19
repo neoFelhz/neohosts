@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190619085541
+#version=20190619091039
 #*********************************************************
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
@@ -196,6 +196,7 @@
 0.0.0.0 ads2.msn.com
 0.0.0.0 ads.979799777.com
 0.0.0.0 ads.adaptv.advertising.com
+0.0.0.0 ads.adxadserv.com
 0.0.0.0 ads-a.juicyads.com
 0.0.0.0 ads.bssdl.kugou.com
 0.0.0.0 adscdn.baidu.com
@@ -2432,6 +2433,7 @@
 :: ads2.msn.com
 :: ads.979799777.com
 :: ads.adaptv.advertising.com
+:: ads.adxadserv.com
 :: ads-a.juicyads.com
 :: ads.bssdl.kugou.com
 :: adscdn.baidu.com

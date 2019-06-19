@@ -14,9 +14,8 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190619085541
+#version=20190619091039
 #*********************************************************
-
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0.r.msn.com
@@ -247,6 +246,7 @@
 0.0.0.0 ads2.msn.com
 0.0.0.0 ads.979799777.com
 0.0.0.0 ads.adaptv.advertising.com
+0.0.0.0 ads.adxadserv.com
 0.0.0.0 ads-a.juicyads.com
 0.0.0.0 adsamer.adsame.com
 0.0.0.0 ads-api.videojj.com
@@ -712,6 +712,7 @@
 0.0.0.0 cdn.lu.sogoucdn.com
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.newapi.com
+0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.optaim.com
 0.0.0.0 cdnpa.hyperpromote.com
 0.0.0.0 cdn.popcash.net
@@ -2807,6 +2808,7 @@
 0.0.0.0 sm.domob.cn
 0.0.0.0 s.mgwcn.com
 0.0.0.0 smjs.allyes.com
+0.0.0.0 smpop.icfcdn.com
 0.0.0.0 smt.admaster.com.cn
 0.0.0.0 s.mxmrt.com
 0.0.0.0 s.ndtzx.com
@@ -3473,6 +3475,7 @@
 0.0.0.0 wwv.onetad.com
 0.0.0.0 www.114so.cn
 0.0.0.0 www.1680go.com
+0.0.0.0 www.1990tu.com
 0.0.0.0 www.202m.com
 0.0.0.0 www.268mob.cn
 0.0.0.0 www.4009997658.com
@@ -3546,6 +3549,7 @@
 0.0.0.0 www.jisucn.com
 0.0.0.0 www.jiubuhua.com
 0.0.0.0 www.jizzads.com
+0.0.0.0 www.kanjiantu.com
 0.0.0.0 www.keyrun.cn
 0.0.0.0 www.keyshot.cc
 0.0.0.0 www.kingdeecn.cn
@@ -4008,6 +4012,7 @@
 :: ads2.msn.com
 :: ads.979799777.com
 :: ads.adaptv.advertising.com
+:: ads.adxadserv.com
 :: ads-a.juicyads.com
 :: adsamer.adsame.com
 :: ads-api.videojj.com
@@ -4473,6 +4478,7 @@
 :: cdn.lu.sogoucdn.com
 :: cdn.mgid.com
 :: cdn.newapi.com
+:: cdn.onesignal.com
 :: cdn.optaim.com
 :: cdnpa.hyperpromote.com
 :: cdn.popcash.net
@@ -6568,6 +6574,7 @@
 :: sm.domob.cn
 :: s.mgwcn.com
 :: smjs.allyes.com
+:: smpop.icfcdn.com
 :: smt.admaster.com.cn
 :: s.mxmrt.com
 :: s.ndtzx.com
@@ -7234,6 +7241,7 @@
 :: wwv.onetad.com
 :: www.114so.cn
 :: www.1680go.com
+:: www.1990tu.com
 :: www.202m.com
 :: www.268mob.cn
 :: www.4009997658.com
@@ -7307,6 +7315,7 @@
 :: www.jisucn.com
 :: www.jiubuhua.com
 :: www.jizzads.com
+:: www.kanjiantu.com
 :: www.keyrun.cn
 :: www.keyshot.cc
 :: www.kingdeecn.cn

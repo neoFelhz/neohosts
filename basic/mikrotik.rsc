@@ -178,6 +178,7 @@ ip dns static add address=127.0.0.1 name=ads2.msads.net
 ip dns static add address=127.0.0.1 name=ads2.msn.com
 ip dns static add address=127.0.0.1 name=ads.979799777.com
 ip dns static add address=127.0.0.1 name=ads.adaptv.advertising.com
+ip dns static add address=127.0.0.1 name=ads.adxadserv.com
 ip dns static add address=127.0.0.1 name=ads-a.juicyads.com
 ip dns static add address=127.0.0.1 name=ads.bssdl.kugou.com
 ip dns static add address=127.0.0.1 name=adscdn.baidu.com

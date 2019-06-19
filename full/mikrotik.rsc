@@ -1,4 +1,3 @@
-
 ip dns static add address=127.0.0.1 name=0127.adsame.com
 ip dns static add address=127.0.0.1 name=0aqpqdju.me
 ip dns static add address=127.0.0.1 name=0.r.msn.com
@@ -229,6 +228,7 @@ ip dns static add address=127.0.0.1 name=ads2.msads.net
 ip dns static add address=127.0.0.1 name=ads2.msn.com
 ip dns static add address=127.0.0.1 name=ads.979799777.com
 ip dns static add address=127.0.0.1 name=ads.adaptv.advertising.com
+ip dns static add address=127.0.0.1 name=ads.adxadserv.com
 ip dns static add address=127.0.0.1 name=ads-a.juicyads.com
 ip dns static add address=127.0.0.1 name=adsamer.adsame.com
 ip dns static add address=127.0.0.1 name=ads-api.videojj.com
@@ -694,6 +694,7 @@ ip dns static add address=127.0.0.1 name=cdnis.hyperpromote.com
 ip dns static add address=127.0.0.1 name=cdn.lu.sogoucdn.com
 ip dns static add address=127.0.0.1 name=cdn.mgid.com
 ip dns static add address=127.0.0.1 name=cdn.newapi.com
+ip dns static add address=127.0.0.1 name=cdn.onesignal.com
 ip dns static add address=127.0.0.1 name=cdn.optaim.com
 ip dns static add address=127.0.0.1 name=cdnpa.hyperpromote.com
 ip dns static add address=127.0.0.1 name=cdn.popcash.net
@@ -2789,6 +2790,7 @@ ip dns static add address=127.0.0.1 name=smcreative.allyes.com
 ip dns static add address=127.0.0.1 name=sm.domob.cn
 ip dns static add address=127.0.0.1 name=s.mgwcn.com
 ip dns static add address=127.0.0.1 name=smjs.allyes.com
+ip dns static add address=127.0.0.1 name=smpop.icfcdn.com
 ip dns static add address=127.0.0.1 name=smt.admaster.com.cn
 ip dns static add address=127.0.0.1 name=s.mxmrt.com
 ip dns static add address=127.0.0.1 name=s.ndtzx.com
@@ -3455,6 +3457,7 @@ ip dns static add address=127.0.0.1 name=wwis-dubc1-vip60.adobe.com
 ip dns static add address=127.0.0.1 name=wwv.onetad.com
 ip dns static add address=127.0.0.1 name=www.114so.cn
 ip dns static add address=127.0.0.1 name=www.1680go.com
+ip dns static add address=127.0.0.1 name=www.1990tu.com
 ip dns static add address=127.0.0.1 name=www.202m.com
 ip dns static add address=127.0.0.1 name=www.268mob.cn
 ip dns static add address=127.0.0.1 name=www.4009997658.com
@@ -3528,6 +3531,7 @@ ip dns static add address=127.0.0.1 name=www.jihehuaban.com.cn
 ip dns static add address=127.0.0.1 name=www.jisucn.com
 ip dns static add address=127.0.0.1 name=www.jiubuhua.com
 ip dns static add address=127.0.0.1 name=www.jizzads.com
+ip dns static add address=127.0.0.1 name=www.kanjiantu.com
 ip dns static add address=127.0.0.1 name=www.keyrun.cn
 ip dns static add address=127.0.0.1 name=www.keyshot.cc
 ip dns static add address=127.0.0.1 name=www.kingdeecn.cn

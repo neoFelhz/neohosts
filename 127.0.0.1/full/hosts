@@ -14,9 +14,8 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190619085541
+#version=20190619091039
 #*********************************************************
-
 127.0.0.1 0127.adsame.com
 127.0.0.1 0aqpqdju.me
 127.0.0.1 0.r.msn.com
@@ -247,6 +246,7 @@
 127.0.0.1 ads2.msn.com
 127.0.0.1 ads.979799777.com
 127.0.0.1 ads.adaptv.advertising.com
+127.0.0.1 ads.adxadserv.com
 127.0.0.1 ads-a.juicyads.com
 127.0.0.1 adsamer.adsame.com
 127.0.0.1 ads-api.videojj.com
@@ -712,6 +712,7 @@
 127.0.0.1 cdn.lu.sogoucdn.com
 127.0.0.1 cdn.mgid.com
 127.0.0.1 cdn.newapi.com
+127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.optaim.com
 127.0.0.1 cdnpa.hyperpromote.com
 127.0.0.1 cdn.popcash.net
@@ -2807,6 +2808,7 @@
 127.0.0.1 sm.domob.cn
 127.0.0.1 s.mgwcn.com
 127.0.0.1 smjs.allyes.com
+127.0.0.1 smpop.icfcdn.com
 127.0.0.1 smt.admaster.com.cn
 127.0.0.1 s.mxmrt.com
 127.0.0.1 s.ndtzx.com
@@ -3473,6 +3475,7 @@
 127.0.0.1 wwv.onetad.com
 127.0.0.1 www.114so.cn
 127.0.0.1 www.1680go.com
+127.0.0.1 www.1990tu.com
 127.0.0.1 www.202m.com
 127.0.0.1 www.268mob.cn
 127.0.0.1 www.4009997658.com
@@ -3546,6 +3549,7 @@
 127.0.0.1 www.jisucn.com
 127.0.0.1 www.jiubuhua.com
 127.0.0.1 www.jizzads.com
+127.0.0.1 www.kanjiantu.com
 127.0.0.1 www.keyrun.cn
 127.0.0.1 www.keyshot.cc
 127.0.0.1 www.kingdeecn.cn
@@ -4008,6 +4012,7 @@
 :: ads2.msn.com
 :: ads.979799777.com
 :: ads.adaptv.advertising.com
+:: ads.adxadserv.com
 :: ads-a.juicyads.com
 :: adsamer.adsame.com
 :: ads-api.videojj.com
@@ -4473,6 +4478,7 @@
 :: cdn.lu.sogoucdn.com
 :: cdn.mgid.com
 :: cdn.newapi.com
+:: cdn.onesignal.com
 :: cdn.optaim.com
 :: cdnpa.hyperpromote.com
 :: cdn.popcash.net
@@ -6568,6 +6574,7 @@
 :: sm.domob.cn
 :: s.mgwcn.com
 :: smjs.allyes.com
+:: smpop.icfcdn.com
 :: smt.admaster.com.cn
 :: s.mxmrt.com
 :: s.ndtzx.com
@@ -7234,6 +7241,7 @@
 :: wwv.onetad.com
 :: www.114so.cn
 :: www.1680go.com
+:: www.1990tu.com
 :: www.202m.com
 :: www.268mob.cn
 :: www.4009997658.com
@@ -7307,6 +7315,7 @@
 :: www.jisucn.com
 :: www.jiubuhua.com
 :: www.jizzads.com
+:: www.kanjiantu.com
 :: www.keyrun.cn
 :: www.keyshot.cc
 :: www.kingdeecn.cn
