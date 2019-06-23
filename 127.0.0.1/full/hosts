@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190623125712
+#version=20190623125951
 #*********************************************************
 127.0.0.1 0127.adsame.com
 127.0.0.1 0aqpqdju.me
@@ -542,6 +542,7 @@
 127.0.0.1 avualrhg9p.bid
 127.0.0.1 a.waczt.cn
 127.0.0.1 ax.ggfeng.com
+127.0.0.1 ax.ifeng.com
 127.0.0.1 a.youdao.com
 127.0.0.1 azabu-u.ac.jp
 127.0.0.1 b1sync.zemanta.com
@@ -1225,6 +1226,7 @@
 127.0.0.1 ereg.wip3.adobe.com
 127.0.0.1 e.romgv.com
 127.0.0.1 e.rpaulfrank.com
+127.0.0.1 err.ifengcloud.ifeng.com
 127.0.0.1 ers.baidu.com
 127.0.0.1 etg.qq.com
 127.0.0.1 etl.xlmc.sandai.net
@@ -4309,6 +4311,7 @@
 :: avualrhg9p.bid
 :: a.waczt.cn
 :: ax.ggfeng.com
+:: ax.ifeng.com
 :: a.youdao.com
 :: azabu-u.ac.jp
 :: b1sync.zemanta.com
@@ -4992,6 +4995,7 @@
 :: ereg.wip3.adobe.com
 :: e.romgv.com
 :: e.rpaulfrank.com
+:: err.ifengcloud.ifeng.com
 :: ers.baidu.com
 :: etg.qq.com
 :: etl.xlmc.sandai.net

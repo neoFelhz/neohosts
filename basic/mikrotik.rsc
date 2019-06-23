@@ -400,6 +400,7 @@ ip dns static add address=127.0.0.1 name=au.umeng.com
 ip dns static add address=127.0.0.1 name=au.youmi.net
 ip dns static add address=127.0.0.1 name=a.waczt.cn
 ip dns static add address=127.0.0.1 name=ax.ggfeng.com
+ip dns static add address=127.0.0.1 name=ax.ifeng.com
 ip dns static add address=127.0.0.1 name=a.youdao.com
 ip dns static add address=127.0.0.1 name=azabu-u.ac.jp
 ip dns static add address=127.0.0.1 name=b1sync.zemanta.com
@@ -865,6 +866,7 @@ ip dns static add address=127.0.0.1 name=e.qq.com
 ip dns static add address=127.0.0.1 name=ereg.adobe.com
 ip dns static add address=127.0.0.1 name=ereg.wip3.adobe.com
 ip dns static add address=127.0.0.1 name=e.romgv.com
+ip dns static add address=127.0.0.1 name=err.ifengcloud.ifeng.com
 ip dns static add address=127.0.0.1 name=ers.baidu.com
 ip dns static add address=127.0.0.1 name=etg.qq.com
 ip dns static add address=127.0.0.1 name=etl.xlmc.sandai.net
