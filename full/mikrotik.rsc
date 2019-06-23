@@ -246,6 +246,7 @@ ip dns static add address=127.0.0.1 name=adserver.juicyads.com
 ip dns static add address=127.0.0.1 name=adserver-us.adtech.advertising.com
 ip dns static add address=127.0.0.1 name=adserver.xpanama.net
 ip dns static add address=127.0.0.1 name=adserver.yahoo.com
+ip dns static add address=127.0.0.1 name=adservice.google.co.jp
 ip dns static add address=127.0.0.1 name=adservice.google.com
 ip dns static add address=127.0.0.1 name=ads.eu.msn.com
 ip dns static add address=127.0.0.1 name=adsfile.qq.com

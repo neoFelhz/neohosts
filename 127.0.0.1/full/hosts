@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190619091039
+#version=20190623123744
 #*********************************************************
 127.0.0.1 0127.adsame.com
 127.0.0.1 0aqpqdju.me
@@ -264,6 +264,7 @@
 127.0.0.1 adserver-us.adtech.advertising.com
 127.0.0.1 adserver.xpanama.net
 127.0.0.1 adserver.yahoo.com
+127.0.0.1 adservice.google.co.jp
 127.0.0.1 adservice.google.com
 127.0.0.1 ads.eu.msn.com
 127.0.0.1 adsfile.qq.com
@@ -4030,6 +4031,7 @@
 :: adserver-us.adtech.advertising.com
 :: adserver.xpanama.net
 :: adserver.yahoo.com
+:: adservice.google.co.jp
 :: adservice.google.com
 :: ads.eu.msn.com
 :: adsfile.qq.com
