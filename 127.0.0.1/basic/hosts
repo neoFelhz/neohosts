@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190623123744
+#version=20190623125343
 #*********************************************************
 127.0.0.1 0.r.msn.com
 127.0.0.1 1100.adsina.allyes.com
@@ -775,6 +775,7 @@
 127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 dev.umeng.com
 127.0.0.1 dfc1.benbaisteel.com
+127.0.0.1 dfp.suning.com
 127.0.0.1 df.tanx.com
 127.0.0.1 df.telemetry.microsoft.com
 127.0.0.1 d.gdt.qq.com
@@ -1159,7 +1160,6 @@
 127.0.0.1 jebe.xnimg.cn
 127.0.0.1 jellyfish.pandora.xiaomi.com
 127.0.0.1 jgl.microad.net
-127.0.0.1 j.hongyangpai.com
 127.0.0.1 jiayi1.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 jifen.2345.com
 127.0.0.1 jingjia.qq.com
@@ -1248,7 +1248,6 @@
 127.0.0.1 lxcdn.dl.files.xiaomi.net
 127.0.0.1 m1.baidu.com
 127.0.0.1 m.28487.net
-127.0.0.1 m3bnqqqw.com
 127.0.0.1 m.7180443.com
 127.0.0.1 m-78.jp
 127.0.0.1 ma.baidu.com
@@ -1835,6 +1834,7 @@
 127.0.0.1 sroomafp.allyes.com
 127.0.0.1 srv.buysellads.com
 127.0.0.1 srv.carbonads.net
+127.0.0.1 ssac.suning.com
 127.0.0.1 ssdk.adkmob.com
 127.0.0.1 ss.he9630.com
 127.0.0.1 ssl-cdn.static.browser.mi-img.com
@@ -1905,7 +1905,6 @@
 127.0.0.1 st.yandexadexchange.net
 127.0.0.1 su.bdimg.com
 127.0.0.1 su.bdstatic.com
-127.0.0.1 subswin.com
 127.0.0.1 s.union.360.cn
 127.0.0.1 survey.watson.microsoft.com
 127.0.0.1 susapi.dev.surepush.cn
@@ -2225,7 +2224,6 @@
 127.0.0.1 yads.yahoo.co.jp
 127.0.0.1 yam.adsbro.com
 127.0.0.1 y.domob.cn
-127.0.0.1 yee.js.cn
 127.0.0.1 yellowto.com
 127.0.0.1 yeskyafp.allyes.com
 127.0.0.1 yiliao.hupan.com
@@ -3013,6 +3011,7 @@
 :: dev.tg.wan.360.cn
 :: dev.umeng.com
 :: dfc1.benbaisteel.com
+:: dfp.suning.com
 :: df.tanx.com
 :: df.telemetry.microsoft.com
 :: d.gdt.qq.com
@@ -3397,7 +3396,6 @@
 :: jebe.xnimg.cn
 :: jellyfish.pandora.xiaomi.com
 :: jgl.microad.net
-:: j.hongyangpai.com
 :: jiayi1.oss-cn-shanghai.aliyuncs.com
 :: jifen.2345.com
 :: jingjia.qq.com
@@ -3486,7 +3484,6 @@
 :: lxcdn.dl.files.xiaomi.net
 :: m1.baidu.com
 :: m.28487.net
-:: m3bnqqqw.com
 :: m.7180443.com
 :: m-78.jp
 :: ma.baidu.com
@@ -4073,6 +4070,7 @@
 :: sroomafp.allyes.com
 :: srv.buysellads.com
 :: srv.carbonads.net
+:: ssac.suning.com
 :: ssdk.adkmob.com
 :: ss.he9630.com
 :: ssl-cdn.static.browser.mi-img.com
@@ -4143,7 +4141,6 @@
 :: st.yandexadexchange.net
 :: su.bdimg.com
 :: su.bdstatic.com
-:: subswin.com
 :: s.union.360.cn
 :: survey.watson.microsoft.com
 :: susapi.dev.surepush.cn
@@ -4463,7 +4460,6 @@
 :: yads.yahoo.co.jp
 :: yam.adsbro.com
 :: y.domob.cn
-:: yee.js.cn
 :: yellowto.com
 :: yeskyafp.allyes.com
 :: yiliao.hupan.com

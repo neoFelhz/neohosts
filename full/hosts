@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190623123744
+#version=20190623125343
 #*********************************************************
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
@@ -1040,6 +1040,7 @@
 0.0.0.0 dev.tg.wan.360.cn
 0.0.0.0 dev.umeng.com
 0.0.0.0 dfc1.benbaisteel.com
+0.0.0.0 dfp.suning.com
 0.0.0.0 df.tanx.com
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 d.gdt.qq.com
@@ -1644,7 +1645,6 @@
 0.0.0.0 jfdaily.adsame.com
 0.0.0.0 jfm4.pop.baofeng.net
 0.0.0.0 jgl.microad.net
-0.0.0.0 j.hongyangpai.com
 0.0.0.0 jiayi1.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 jifen.2345.com
 0.0.0.0 jifendownload.2345.cn
@@ -1827,7 +1827,6 @@
 0.0.0.0 m2374.oadz.com
 0.0.0.0 m.28487.net
 0.0.0.0 m2.da.mgtv.com
-0.0.0.0 m3bnqqqw.com
 0.0.0.0 m.7180443.com
 0.0.0.0 m-78.jp
 0.0.0.0 m947.oadz.com
@@ -2848,6 +2847,7 @@
 0.0.0.0 sroomafp.allyes.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
+0.0.0.0 ssac.suning.com
 0.0.0.0 ss.cnczjy.com
 0.0.0.0 ss.cnnic.cn
 0.0.0.0 ssdk.adkmob.com
@@ -2948,7 +2948,6 @@
 0.0.0.0 su.bdimg.com
 0.0.0.0 su.bdstatic.com
 0.0.0.0 subo.logger.baofeng.com
-0.0.0.0 subswin.com
 0.0.0.0 s.union.360.cn
 0.0.0.0 survey.miaozhen.com
 0.0.0.0 survey.watson.microsoft.com
@@ -3701,7 +3700,6 @@
 0.0.0.0 y.da.hunantv.com
 0.0.0.0 y.da.mgtv.com
 0.0.0.0 y.domob.cn
-0.0.0.0 yee.js.cn
 0.0.0.0 yellowto.com
 0.0.0.0 yepdigital.adk2x.com
 0.0.0.0 yeskyafp.allyes.com
@@ -4807,6 +4805,7 @@
 :: dev.tg.wan.360.cn
 :: dev.umeng.com
 :: dfc1.benbaisteel.com
+:: dfp.suning.com
 :: df.tanx.com
 :: df.telemetry.microsoft.com
 :: d.gdt.qq.com
@@ -5411,7 +5410,6 @@
 :: jfdaily.adsame.com
 :: jfm4.pop.baofeng.net
 :: jgl.microad.net
-:: j.hongyangpai.com
 :: jiayi1.oss-cn-shanghai.aliyuncs.com
 :: jifen.2345.com
 :: jifendownload.2345.cn
@@ -5594,7 +5592,6 @@
 :: m2374.oadz.com
 :: m.28487.net
 :: m2.da.mgtv.com
-:: m3bnqqqw.com
 :: m.7180443.com
 :: m-78.jp
 :: m947.oadz.com
@@ -6615,6 +6612,7 @@
 :: sroomafp.allyes.com
 :: srv.buysellads.com
 :: srv.carbonads.net
+:: ssac.suning.com
 :: ss.cnczjy.com
 :: ss.cnnic.cn
 :: ssdk.adkmob.com
@@ -6715,7 +6713,6 @@
 :: su.bdimg.com
 :: su.bdstatic.com
 :: subo.logger.baofeng.com
-:: subswin.com
 :: s.union.360.cn
 :: survey.miaozhen.com
 :: survey.watson.microsoft.com
@@ -7468,7 +7465,6 @@
 :: y.da.hunantv.com
 :: y.da.mgtv.com
 :: y.domob.cn
-:: yee.js.cn
 :: yellowto.com
 :: yepdigital.adk2x.com
 :: yeskyafp.allyes.com

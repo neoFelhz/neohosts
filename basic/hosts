@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190623123744
+#version=20190623125343
 #*********************************************************
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
@@ -775,6 +775,7 @@
 0.0.0.0 dev.tg.wan.360.cn
 0.0.0.0 dev.umeng.com
 0.0.0.0 dfc1.benbaisteel.com
+0.0.0.0 dfp.suning.com
 0.0.0.0 df.tanx.com
 0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 d.gdt.qq.com
@@ -1159,7 +1160,6 @@
 0.0.0.0 jebe.xnimg.cn
 0.0.0.0 jellyfish.pandora.xiaomi.com
 0.0.0.0 jgl.microad.net
-0.0.0.0 j.hongyangpai.com
 0.0.0.0 jiayi1.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 jifen.2345.com
 0.0.0.0 jingjia.qq.com
@@ -1248,7 +1248,6 @@
 0.0.0.0 lxcdn.dl.files.xiaomi.net
 0.0.0.0 m1.baidu.com
 0.0.0.0 m.28487.net
-0.0.0.0 m3bnqqqw.com
 0.0.0.0 m.7180443.com
 0.0.0.0 m-78.jp
 0.0.0.0 ma.baidu.com
@@ -1835,6 +1834,7 @@
 0.0.0.0 sroomafp.allyes.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
+0.0.0.0 ssac.suning.com
 0.0.0.0 ssdk.adkmob.com
 0.0.0.0 ss.he9630.com
 0.0.0.0 ssl-cdn.static.browser.mi-img.com
@@ -1905,7 +1905,6 @@
 0.0.0.0 st.yandexadexchange.net
 0.0.0.0 su.bdimg.com
 0.0.0.0 su.bdstatic.com
-0.0.0.0 subswin.com
 0.0.0.0 s.union.360.cn
 0.0.0.0 survey.watson.microsoft.com
 0.0.0.0 susapi.dev.surepush.cn
@@ -2225,7 +2224,6 @@
 0.0.0.0 yads.yahoo.co.jp
 0.0.0.0 yam.adsbro.com
 0.0.0.0 y.domob.cn
-0.0.0.0 yee.js.cn
 0.0.0.0 yellowto.com
 0.0.0.0 yeskyafp.allyes.com
 0.0.0.0 yiliao.hupan.com
@@ -3013,6 +3011,7 @@
 :: dev.tg.wan.360.cn
 :: dev.umeng.com
 :: dfc1.benbaisteel.com
+:: dfp.suning.com
 :: df.tanx.com
 :: df.telemetry.microsoft.com
 :: d.gdt.qq.com
@@ -3397,7 +3396,6 @@
 :: jebe.xnimg.cn
 :: jellyfish.pandora.xiaomi.com
 :: jgl.microad.net
-:: j.hongyangpai.com
 :: jiayi1.oss-cn-shanghai.aliyuncs.com
 :: jifen.2345.com
 :: jingjia.qq.com
@@ -3486,7 +3484,6 @@
 :: lxcdn.dl.files.xiaomi.net
 :: m1.baidu.com
 :: m.28487.net
-:: m3bnqqqw.com
 :: m.7180443.com
 :: m-78.jp
 :: ma.baidu.com
@@ -4073,6 +4070,7 @@
 :: sroomafp.allyes.com
 :: srv.buysellads.com
 :: srv.carbonads.net
+:: ssac.suning.com
 :: ssdk.adkmob.com
 :: ss.he9630.com
 :: ssl-cdn.static.browser.mi-img.com
@@ -4143,7 +4141,6 @@
 :: st.yandexadexchange.net
 :: su.bdimg.com
 :: su.bdstatic.com
-:: subswin.com
 :: s.union.360.cn
 :: survey.watson.microsoft.com
 :: susapi.dev.surepush.cn
@@ -4463,7 +4460,6 @@
 :: yads.yahoo.co.jp
 :: yam.adsbro.com
 :: y.domob.cn
-:: yee.js.cn
 :: yellowto.com
 :: yeskyafp.allyes.com
 :: yiliao.hupan.com
