@@ -121,6 +121,13 @@
 0.0.0.0 adx.xiaodutv.com
 0.0.0.0 uat1.bfsspadserver.8le8le.com
 0.0.0.0 rigel.baidustatic.com
+0.0.0.0 gsp0.baidu.com
+0.0.0.0 gsp1.baidu.com
+0.0.0.0 gsp2.baidu.com
+0.0.0.0 gsp3.baidu.com
+0.0.0.0 fc3tn.baidu.com
+0.0.0.0 fc5tn.baidu.com
+0.0.0.0 ms.bdimg.com
 # Push-Tuisong
 0.0.0.0 api0.tuisong.baidu.com
 0.0.0.0 api1.tuisong.baidu.com
