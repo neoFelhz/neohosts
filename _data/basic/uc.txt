@@ -15,11 +15,13 @@
 0.0.0.0 up1.tj.u2.ucweb.com
 0.0.0.0 up4.ucweb.com
 0.0.0.0 wap3.ucweb.com
+0.0.0.0 utp-dmp.ucweb.com
 0.0.0.0 alissl.ucdl.pp.uc.cn
 0.0.0.0 api.mp.uc.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 puds.test.uae.uc.cn
 0.0.0.0 track.uc.cn
+0.0.0.0 wmedia-track.uc.cn
 0.0.0.0 log.cs.pp.cn
 0.0.0.0 server.m.pp.cn
 0.0.0.0 huichuan.sm.cn
@@ -44,10 +46,7 @@
 0.0.0.0 api.mp.uc.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 hao.uc.cn
-0.0.0.0 puds.test.uae.uc.cn
-0.0.0.0 track.uc.cn
 0.0.0.0 woodpecker.uc.cn
-0.0.0.0 log.cs.pp.cn
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 server.m.pp.cn
 0.0.0.0 huichuan.sm.cn
