@@ -438,6 +438,9 @@
 0.0.0.0 static.youmi.net
 0.0.0.0 t.youmi.net
 0.0.0.0 track.dmp.youmi.net
+# Suning
+0.0.0.0 dfp.suning.com
+0.0.0.0 ssac.suning.com
 # 91Porn
 0.0.0.0 ad.cdn.sex
 # App startpage AD
@@ -492,17 +495,13 @@
 0.0.0.0 srv.buysellads.com
 0.0.0.0 ad.greedland.net
 0.0.0.0 ad1.greedland.net
-0.0.0.0 yee.js.cn
 0.0.0.0 ad.363.in
 0.0.0.0 padsdel2.cdnads.com
-0.0.0.0 j.hongyangpai.com
 0.0.0.0 f1.luoshenbest.cn
 0.0.0.0 lm.souid.com
 0.0.0.0 nai.cpxkvc.com
 0.0.0.0 wuqdebjfhjas.bid
 0.0.0.0 bes-progfree.com
-0.0.0.0 subswin.com
-0.0.0.0 m3bnqqqw.com
 0.0.0.0 bdd.hainan.net
 0.0.0.0 bds.hainan.net
 0.0.0.0 script-bd.baixing.net
@@ -675,6 +674,8 @@
 0.0.0.0 dma.15tianqi.com
 0.0.0.0 jsa.15tianqi.com
 0.0.0.0 static.hotjar.com
+0.0.0.0 ad.wang502.com
+0.0.0.0 pb.wang502.com
 # Chinaz
 0.0.0.0 stats.chinaz.com
 0.0.0.0 a1.zhanzhang.net
