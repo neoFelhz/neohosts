@@ -893,6 +893,8 @@ ip dns static add address=127.0.0.1 name=fa.163.com
 ip dns static add address=127.0.0.1 name=fair.sogou.com
 ip dns static add address=127.0.0.1 name=fanxing.kugou.com
 ip dns static add address=127.0.0.1 name=fav.simba.taobao.com
+ip dns static add address=127.0.0.1 name=fc3tn.baidu.com
+ip dns static add address=127.0.0.1 name=fc5tn.baidu.com
 ip dns static add address=127.0.0.1 name=fcanr.tracking.miui.com
 ip dns static add address=127.0.0.1 name=fclick.baidu.com
 ip dns static add address=127.0.0.1 name=fd.anzhi.com
@@ -967,6 +969,10 @@ ip dns static add address=127.0.0.1 name=go.padsdel.com
 ip dns static add address=127.0.0.1 name=goto.sogou.com
 ip dns static add address=127.0.0.1 name=green.erne.co
 ip dns static add address=127.0.0.1 name=g.sdk.look.360.cn
+ip dns static add address=127.0.0.1 name=gsp0.baidu.com
+ip dns static add address=127.0.0.1 name=gsp1.baidu.com
+ip dns static add address=127.0.0.1 name=gsp2.baidu.com
+ip dns static add address=127.0.0.1 name=gsp3.baidu.com
 ip dns static add address=127.0.0.1 name=guanjia.baidu.com
 ip dns static add address=127.0.0.1 name=guess.union2.50bang.org
 ip dns static add address=127.0.0.1 name=gu.qlogo.cn
@@ -1337,6 +1343,7 @@ ip dns static add address=127.0.0.1 name=mqqad.cs0309.html5.qq.com
 ip dns static add address=127.0.0.1 name=mqqad.html5.qq.com
 ip dns static add address=127.0.0.1 name=mqqadr.reader.qq.com
 ip dns static add address=127.0.0.1 name=m.romgv.com
+ip dns static add address=127.0.0.1 name=ms.bdimg.com
 ip dns static add address=127.0.0.1 name=ms.cmcm.com
 ip dns static add address=127.0.0.1 name=msg.shouji.360.cn
 ip dns static add address=127.0.0.1 name=msg.umengcloud.com

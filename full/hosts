@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190623125951
+#version=20190623130905
 #*********************************************************
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
@@ -1265,6 +1265,8 @@
 0.0.0.0 falundata.org
 0.0.0.0 fanxing.kugou.com
 0.0.0.0 fav.simba.taobao.com
+0.0.0.0 fc3tn.baidu.com
+0.0.0.0 fc5tn.baidu.com
 0.0.0.0 fcanr.tracking.miui.com
 0.0.0.0 fclick.baidu.com
 0.0.0.0 fd.anzhi.com
@@ -1361,6 +1363,10 @@
 0.0.0.0 g.rs.yoyi.com.cn
 0.0.0.0 g.sdk.look.360.cn
 0.0.0.0 gs.m.cn.miaozhen.com
+0.0.0.0 gsp0.baidu.com
+0.0.0.0 gsp1.baidu.com
+0.0.0.0 gsp2.baidu.com
+0.0.0.0 gsp3.baidu.com
 0.0.0.0 guangming.org
 0.0.0.0 guanjia.baidu.com
 0.0.0.0 guess.union2.50bang.org
@@ -1995,6 +2001,7 @@
 0.0.0.0 m.rpaulfrank.com
 0.0.0.0 m.rwganw.cn
 0.0.0.0 ms.analytics.live.com
+0.0.0.0 ms.bdimg.com
 0.0.0.0 ms.cmcm.com
 0.0.0.0 ms.cnczjy.com
 0.0.0.0 mse.mbm.cn.miaozhen.com
@@ -5034,6 +5041,8 @@
 :: falundata.org
 :: fanxing.kugou.com
 :: fav.simba.taobao.com
+:: fc3tn.baidu.com
+:: fc5tn.baidu.com
 :: fcanr.tracking.miui.com
 :: fclick.baidu.com
 :: fd.anzhi.com
@@ -5130,6 +5139,10 @@
 :: g.rs.yoyi.com.cn
 :: g.sdk.look.360.cn
 :: gs.m.cn.miaozhen.com
+:: gsp0.baidu.com
+:: gsp1.baidu.com
+:: gsp2.baidu.com
+:: gsp3.baidu.com
 :: guangming.org
 :: guanjia.baidu.com
 :: guess.union2.50bang.org
@@ -5764,6 +5777,7 @@
 :: m.rpaulfrank.com
 :: m.rwganw.cn
 :: ms.analytics.live.com
+:: ms.bdimg.com
 :: ms.cmcm.com
 :: ms.cnczjy.com
 :: mse.mbm.cn.miaozhen.com

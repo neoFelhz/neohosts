@@ -1247,6 +1247,8 @@ ip dns static add address=127.0.0.1 name=falundata.com
 ip dns static add address=127.0.0.1 name=falundata.org
 ip dns static add address=127.0.0.1 name=fanxing.kugou.com
 ip dns static add address=127.0.0.1 name=fav.simba.taobao.com
+ip dns static add address=127.0.0.1 name=fc3tn.baidu.com
+ip dns static add address=127.0.0.1 name=fc5tn.baidu.com
 ip dns static add address=127.0.0.1 name=fcanr.tracking.miui.com
 ip dns static add address=127.0.0.1 name=fclick.baidu.com
 ip dns static add address=127.0.0.1 name=fd.anzhi.com
@@ -1343,6 +1345,10 @@ ip dns static add address=127.0.0.1 name=green.erne.co
 ip dns static add address=127.0.0.1 name=g.rs.yoyi.com.cn
 ip dns static add address=127.0.0.1 name=g.sdk.look.360.cn
 ip dns static add address=127.0.0.1 name=gs.m.cn.miaozhen.com
+ip dns static add address=127.0.0.1 name=gsp0.baidu.com
+ip dns static add address=127.0.0.1 name=gsp1.baidu.com
+ip dns static add address=127.0.0.1 name=gsp2.baidu.com
+ip dns static add address=127.0.0.1 name=gsp3.baidu.com
 ip dns static add address=127.0.0.1 name=guangming.org
 ip dns static add address=127.0.0.1 name=guanjia.baidu.com
 ip dns static add address=127.0.0.1 name=guess.union2.50bang.org
@@ -1977,6 +1983,7 @@ ip dns static add address=127.0.0.1 name=m.romgv.com
 ip dns static add address=127.0.0.1 name=m.rpaulfrank.com
 ip dns static add address=127.0.0.1 name=m.rwganw.cn
 ip dns static add address=127.0.0.1 name=ms.analytics.live.com
+ip dns static add address=127.0.0.1 name=ms.bdimg.com
 ip dns static add address=127.0.0.1 name=ms.cmcm.com
 ip dns static add address=127.0.0.1 name=ms.cnczjy.com
 ip dns static add address=127.0.0.1 name=mse.mbm.cn.miaozhen.com

@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190623125951
+#version=20190623130905
 #*********************************************************
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
@@ -911,6 +911,8 @@
 0.0.0.0 fair.sogou.com
 0.0.0.0 fanxing.kugou.com
 0.0.0.0 fav.simba.taobao.com
+0.0.0.0 fc3tn.baidu.com
+0.0.0.0 fc5tn.baidu.com
 0.0.0.0 fcanr.tracking.miui.com
 0.0.0.0 fclick.baidu.com
 0.0.0.0 fd.anzhi.com
@@ -985,6 +987,10 @@
 0.0.0.0 goto.sogou.com
 0.0.0.0 green.erne.co
 0.0.0.0 g.sdk.look.360.cn
+0.0.0.0 gsp0.baidu.com
+0.0.0.0 gsp1.baidu.com
+0.0.0.0 gsp2.baidu.com
+0.0.0.0 gsp3.baidu.com
 0.0.0.0 guanjia.baidu.com
 0.0.0.0 guess.union2.50bang.org
 0.0.0.0 gu.qlogo.cn
@@ -1355,6 +1361,7 @@
 0.0.0.0 mqqad.html5.qq.com
 0.0.0.0 mqqadr.reader.qq.com
 0.0.0.0 m.romgv.com
+0.0.0.0 ms.bdimg.com
 0.0.0.0 ms.cmcm.com
 0.0.0.0 msg.shouji.360.cn
 0.0.0.0 msg.umengcloud.com
@@ -3151,6 +3158,8 @@
 :: fair.sogou.com
 :: fanxing.kugou.com
 :: fav.simba.taobao.com
+:: fc3tn.baidu.com
+:: fc5tn.baidu.com
 :: fcanr.tracking.miui.com
 :: fclick.baidu.com
 :: fd.anzhi.com
@@ -3225,6 +3234,10 @@
 :: goto.sogou.com
 :: green.erne.co
 :: g.sdk.look.360.cn
+:: gsp0.baidu.com
+:: gsp1.baidu.com
+:: gsp2.baidu.com
+:: gsp3.baidu.com
 :: guanjia.baidu.com
 :: guess.union2.50bang.org
 :: gu.qlogo.cn
@@ -3595,6 +3608,7 @@
 :: mqqad.html5.qq.com
 :: mqqadr.reader.qq.com
 :: m.romgv.com
+:: ms.bdimg.com
 :: ms.cmcm.com
 :: msg.shouji.360.cn
 :: msg.umengcloud.com
