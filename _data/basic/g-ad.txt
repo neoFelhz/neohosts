@@ -37,6 +37,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.co.jp
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 ade.googlesyndication.com
 # Youtube
