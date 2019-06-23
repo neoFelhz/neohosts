@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190623125343
+#version=20190623125712
 #*********************************************************
 0.0.0.0 0127.adsame.com
 0.0.0.0 0aqpqdju.me
@@ -3183,6 +3183,7 @@
 0.0.0.0 utility.baidu.com
 0.0.0.0 utk.baidu.com
 0.0.0.0 utop.umengcloud.com
+0.0.0.0 utp-dmp.ucweb.com
 0.0.0.0 utp.ucweb.com
 0.0.0.0 u.uc123.com
 0.0.0.0 u.ucfly.com
@@ -3342,6 +3343,7 @@
 0.0.0.0 w.l.qq.com
 0.0.0.0 wm.baidu.com
 0.0.0.0 wmedia.adk2x.com
+0.0.0.0 wmedia-track.uc.cn
 0.0.0.0 w.m.taobao.com
 0.0.0.0 wn.pos.baidu.com
 0.0.0.0 wn.x.jd.com
@@ -6948,6 +6950,7 @@
 :: utility.baidu.com
 :: utk.baidu.com
 :: utop.umengcloud.com
+:: utp-dmp.ucweb.com
 :: utp.ucweb.com
 :: u.uc123.com
 :: u.ucfly.com
@@ -7107,6 +7110,7 @@
 :: w.l.qq.com
 :: wm.baidu.com
 :: wmedia.adk2x.com
+:: wmedia-track.uc.cn
 :: w.m.taobao.com
 :: wn.pos.baidu.com
 :: wn.x.jd.com

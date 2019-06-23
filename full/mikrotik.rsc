@@ -3165,6 +3165,7 @@ ip dns static add address=127.0.0.1 name=ut.gtags.net
 ip dns static add address=127.0.0.1 name=utility.baidu.com
 ip dns static add address=127.0.0.1 name=utk.baidu.com
 ip dns static add address=127.0.0.1 name=utop.umengcloud.com
+ip dns static add address=127.0.0.1 name=utp-dmp.ucweb.com
 ip dns static add address=127.0.0.1 name=utp.ucweb.com
 ip dns static add address=127.0.0.1 name=u.uc123.com
 ip dns static add address=127.0.0.1 name=u.ucfly.com
@@ -3324,6 +3325,7 @@ ip dns static add address=127.0.0.1 name=wl.houyi.baofeng.net
 ip dns static add address=127.0.0.1 name=w.l.qq.com
 ip dns static add address=127.0.0.1 name=wm.baidu.com
 ip dns static add address=127.0.0.1 name=wmedia.adk2x.com
+ip dns static add address=127.0.0.1 name=wmedia-track.uc.cn
 ip dns static add address=127.0.0.1 name=w.m.taobao.com
 ip dns static add address=127.0.0.1 name=wn.pos.baidu.com
 ip dns static add address=127.0.0.1 name=wn.x.jd.com
