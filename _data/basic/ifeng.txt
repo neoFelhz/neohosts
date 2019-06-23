@@ -18,3 +18,5 @@
 0.0.0.0 dolphin.deliver.ifeng.com
 0.0.0.0 ids.deliver.ifeng.com
 0.0.0.0 ids1.deliver.ifeng.com
+0.0.0.0 err.ifengcloud.ifeng.com
+0.0.0.0 ax.ifeng.com
