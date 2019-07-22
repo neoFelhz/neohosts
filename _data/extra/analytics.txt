@@ -9,6 +9,7 @@
 0.0.0.0 analytics.hz.netease.com
 0.0.0.0 statis.push.netease.com
 0.0.0.0 m.analytics.126.net
+0.0.0.0 analytics.163.com
 0.0.0.0 crashlytics.163.com
 # Weibo
 0.0.0.0 click.uve.weibo.com
