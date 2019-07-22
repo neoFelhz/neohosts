@@ -546,6 +546,7 @@ ip dns static add address=127.0.0.1 name=cdn.tanx.com
 ip dns static add address=127.0.0.1 name=c.domob.cn
 ip dns static add address=127.0.0.1 name=cee1.iteye.com
 ip dns static add address=127.0.0.1 name=cee2.iteye.com
+ip dns static add address=127.0.0.1 name=c.evidon.com
 ip dns static add address=127.0.0.1 name=cf8d.stat.gw.youmi.net
 ip dns static add address=127.0.0.1 name=cfg.imtt.qq.com
 ip dns static add address=127.0.0.1 name=c.gdt.qq.com

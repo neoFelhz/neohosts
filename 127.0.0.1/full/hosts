@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190722035439
+#version=20190722040320
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -741,6 +741,7 @@
 127.0.0.1 cee1.iteye.com
 127.0.0.1 cee2.iteye.com
 127.0.0.1 c.effectivemeasure.net
+127.0.0.1 c.evidon.com
 127.0.0.1 cf8d.stat.gw.youmi.net
 127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 cfg.imtt.qq.com
@@ -4543,6 +4544,7 @@
 :: cee1.iteye.com
 :: cee2.iteye.com
 :: c.effectivemeasure.net
+:: c.evidon.com
 :: cf8d.stat.gw.youmi.net
 :: cf.cdn.inmobi.com
 :: cfg.imtt.qq.com

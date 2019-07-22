@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190722035439
+#version=20190722040320
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -564,6 +564,7 @@
 127.0.0.1 c.domob.cn
 127.0.0.1 cee1.iteye.com
 127.0.0.1 cee2.iteye.com
+127.0.0.1 c.evidon.com
 127.0.0.1 cf8d.stat.gw.youmi.net
 127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 c.gdt.qq.com
@@ -2836,6 +2837,7 @@
 :: c.domob.cn
 :: cee1.iteye.com
 :: cee2.iteye.com
+:: c.evidon.com
 :: cf8d.stat.gw.youmi.net
 :: cfg.imtt.qq.com
 :: c.gdt.qq.com
