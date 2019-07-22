@@ -1,5 +1,6 @@
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 m1.baidu.com
+0.0.0.0 mo.baidu.com
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mpro.baidu.com
 0.0.0.0 mobads-logs.baidu.com
@@ -77,9 +78,6 @@
 0.0.0.0 s.cpro.baidu.com
 0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wn.pos.baidu.com
-0.0.0.0 ecma.bdimg.com
-0.0.0.0 ecmb.bdimg.com
-0.0.0.0 ecmc.bdimg.com
 0.0.0.0 su.bdimg.com
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 cpro2.baidustatic.com
@@ -128,6 +126,21 @@
 0.0.0.0 fc3tn.baidu.com
 0.0.0.0 fc5tn.baidu.com
 0.0.0.0 ms.bdimg.com
+0.0.0.0 em.baidu.com
+
+0.0.0.0 t1.baidu.com
+0.0.0.0 t2.baidu.com
+0.0.0.0 t3.baidu.com
+0.0.0.0 t4.baidu.com
+0.0.0.0 t5.baidu.com
+0.0.0.0 t6.baidu.com
+0.0.0.0 t7.baidu.com
+0.0.0.0 t8.baidu.com
+0.0.0.0 t9.baidu.com
+0.0.0.0 t10.baidu.com
+0.0.0.0 t11.baidu.com
+0.0.0.0 t12.baidu.com
+
 # Push-Tuisong
 0.0.0.0 api0.tuisong.baidu.com
 0.0.0.0 api1.tuisong.baidu.com
@@ -153,7 +166,7 @@
 0.0.0.0 qianclick.baidu.com
 0.0.0.0 click.qianqian.com
 0.0.0.0 river.zhidao.baidu.com
-0.0.0.0 f10.baidu.com
+
 #Others
 0.0.0.0 ad.player.baidu.com
 0.0.0.0 dd713.bj.bcebos.com
@@ -166,11 +179,13 @@
 0.0.0.0 wisepush.video.baidu.com
 0.0.0.0 ad.duapps.com
 0.0.0.0 api.mobula.sdk.duapps.com
+
 # bdimg.com
 0.0.0.0 ecma.bdimg.com
 0.0.0.0 ecmb.bdimg.com
 0.0.0.0 ecmc.bdimg.com
 0.0.0.0 su.bdimg.com
+
 # bdstatic.com
 0.0.0.0 ae.bdstatic.com
 0.0.0.0 b.bdstatic.com
@@ -181,10 +196,12 @@
 0.0.0.0 su.bdstatic.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 zz.bdstatic.com
+
 # bcebos.com
 0.0.0.0 bj.bcebos.com
 0.0.0.0 tob-cms.bj.bcebos.com
 0.0.0.0 wenku-cms.bj.bcebos.com
+
 # wangmeng
 0.0.0.0 zzy1.quyaoya.com
 0.0.0.0 baidu.greenxf.cn
@@ -192,3 +209,9 @@
 0.0.0.0 bd2.pipaw.com
 0.0.0.0 d.s11.cn
 0.0.0.0 uniondm.cz88.net
+0.0.0.0 bd1.idgdmgroup.com.cn
+0.0.0.0 bd2.idgdmgroup.com.cn
+0.0.0.0 bd3.idgdmgroup.com.cn
+0.0.0.0 bd4.idgdmgroup.com.cn
+0.0.0.0 ggdm1.nhaidu.net
+
