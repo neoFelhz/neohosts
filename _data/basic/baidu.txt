@@ -214,4 +214,5 @@
 0.0.0.0 bd3.idgdmgroup.com.cn
 0.0.0.0 bd4.idgdmgroup.com.cn
 0.0.0.0 ggdm1.nhaidu.net
-
+0.0.0.0 1.nanrenwo.net
+0.0.0.0 2.nanrenwo.net
