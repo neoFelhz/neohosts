@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190722034910
+#version=20190722035027
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -391,6 +391,7 @@
 127.0.0.1 amps.yoyi.com.cn
 127.0.0.1 a.m.shuhuangge.org
 127.0.0.1 analy.qq.com
+127.0.0.1 analytics.163.com
 127.0.0.1 analytics3.starschina.com
 127.0.0.1 analytics.ad.daum.net
 127.0.0.1 analytics.atdmt.com
@@ -4185,6 +4186,7 @@
 :: amps.yoyi.com.cn
 :: a.m.shuhuangge.org
 :: analy.qq.com
+:: analytics.163.com
 :: analytics3.starschina.com
 :: analytics.ad.daum.net
 :: analytics.atdmt.com

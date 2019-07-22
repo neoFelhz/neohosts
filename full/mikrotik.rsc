@@ -373,6 +373,7 @@ ip dns static add address=127.0.0.1 name=amoeba.fudata.cn
 ip dns static add address=127.0.0.1 name=amps.yoyi.com.cn
 ip dns static add address=127.0.0.1 name=a.m.shuhuangge.org
 ip dns static add address=127.0.0.1 name=analy.qq.com
+ip dns static add address=127.0.0.1 name=analytics.163.com
 ip dns static add address=127.0.0.1 name=analytics3.starschina.com
 ip dns static add address=127.0.0.1 name=analytics.ad.daum.net
 ip dns static add address=127.0.0.1 name=analytics.atdmt.com
