@@ -2531,6 +2531,7 @@ ip dns static add address=127.0.0.1 name=s33.cnzz.com
 ip dns static add address=127.0.0.1 name=s34.cnzz.com
 ip dns static add address=127.0.0.1 name=s35.cnzz.com
 ip dns static add address=127.0.0.1 name=s.35kds.com
+ip dns static add address=127.0.0.1 name=s.360.cn
 ip dns static add address=127.0.0.1 name=s36.cnzz.com
 ip dns static add address=127.0.0.1 name=s37.cnzz.com
 ip dns static add address=127.0.0.1 name=s38.cnzz.com

@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190722035405
+#version=20190722035439
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -2549,6 +2549,7 @@
 0.0.0.0 s34.cnzz.com
 0.0.0.0 s35.cnzz.com
 0.0.0.0 s.35kds.com
+0.0.0.0 s.360.cn
 0.0.0.0 s36.cnzz.com
 0.0.0.0 s37.cnzz.com
 0.0.0.0 s38.cnzz.com
@@ -6350,6 +6351,7 @@
 :: s34.cnzz.com
 :: s35.cnzz.com
 :: s.35kds.com
+:: s.360.cn
 :: s36.cnzz.com
 :: s37.cnzz.com
 :: s38.cnzz.com

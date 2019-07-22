@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190722035405
+#version=20190722035439
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -1708,6 +1708,7 @@
 127.0.0.1 s1.cmfu.com
 127.0.0.1 s2.yandui.com
 127.0.0.1 s.35kds.com
+127.0.0.1 s.360.cn
 127.0.0.1 s.6travel.com
 127.0.0.1 sa0.tuisong.baidu.com
 127.0.0.1 sa1.tuisong.baidu.com
@@ -3979,6 +3980,7 @@
 :: s1.cmfu.com
 :: s2.yandui.com
 :: s.35kds.com
+:: s.360.cn
 :: s.6travel.com
 :: sa0.tuisong.baidu.com
 :: sa1.tuisong.baidu.com

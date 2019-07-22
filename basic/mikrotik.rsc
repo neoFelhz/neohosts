@@ -1690,6 +1690,7 @@ ip dns static add address=127.0.0.1 name=s1.2mdn.net
 ip dns static add address=127.0.0.1 name=s1.cmfu.com
 ip dns static add address=127.0.0.1 name=s2.yandui.com
 ip dns static add address=127.0.0.1 name=s.35kds.com
+ip dns static add address=127.0.0.1 name=s.360.cn
 ip dns static add address=127.0.0.1 name=s.6travel.com
 ip dns static add address=127.0.0.1 name=sa0.tuisong.baidu.com
 ip dns static add address=127.0.0.1 name=sa1.tuisong.baidu.com
