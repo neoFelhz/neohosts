@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190722035323
+#version=20190722035405
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -32,10 +32,12 @@
 127.0.0.1 17173im.allyes.com
 127.0.0.1 18av.mm-cg.co
 127.0.0.1 1.allyes.com.cn
+127.0.0.1 1.nanrenwo.net
 127.0.0.1 1.wps.cn
 127.0.0.1 1.yhzm.cc
 127.0.0.1 2016.sina.cn
 127.0.0.1 2052.flash2-http.qq.com
+127.0.0.1 2.nanrenwo.net
 127.0.0.1 312036.com
 127.0.0.1 3dns-2.adobe.com
 127.0.0.1 3dns-3.adobe.com
@@ -2301,10 +2303,12 @@
 :: 17173im.allyes.com
 :: 18av.mm-cg.co
 :: 1.allyes.com.cn
+:: 1.nanrenwo.net
 :: 1.wps.cn
 :: 1.yhzm.cc
 :: 2016.sina.cn
 :: 2052.flash2-http.qq.com
+:: 2.nanrenwo.net
 :: 312036.com
 :: 3dns-2.adobe.com
 :: 3dns-3.adobe.com

@@ -19,6 +19,7 @@ ip dns static add address=127.0.0.1 name=163.wrating.com
 ip dns static add address=127.0.0.1 name=17173im.allyes.com
 ip dns static add address=127.0.0.1 name=18av.mm-cg.co
 ip dns static add address=127.0.0.1 name=1.allyes.com.cn
+ip dns static add address=127.0.0.1 name=1.nanrenwo.net
 ip dns static add address=127.0.0.1 name=1.wps.cn
 ip dns static add address=127.0.0.1 name=1.yhzm.cc
 ip dns static add address=127.0.0.1 name=2016.sina.cn
@@ -28,6 +29,7 @@ ip dns static add address=127.0.0.1 name=2311.oadz.com
 ip dns static add address=127.0.0.1 name=2345apicode.dftoutiao.com
 ip dns static add address=127.0.0.1 name=2345api.dftoutiao.com
 ip dns static add address=127.0.0.1 name=268mob.cn
+ip dns static add address=127.0.0.1 name=2.nanrenwo.net
 ip dns static add address=127.0.0.1 name=312036.com
 ip dns static add address=127.0.0.1 name=3dns-2.adobe.com
 ip dns static add address=127.0.0.1 name=3dns-3.adobe.com
