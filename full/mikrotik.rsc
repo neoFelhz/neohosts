@@ -65,6 +65,7 @@ ip dns static add address=127.0.0.1 name=a1139.oadz.com
 ip dns static add address=127.0.0.1 name=a1410.oadz.com
 ip dns static add address=127.0.0.1 name=a1491.oadz.com
 ip dns static add address=127.0.0.1 name=a1662.oadz.com
+ip dns static add address=127.0.0.1 name=a.19869.com
 ip dns static add address=127.0.0.1 name=a1click.cpc.sogou.com
 ip dns static add address=127.0.0.1 name=a1.img.static.youmi.net
 ip dns static add address=127.0.0.1 name=a1.openxt.cn
@@ -529,6 +530,7 @@ ip dns static add address=127.0.0.1 name=ax.ggfeng.com
 ip dns static add address=127.0.0.1 name=ax.ifeng.com
 ip dns static add address=127.0.0.1 name=a.youdao.com
 ip dns static add address=127.0.0.1 name=azabu-u.ac.jp
+ip dns static add address=127.0.0.1 name=b.19869.com
 ip dns static add address=127.0.0.1 name=b1sync.zemanta.com
 ip dns static add address=127.0.0.1 name=badad.googleplex.com
 ip dns static add address=127.0.0.1 name=b.ads1.msn.com
@@ -2779,6 +2781,7 @@ ip dns static add address=127.0.0.1 name=shop.admin.yinyuetai.com
 ip dns static add address=127.0.0.1 name=shop.yinyuetai.com
 ip dns static add address=127.0.0.1 name=shouji.360.cn
 ip dns static add address=127.0.0.1 name=shouji.sougou.com
+ip dns static add address=127.0.0.1 name=show-g.mediav.com
 ip dns static add address=127.0.0.1 name=show.look.360.cn
 ip dns static add address=127.0.0.1 name=show.re.taobao.com
 ip dns static add address=127.0.0.1 name=showwxml.qq.com
@@ -2901,6 +2904,7 @@ ip dns static add address=127.0.0.1 name=static.mct01.com
 ip dns static add address=127.0.0.1 name=static.mediav.com
 ip dns static add address=127.0.0.1 name=static.m.sjzhushou.com
 ip dns static add address=127.0.0.1 name=static-one.ffwap.com
+ip dns static add address=127.0.0.1 name=statics.woozooo.com
 ip dns static add address=127.0.0.1 name=static-two.ffwap.com
 ip dns static add address=127.0.0.1 name=static.tzyiyuantuan.com
 ip dns static add address=127.0.0.1 name=static.wooboo.com.cn

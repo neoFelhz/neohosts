@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190722035027
+#version=20190722035323
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -83,6 +83,7 @@
 0.0.0.0 a1410.oadz.com
 0.0.0.0 a1491.oadz.com
 0.0.0.0 a1662.oadz.com
+0.0.0.0 a.19869.com
 0.0.0.0 a1click.cpc.sogou.com
 0.0.0.0 a1.img.static.youmi.net
 0.0.0.0 a1.openxt.cn
@@ -547,6 +548,7 @@
 0.0.0.0 ax.ifeng.com
 0.0.0.0 a.youdao.com
 0.0.0.0 azabu-u.ac.jp
+0.0.0.0 b.19869.com
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 badad.googleplex.com
 0.0.0.0 b.ads1.msn.com
@@ -2797,6 +2799,7 @@
 0.0.0.0 shop.yinyuetai.com
 0.0.0.0 shouji.360.cn
 0.0.0.0 shouji.sougou.com
+0.0.0.0 show-g.mediav.com
 0.0.0.0 show.look.360.cn
 0.0.0.0 show.re.taobao.com
 0.0.0.0 showwxml.qq.com
@@ -2919,6 +2922,7 @@
 0.0.0.0 static.mediav.com
 0.0.0.0 static.m.sjzhushou.com
 0.0.0.0 static-one.ffwap.com
+0.0.0.0 statics.woozooo.com
 0.0.0.0 static-two.ffwap.com
 0.0.0.0 static.tzyiyuantuan.com
 0.0.0.0 static.wooboo.com.cn
@@ -3878,6 +3882,7 @@
 :: a1410.oadz.com
 :: a1491.oadz.com
 :: a1662.oadz.com
+:: a.19869.com
 :: a1click.cpc.sogou.com
 :: a1.img.static.youmi.net
 :: a1.openxt.cn
@@ -4342,6 +4347,7 @@
 :: ax.ifeng.com
 :: a.youdao.com
 :: azabu-u.ac.jp
+:: b.19869.com
 :: b1sync.zemanta.com
 :: badad.googleplex.com
 :: b.ads1.msn.com
@@ -6592,6 +6598,7 @@
 :: shop.yinyuetai.com
 :: shouji.360.cn
 :: shouji.sougou.com
+:: show-g.mediav.com
 :: show.look.360.cn
 :: show.re.taobao.com
 :: showwxml.qq.com
@@ -6714,6 +6721,7 @@
 :: static.mediav.com
 :: static.m.sjzhushou.com
 :: static-one.ffwap.com
+:: statics.woozooo.com
 :: static-two.ffwap.com
 :: static.tzyiyuantuan.com
 :: static.wooboo.com.cn

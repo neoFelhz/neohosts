@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190722035027
+#version=20190722035323
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -61,6 +61,7 @@
 0.0.0.0 8chzga.v.admaster.com.cn
 0.0.0.0 8dcyqu.c.admaster.com.cn
 0.0.0.0 930.dragonparking.com
+0.0.0.0 a.19869.com
 0.0.0.0 a1click.cpc.sogou.com
 0.0.0.0 a1.img.static.youmi.net
 0.0.0.0 a1.zhanzhang.net
@@ -422,6 +423,7 @@
 0.0.0.0 ax.ifeng.com
 0.0.0.0 a.youdao.com
 0.0.0.0 azabu-u.ac.jp
+0.0.0.0 b.19869.com
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 badad.googleplex.com
 0.0.0.0 b.ads1.msn.com
@@ -1803,6 +1805,7 @@
 0.0.0.0 shop.admin.yinyuetai.com
 0.0.0.0 shop.yinyuetai.com
 0.0.0.0 shouji.sougou.com
+0.0.0.0 show-g.mediav.com
 0.0.0.0 show.look.360.cn
 0.0.0.0 show.re.taobao.com
 0.0.0.0 showwxml.qq.com
@@ -1894,6 +1897,7 @@
 0.0.0.0 static.mct01.com
 0.0.0.0 static.mediav.com
 0.0.0.0 static.m.sjzhushou.com
+0.0.0.0 statics.woozooo.com
 0.0.0.0 static.tzyiyuantuan.com
 0.0.0.0 static.youmi.net
 0.0.0.0 statis.push.netease.com
@@ -2326,6 +2330,7 @@
 :: 8chzga.v.admaster.com.cn
 :: 8dcyqu.c.admaster.com.cn
 :: 930.dragonparking.com
+:: a.19869.com
 :: a1click.cpc.sogou.com
 :: a1.img.static.youmi.net
 :: a1.zhanzhang.net
@@ -2687,6 +2692,7 @@
 :: ax.ifeng.com
 :: a.youdao.com
 :: azabu-u.ac.jp
+:: b.19869.com
 :: b1sync.zemanta.com
 :: badad.googleplex.com
 :: b.ads1.msn.com
@@ -4068,6 +4074,7 @@
 :: shop.admin.yinyuetai.com
 :: shop.yinyuetai.com
 :: shouji.sougou.com
+:: show-g.mediav.com
 :: show.look.360.cn
 :: show.re.taobao.com
 :: showwxml.qq.com
@@ -4159,6 +4166,7 @@
 :: static.mct01.com
 :: static.mediav.com
 :: static.m.sjzhushou.com
+:: statics.woozooo.com
 :: static.tzyiyuantuan.com
 :: static.youmi.net
 :: statis.push.netease.com
