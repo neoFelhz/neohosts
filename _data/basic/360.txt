@@ -43,3 +43,4 @@
 0.0.0.0 pcminitj.dftoutiao.com
 0.0.0.0 position.dftoutiao.com
 0.0.0.0 new.taobc.com
+0.0.0.0 s.360.cn
