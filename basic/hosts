@@ -14,8 +14,9 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190623130905
+#version=20190722034910
 #*********************************************************
+
 0.0.0.0 0.r.msn.com
 0.0.0.0 1100.adsina.allyes.com
 0.0.0.0 1148.adsina.allyes.com
@@ -440,9 +441,13 @@
 0.0.0.0 bcjxf.bugsevent.com
 0.0.0.0 b.clkservice.youdao.com
 0.0.0.0 bd1.dopa.com
+0.0.0.0 bd1.idgdmgroup.com.cn
 0.0.0.0 bd1.pipaw.com
 0.0.0.0 bd2.dopa.com
+0.0.0.0 bd2.idgdmgroup.com.cn
 0.0.0.0 bd2.pipaw.com
+0.0.0.0 bd3.idgdmgroup.com.cn
+0.0.0.0 bd4.idgdmgroup.com.cn
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bdd.hainan.net
 0.0.0.0 bdimg.share.baidu.com
@@ -875,6 +880,7 @@
 0.0.0.0 e.hellomingpian.com
 0.0.0.0 eiv.baidu.com
 0.0.0.0 ejzr.golden1.sogou.com
+0.0.0.0 em.baidu.com
 0.0.0.0 engine.lvehaisen.com
 0.0.0.0 engine.tuia.cn
 0.0.0.0 entry.adsage.com
@@ -902,7 +908,6 @@
 0.0.0.0 ex.umengcloud.com
 0.0.0.0 e.yangjingbang.net
 0.0.0.0 ezine.oupeng.com
-0.0.0.0 f10.baidu.com
 0.0.0.0 f1.luoshenbest.cn
 0.0.0.0 f1.p0y.cn
 0.0.0.0 f2.p0y.cn
@@ -967,6 +972,7 @@
 0.0.0.0 gen.alicdn.com
 0.0.0.0 geo.moatads.com
 0.0.0.0 get.sogou.com
+0.0.0.0 ggdm1.nhaidu.net
 0.0.0.0 ggle.lywf.me
 0.0.0.0 g.haluoha.com
 0.0.0.0 gia.jd.com
@@ -1339,6 +1345,7 @@
 0.0.0.0 mobaders.oss-cn-beijing.aliyuncs.com
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobads-logs.baidu.com
+0.0.0.0 mo.baidu.com
 0.0.0.0 mobi.adsage.com
 0.0.0.0 mobileads.google.com
 0.0.0.0 mobileads.msn.com
@@ -1943,6 +1950,18 @@
 0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 s.youmi.net
 0.0.0.0 sys.zhangyue.com
+0.0.0.0 t10.baidu.com
+0.0.0.0 t11.baidu.com
+0.0.0.0 t12.baidu.com
+0.0.0.0 t1.baidu.com
+0.0.0.0 t2.baidu.com
+0.0.0.0 t3.baidu.com
+0.0.0.0 t4.baidu.com
+0.0.0.0 t5.baidu.com
+0.0.0.0 t6.baidu.com
+0.0.0.0 t7.baidu.com
+0.0.0.0 t8.baidu.com
+0.0.0.0 t9.baidu.com
 0.0.0.0 t.ads.sohu.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tag-store.ads-pixiv.net
@@ -2687,9 +2706,13 @@
 :: bcjxf.bugsevent.com
 :: b.clkservice.youdao.com
 :: bd1.dopa.com
+:: bd1.idgdmgroup.com.cn
 :: bd1.pipaw.com
 :: bd2.dopa.com
+:: bd2.idgdmgroup.com.cn
 :: bd2.pipaw.com
+:: bd3.idgdmgroup.com.cn
+:: bd4.idgdmgroup.com.cn
 :: bdapi.ads.oppomobile.com
 :: bdd.hainan.net
 :: bdimg.share.baidu.com
@@ -3122,6 +3145,7 @@
 :: e.hellomingpian.com
 :: eiv.baidu.com
 :: ejzr.golden1.sogou.com
+:: em.baidu.com
 :: engine.lvehaisen.com
 :: engine.tuia.cn
 :: entry.adsage.com
@@ -3149,7 +3173,6 @@
 :: ex.umengcloud.com
 :: e.yangjingbang.net
 :: ezine.oupeng.com
-:: f10.baidu.com
 :: f1.luoshenbest.cn
 :: f1.p0y.cn
 :: f2.p0y.cn
@@ -3214,6 +3237,7 @@
 :: gen.alicdn.com
 :: geo.moatads.com
 :: get.sogou.com
+:: ggdm1.nhaidu.net
 :: ggle.lywf.me
 :: g.haluoha.com
 :: gia.jd.com
@@ -3586,6 +3610,7 @@
 :: mobaders.oss-cn-beijing.aliyuncs.com
 :: mobads.baidu.com
 :: mobads-logs.baidu.com
+:: mo.baidu.com
 :: mobi.adsage.com
 :: mobileads.google.com
 :: mobileads.msn.com
@@ -4190,6 +4215,18 @@
 :: sync-tm.everesttech.net
 :: s.youmi.net
 :: sys.zhangyue.com
+:: t10.baidu.com
+:: t11.baidu.com
+:: t12.baidu.com
+:: t1.baidu.com
+:: t2.baidu.com
+:: t3.baidu.com
+:: t4.baidu.com
+:: t5.baidu.com
+:: t6.baidu.com
+:: t7.baidu.com
+:: t8.baidu.com
+:: t9.baidu.com
 :: t.ads.sohu.com
 :: tags.bluekai.com
 :: tag-store.ads-pixiv.net

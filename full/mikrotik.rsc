@@ -1,3 +1,4 @@
+
 ip dns static add address=127.0.0.1 name=0127.adsame.com
 ip dns static add address=127.0.0.1 name=0aqpqdju.me
 ip dns static add address=127.0.0.1 name=0.r.msn.com
@@ -552,9 +553,13 @@ ip dns static add address=127.0.0.1 name=bcjxf.bugsevent.com
 ip dns static add address=127.0.0.1 name=b.clkservice.youdao.com
 ip dns static add address=127.0.0.1 name=b.code.tanwanyx.com
 ip dns static add address=127.0.0.1 name=bd1.dopa.com
+ip dns static add address=127.0.0.1 name=bd1.idgdmgroup.com.cn
 ip dns static add address=127.0.0.1 name=bd1.pipaw.com
 ip dns static add address=127.0.0.1 name=bd2.dopa.com
+ip dns static add address=127.0.0.1 name=bd2.idgdmgroup.com.cn
 ip dns static add address=127.0.0.1 name=bd2.pipaw.com
+ip dns static add address=127.0.0.1 name=bd3.idgdmgroup.com.cn
+ip dns static add address=127.0.0.1 name=bd4.idgdmgroup.com.cn
 ip dns static add address=127.0.0.1 name=bdapi.ads.oppomobile.com
 ip dns static add address=127.0.0.1 name=bdd.hainan.net
 ip dns static add address=127.0.0.1 name=bdfrm.bidvertiser.com
@@ -1191,6 +1196,7 @@ ip dns static add address=127.0.0.1 name=e.kafka8.com
 ip dns static add address=127.0.0.1 name=e.kewro.com
 ip dns static add address=127.0.0.1 name=e.kuwoyy.com
 ip dns static add address=127.0.0.1 name=e-ltvp.inmobi.com
+ip dns static add address=127.0.0.1 name=em.baidu.com
 ip dns static add address=127.0.0.1 name=e.mbm.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=e.nbhaosheng168.com
 ip dns static add address=127.0.0.1 name=engine.lvehaisen.com
@@ -1235,7 +1241,6 @@ ip dns static add address=127.0.0.1 name=extmoney.i1608.com
 ip dns static add address=127.0.0.1 name=ex.umengcloud.com
 ip dns static add address=127.0.0.1 name=e.yangjingbang.net
 ip dns static add address=127.0.0.1 name=ezine.oupeng.com
-ip dns static add address=127.0.0.1 name=f10.baidu.com
 ip dns static add address=127.0.0.1 name=f1c.i.biquge5200.com
 ip dns static add address=127.0.0.1 name=f1.luoshenbest.cn
 ip dns static add address=127.0.0.1 name=f1.p0y.cn
@@ -1322,6 +1327,7 @@ ip dns static add address=127.0.0.1 name=gemini.yahoo.com
 ip dns static add address=127.0.0.1 name=gen.alicdn.com
 ip dns static add address=127.0.0.1 name=geo.moatads.com
 ip dns static add address=127.0.0.1 name=get.sogou.com
+ip dns static add address=127.0.0.1 name=ggdm1.nhaidu.net
 ip dns static add address=127.0.0.1 name=ggle.lywf.me
 ip dns static add address=127.0.0.1 name=g.haluoha.com
 ip dns static add address=127.0.0.1 name=gia.jd.com
@@ -1947,6 +1953,7 @@ ip dns static add address=127.0.0.1 name=m.nbhaosheng168.com
 ip dns static add address=127.0.0.1 name=mobaders.oss-cn-beijing.aliyuncs.com
 ip dns static add address=127.0.0.1 name=mobads.baidu.com
 ip dns static add address=127.0.0.1 name=mobads-logs.baidu.com
+ip dns static add address=127.0.0.1 name=mo.baidu.com
 ip dns static add address=127.0.0.1 name=mobaliyun.res.mgtv.com
 ip dns static add address=127.0.0.1 name=mobi.adsage.com
 ip dns static add address=127.0.0.1 name=mobile2.da.mgtv.com
@@ -2975,13 +2982,25 @@ ip dns static add address=127.0.0.1 name=sync-tm.everesttech.net
 ip dns static add address=127.0.0.1 name=s.youmi.net
 ip dns static add address=127.0.0.1 name=sys.zhangyue.com
 ip dns static add address=127.0.0.1 name=s.zampdsp.com
+ip dns static add address=127.0.0.1 name=t10.baidu.com
+ip dns static add address=127.0.0.1 name=t11.baidu.com
+ip dns static add address=127.0.0.1 name=t12.baidu.com
 ip dns static add address=127.0.0.1 name=t1.51maiwanju.com
+ip dns static add address=127.0.0.1 name=t1.baidu.com
 ip dns static add address=127.0.0.1 name=t2.51maiwanju.com
+ip dns static add address=127.0.0.1 name=t2.baidu.com
 ip dns static add address=127.0.0.1 name=t2.ugg66.com
 ip dns static add address=127.0.0.1 name=t3.51maiwanju.com
+ip dns static add address=127.0.0.1 name=t3.baidu.com
 ip dns static add address=127.0.0.1 name=t4.51maiwanju.com
+ip dns static add address=127.0.0.1 name=t4.baidu.com
 ip dns static add address=127.0.0.1 name=t5.51maiwanju.com
+ip dns static add address=127.0.0.1 name=t5.baidu.com
 ip dns static add address=127.0.0.1 name=t6.51maiwanju.com
+ip dns static add address=127.0.0.1 name=t6.baidu.com
+ip dns static add address=127.0.0.1 name=t7.baidu.com
+ip dns static add address=127.0.0.1 name=t8.baidu.com
+ip dns static add address=127.0.0.1 name=t9.baidu.com
 ip dns static add address=127.0.0.1 name=t.ads.sohu.com
 ip dns static add address=127.0.0.1 name=tags.bluekai.com
 ip dns static add address=127.0.0.1 name=tag-store.ads-pixiv.net

@@ -14,8 +14,9 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190623130905
+#version=20190722034910
 #*********************************************************
+
 127.0.0.1 0127.adsame.com
 127.0.0.1 0aqpqdju.me
 127.0.0.1 0.r.msn.com
@@ -570,9 +571,13 @@
 127.0.0.1 b.clkservice.youdao.com
 127.0.0.1 b.code.tanwanyx.com
 127.0.0.1 bd1.dopa.com
+127.0.0.1 bd1.idgdmgroup.com.cn
 127.0.0.1 bd1.pipaw.com
 127.0.0.1 bd2.dopa.com
+127.0.0.1 bd2.idgdmgroup.com.cn
 127.0.0.1 bd2.pipaw.com
+127.0.0.1 bd3.idgdmgroup.com.cn
+127.0.0.1 bd4.idgdmgroup.com.cn
 127.0.0.1 bdapi.ads.oppomobile.com
 127.0.0.1 bdd.hainan.net
 127.0.0.1 bdfrm.bidvertiser.com
@@ -1209,6 +1214,7 @@
 127.0.0.1 e.kewro.com
 127.0.0.1 e.kuwoyy.com
 127.0.0.1 e-ltvp.inmobi.com
+127.0.0.1 em.baidu.com
 127.0.0.1 e.mbm.cn.miaozhen.com
 127.0.0.1 e.nbhaosheng168.com
 127.0.0.1 engine.lvehaisen.com
@@ -1253,7 +1259,6 @@
 127.0.0.1 ex.umengcloud.com
 127.0.0.1 e.yangjingbang.net
 127.0.0.1 ezine.oupeng.com
-127.0.0.1 f10.baidu.com
 127.0.0.1 f1c.i.biquge5200.com
 127.0.0.1 f1.luoshenbest.cn
 127.0.0.1 f1.p0y.cn
@@ -1340,6 +1345,7 @@
 127.0.0.1 gen.alicdn.com
 127.0.0.1 geo.moatads.com
 127.0.0.1 get.sogou.com
+127.0.0.1 ggdm1.nhaidu.net
 127.0.0.1 ggle.lywf.me
 127.0.0.1 g.haluoha.com
 127.0.0.1 gia.jd.com
@@ -1965,6 +1971,7 @@
 127.0.0.1 mobaders.oss-cn-beijing.aliyuncs.com
 127.0.0.1 mobads.baidu.com
 127.0.0.1 mobads-logs.baidu.com
+127.0.0.1 mo.baidu.com
 127.0.0.1 mobaliyun.res.mgtv.com
 127.0.0.1 mobi.adsage.com
 127.0.0.1 mobile2.da.mgtv.com
@@ -2993,13 +3000,25 @@
 127.0.0.1 s.youmi.net
 127.0.0.1 sys.zhangyue.com
 127.0.0.1 s.zampdsp.com
+127.0.0.1 t10.baidu.com
+127.0.0.1 t11.baidu.com
+127.0.0.1 t12.baidu.com
 127.0.0.1 t1.51maiwanju.com
+127.0.0.1 t1.baidu.com
 127.0.0.1 t2.51maiwanju.com
+127.0.0.1 t2.baidu.com
 127.0.0.1 t2.ugg66.com
 127.0.0.1 t3.51maiwanju.com
+127.0.0.1 t3.baidu.com
 127.0.0.1 t4.51maiwanju.com
+127.0.0.1 t4.baidu.com
 127.0.0.1 t5.51maiwanju.com
+127.0.0.1 t5.baidu.com
 127.0.0.1 t6.51maiwanju.com
+127.0.0.1 t6.baidu.com
+127.0.0.1 t7.baidu.com
+127.0.0.1 t8.baidu.com
+127.0.0.1 t9.baidu.com
 127.0.0.1 t.ads.sohu.com
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tag-store.ads-pixiv.net
@@ -4346,9 +4365,13 @@
 :: b.clkservice.youdao.com
 :: b.code.tanwanyx.com
 :: bd1.dopa.com
+:: bd1.idgdmgroup.com.cn
 :: bd1.pipaw.com
 :: bd2.dopa.com
+:: bd2.idgdmgroup.com.cn
 :: bd2.pipaw.com
+:: bd3.idgdmgroup.com.cn
+:: bd4.idgdmgroup.com.cn
 :: bdapi.ads.oppomobile.com
 :: bdd.hainan.net
 :: bdfrm.bidvertiser.com
@@ -4985,6 +5008,7 @@
 :: e.kewro.com
 :: e.kuwoyy.com
 :: e-ltvp.inmobi.com
+:: em.baidu.com
 :: e.mbm.cn.miaozhen.com
 :: e.nbhaosheng168.com
 :: engine.lvehaisen.com
@@ -5029,7 +5053,6 @@
 :: ex.umengcloud.com
 :: e.yangjingbang.net
 :: ezine.oupeng.com
-:: f10.baidu.com
 :: f1c.i.biquge5200.com
 :: f1.luoshenbest.cn
 :: f1.p0y.cn
@@ -5116,6 +5139,7 @@
 :: gen.alicdn.com
 :: geo.moatads.com
 :: get.sogou.com
+:: ggdm1.nhaidu.net
 :: ggle.lywf.me
 :: g.haluoha.com
 :: gia.jd.com
@@ -5741,6 +5765,7 @@
 :: mobaders.oss-cn-beijing.aliyuncs.com
 :: mobads.baidu.com
 :: mobads-logs.baidu.com
+:: mo.baidu.com
 :: mobaliyun.res.mgtv.com
 :: mobi.adsage.com
 :: mobile2.da.mgtv.com
@@ -6769,13 +6794,25 @@
 :: s.youmi.net
 :: sys.zhangyue.com
 :: s.zampdsp.com
+:: t10.baidu.com
+:: t11.baidu.com
+:: t12.baidu.com
 :: t1.51maiwanju.com
+:: t1.baidu.com
 :: t2.51maiwanju.com
+:: t2.baidu.com
 :: t2.ugg66.com
 :: t3.51maiwanju.com
+:: t3.baidu.com
 :: t4.51maiwanju.com
+:: t4.baidu.com
 :: t5.51maiwanju.com
+:: t5.baidu.com
 :: t6.51maiwanju.com
+:: t6.baidu.com
+:: t7.baidu.com
+:: t8.baidu.com
+:: t9.baidu.com
 :: t.ads.sohu.com
 :: tags.bluekai.com
 :: tag-store.ads-pixiv.net
