@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190722040320
+#version=20190723091013
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -2913,6 +2913,7 @@
 0.0.0.0 static.adwo.com
 0.0.0.0 static.adxadserv.com
 0.0.0.0 static.alimama.com
+0.0.0.0 static.bshare.cn
 0.0.0.0 static.criteo.net
 0.0.0.0 static.danmu.baofeng.com
 0.0.0.0 static.doubleclick.net
@@ -3638,6 +3639,7 @@
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 www.voiceads.cn
 0.0.0.0 www.vpon.com
+0.0.0.0 www.wangbase.com
 0.0.0.0 www.whalecloud.com
 0.0.0.0 www.wifijia.net
 0.0.0.0 www.wooboo.com.cn
@@ -6716,6 +6718,7 @@
 :: static.adwo.com
 :: static.adxadserv.com
 :: static.alimama.com
+:: static.bshare.cn
 :: static.criteo.net
 :: static.danmu.baofeng.com
 :: static.doubleclick.net
@@ -7441,6 +7444,7 @@
 :: www.vegaschina.cn
 :: www.voiceads.cn
 :: www.vpon.com
+:: www.wangbase.com
 :: www.whalecloud.com
 :: www.wifijia.net
 :: www.wooboo.com.cn

@@ -2895,6 +2895,7 @@ ip dns static add address=127.0.0.1 name=static.adsafeprotected.com
 ip dns static add address=127.0.0.1 name=static.adwo.com
 ip dns static add address=127.0.0.1 name=static.adxadserv.com
 ip dns static add address=127.0.0.1 name=static.alimama.com
+ip dns static add address=127.0.0.1 name=static.bshare.cn
 ip dns static add address=127.0.0.1 name=static.criteo.net
 ip dns static add address=127.0.0.1 name=static.danmu.baofeng.com
 ip dns static add address=127.0.0.1 name=static.doubleclick.net
@@ -3620,6 +3621,7 @@ ip dns static add address=127.0.0.1 name=www.uyunad.com
 ip dns static add address=127.0.0.1 name=www.vegaschina.cn
 ip dns static add address=127.0.0.1 name=www.voiceads.cn
 ip dns static add address=127.0.0.1 name=www.vpon.com
+ip dns static add address=127.0.0.1 name=www.wangbase.com
 ip dns static add address=127.0.0.1 name=www.whalecloud.com
 ip dns static add address=127.0.0.1 name=www.wifijia.net
 ip dns static add address=127.0.0.1 name=www.wooboo.com.cn
