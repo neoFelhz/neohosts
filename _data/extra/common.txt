@@ -412,3 +412,7 @@
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 www.kanjiantu.com
 0.0.0.0 www.1990tu.com
+# Bshare
+0.0.0.0 static.bshare.cn
+# Ruanyifeng
+0.0.0.0 www.wangbase.com
