@@ -504,6 +504,7 @@ ip dns static add address=127.0.0.1 name=asearch.alicdn.com
 ip dns static add address=127.0.0.1 name=as.mgtv.com
 ip dns static add address=127.0.0.1 name=asp.adsame.com
 ip dns static add address=127.0.0.1 name=assets.210189.com
+ip dns static add address=127.0.0.1 name=assets.growingio.com
 ip dns static add address=127.0.0.1 name=assets.servedby-buysellads.com
 ip dns static add address=127.0.0.1 name=astat.bugly.qq.com
 ip dns static add address=127.0.0.1 name=a.stat.xiaomi.com
@@ -706,6 +707,7 @@ ip dns static add address=127.0.0.1 name=cdnimg.liehu.ijinshan.com
 ip dns static add address=127.0.0.1 name=cdnis.hyperpromote.com
 ip dns static add address=127.0.0.1 name=cdn.lu.sogoucdn.com
 ip dns static add address=127.0.0.1 name=cdn.mgid.com
+ip dns static add address=127.0.0.1 name=cdn.mxpnl.com
 ip dns static add address=127.0.0.1 name=cdn.newapi.com
 ip dns static add address=127.0.0.1 name=cdn.onesignal.com
 ip dns static add address=127.0.0.1 name=cdn.optaim.com
@@ -1524,6 +1526,7 @@ ip dns static add address=127.0.0.1 name=image.atdmt.com
 ip dns static add address=127.0.0.1 name=image.box.xiaomi.com
 ip dns static add address=127.0.0.1 name=image.haiyunx.com
 ip dns static add address=127.0.0.1 name=image.p4p.sogou.com
+ip dns static add address=127.0.0.1 name=image.ptmind.com
 ip dns static add address=127.0.0.1 name=images.fastclick.net
 ip dns static add address=127.0.0.1 name=images.sohu.com
 ip dns static add address=127.0.0.1 name=images.taboola.com
@@ -1707,6 +1710,7 @@ ip dns static add address=127.0.0.1 name=jsmedia.adsame.com
 ip dns static add address=127.0.0.1 name=js.miaozhen.com
 ip dns static add address=127.0.0.1 name=js.mnkan.com
 ip dns static add address=127.0.0.1 name=jsnp.golden1.sogou.com
+ip dns static add address=127.0.0.1 name=js.ptengine.cn
 ip dns static add address=127.0.0.1 name=js.pub.tom.com
 ip dns static add address=127.0.0.1 name=jsqmt.qq.com
 ip dns static add address=127.0.0.1 name=jssdk.cnzz.com
@@ -3012,6 +3016,7 @@ ip dns static add address=127.0.0.1 name=t6.baidu.com
 ip dns static add address=127.0.0.1 name=t7.baidu.com
 ip dns static add address=127.0.0.1 name=t8.baidu.com
 ip dns static add address=127.0.0.1 name=t9.baidu.com
+ip dns static add address=127.0.0.1 name=t-abi.hypers.com.cn
 ip dns static add address=127.0.0.1 name=t.ads.sohu.com
 ip dns static add address=127.0.0.1 name=tags.bluekai.com
 ip dns static add address=127.0.0.1 name=tag-store.ads-pixiv.net
@@ -3056,6 +3061,7 @@ ip dns static add address=127.0.0.1 name=t.gdt.qq.com
 ip dns static add address=127.0.0.1 name=tg.jifen.2345.com
 ip dns static add address=127.0.0.1 name=t.go.sohu.com
 ip dns static add address=127.0.0.1 name=theta.sogoucdn.com
+ip dns static add address=127.0.0.1 name=t.hypers.com.cn
 ip dns static add address=127.0.0.1 name=timelog.moviebox.baofeng.com
 ip dns static add address=127.0.0.1 name=tips.logger.baofeng.com
 ip dns static add address=127.0.0.1 name=tj.b.qq.com
@@ -3225,6 +3231,7 @@ ip dns static add address=127.0.0.1 name=v1.log.moji.com
 ip dns static add address=127.0.0.1 name=v1.play.log.hunantv.com
 ip dns static add address=127.0.0.1 name=v1-play.log.mgtv.com
 ip dns static add address=127.0.0.1 name=v1.res.log.hunantv.com
+ip dns static add address=127.0.0.1 name=v1.ujian.cc
 ip dns static add address=127.0.0.1 name=v2.cnzz.com
 ip dns static add address=127.0.0.1 name=v2.da.mgtv.com
 ip dns static add address=127.0.0.1 name=v2.fm.n.duokanbox.com

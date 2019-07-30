@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190730061005
+#version=20190730062220
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -522,6 +522,7 @@
 0.0.0.0 as.mgtv.com
 0.0.0.0 asp.adsame.com
 0.0.0.0 assets.210189.com
+0.0.0.0 assets.growingio.com
 0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 a.stat.xiaomi.com
@@ -724,6 +725,7 @@
 0.0.0.0 cdnis.hyperpromote.com
 0.0.0.0 cdn.lu.sogoucdn.com
 0.0.0.0 cdn.mgid.com
+0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.newapi.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.optaim.com
@@ -1542,6 +1544,7 @@
 0.0.0.0 image.box.xiaomi.com
 0.0.0.0 image.haiyunx.com
 0.0.0.0 image.p4p.sogou.com
+0.0.0.0 image.ptmind.com
 0.0.0.0 images.fastclick.net
 0.0.0.0 images.sohu.com
 0.0.0.0 images.taboola.com
@@ -1725,6 +1728,7 @@
 0.0.0.0 js.miaozhen.com
 0.0.0.0 js.mnkan.com
 0.0.0.0 jsnp.golden1.sogou.com
+0.0.0.0 js.ptengine.cn
 0.0.0.0 js.pub.tom.com
 0.0.0.0 jsqmt.qq.com
 0.0.0.0 jssdk.cnzz.com
@@ -3030,6 +3034,7 @@
 0.0.0.0 t7.baidu.com
 0.0.0.0 t8.baidu.com
 0.0.0.0 t9.baidu.com
+0.0.0.0 t-abi.hypers.com.cn
 0.0.0.0 t.ads.sohu.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tag-store.ads-pixiv.net
@@ -3074,6 +3079,7 @@
 0.0.0.0 tg.jifen.2345.com
 0.0.0.0 t.go.sohu.com
 0.0.0.0 theta.sogoucdn.com
+0.0.0.0 t.hypers.com.cn
 0.0.0.0 timelog.moviebox.baofeng.com
 0.0.0.0 tips.logger.baofeng.com
 0.0.0.0 tj.b.qq.com
@@ -3243,6 +3249,7 @@
 0.0.0.0 v1.play.log.hunantv.com
 0.0.0.0 v1-play.log.mgtv.com
 0.0.0.0 v1.res.log.hunantv.com
+0.0.0.0 v1.ujian.cc
 0.0.0.0 v2.cnzz.com
 0.0.0.0 v2.da.mgtv.com
 0.0.0.0 v2.fm.n.duokanbox.com
@@ -4328,6 +4335,7 @@
 :: as.mgtv.com
 :: asp.adsame.com
 :: assets.210189.com
+:: assets.growingio.com
 :: assets.servedby-buysellads.com
 :: astat.bugly.qq.com
 :: a.stat.xiaomi.com
@@ -4530,6 +4538,7 @@
 :: cdnis.hyperpromote.com
 :: cdn.lu.sogoucdn.com
 :: cdn.mgid.com
+:: cdn.mxpnl.com
 :: cdn.newapi.com
 :: cdn.onesignal.com
 :: cdn.optaim.com
@@ -5348,6 +5357,7 @@
 :: image.box.xiaomi.com
 :: image.haiyunx.com
 :: image.p4p.sogou.com
+:: image.ptmind.com
 :: images.fastclick.net
 :: images.sohu.com
 :: images.taboola.com
@@ -5531,6 +5541,7 @@
 :: js.miaozhen.com
 :: js.mnkan.com
 :: jsnp.golden1.sogou.com
+:: js.ptengine.cn
 :: js.pub.tom.com
 :: jsqmt.qq.com
 :: jssdk.cnzz.com
@@ -6836,6 +6847,7 @@
 :: t7.baidu.com
 :: t8.baidu.com
 :: t9.baidu.com
+:: t-abi.hypers.com.cn
 :: t.ads.sohu.com
 :: tags.bluekai.com
 :: tag-store.ads-pixiv.net
@@ -6880,6 +6892,7 @@
 :: tg.jifen.2345.com
 :: t.go.sohu.com
 :: theta.sogoucdn.com
+:: t.hypers.com.cn
 :: timelog.moviebox.baofeng.com
 :: tips.logger.baofeng.com
 :: tj.b.qq.com
@@ -7049,6 +7062,7 @@
 :: v1.play.log.hunantv.com
 :: v1-play.log.mgtv.com
 :: v1.res.log.hunantv.com
+:: v1.ujian.cc
 :: v2.cnzz.com
 :: v2.da.mgtv.com
 :: v2.fm.n.duokanbox.com
