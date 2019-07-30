@@ -148,3 +148,11 @@
 0.0.0.0 www.stack-sonar.com
 0.0.0.0 s4.hit.stat.pl
 0.0.0.0 s4.hit.stat24.com
+0.0.0.0 t-abi.hypers.com.cn
+0.0.0.0 t.hypers.com.cn
+0.0.0.0 js.ptengine.cn
+0.0.0.0 assets.growingio.com
+0.0.0.0 cdn.mxpnl.com
+0.0.0.0 beacon.tingyun.com
+0.0.0.0 image.ptmind.com
+0.0.0.0 v1.ujian.cc
