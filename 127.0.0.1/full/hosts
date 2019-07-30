@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190723091013
+#version=20190730061005
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -649,6 +649,7 @@
 127.0.0.1 bss.pandora.xiaomi.com
 127.0.0.1 bsv.atm.youku.com
 127.0.0.1 btlaunch.baidu.com
+127.0.0.1 btrace.video.qq.com
 127.0.0.1 bttrack.com
 127.0.0.1 bu1.duba.com
 127.0.0.1 bu2.duba.com
@@ -4454,6 +4455,7 @@
 :: bss.pandora.xiaomi.com
 :: bsv.atm.youku.com
 :: btlaunch.baidu.com
+:: btrace.video.qq.com
 :: bttrack.com
 :: bu1.duba.com
 :: bu2.duba.com

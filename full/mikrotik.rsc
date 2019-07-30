@@ -631,6 +631,7 @@ ip dns static add address=127.0.0.1 name=bs.l.qq.com
 ip dns static add address=127.0.0.1 name=bss.pandora.xiaomi.com
 ip dns static add address=127.0.0.1 name=bsv.atm.youku.com
 ip dns static add address=127.0.0.1 name=btlaunch.baidu.com
+ip dns static add address=127.0.0.1 name=btrace.video.qq.com
 ip dns static add address=127.0.0.1 name=bttrack.com
 ip dns static add address=127.0.0.1 name=bu1.duba.com
 ip dns static add address=127.0.0.1 name=bu2.duba.com
