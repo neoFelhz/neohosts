@@ -157,3 +157,4 @@
 0.0.0.0 beacon.tingyun.com
 0.0.0.0 image.ptmind.com
 0.0.0.0 v1.ujian.cc
+0.0.0.0 bat.bing.com
