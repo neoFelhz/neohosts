@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190730062220
+#version=20190814022828
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -150,6 +150,7 @@
 127.0.0.1 ad.dqwjzm.com
 127.0.0.1 ad.duapps.com
 127.0.0.1 ade.googlesyndication.com
+127.0.0.1 aden.baidu.com
 127.0.0.1 ad.ettoday.net
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adfarm.mediaplex.com
@@ -425,8 +426,10 @@
 127.0.0.1 ax.ifeng.com
 127.0.0.1 a.youdao.com
 127.0.0.1 azabu-u.ac.jp
+127.0.0.1 b1.0430.com
 127.0.0.1 b.19869.com
 127.0.0.1 b1sync.zemanta.com
+127.0.0.1 b2.0430.com
 127.0.0.1 badad.googleplex.com
 127.0.0.1 b.ads1.msn.com
 127.0.0.1 baichuan.baidu.com
@@ -456,6 +459,8 @@
 127.0.0.1 bdd.hainan.net
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bd-js.baixing.net
+127.0.0.1 bdjs.guangyuanol.cn
+127.0.0.1 bdjsym.guangyuanol.cn
 127.0.0.1 b.domob.cn
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 bd-s.baixing.net
@@ -1197,6 +1202,7 @@
 127.0.0.1 jsadsdisplay.cn-beijing.log.aliyuncs.com
 127.0.0.1 js-apac-ss.ysm.yahoo.com
 127.0.0.1 js.icast.cn
+127.0.0.1 js.idgdmgroup.com.cn
 127.0.0.1 jsnp.golden1.sogou.com
 127.0.0.1 js.pub.tom.com
 127.0.0.1 jsqmt.qq.com
@@ -1902,6 +1908,7 @@
 127.0.0.1 static.mediav.com
 127.0.0.1 static.m.sjzhushou.com
 127.0.0.1 statics.woozooo.com
+127.0.0.1 static.thefifthera.com
 127.0.0.1 static.tzyiyuantuan.com
 127.0.0.1 static.youmi.net
 127.0.0.1 statis.push.netease.com
@@ -2129,6 +2136,7 @@
 127.0.0.1 v.domob.cn
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 vhunantv.admaster.com.cn
+127.0.0.1 vi12x.xcle.cn
 127.0.0.1 video-ad-stats.googlesyndication.com
 127.0.0.1 videopush.baidu.com
 127.0.0.1 video.ureport.push.qq.com
@@ -2423,6 +2431,7 @@
 :: ad.dqwjzm.com
 :: ad.duapps.com
 :: ade.googlesyndication.com
+:: aden.baidu.com
 :: ad.ettoday.net
 :: adeventtracker.spotify.com
 :: adfarm.mediaplex.com
@@ -2698,8 +2707,10 @@
 :: ax.ifeng.com
 :: a.youdao.com
 :: azabu-u.ac.jp
+:: b1.0430.com
 :: b.19869.com
 :: b1sync.zemanta.com
+:: b2.0430.com
 :: badad.googleplex.com
 :: b.ads1.msn.com
 :: baichuan.baidu.com
@@ -2729,6 +2740,8 @@
 :: bdd.hainan.net
 :: bdimg.share.baidu.com
 :: bd-js.baixing.net
+:: bdjs.guangyuanol.cn
+:: bdjsym.guangyuanol.cn
 :: b.domob.cn
 :: bdplus.baidu.com
 :: bd-s.baixing.net
@@ -3470,6 +3483,7 @@
 :: jsadsdisplay.cn-beijing.log.aliyuncs.com
 :: js-apac-ss.ysm.yahoo.com
 :: js.icast.cn
+:: js.idgdmgroup.com.cn
 :: jsnp.golden1.sogou.com
 :: js.pub.tom.com
 :: jsqmt.qq.com
@@ -4175,6 +4189,7 @@
 :: static.mediav.com
 :: static.m.sjzhushou.com
 :: statics.woozooo.com
+:: static.thefifthera.com
 :: static.tzyiyuantuan.com
 :: static.youmi.net
 :: statis.push.netease.com
@@ -4402,6 +4417,7 @@
 :: v.domob.cn
 :: v.gdt.qq.com
 :: vhunantv.admaster.com.cn
+:: vi12x.xcle.cn
 :: video-ad-stats.googlesyndication.com
 :: videopush.baidu.com
 :: video.ureport.push.qq.com

@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190730062220
+#version=20190814022828
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -193,6 +193,7 @@
 127.0.0.1 ad.dqwjzm.com
 127.0.0.1 ad.duapps.com
 127.0.0.1 ade.googlesyndication.com
+127.0.0.1 aden.baidu.com
 127.0.0.1 ad.ettoday.net
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adfarm.mediaplex.com
@@ -551,8 +552,10 @@
 127.0.0.1 ax.ifeng.com
 127.0.0.1 a.youdao.com
 127.0.0.1 azabu-u.ac.jp
+127.0.0.1 b1.0430.com
 127.0.0.1 b.19869.com
 127.0.0.1 b1sync.zemanta.com
+127.0.0.1 b2.0430.com
 127.0.0.1 badad.googleplex.com
 127.0.0.1 b.ads1.msn.com
 127.0.0.1 baichuan.baidu.com
@@ -589,6 +592,8 @@
 127.0.0.1 bdfrm.bidvertiser.com
 127.0.0.1 bdimg.share.baidu.com
 127.0.0.1 bd-js.baixing.net
+127.0.0.1 bdjs.guangyuanol.cn
+127.0.0.1 bdjsym.guangyuanol.cn
 127.0.0.1 b.domob.cn
 127.0.0.1 bdplus.baidu.com
 127.0.0.1 bd-s.baixing.net
@@ -1254,6 +1259,7 @@
 127.0.0.1 event.mackeeper.com
 127.0.0.1 events.appsflyer.com
 127.0.0.1 events.browsiprod.com
+127.0.0.1 events.jianshu.io
 127.0.0.1 events.pingan.com
 127.0.0.1 eviltracker.net
 127.0.0.1 e.wikigifth.com
@@ -1723,6 +1729,7 @@
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hslyqs.com
 127.0.0.1 js.icast.cn
+127.0.0.1 js.idgdmgroup.com.cn
 127.0.0.1 js.mbaidu.top
 127.0.0.1 jsmedia.adsame.com
 127.0.0.1 js.miaozhen.com
@@ -2933,6 +2940,7 @@
 127.0.0.1 static.m.sjzhushou.com
 127.0.0.1 static-one.ffwap.com
 127.0.0.1 statics.woozooo.com
+127.0.0.1 static.thefifthera.com
 127.0.0.1 static-two.ffwap.com
 127.0.0.1 static.tzyiyuantuan.com
 127.0.0.1 static.wooboo.com.cn
@@ -3291,6 +3299,7 @@
 127.0.0.1 v.gdt.qq.com
 127.0.0.1 vhunantv.admaster.com.cn
 127.0.0.1 vi0.mzy2014.com
+127.0.0.1 vi12x.xcle.cn
 127.0.0.1 vi1.ku6img.net
 127.0.0.1 vi1.mzy2014.com
 127.0.0.1 vi2.ku6img.net
@@ -4006,6 +4015,7 @@
 :: ad.dqwjzm.com
 :: ad.duapps.com
 :: ade.googlesyndication.com
+:: aden.baidu.com
 :: ad.ettoday.net
 :: adeventtracker.spotify.com
 :: adfarm.mediaplex.com
@@ -4364,8 +4374,10 @@
 :: ax.ifeng.com
 :: a.youdao.com
 :: azabu-u.ac.jp
+:: b1.0430.com
 :: b.19869.com
 :: b1sync.zemanta.com
+:: b2.0430.com
 :: badad.googleplex.com
 :: b.ads1.msn.com
 :: baichuan.baidu.com
@@ -4402,6 +4414,8 @@
 :: bdfrm.bidvertiser.com
 :: bdimg.share.baidu.com
 :: bd-js.baixing.net
+:: bdjs.guangyuanol.cn
+:: bdjsym.guangyuanol.cn
 :: b.domob.cn
 :: bdplus.baidu.com
 :: bd-s.baixing.net
@@ -5067,6 +5081,7 @@
 :: event.mackeeper.com
 :: events.appsflyer.com
 :: events.browsiprod.com
+:: events.jianshu.io
 :: events.pingan.com
 :: eviltracker.net
 :: e.wikigifth.com
@@ -5536,6 +5551,7 @@
 :: js.hs-analytics.net
 :: js.hslyqs.com
 :: js.icast.cn
+:: js.idgdmgroup.com.cn
 :: js.mbaidu.top
 :: jsmedia.adsame.com
 :: js.miaozhen.com
@@ -6746,6 +6762,7 @@
 :: static.m.sjzhushou.com
 :: static-one.ffwap.com
 :: statics.woozooo.com
+:: static.thefifthera.com
 :: static-two.ffwap.com
 :: static.tzyiyuantuan.com
 :: static.wooboo.com.cn
@@ -7104,6 +7121,7 @@
 :: v.gdt.qq.com
 :: vhunantv.admaster.com.cn
 :: vi0.mzy2014.com
+:: vi12x.xcle.cn
 :: vi1.ku6img.net
 :: vi1.mzy2014.com
 :: vi2.ku6img.net

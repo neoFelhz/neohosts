@@ -175,6 +175,7 @@ ip dns static add address=127.0.0.1 name=ad.doubleclick.net
 ip dns static add address=127.0.0.1 name=ad.dqwjzm.com
 ip dns static add address=127.0.0.1 name=ad.duapps.com
 ip dns static add address=127.0.0.1 name=ade.googlesyndication.com
+ip dns static add address=127.0.0.1 name=aden.baidu.com
 ip dns static add address=127.0.0.1 name=ad.ettoday.net
 ip dns static add address=127.0.0.1 name=adeventtracker.spotify.com
 ip dns static add address=127.0.0.1 name=adfarm.mediaplex.com
@@ -533,8 +534,10 @@ ip dns static add address=127.0.0.1 name=ax.ggfeng.com
 ip dns static add address=127.0.0.1 name=ax.ifeng.com
 ip dns static add address=127.0.0.1 name=a.youdao.com
 ip dns static add address=127.0.0.1 name=azabu-u.ac.jp
+ip dns static add address=127.0.0.1 name=b1.0430.com
 ip dns static add address=127.0.0.1 name=b.19869.com
 ip dns static add address=127.0.0.1 name=b1sync.zemanta.com
+ip dns static add address=127.0.0.1 name=b2.0430.com
 ip dns static add address=127.0.0.1 name=badad.googleplex.com
 ip dns static add address=127.0.0.1 name=b.ads1.msn.com
 ip dns static add address=127.0.0.1 name=baichuan.baidu.com
@@ -571,6 +574,8 @@ ip dns static add address=127.0.0.1 name=bdd.hainan.net
 ip dns static add address=127.0.0.1 name=bdfrm.bidvertiser.com
 ip dns static add address=127.0.0.1 name=bdimg.share.baidu.com
 ip dns static add address=127.0.0.1 name=bd-js.baixing.net
+ip dns static add address=127.0.0.1 name=bdjs.guangyuanol.cn
+ip dns static add address=127.0.0.1 name=bdjsym.guangyuanol.cn
 ip dns static add address=127.0.0.1 name=b.domob.cn
 ip dns static add address=127.0.0.1 name=bdplus.baidu.com
 ip dns static add address=127.0.0.1 name=bd-s.baixing.net
@@ -1236,6 +1241,7 @@ ip dns static add address=127.0.0.1 name=eventlog.hd.baofeng.com
 ip dns static add address=127.0.0.1 name=event.mackeeper.com
 ip dns static add address=127.0.0.1 name=events.appsflyer.com
 ip dns static add address=127.0.0.1 name=events.browsiprod.com
+ip dns static add address=127.0.0.1 name=events.jianshu.io
 ip dns static add address=127.0.0.1 name=events.pingan.com
 ip dns static add address=127.0.0.1 name=eviltracker.net
 ip dns static add address=127.0.0.1 name=e.wikigifth.com
@@ -1705,6 +1711,7 @@ ip dns static add address=127.0.0.1 name=jserr.cnzz.com
 ip dns static add address=127.0.0.1 name=js.hs-analytics.net
 ip dns static add address=127.0.0.1 name=js.hslyqs.com
 ip dns static add address=127.0.0.1 name=js.icast.cn
+ip dns static add address=127.0.0.1 name=js.idgdmgroup.com.cn
 ip dns static add address=127.0.0.1 name=js.mbaidu.top
 ip dns static add address=127.0.0.1 name=jsmedia.adsame.com
 ip dns static add address=127.0.0.1 name=js.miaozhen.com
@@ -2915,6 +2922,7 @@ ip dns static add address=127.0.0.1 name=static.mediav.com
 ip dns static add address=127.0.0.1 name=static.m.sjzhushou.com
 ip dns static add address=127.0.0.1 name=static-one.ffwap.com
 ip dns static add address=127.0.0.1 name=statics.woozooo.com
+ip dns static add address=127.0.0.1 name=static.thefifthera.com
 ip dns static add address=127.0.0.1 name=static-two.ffwap.com
 ip dns static add address=127.0.0.1 name=static.tzyiyuantuan.com
 ip dns static add address=127.0.0.1 name=static.wooboo.com.cn
@@ -3273,6 +3281,7 @@ ip dns static add address=127.0.0.1 name=vg02h8z1ul.me
 ip dns static add address=127.0.0.1 name=v.gdt.qq.com
 ip dns static add address=127.0.0.1 name=vhunantv.admaster.com.cn
 ip dns static add address=127.0.0.1 name=vi0.mzy2014.com
+ip dns static add address=127.0.0.1 name=vi12x.xcle.cn
 ip dns static add address=127.0.0.1 name=vi1.ku6img.net
 ip dns static add address=127.0.0.1 name=vi1.mzy2014.com
 ip dns static add address=127.0.0.1 name=vi2.ku6img.net
