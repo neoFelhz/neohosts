@@ -553,6 +553,7 @@ ip dns static add address=127.0.0.1 name=baofeng.m.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=b.appjiagu.com
 ip dns static add address=127.0.0.1 name=bar.baidu.com
 ip dns static add address=127.0.0.1 name=bartender.cc
+ip dns static add address=127.0.0.1 name=bat.bing.com
 ip dns static add address=127.0.0.1 name=bazinga.mse.sogou.com
 ip dns static add address=127.0.0.1 name=b.bdstatic.com
 ip dns static add address=127.0.0.1 name=bce.baidu.com

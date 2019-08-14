@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190814022828
+#version=20190814035321
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -571,6 +571,7 @@
 0.0.0.0 b.appjiagu.com
 0.0.0.0 bar.baidu.com
 0.0.0.0 bartender.cc
+0.0.0.0 bat.bing.com
 0.0.0.0 bazinga.mse.sogou.com
 0.0.0.0 b.bdstatic.com
 0.0.0.0 bce.baidu.com
@@ -4393,6 +4394,7 @@
 :: b.appjiagu.com
 :: bar.baidu.com
 :: bartender.cc
+:: bat.bing.com
 :: bazinga.mse.sogou.com
 :: b.bdstatic.com
 :: bce.baidu.com
