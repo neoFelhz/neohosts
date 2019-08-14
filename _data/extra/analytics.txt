@@ -113,6 +113,7 @@
 0.0.0.0 s10.histats.com
 0.0.0.0 s11.histats.com
 # Others
+0.0.0.0 events.jianshu.io
 0.0.0.0 s.qhupdate.com
 0.0.0.0 hs.qhupdate.com
 0.0.0.0 js.users.51.la
