@@ -6,6 +6,7 @@
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 dl.client.baidu.com
 0.0.0.0 a.baidu.com
+0.0.0.0 aden.baidu.com
 0.0.0.0 wm.baidu.com
 0.0.0.0 adm.baidu.com
 0.0.0.0 baidutv.baidu.com
@@ -213,6 +214,11 @@
 0.0.0.0 bd2.idgdmgroup.com.cn
 0.0.0.0 bd3.idgdmgroup.com.cn
 0.0.0.0 bd4.idgdmgroup.com.cn
+0.0.0.0 js.idgdmgroup.com.cn
 0.0.0.0 ggdm1.nhaidu.net
 0.0.0.0 1.nanrenwo.net
 0.0.0.0 2.nanrenwo.net
+0.0.0.0 b1.0430.com
+0.0.0.0 b2.0430.com
+0.0.0.0 bdjs.guangyuanol.cn
+0.0.0.0 bdjsym.guangyuanol.cn
