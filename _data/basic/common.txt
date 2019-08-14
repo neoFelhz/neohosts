@@ -479,7 +479,9 @@
 0.0.0.0 aid.send.microad.jp
 0.0.0.0 img.ak.impact-ad.jp
 0.0.0.0 y.one.impact-ad.jp
-
+# Jianshu
+0.0.0.0 static.thefifthera.com
+0.0.0.0 vi12x.xcle.cn
 # Others
 0.0.0.0 push.wandoujia.com
 0.0.0.0 ss.missyouxi.com
