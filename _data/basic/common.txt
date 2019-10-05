@@ -474,6 +474,11 @@
 0.0.0.0 beacon.tingyun.com
 0.0.0.0 kunpeng-sc.csdnimg.cn
 0.0.0.0 g.csdnimg.cn
+# Traffic Junky
+0.0.0.0 ads.trafficjunky.net
+0.0.0.0 media.trafficjunky.net
+0.0.0.0 vz-cdn.trafficjunky.net
+0.0.0.0 ctrack.trafficjunky.net
 # Aizhan
 0.0.0.0 fpbb.aizhan.com
 0.0.0.0 dmm.aizhan.com
