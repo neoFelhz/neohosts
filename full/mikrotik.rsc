@@ -507,6 +507,7 @@ ip dns static add address=127.0.0.1 name=asp.adsame.com
 ip dns static add address=127.0.0.1 name=assets.210189.com
 ip dns static add address=127.0.0.1 name=assets.growingio.com
 ip dns static add address=127.0.0.1 name=assets.servedby-buysellads.com
+ip dns static add address=127.0.0.1 name=assp.sohu.com
 ip dns static add address=127.0.0.1 name=astat.bugly.qq.com
 ip dns static add address=127.0.0.1 name=a.stat.xiaomi.com
 ip dns static add address=127.0.0.1 name=astrategy.beacon.qq.com
@@ -1309,6 +1310,7 @@ ip dns static add address=127.0.0.1 name=fotacontrol.adfuture.cn
 ip dns static add address=127.0.0.1 name=fpbb.aizhan.com
 ip dns static add address=127.0.0.1 name=fpbjiansuo.mn586.com
 ip dns static add address=127.0.0.1 name=fpb.mn586.com
+ip dns static add address=127.0.0.1 name=fpb.sohu.com
 ip dns static add address=127.0.0.1 name=fs.uc.nearme.com.cn
 ip dns static add address=127.0.0.1 name=fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 ip dns static add address=127.0.0.1 name=fw.adsafeprotected.com
@@ -2348,6 +2350,7 @@ ip dns static add address=127.0.0.1 name=qhm2.cnzz.com
 ip dns static add address=127.0.0.1 name=qianclick.baidu.com
 ip dns static add address=127.0.0.1 name=qianlong.adsame.com
 ip dns static add address=127.0.0.1 name=q.i.gdt.qq.com
+ip dns static add address=127.0.0.1 name=qpb.sohu.com
 ip dns static add address=127.0.0.1 name=qq.m.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=qqshow2-item.qq.com
 ip dns static add address=127.0.0.1 name=qss-client.qq.com

@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191005111405
+#version=20191005111553
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -525,6 +525,7 @@
 127.0.0.1 assets.210189.com
 127.0.0.1 assets.growingio.com
 127.0.0.1 assets.servedby-buysellads.com
+127.0.0.1 assp.sohu.com
 127.0.0.1 astat.bugly.qq.com
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 astrategy.beacon.qq.com
@@ -1327,6 +1328,7 @@
 127.0.0.1 fpbb.aizhan.com
 127.0.0.1 fpbjiansuo.mn586.com
 127.0.0.1 fpb.mn586.com
+127.0.0.1 fpb.sohu.com
 127.0.0.1 fs.uc.nearme.com.cn
 127.0.0.1 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 fw.adsafeprotected.com
@@ -2366,6 +2368,7 @@
 127.0.0.1 qianclick.baidu.com
 127.0.0.1 qianlong.adsame.com
 127.0.0.1 q.i.gdt.qq.com
+127.0.0.1 qpb.sohu.com
 127.0.0.1 qq.m.cn.miaozhen.com
 127.0.0.1 qqshow2-item.qq.com
 127.0.0.1 qss-client.qq.com
@@ -4347,6 +4350,7 @@
 :: assets.210189.com
 :: assets.growingio.com
 :: assets.servedby-buysellads.com
+:: assp.sohu.com
 :: astat.bugly.qq.com
 :: a.stat.xiaomi.com
 :: astrategy.beacon.qq.com
@@ -5149,6 +5153,7 @@
 :: fpbb.aizhan.com
 :: fpbjiansuo.mn586.com
 :: fpb.mn586.com
+:: fpb.sohu.com
 :: fs.uc.nearme.com.cn
 :: fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 :: fw.adsafeprotected.com
@@ -6188,6 +6193,7 @@
 :: qianclick.baidu.com
 :: qianlong.adsame.com
 :: q.i.gdt.qq.com
+:: qpb.sohu.com
 :: qq.m.cn.miaozhen.com
 :: qqshow2-item.qq.com
 :: qss-client.qq.com
