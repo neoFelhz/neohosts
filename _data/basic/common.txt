@@ -459,6 +459,10 @@
 0.0.0.0 a2.zhanzhang.net
 0.0.0.0 a3.zhanzhang.net
 0.0.0.0 a4.zhanzhang.net
+# Jandan.net
+0.0.0.0 s.jandan.com
+0.0.0.0 a3.jandan.net
+0.0.0.0 b3.jandan.net
 # CSDN
 0.0.0.0 medal.blog.csdn.net
 0.0.0.0 nbrecsys.4paradigm.com
@@ -712,3 +716,7 @@
 0.0.0.0 b.19869.com
 0.0.0.0 statics.woozooo.com
 0.0.0.0 c.evidon.com
+0.0.0.0 r.dlandroid.com
+0.0.0.0 banners.mellowads.com
+0.0.0.0 ad.lflucky.com
+0.0.0.0 i.bestcontentfare.top
