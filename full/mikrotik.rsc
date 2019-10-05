@@ -284,6 +284,7 @@ ip dns static add address=127.0.0.1 name=ads.sina.com
 ip dns static add address=127.0.0.1 name=ads.stickyadstv.com
 ip dns static add address=127.0.0.1 name=adss.yahoo.com
 ip dns static add address=127.0.0.1 name=adstextview.qq.com
+ip dns static add address=127.0.0.1 name=ads.trafficjunky.net
 ip dns static add address=127.0.0.1 name=adstream.123.sogoucdn.com
 ip dns static add address=127.0.0.1 name=adsunflower.com
 ip dns static add address=127.0.0.1 name=ads.vamaker.com
@@ -972,6 +973,7 @@ ip dns static add address=127.0.0.1 name=ct.210189.com
 ip dns static add address=127.0.0.1 name=cti.w55c.net
 ip dns static add address=127.0.0.1 name=ct.niu.xunlei.com
 ip dns static add address=127.0.0.1 name=c.top267.com
+ip dns static add address=127.0.0.1 name=ctrack.trafficjunky.net
 ip dns static add address=127.0.0.1 name=c.ugg66.com
 ip dns static add address=127.0.0.1 name=cupid.jebe.renren.com
 ip dns static add address=127.0.0.1 name=c.wcpt.biz.weibo.com
@@ -1925,6 +1927,7 @@ ip dns static add address=127.0.0.1 name=media.admob.com
 ip dns static add address=127.0.0.1 name=media.fastclick.net
 ip dns static add address=127.0.0.1 name=mediapro.pro.cn
 ip dns static add address=127.0.0.1 name=media.trafficfactory.biz
+ip dns static add address=127.0.0.1 name=media.trafficjunky.net
 ip dns static add address=127.0.0.1 name=m.ee-skin.com
 ip dns static add address=127.0.0.1 name=m.ee-vip.net
 ip dns static add address=127.0.0.1 name=meihua.adsame.com
@@ -3341,6 +3344,7 @@ ip dns static add address=127.0.0.1 name=vtechweb.adsame.com
 ip dns static add address=127.0.0.1 name=vt.ipinyou.com
 ip dns static add address=127.0.0.1 name=vv84.bj.bcebos.com
 ip dns static add address=127.0.0.1 name=vvlog.moviebox.baofeng.com
+ip dns static add address=127.0.0.1 name=vz-cdn.trafficjunky.net
 ip dns static add address=127.0.0.1 name=w3.yinyuehu.cn
 ip dns static add address=127.0.0.1 name=w6061.move7.com
 ip dns static add address=127.0.0.1 name=wa.gtimg.com

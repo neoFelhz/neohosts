@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191005112609
+#version=20191005112958
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -249,6 +249,7 @@
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 adss.yahoo.com
 0.0.0.0 adstextview.qq.com
+0.0.0.0 ads.trafficjunky.net
 0.0.0.0 adstream.123.sogoucdn.com
 0.0.0.0 adsunflower.com
 0.0.0.0 adsview2.qq.com
@@ -745,6 +746,7 @@
 0.0.0.0 cs.dqwjzm.com
 0.0.0.0 cti.w55c.net
 0.0.0.0 ct.niu.xunlei.com
+0.0.0.0 ctrack.trafficjunky.net
 0.0.0.0 cupid.jebe.renren.com
 0.0.0.0 c.wcpt.biz.weibo.com
 0.0.0.0 c.wrating.com
@@ -1332,6 +1334,7 @@
 0.0.0.0 media.fastclick.net
 0.0.0.0 mediapro.pro.cn
 0.0.0.0 media.trafficfactory.biz
+0.0.0.0 media.trafficjunky.net
 0.0.0.0 m.ee-skin.com
 0.0.0.0 m.ee-vip.net
 0.0.0.0 meitubeauty.meitudata.com
@@ -2176,6 +2179,7 @@
 0.0.0.0 vsohu.admaster.com.cn
 0.0.0.0 vt.ipinyou.com
 0.0.0.0 vv84.bj.bcebos.com
+0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 wa.gtimg.com
 0.0.0.0 wan.2345.com
 0.0.0.0 wangmeng.baidu.com
@@ -2545,6 +2549,7 @@
 :: ads.stickyadstv.com
 :: adss.yahoo.com
 :: adstextview.qq.com
+:: ads.trafficjunky.net
 :: adstream.123.sogoucdn.com
 :: adsunflower.com
 :: adsview2.qq.com
@@ -3041,6 +3046,7 @@
 :: cs.dqwjzm.com
 :: cti.w55c.net
 :: ct.niu.xunlei.com
+:: ctrack.trafficjunky.net
 :: cupid.jebe.renren.com
 :: c.wcpt.biz.weibo.com
 :: c.wrating.com
@@ -3628,6 +3634,7 @@
 :: media.fastclick.net
 :: mediapro.pro.cn
 :: media.trafficfactory.biz
+:: media.trafficjunky.net
 :: m.ee-skin.com
 :: m.ee-vip.net
 :: meitubeauty.meitudata.com
@@ -4472,6 +4479,7 @@
 :: vsohu.admaster.com.cn
 :: vt.ipinyou.com
 :: vv84.bj.bcebos.com
+:: vz-cdn.trafficjunky.net
 :: wa.gtimg.com
 :: wan.2345.com
 :: wangmeng.baidu.com

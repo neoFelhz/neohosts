@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191005112609
+#version=20191005112958
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -302,6 +302,7 @@
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 adss.yahoo.com
 0.0.0.0 adstextview.qq.com
+0.0.0.0 ads.trafficjunky.net
 0.0.0.0 adstream.123.sogoucdn.com
 0.0.0.0 adsunflower.com
 0.0.0.0 ads.vamaker.com
@@ -990,6 +991,7 @@
 0.0.0.0 cti.w55c.net
 0.0.0.0 ct.niu.xunlei.com
 0.0.0.0 c.top267.com
+0.0.0.0 ctrack.trafficjunky.net
 0.0.0.0 c.ugg66.com
 0.0.0.0 cupid.jebe.renren.com
 0.0.0.0 c.wcpt.biz.weibo.com
@@ -1943,6 +1945,7 @@
 0.0.0.0 media.fastclick.net
 0.0.0.0 mediapro.pro.cn
 0.0.0.0 media.trafficfactory.biz
+0.0.0.0 media.trafficjunky.net
 0.0.0.0 m.ee-skin.com
 0.0.0.0 m.ee-vip.net
 0.0.0.0 meihua.adsame.com
@@ -3359,6 +3362,7 @@
 0.0.0.0 vt.ipinyou.com
 0.0.0.0 vv84.bj.bcebos.com
 0.0.0.0 vvlog.moviebox.baofeng.com
+0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 w3.yinyuehu.cn
 0.0.0.0 w6061.move7.com
 0.0.0.0 wa.gtimg.com
@@ -4140,6 +4144,7 @@
 :: ads.stickyadstv.com
 :: adss.yahoo.com
 :: adstextview.qq.com
+:: ads.trafficjunky.net
 :: adstream.123.sogoucdn.com
 :: adsunflower.com
 :: ads.vamaker.com
@@ -4828,6 +4833,7 @@
 :: cti.w55c.net
 :: ct.niu.xunlei.com
 :: c.top267.com
+:: ctrack.trafficjunky.net
 :: c.ugg66.com
 :: cupid.jebe.renren.com
 :: c.wcpt.biz.weibo.com
@@ -5781,6 +5787,7 @@
 :: media.fastclick.net
 :: mediapro.pro.cn
 :: media.trafficfactory.biz
+:: media.trafficjunky.net
 :: m.ee-skin.com
 :: m.ee-vip.net
 :: meihua.adsame.com
@@ -7197,6 +7204,7 @@
 :: vt.ipinyou.com
 :: vv84.bj.bcebos.com
 :: vvlog.moviebox.baofeng.com
+:: vz-cdn.trafficjunky.net
 :: w3.yinyuehu.cn
 :: w6061.move7.com
 :: wa.gtimg.com
