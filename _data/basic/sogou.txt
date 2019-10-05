@@ -8,6 +8,9 @@
 0.0.0.0 bazinga.mse.sogou.com
 0.0.0.0 feed.theta.sogou.com
 # Sohu
+0.0.0.0 assp.sohu.com
+0.0.0.0 fpb.sohu.com
+0.0.0.0 qpb.sohu.com
 0.0.0.0 adnet.sohu.com
 0.0.0.0 3rd.t.sohu.com
 0.0.0.0 888.tv.sohu.com
