@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20190814035321
+#version=20191005111405
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -2229,7 +2229,6 @@
 127.0.0.1 pc.quansj.cn
 127.0.0.1 pcvideoaliyun.titan.mgtv.com
 127.0.0.1 pc.videoclick.baidu.com
-127.0.0.1 pcvideoyd.titan.mgtv.com
 127.0.0.1 pcweb-v1.log.mgtv.com
 127.0.0.1 pcweb.v1.mgtv.com
 127.0.0.1 pcxzo.pluto.sogou.com
@@ -6052,7 +6051,6 @@
 :: pc.quansj.cn
 :: pcvideoaliyun.titan.mgtv.com
 :: pc.videoclick.baidu.com
-:: pcvideoyd.titan.mgtv.com
 :: pcweb-v1.log.mgtv.com
 :: pcweb.v1.mgtv.com
 :: pcxzo.pluto.sogou.com

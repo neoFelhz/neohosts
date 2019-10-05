@@ -2211,7 +2211,6 @@ ip dns static add address=127.0.0.1 name=pcookie.tanx.com
 ip dns static add address=127.0.0.1 name=pc.quansj.cn
 ip dns static add address=127.0.0.1 name=pcvideoaliyun.titan.mgtv.com
 ip dns static add address=127.0.0.1 name=pc.videoclick.baidu.com
-ip dns static add address=127.0.0.1 name=pcvideoyd.titan.mgtv.com
 ip dns static add address=127.0.0.1 name=pcweb-v1.log.mgtv.com
 ip dns static add address=127.0.0.1 name=pcweb.v1.mgtv.com
 ip dns static add address=127.0.0.1 name=pcxzo.pluto.sogou.com
