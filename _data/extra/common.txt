@@ -100,6 +100,7 @@
 0.0.0.0 g.mbm.cn.miaozhen.com
 0.0.0.0 g.x.cn.miaozhen.com
 0.0.0.0 gs.m.cn.miaozhen.com
+0.0.0.0 hunantv-ipdx.cn.miaozhen.com
 0.0.0.0 hunantv.m.cn.miaozhen.com
 0.0.0.0 iqiyi.m.cn.miaozhen.com
 0.0.0.0 js.miaozhen.com
