@@ -86,7 +86,6 @@
 0.0.0.0 pc.da.mgtv.com
 0.0.0.0 pc1.da.mgtv.com
 0.0.0.0 pcvideoaliyun.titan.mgtv.com
-0.0.0.0 pcvideoyd.titan.mgtv.com
 0.0.0.0 pcweb-v1.log.mgtv.com
 0.0.0.0 pcweb.v1.mgtv.com
 0.0.0.0 py.da.mgtv.com
