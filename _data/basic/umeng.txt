@@ -17,6 +17,7 @@
 0.0.0.0 udash.umengcloud.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 utop.umengcloud.com
+0.0.0.0 ulog.umengcloud.com
 0.0.0.0 cdn0.mobmore.com
 0.0.0.0 ex.mobmore.com
 0.0.0.0 feedback.whalecloud.com
