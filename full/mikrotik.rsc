@@ -1348,7 +1348,6 @@ ip dns static add address=127.0.0.1 name=game.weibo.com
 ip dns static add address=127.0.0.1 name=g.baidu.com
 ip dns static add address=127.0.0.1 name=gb.corp.163.com
 ip dns static add address=127.0.0.1 name=g.cn.miaozhen.com
-ip dns static add address=127.0.0.1 name=g.csdnimg.cn
 ip dns static add address=127.0.0.1 name=g.domob.cn
 ip dns static add address=127.0.0.1 name=g.d.yoyi.tv
 ip dns static add address=127.0.0.1 name=gemini.yahoo.com

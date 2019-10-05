@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191005113052
+#version=20191005113131
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -1366,7 +1366,6 @@
 127.0.0.1 g.baidu.com
 127.0.0.1 gb.corp.163.com
 127.0.0.1 g.cn.miaozhen.com
-127.0.0.1 g.csdnimg.cn
 127.0.0.1 g.domob.cn
 127.0.0.1 g.d.yoyi.tv
 127.0.0.1 gemini.yahoo.com
@@ -5208,7 +5207,6 @@
 :: g.baidu.com
 :: gb.corp.163.com
 :: g.cn.miaozhen.com
-:: g.csdnimg.cn
 :: g.domob.cn
 :: g.d.yoyi.tv
 :: gemini.yahoo.com
