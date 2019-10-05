@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191005112148
+#version=20191005112254
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -2092,6 +2092,7 @@
 127.0.0.1 uid.ksosoft.com
 127.0.0.1 ulic.baidu.com
 127.0.0.1 ulogs.umeng.com
+127.0.0.1 ulog.umengcloud.com
 127.0.0.1 um2.eqads.com
 127.0.0.1 umeng.com
 127.0.0.1 umid.orion.meizu.com
@@ -4383,6 +4384,7 @@
 :: uid.ksosoft.com
 :: ulic.baidu.com
 :: ulogs.umeng.com
+:: ulog.umengcloud.com
 :: um2.eqads.com
 :: umeng.com
 :: umid.orion.meizu.com
