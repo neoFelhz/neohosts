@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191005111827
+#version=20191005112148
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -97,6 +97,7 @@
 0.0.0.0 a2.zhanzhang.net
 0.0.0.0 a3.allyes.com
 0.0.0.0 a3.img.static.youmi.net
+0.0.0.0 a3.jandan.net
 0.0.0.0 a3.zhanzhang.net
 0.0.0.0 a4.zhanzhang.net
 0.0.0.0 a751.oadz.com
@@ -216,6 +217,7 @@
 0.0.0.0 ad.jp.doubleclick.net
 0.0.0.0 ad.jsnbrynb.com
 0.0.0.0 adlaunch.moji.com
+0.0.0.0 ad.lflucky.com
 0.0.0.0 adlog.flurry.com
 0.0.0.0 ad.mail.sohu.com
 0.0.0.0 adm.baidu.com
@@ -557,6 +559,7 @@
 0.0.0.0 b.19869.com
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 b2.0430.com
+0.0.0.0 b3.jandan.net
 0.0.0.0 badad.googleplex.com
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 baichuan.baidu.com
@@ -568,6 +571,7 @@
 0.0.0.0 banner.alimama.com
 0.0.0.0 banner.cooguo.com
 0.0.0.0 banner.img.static.youmi.net
+0.0.0.0 banners.mellowads.com
 0.0.0.0 baofeng.m.cn.miaozhen.com
 0.0.0.0 b.appjiagu.com
 0.0.0.0 bar.baidu.com
@@ -1507,6 +1511,7 @@
 0.0.0.0 i.adsame.com
 0.0.0.0 ias816.ujikdd041o.cn
 0.0.0.0 ib.adnxs.com
+0.0.0.0 i.bestcontentfare.top
 0.0.0.0 ibn.adnxs.com
 0.0.0.0 iclick.cm.admaster.com.cn
 0.0.0.0 i.clkservice.youdao.com
@@ -2408,6 +2413,7 @@
 0.0.0.0 rd.ane.yahoo.co.jp
 0.0.0.0 rd.da.netease.com
 0.0.0.0 rd.e.sogou.com
+0.0.0.0 r.dlandroid.com
 0.0.0.0 r.dmp.sina.cn
 0.0.0.0 r.domob.cn
 0.0.0.0 rdstat.tanx.com
@@ -2835,6 +2841,7 @@
 0.0.0.0 sina.yinstar.org
 0.0.0.0 s.ipinyou.com
 0.0.0.0 sitemonitor.cn.miaozhen.com
+0.0.0.0 s.jandan.com
 0.0.0.0 s.jghcy.com
 0.0.0.0 s.jlminte.com
 0.0.0.0 s.jxhcyc.com
@@ -3923,6 +3930,7 @@
 :: a2.zhanzhang.net
 :: a3.allyes.com
 :: a3.img.static.youmi.net
+:: a3.jandan.net
 :: a3.zhanzhang.net
 :: a4.zhanzhang.net
 :: a751.oadz.com
@@ -4042,6 +4050,7 @@
 :: ad.jp.doubleclick.net
 :: ad.jsnbrynb.com
 :: adlaunch.moji.com
+:: ad.lflucky.com
 :: adlog.flurry.com
 :: ad.mail.sohu.com
 :: adm.baidu.com
@@ -4383,6 +4392,7 @@
 :: b.19869.com
 :: b1sync.zemanta.com
 :: b2.0430.com
+:: b3.jandan.net
 :: badad.googleplex.com
 :: b.ads1.msn.com
 :: baichuan.baidu.com
@@ -4394,6 +4404,7 @@
 :: banner.alimama.com
 :: banner.cooguo.com
 :: banner.img.static.youmi.net
+:: banners.mellowads.com
 :: baofeng.m.cn.miaozhen.com
 :: b.appjiagu.com
 :: bar.baidu.com
@@ -5333,6 +5344,7 @@
 :: i.adsame.com
 :: ias816.ujikdd041o.cn
 :: ib.adnxs.com
+:: i.bestcontentfare.top
 :: ibn.adnxs.com
 :: iclick.cm.admaster.com.cn
 :: i.clkservice.youdao.com
@@ -6234,6 +6246,7 @@
 :: rd.ane.yahoo.co.jp
 :: rd.da.netease.com
 :: rd.e.sogou.com
+:: r.dlandroid.com
 :: r.dmp.sina.cn
 :: r.domob.cn
 :: rdstat.tanx.com
@@ -6661,6 +6674,7 @@
 :: sina.yinstar.org
 :: s.ipinyou.com
 :: sitemonitor.cn.miaozhen.com
+:: s.jandan.com
 :: s.jghcy.com
 :: s.jlminte.com
 :: s.jxhcyc.com

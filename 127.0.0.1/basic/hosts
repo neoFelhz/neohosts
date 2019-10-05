@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191005111827
+#version=20191005112148
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -71,6 +71,7 @@
 127.0.0.1 a2.zhanzhang.net
 127.0.0.1 a3.allyes.com
 127.0.0.1 a3.img.static.youmi.net
+127.0.0.1 a3.jandan.net
 127.0.0.1 a3.zhanzhang.net
 127.0.0.1 a4.zhanzhang.net
 127.0.0.1 a-ad.adwo.com
@@ -171,6 +172,7 @@
 127.0.0.1 ad.jp.doubleclick.net
 127.0.0.1 ad.jsnbrynb.com
 127.0.0.1 adlaunch.moji.com
+127.0.0.1 ad.lflucky.com
 127.0.0.1 adlog.flurry.com
 127.0.0.1 ad.mail.sohu.com
 127.0.0.1 adm.baidu.com
@@ -431,6 +433,7 @@
 127.0.0.1 b.19869.com
 127.0.0.1 b1sync.zemanta.com
 127.0.0.1 b2.0430.com
+127.0.0.1 b3.jandan.net
 127.0.0.1 badad.googleplex.com
 127.0.0.1 b.ads1.msn.com
 127.0.0.1 baichuan.baidu.com
@@ -439,6 +442,7 @@
 127.0.0.1 baidutv.baidu.com
 127.0.0.1 banner.alimama.com
 127.0.0.1 banner.img.static.youmi.net
+127.0.0.1 banners.mellowads.com
 127.0.0.1 b.appjiagu.com
 127.0.0.1 bar.baidu.com
 127.0.0.1 bazinga.mse.sogou.com
@@ -1077,6 +1081,7 @@
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 iad.g.163.com
 127.0.0.1 ib.adnxs.com
+127.0.0.1 i.bestcontentfare.top
 127.0.0.1 ibn.adnxs.com
 127.0.0.1 iclick.cm.admaster.com.cn
 127.0.0.1 i.clkservice.youdao.com
@@ -1657,6 +1662,7 @@
 127.0.0.1 rcv.union-wifi.com
 127.0.0.1 rd.ane.yahoo.co.jp
 127.0.0.1 rd.e.sogou.com
+127.0.0.1 r.dlandroid.com
 127.0.0.1 r.dmp.sina.cn
 127.0.0.1 r.domob.cn
 127.0.0.1 rdstat.tanx.com
@@ -1831,6 +1837,7 @@
 127.0.0.1 sina.wrating.com
 127.0.0.1 sina.yinstar.org
 127.0.0.1 s.ipinyou.com
+127.0.0.1 s.jandan.com
 127.0.0.1 s.jlminte.com
 127.0.0.1 s.l8l9.com
 127.0.0.1 s.lianmeng.360.cn
@@ -2355,6 +2362,7 @@
 :: a2.zhanzhang.net
 :: a3.allyes.com
 :: a3.img.static.youmi.net
+:: a3.jandan.net
 :: a3.zhanzhang.net
 :: a4.zhanzhang.net
 :: a-ad.adwo.com
@@ -2455,6 +2463,7 @@
 :: ad.jp.doubleclick.net
 :: ad.jsnbrynb.com
 :: adlaunch.moji.com
+:: ad.lflucky.com
 :: adlog.flurry.com
 :: ad.mail.sohu.com
 :: adm.baidu.com
@@ -2715,6 +2724,7 @@
 :: b.19869.com
 :: b1sync.zemanta.com
 :: b2.0430.com
+:: b3.jandan.net
 :: badad.googleplex.com
 :: b.ads1.msn.com
 :: baichuan.baidu.com
@@ -2723,6 +2733,7 @@
 :: baidutv.baidu.com
 :: banner.alimama.com
 :: banner.img.static.youmi.net
+:: banners.mellowads.com
 :: b.appjiagu.com
 :: bar.baidu.com
 :: bazinga.mse.sogou.com
@@ -3361,6 +3372,7 @@
 :: iadctest.qwapi.com
 :: iad.g.163.com
 :: ib.adnxs.com
+:: i.bestcontentfare.top
 :: ibn.adnxs.com
 :: iclick.cm.admaster.com.cn
 :: i.clkservice.youdao.com
@@ -3941,6 +3953,7 @@
 :: rcv.union-wifi.com
 :: rd.ane.yahoo.co.jp
 :: rd.e.sogou.com
+:: r.dlandroid.com
 :: r.dmp.sina.cn
 :: r.domob.cn
 :: rdstat.tanx.com
@@ -4115,6 +4128,7 @@
 :: sina.wrating.com
 :: sina.yinstar.org
 :: s.ipinyou.com
+:: s.jandan.com
 :: s.jlminte.com
 :: s.l8l9.com
 :: s.lianmeng.360.cn

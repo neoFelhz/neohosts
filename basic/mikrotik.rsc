@@ -53,6 +53,7 @@ ip dns static add address=127.0.0.1 name=a2.img.static.youmi.net
 ip dns static add address=127.0.0.1 name=a2.zhanzhang.net
 ip dns static add address=127.0.0.1 name=a3.allyes.com
 ip dns static add address=127.0.0.1 name=a3.img.static.youmi.net
+ip dns static add address=127.0.0.1 name=a3.jandan.net
 ip dns static add address=127.0.0.1 name=a3.zhanzhang.net
 ip dns static add address=127.0.0.1 name=a4.zhanzhang.net
 ip dns static add address=127.0.0.1 name=a-ad.adwo.com
@@ -153,6 +154,7 @@ ip dns static add address=127.0.0.1 name=adinfo.ra1.xlmc.sec.miui.com
 ip dns static add address=127.0.0.1 name=ad.jp.doubleclick.net
 ip dns static add address=127.0.0.1 name=ad.jsnbrynb.com
 ip dns static add address=127.0.0.1 name=adlaunch.moji.com
+ip dns static add address=127.0.0.1 name=ad.lflucky.com
 ip dns static add address=127.0.0.1 name=adlog.flurry.com
 ip dns static add address=127.0.0.1 name=ad.mail.sohu.com
 ip dns static add address=127.0.0.1 name=adm.baidu.com
@@ -413,6 +415,7 @@ ip dns static add address=127.0.0.1 name=b1.0430.com
 ip dns static add address=127.0.0.1 name=b.19869.com
 ip dns static add address=127.0.0.1 name=b1sync.zemanta.com
 ip dns static add address=127.0.0.1 name=b2.0430.com
+ip dns static add address=127.0.0.1 name=b3.jandan.net
 ip dns static add address=127.0.0.1 name=badad.googleplex.com
 ip dns static add address=127.0.0.1 name=b.ads1.msn.com
 ip dns static add address=127.0.0.1 name=baichuan.baidu.com
@@ -421,6 +424,7 @@ ip dns static add address=127.0.0.1 name=baidu.greenxf.cn
 ip dns static add address=127.0.0.1 name=baidutv.baidu.com
 ip dns static add address=127.0.0.1 name=banner.alimama.com
 ip dns static add address=127.0.0.1 name=banner.img.static.youmi.net
+ip dns static add address=127.0.0.1 name=banners.mellowads.com
 ip dns static add address=127.0.0.1 name=b.appjiagu.com
 ip dns static add address=127.0.0.1 name=bar.baidu.com
 ip dns static add address=127.0.0.1 name=bazinga.mse.sogou.com
@@ -1059,6 +1063,7 @@ ip dns static add address=127.0.0.1 name=i1.services.social.microsoft.com.nsatc.
 ip dns static add address=127.0.0.1 name=iadctest.qwapi.com
 ip dns static add address=127.0.0.1 name=iad.g.163.com
 ip dns static add address=127.0.0.1 name=ib.adnxs.com
+ip dns static add address=127.0.0.1 name=i.bestcontentfare.top
 ip dns static add address=127.0.0.1 name=ibn.adnxs.com
 ip dns static add address=127.0.0.1 name=iclick.cm.admaster.com.cn
 ip dns static add address=127.0.0.1 name=i.clkservice.youdao.com
@@ -1639,6 +1644,7 @@ ip dns static add address=127.0.0.1 name=rcv.mobad.ijinshan.com
 ip dns static add address=127.0.0.1 name=rcv.union-wifi.com
 ip dns static add address=127.0.0.1 name=rd.ane.yahoo.co.jp
 ip dns static add address=127.0.0.1 name=rd.e.sogou.com
+ip dns static add address=127.0.0.1 name=r.dlandroid.com
 ip dns static add address=127.0.0.1 name=r.dmp.sina.cn
 ip dns static add address=127.0.0.1 name=r.domob.cn
 ip dns static add address=127.0.0.1 name=rdstat.tanx.com
@@ -1813,6 +1819,7 @@ ip dns static add address=127.0.0.1 name=sinas.allyes.com
 ip dns static add address=127.0.0.1 name=sina.wrating.com
 ip dns static add address=127.0.0.1 name=sina.yinstar.org
 ip dns static add address=127.0.0.1 name=s.ipinyou.com
+ip dns static add address=127.0.0.1 name=s.jandan.com
 ip dns static add address=127.0.0.1 name=s.jlminte.com
 ip dns static add address=127.0.0.1 name=s.l8l9.com
 ip dns static add address=127.0.0.1 name=s.lianmeng.360.cn
