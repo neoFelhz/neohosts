@@ -86,6 +86,10 @@
 # CarbonAD
 0.0.0.0 srv.carbonads.net
 0.0.0.0 carbonads.net
+0.0.0.0 cdn.carbonads.com
+0.0.0.0 fallbacks.carbonads.com
+0.0.0.0 engine.adzerk.net
+0.0.0.0 engine.carbonads.com
 0.0.0.0 xf.yellowto.com
 0.0.0.0 yellowto.com
 # Adobe
