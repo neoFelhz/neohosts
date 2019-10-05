@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191005112254
+#version=20191005112609
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -558,6 +558,7 @@
 0.0.0.0 cdn.adstract.com
 0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 cdn.ark.qq.com
+0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.districtm.io
 0.0.0.0 cdn.dragonstatic.com
 0.0.0.0 cdn.fastclick.net
@@ -896,6 +897,8 @@
 0.0.0.0 eiv.baidu.com
 0.0.0.0 ejzr.golden1.sogou.com
 0.0.0.0 em.baidu.com
+0.0.0.0 engine.adzerk.net
+0.0.0.0 engine.carbonads.com
 0.0.0.0 engine.lvehaisen.com
 0.0.0.0 engine.tuia.cn
 0.0.0.0 entry.adsage.com
@@ -929,6 +932,7 @@
 0.0.0.0 f3.mi-stat.gslb.mi-idc.com
 0.0.0.0 fa.163.com
 0.0.0.0 fair.sogou.com
+0.0.0.0 fallbacks.carbonads.com
 0.0.0.0 fanxing.kugou.com
 0.0.0.0 fav.simba.taobao.com
 0.0.0.0 fc3tn.baidu.com
@@ -2850,6 +2854,7 @@
 :: cdn.adstract.com
 :: cdn.ad.xiaomi.com
 :: cdn.ark.qq.com
+:: cdn.carbonads.com
 :: cdn.districtm.io
 :: cdn.dragonstatic.com
 :: cdn.fastclick.net
@@ -3188,6 +3193,8 @@
 :: eiv.baidu.com
 :: ejzr.golden1.sogou.com
 :: em.baidu.com
+:: engine.adzerk.net
+:: engine.carbonads.com
 :: engine.lvehaisen.com
 :: engine.tuia.cn
 :: entry.adsage.com
@@ -3221,6 +3228,7 @@
 :: f3.mi-stat.gslb.mi-idc.com
 :: fa.163.com
 :: fair.sogou.com
+:: fallbacks.carbonads.com
 :: fanxing.kugou.com
 :: fav.simba.taobao.com
 :: fc3tn.baidu.com

@@ -707,6 +707,7 @@ ip dns static add address=127.0.0.1 name=cdn.ad.xiaomi.com
 ip dns static add address=127.0.0.1 name=cdn.ark.qq.com
 ip dns static add address=127.0.0.1 name=cdnas.hyperpromote.com
 ip dns static add address=127.0.0.1 name=cdn.bidvertiser.com
+ip dns static add address=127.0.0.1 name=cdn.carbonads.com
 ip dns static add address=127.0.0.1 name=cdn.cmop.mgtv.com
 ip dns static add address=127.0.0.1 name=cdn.cooguo.com
 ip dns static add address=127.0.0.1 name=cdn.districtm.io
@@ -1219,6 +1220,8 @@ ip dns static add address=127.0.0.1 name=e-ltvp.inmobi.com
 ip dns static add address=127.0.0.1 name=em.baidu.com
 ip dns static add address=127.0.0.1 name=e.mbm.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=e.nbhaosheng168.com
+ip dns static add address=127.0.0.1 name=engine.adzerk.net
+ip dns static add address=127.0.0.1 name=engine.carbonads.com
 ip dns static add address=127.0.0.1 name=engine.lvehaisen.com
 ip dns static add address=127.0.0.1 name=engine.tuia.cn
 ip dns static add address=127.0.0.1 name=en.shenyun.com
@@ -1269,6 +1272,7 @@ ip dns static add address=127.0.0.1 name=f2.p0y.cn
 ip dns static add address=127.0.0.1 name=f3.mi-stat.gslb.mi-idc.com
 ip dns static add address=127.0.0.1 name=fa.163.com
 ip dns static add address=127.0.0.1 name=fair.sogou.com
+ip dns static add address=127.0.0.1 name=fallbacks.carbonads.com
 ip dns static add address=127.0.0.1 name=falundata.com
 ip dns static add address=127.0.0.1 name=falundata.org
 ip dns static add address=127.0.0.1 name=fanxing.kugou.com
