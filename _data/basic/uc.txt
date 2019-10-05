@@ -16,7 +16,6 @@
 0.0.0.0 up4.ucweb.com
 0.0.0.0 wap3.ucweb.com
 0.0.0.0 utp-dmp.ucweb.com
-0.0.0.0 alissl.ucdl.pp.uc.cn
 0.0.0.0 api.mp.uc.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 puds.test.uae.uc.cn
