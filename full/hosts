@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191005111553
+#version=20191005111827
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -1475,6 +1475,7 @@
 0.0.0.0 huichuan.sm.cn
 0.0.0.0 huid.ad.360.cn
 0.0.0.0 huishenghuiying.com.cn
+0.0.0.0 hunantv-ipdx.cn.miaozhen.com
 0.0.0.0 hunantv.m.cn.miaozhen.com
 0.0.0.0 huodong.ios.shouji.360.cn
 0.0.0.0 huoying666.com
@@ -5300,6 +5301,7 @@
 :: huichuan.sm.cn
 :: huid.ad.360.cn
 :: huishenghuiying.com.cn
+:: hunantv-ipdx.cn.miaozhen.com
 :: hunantv.m.cn.miaozhen.com
 :: huodong.ios.shouji.360.cn
 :: huoying666.com

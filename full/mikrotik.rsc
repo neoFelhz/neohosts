@@ -1457,6 +1457,7 @@ ip dns static add address=127.0.0.1 name=hub5pn.wap.sandai.net
 ip dns static add address=127.0.0.1 name=huichuan.sm.cn
 ip dns static add address=127.0.0.1 name=huid.ad.360.cn
 ip dns static add address=127.0.0.1 name=huishenghuiying.com.cn
+ip dns static add address=127.0.0.1 name=hunantv-ipdx.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=hunantv.m.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=huodong.ios.shouji.360.cn
 ip dns static add address=127.0.0.1 name=huoying666.com
