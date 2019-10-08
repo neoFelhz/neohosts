@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191005113131
+#version=20191008113136
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -1575,6 +1575,7 @@
 0.0.0.0 pkg-cdn.youmi.net
 0.0.0.0 p.kjwx8.com
 0.0.0.0 playinfo.gomlab.com
+0.0.0.0 plbslog.umeng.com
 0.0.0.0 p.l.qq.com
 0.0.0.0 p.lu.sogou.com
 0.0.0.0 pmc-d.openx.net
@@ -3874,6 +3875,7 @@
 :: pkg-cdn.youmi.net
 :: p.kjwx8.com
 :: playinfo.gomlab.com
+:: plbslog.umeng.com
 :: p.l.qq.com
 :: p.lu.sogou.com
 :: pmc-d.openx.net

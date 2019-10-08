@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191005113131
+#version=20191008113136
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -2293,6 +2293,7 @@
 127.0.0.1 plat.videojj.com
 127.0.0.1 player.log.hunantv.com
 127.0.0.1 playinfo.gomlab.com
+127.0.0.1 plbslog.umeng.com
 127.0.0.1 plmkolp.m.58xs.tw
 127.0.0.1 p.l.qq.com
 127.0.0.1 p.lu.sogou.com
@@ -6134,6 +6135,7 @@
 :: plat.videojj.com
 :: player.log.hunantv.com
 :: playinfo.gomlab.com
+:: plbslog.umeng.com
 :: plmkolp.m.58xs.tw
 :: p.l.qq.com
 :: p.lu.sogou.com

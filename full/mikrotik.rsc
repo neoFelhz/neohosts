@@ -2275,6 +2275,7 @@ ip dns static add address=127.0.0.1 name=p.kjwx8.com
 ip dns static add address=127.0.0.1 name=plat.videojj.com
 ip dns static add address=127.0.0.1 name=player.log.hunantv.com
 ip dns static add address=127.0.0.1 name=playinfo.gomlab.com
+ip dns static add address=127.0.0.1 name=plbslog.umeng.com
 ip dns static add address=127.0.0.1 name=plmkolp.m.58xs.tw
 ip dns static add address=127.0.0.1 name=p.l.qq.com
 ip dns static add address=127.0.0.1 name=p.lu.sogou.com

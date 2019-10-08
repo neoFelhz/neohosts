@@ -1557,6 +1557,7 @@ ip dns static add address=127.0.0.1 name=pjyu.golden1.sogou.com
 ip dns static add address=127.0.0.1 name=pkg-cdn.youmi.net
 ip dns static add address=127.0.0.1 name=p.kjwx8.com
 ip dns static add address=127.0.0.1 name=playinfo.gomlab.com
+ip dns static add address=127.0.0.1 name=plbslog.umeng.com
 ip dns static add address=127.0.0.1 name=p.l.qq.com
 ip dns static add address=127.0.0.1 name=p.lu.sogou.com
 ip dns static add address=127.0.0.1 name=pmc-d.openx.net
