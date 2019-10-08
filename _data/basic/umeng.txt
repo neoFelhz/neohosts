@@ -29,3 +29,4 @@
 0.0.0.0 stats.umsns.com
 0.0.0.0 www.uyunad.com
 0.0.0.0 ulogs.umeng.com
+0.0.0.0 plbslog.umeng.com
