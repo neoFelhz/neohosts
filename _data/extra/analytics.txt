@@ -112,6 +112,12 @@
 0.0.0.0 s128.histats.com
 0.0.0.0 s10.histats.com
 0.0.0.0 s11.histats.com
+# GVT
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+# Tealiumiq
+0.0.0.0 collect.tealiumiq.com
+0.0.0.0 visitor-service.tealiumiq.com
 # Others
 0.0.0.0 events.jianshu.io
 0.0.0.0 s.qhupdate.com
@@ -158,3 +164,7 @@
 0.0.0.0 image.ptmind.com
 0.0.0.0 v1.ujian.cc
 0.0.0.0 bat.bing.com
+0.0.0.0 collector.githubapp.com
+0.0.0.0 collector-medium.lightstep.com
+0.0.0.0 pixel.wp.come
+0.0.0.0 edge.quantserve.com
