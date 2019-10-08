@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191008113136
+#version=20191008114253
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -610,6 +610,8 @@
 0.0.0.0 bdtv.tianlangkm.com
 0.0.0.0 bdv.bidvertiser.com
 0.0.0.0 beacon.gtimg.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacon.sina.com.cn
 0.0.0.0 beacon.tingyun.com
 0.0.0.0 beap.adss.yahoo.com
@@ -872,6 +874,9 @@
 0.0.0.0 coinminerz.com
 0.0.0.0 coinnebula.com
 0.0.0.0 col.hztags.net
+0.0.0.0 collector.githubapp.com
+0.0.0.0 collector-medium.lightstep.com
+0.0.0.0 collect.tealiumiq.com
 0.0.0.0 conde.adsame.com
 0.0.0.0 config.adsage.cn
 0.0.0.0 config.adsage.com
@@ -1212,6 +1217,7 @@
 0.0.0.0 e.cn.miaozhen.com
 0.0.0.0 ecpm.tanx.com
 0.0.0.0 e.crashlytics.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 ediuschina.com
 0.0.0.0 e.domob.cn
 0.0.0.0 e.domob.com.cn
@@ -2284,6 +2290,7 @@
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.tapad.com
+0.0.0.0 pixel.wp.come
 0.0.0.0 pix.impdesk.com
 0.0.0.0 pixiu.shangshufang.ksosoft.com
 0.0.0.0 pixon.ads-pixiv.net
@@ -3338,6 +3345,7 @@
 0.0.0.0 vip.yoyozz.net
 0.0.0.0 vip.zhuba8.com
 0.0.0.0 viqiyi.admaster.com.cn
+0.0.0.0 visitor-service.tealiumiq.com
 0.0.0.0 vjcyehtqm9.me
 0.0.0.0 vjoz.lu.sogou.com
 0.0.0.0 vl8c4g7tmo.me
@@ -4452,6 +4460,8 @@
 :: bdtv.tianlangkm.com
 :: bdv.bidvertiser.com
 :: beacon.gtimg.com
+:: beacons3.gvt2.com
+:: beacons.gcp.gvt2.com
 :: beacon.sina.com.cn
 :: beacon.tingyun.com
 :: beap.adss.yahoo.com
@@ -4714,6 +4724,9 @@
 :: coinminerz.com
 :: coinnebula.com
 :: col.hztags.net
+:: collector.githubapp.com
+:: collector-medium.lightstep.com
+:: collect.tealiumiq.com
 :: conde.adsame.com
 :: config.adsage.cn
 :: config.adsage.com
@@ -5054,6 +5067,7 @@
 :: e.cn.miaozhen.com
 :: ecpm.tanx.com
 :: e.crashlytics.com
+:: edge.quantserve.com
 :: ediuschina.com
 :: e.domob.cn
 :: e.domob.com.cn
@@ -6126,6 +6140,7 @@
 :: pixel.rubiconproject.com
 :: pixel.sitescout.com
 :: pixel.tapad.com
+:: pixel.wp.come
 :: pix.impdesk.com
 :: pixiu.shangshufang.ksosoft.com
 :: pixon.ads-pixiv.net
@@ -7180,6 +7195,7 @@
 :: vip.yoyozz.net
 :: vip.zhuba8.com
 :: viqiyi.admaster.com.cn
+:: visitor-service.tealiumiq.com
 :: vjcyehtqm9.me
 :: vjoz.lu.sogou.com
 :: vl8c4g7tmo.me

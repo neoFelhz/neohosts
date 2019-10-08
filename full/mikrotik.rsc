@@ -592,6 +592,8 @@ ip dns static add address=127.0.0.1 name=bdsp.x.jd.com
 ip dns static add address=127.0.0.1 name=bdtv.tianlangkm.com
 ip dns static add address=127.0.0.1 name=bdv.bidvertiser.com
 ip dns static add address=127.0.0.1 name=beacon.gtimg.com
+ip dns static add address=127.0.0.1 name=beacons3.gvt2.com
+ip dns static add address=127.0.0.1 name=beacons.gcp.gvt2.com
 ip dns static add address=127.0.0.1 name=beacon.sina.com.cn
 ip dns static add address=127.0.0.1 name=beacon.tingyun.com
 ip dns static add address=127.0.0.1 name=beap.adss.yahoo.com
@@ -854,6 +856,9 @@ ip dns static add address=127.0.0.1 name=coin-hive-proxy-ybydcnjgkl.now.sh
 ip dns static add address=127.0.0.1 name=coinminerz.com
 ip dns static add address=127.0.0.1 name=coinnebula.com
 ip dns static add address=127.0.0.1 name=col.hztags.net
+ip dns static add address=127.0.0.1 name=collector.githubapp.com
+ip dns static add address=127.0.0.1 name=collector-medium.lightstep.com
+ip dns static add address=127.0.0.1 name=collect.tealiumiq.com
 ip dns static add address=127.0.0.1 name=conde.adsame.com
 ip dns static add address=127.0.0.1 name=config.adsage.cn
 ip dns static add address=127.0.0.1 name=config.adsage.com
@@ -1194,6 +1199,7 @@ ip dns static add address=127.0.0.1 name=ecmc.bdimg.com
 ip dns static add address=127.0.0.1 name=e.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=ecpm.tanx.com
 ip dns static add address=127.0.0.1 name=e.crashlytics.com
+ip dns static add address=127.0.0.1 name=edge.quantserve.com
 ip dns static add address=127.0.0.1 name=ediuschina.com
 ip dns static add address=127.0.0.1 name=e.domob.cn
 ip dns static add address=127.0.0.1 name=e.domob.com.cn
@@ -2266,6 +2272,7 @@ ip dns static add address=127.0.0.1 name=pixel.quantserve.com
 ip dns static add address=127.0.0.1 name=pixel.rubiconproject.com
 ip dns static add address=127.0.0.1 name=pixel.sitescout.com
 ip dns static add address=127.0.0.1 name=pixel.tapad.com
+ip dns static add address=127.0.0.1 name=pixel.wp.come
 ip dns static add address=127.0.0.1 name=pix.impdesk.com
 ip dns static add address=127.0.0.1 name=pixiu.shangshufang.ksosoft.com
 ip dns static add address=127.0.0.1 name=pixon.ads-pixiv.net
@@ -3320,6 +3327,7 @@ ip dns static add address=127.0.0.1 name=vip.media8.cn
 ip dns static add address=127.0.0.1 name=vip.yoyozz.net
 ip dns static add address=127.0.0.1 name=vip.zhuba8.com
 ip dns static add address=127.0.0.1 name=viqiyi.admaster.com.cn
+ip dns static add address=127.0.0.1 name=visitor-service.tealiumiq.com
 ip dns static add address=127.0.0.1 name=vjcyehtqm9.me
 ip dns static add address=127.0.0.1 name=vjoz.lu.sogou.com
 ip dns static add address=127.0.0.1 name=vl8c4g7tmo.me

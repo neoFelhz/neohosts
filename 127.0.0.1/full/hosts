@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191008113136
+#version=20191008114253
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -610,6 +610,8 @@
 127.0.0.1 bdtv.tianlangkm.com
 127.0.0.1 bdv.bidvertiser.com
 127.0.0.1 beacon.gtimg.com
+127.0.0.1 beacons3.gvt2.com
+127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacon.sina.com.cn
 127.0.0.1 beacon.tingyun.com
 127.0.0.1 beap.adss.yahoo.com
@@ -872,6 +874,9 @@
 127.0.0.1 coinminerz.com
 127.0.0.1 coinnebula.com
 127.0.0.1 col.hztags.net
+127.0.0.1 collector.githubapp.com
+127.0.0.1 collector-medium.lightstep.com
+127.0.0.1 collect.tealiumiq.com
 127.0.0.1 conde.adsame.com
 127.0.0.1 config.adsage.cn
 127.0.0.1 config.adsage.com
@@ -1212,6 +1217,7 @@
 127.0.0.1 e.cn.miaozhen.com
 127.0.0.1 ecpm.tanx.com
 127.0.0.1 e.crashlytics.com
+127.0.0.1 edge.quantserve.com
 127.0.0.1 ediuschina.com
 127.0.0.1 e.domob.cn
 127.0.0.1 e.domob.com.cn
@@ -2284,6 +2290,7 @@
 127.0.0.1 pixel.rubiconproject.com
 127.0.0.1 pixel.sitescout.com
 127.0.0.1 pixel.tapad.com
+127.0.0.1 pixel.wp.come
 127.0.0.1 pix.impdesk.com
 127.0.0.1 pixiu.shangshufang.ksosoft.com
 127.0.0.1 pixon.ads-pixiv.net
@@ -3338,6 +3345,7 @@
 127.0.0.1 vip.yoyozz.net
 127.0.0.1 vip.zhuba8.com
 127.0.0.1 viqiyi.admaster.com.cn
+127.0.0.1 visitor-service.tealiumiq.com
 127.0.0.1 vjcyehtqm9.me
 127.0.0.1 vjoz.lu.sogou.com
 127.0.0.1 vl8c4g7tmo.me
@@ -4452,6 +4460,8 @@
 :: bdtv.tianlangkm.com
 :: bdv.bidvertiser.com
 :: beacon.gtimg.com
+:: beacons3.gvt2.com
+:: beacons.gcp.gvt2.com
 :: beacon.sina.com.cn
 :: beacon.tingyun.com
 :: beap.adss.yahoo.com
@@ -4714,6 +4724,9 @@
 :: coinminerz.com
 :: coinnebula.com
 :: col.hztags.net
+:: collector.githubapp.com
+:: collector-medium.lightstep.com
+:: collect.tealiumiq.com
 :: conde.adsame.com
 :: config.adsage.cn
 :: config.adsage.com
@@ -5054,6 +5067,7 @@
 :: e.cn.miaozhen.com
 :: ecpm.tanx.com
 :: e.crashlytics.com
+:: edge.quantserve.com
 :: ediuschina.com
 :: e.domob.cn
 :: e.domob.com.cn
@@ -6126,6 +6140,7 @@
 :: pixel.rubiconproject.com
 :: pixel.sitescout.com
 :: pixel.tapad.com
+:: pixel.wp.come
 :: pix.impdesk.com
 :: pixiu.shangshufang.ksosoft.com
 :: pixon.ads-pixiv.net
@@ -7180,6 +7195,7 @@
 :: vip.yoyozz.net
 :: vip.zhuba8.com
 :: viqiyi.admaster.com.cn
+:: visitor-service.tealiumiq.com
 :: vjcyehtqm9.me
 :: vjoz.lu.sogou.com
 :: vl8c4g7tmo.me
