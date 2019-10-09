@@ -2901,6 +2901,7 @@ ip dns static add address=127.0.0.1 name=ssac.suning.com
 ip dns static add address=127.0.0.1 name=ss.cnczjy.com
 ip dns static add address=127.0.0.1 name=ss.cnnic.cn
 ip dns static add address=127.0.0.1 name=ssdk.adkmob.com
+ip dns static add address=127.0.0.1 name=s.share.baidu.com
 ip dns static add address=127.0.0.1 name=ss.he9630.com
 ip dns static add address=127.0.0.1 name=ssl-cdn.static.browser.mi-img.com
 ip dns static add address=127.0.0.1 name=ssl.google-analytics.com

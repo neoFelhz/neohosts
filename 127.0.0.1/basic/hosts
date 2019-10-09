@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191009080853
+#version=20191009081301
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -1884,6 +1884,7 @@
 127.0.0.1 srv.carbonads.net
 127.0.0.1 ssac.suning.com
 127.0.0.1 ssdk.adkmob.com
+127.0.0.1 s.share.baidu.com
 127.0.0.1 ss.he9630.com
 127.0.0.1 ssl-cdn.static.browser.mi-img.com
 127.0.0.1 ssl.ymapp.com
@@ -4186,6 +4187,7 @@
 :: srv.carbonads.net
 :: ssac.suning.com
 :: ssdk.adkmob.com
+:: s.share.baidu.com
 :: ss.he9630.com
 :: ssl-cdn.static.browser.mi-img.com
 :: ssl.ymapp.com

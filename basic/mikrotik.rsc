@@ -1866,6 +1866,7 @@ ip dns static add address=127.0.0.1 name=srv.buysellads.com
 ip dns static add address=127.0.0.1 name=srv.carbonads.net
 ip dns static add address=127.0.0.1 name=ssac.suning.com
 ip dns static add address=127.0.0.1 name=ssdk.adkmob.com
+ip dns static add address=127.0.0.1 name=s.share.baidu.com
 ip dns static add address=127.0.0.1 name=ss.he9630.com
 ip dns static add address=127.0.0.1 name=ssl-cdn.static.browser.mi-img.com
 ip dns static add address=127.0.0.1 name=ssl.ymapp.com
