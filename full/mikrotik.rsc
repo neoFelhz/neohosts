@@ -1163,6 +1163,7 @@ ip dns static add address=127.0.0.1 name=dvsend.china.com
 ip dns static add address=127.0.0.1 name=dvser02.china.com
 ip dns static add address=127.0.0.1 name=dvser.china.com
 ip dns static add address=127.0.0.1 name=dvx-android.domob.cn
+ip dns static add address=127.0.0.1 name=dw.cbsi.com
 ip dns static add address=127.0.0.1 name=dw-collect.ksosoft.com
 ip dns static add address=127.0.0.1 name=dw-online.ksosoft.com
 ip dns static add address=127.0.0.1 name=dwtracking.sdo.com
@@ -3148,6 +3149,7 @@ ip dns static add address=127.0.0.1 name=trc.adsage.com
 ip dns static add address=127.0.0.1 name=trc.taboola.com
 ip dns static add address=127.0.0.1 name=tree.logger.baofeng.com
 ip dns static add address=127.0.0.1 name=trends.mobile.sina.cn
+ip dns static add address=127.0.0.1 name=tru.am
 ip dns static add address=127.0.0.1 name=tsjdgzm.m.3dllc.cc
 ip dns static add address=127.0.0.1 name=t.sj.qq.com
 ip dns static add address=127.0.0.1 name=ttjx-online.cn-hangzhou.log.aliyuncs.com
@@ -3319,6 +3321,7 @@ ip dns static add address=127.0.0.1 name=videopush.baidu.com
 ip dns static add address=127.0.0.1 name=video.ureport.push.qq.com
 ip dns static add address=127.0.0.1 name=video.wap.mpush.qq.com
 ip dns static add address=127.0.0.1 name=video.ymapp.com
+ip dns static add address=127.0.0.1 name=vidtech.cbsinteractive.com
 ip dns static add address=127.0.0.1 name=view.admaster.com.cn
 ip dns static add address=127.0.0.1 name=view.atdmt.com
 ip dns static add address=127.0.0.1 name=vip.51.la

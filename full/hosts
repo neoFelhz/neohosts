@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191008114253
+#version=20191009075831
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -1181,6 +1181,7 @@
 0.0.0.0 dvser02.china.com
 0.0.0.0 dvser.china.com
 0.0.0.0 dvx-android.domob.cn
+0.0.0.0 dw.cbsi.com
 0.0.0.0 dw-collect.ksosoft.com
 0.0.0.0 dw-online.ksosoft.com
 0.0.0.0 dwtracking.sdo.com
@@ -3166,6 +3167,7 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 tree.logger.baofeng.com
 0.0.0.0 trends.mobile.sina.cn
+0.0.0.0 tru.am
 0.0.0.0 tsjdgzm.m.3dllc.cc
 0.0.0.0 t.sj.qq.com
 0.0.0.0 ttjx-online.cn-hangzhou.log.aliyuncs.com
@@ -3337,6 +3339,7 @@
 0.0.0.0 video.ureport.push.qq.com
 0.0.0.0 video.wap.mpush.qq.com
 0.0.0.0 video.ymapp.com
+0.0.0.0 vidtech.cbsinteractive.com
 0.0.0.0 view.admaster.com.cn
 0.0.0.0 view.atdmt.com
 0.0.0.0 vip.51.la
@@ -5031,6 +5034,7 @@
 :: dvser02.china.com
 :: dvser.china.com
 :: dvx-android.domob.cn
+:: dw.cbsi.com
 :: dw-collect.ksosoft.com
 :: dw-online.ksosoft.com
 :: dwtracking.sdo.com
@@ -7016,6 +7020,7 @@
 :: trc.taboola.com
 :: tree.logger.baofeng.com
 :: trends.mobile.sina.cn
+:: tru.am
 :: tsjdgzm.m.3dllc.cc
 :: t.sj.qq.com
 :: ttjx-online.cn-hangzhou.log.aliyuncs.com
@@ -7187,6 +7192,7 @@
 :: video.ureport.push.qq.com
 :: video.wap.mpush.qq.com
 :: video.ymapp.com
+:: vidtech.cbsinteractive.com
 :: view.admaster.com.cn
 :: view.atdmt.com
 :: vip.51.la
