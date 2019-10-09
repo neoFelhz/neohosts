@@ -22,9 +22,7 @@
 0.0.0.0 gimg.baidu.com
 0.0.0.0 afd.baidu.com
 0.0.0.0 als.baidu.com
-0.0.0.0 api.share.baidu.com
 0.0.0.0 api.tuisong.baidu.com
-0.0.0.0 bdimg.share.baidu.com
 0.0.0.0 cbjs.baidu.com
 0.0.0.0 cm.baidu.com
 0.0.0.0 cm.pos.baidu.com
@@ -97,7 +95,6 @@
 0.0.0.0 release.baidu.com
 0.0.0.0 rplog.baidu.com
 0.0.0.0 sclick.baidu.com
-0.0.0.0 share.baidu.com
 0.0.0.0 snippet.pos.baidu.com
 0.0.0.0 tuijian.baidu.com
 0.0.0.0 unionimage.baidu.com
@@ -202,6 +199,13 @@
 0.0.0.0 bj.bcebos.com
 0.0.0.0 tob-cms.bj.bcebos.com
 0.0.0.0 wenku-cms.bj.bcebos.com
+
+# share.baidu.com
+0.0.0.0 share.baidu.com
+0.0.0.0 api.share.baidu.com
+0.0.0.0 bdimg.share.baidu.com
+0.0.0.0 s.share.baidu.com
+
 
 # wangmeng
 0.0.0.0 zzy1.quyaoya.com
