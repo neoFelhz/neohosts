@@ -413,7 +413,13 @@
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 www.kanjiantu.com
 0.0.0.0 www.1990tu.com
+0.0.0.0 asset.pagefair.net
 # Bshare
 0.0.0.0 static.bshare.cn
 # Ruanyifeng
 0.0.0.0 www.wangbase.com
+# Media.net
+0.0.0.0 contexual.media.net
+0.0.0.0 adservex.media.net
+0.0.0.0 s.adroll.com
+0.0.0.0 www.media.net
