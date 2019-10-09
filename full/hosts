@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191009075831
+#version=20191009080209
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -3254,6 +3254,7 @@
 0.0.0.0 urd103.analysys.cn
 0.0.0.0 urd240.analysys.cn
 0.0.0.0 urd345.analysys.cn
+0.0.0.0 urs.zdnet.com
 0.0.0.0 us.adserver.yahoo.com
 0.0.0.0 us.bannyat.com
 0.0.0.0 user1.game.qq.com
@@ -7107,6 +7108,7 @@
 :: urd103.analysys.cn
 :: urd240.analysys.cn
 :: urd345.analysys.cn
+:: urs.zdnet.com
 :: us.adserver.yahoo.com
 :: us.bannyat.com
 :: user1.game.qq.com

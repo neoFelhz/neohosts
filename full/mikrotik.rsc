@@ -3236,6 +3236,7 @@ ip dns static add address=127.0.0.1 name=upush.res.meizu.com
 ip dns static add address=127.0.0.1 name=urd103.analysys.cn
 ip dns static add address=127.0.0.1 name=urd240.analysys.cn
 ip dns static add address=127.0.0.1 name=urd345.analysys.cn
+ip dns static add address=127.0.0.1 name=urs.zdnet.com
 ip dns static add address=127.0.0.1 name=us.adserver.yahoo.com
 ip dns static add address=127.0.0.1 name=us.bannyat.com
 ip dns static add address=127.0.0.1 name=user1.game.qq.com
