@@ -171,3 +171,4 @@
 0.0.0.0 vidtech.cbsinteractive.com
 0.0.0.0 tru.am
 0.0.0.0 dw.cbsi.com
+0.0.0.0 urs.zdnet.com
