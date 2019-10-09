@@ -120,6 +120,8 @@
 0.0.0.0 hz.mmstat.com
 0.0.0.0 p3p.mmstat.com
 0.0.0.0 res.mmstat.com
+0.0.0.0 log.mmstat.com
+0.0.0.0 gm.mmstat.com
 #mct01
 0.0.0.0 a.mct01.com
 0.0.0.0 cm.mct01.com
