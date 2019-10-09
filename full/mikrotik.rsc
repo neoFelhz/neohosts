@@ -253,6 +253,7 @@ ip dns static add address=127.0.0.1 name=adserver.juicyads.com
 ip dns static add address=127.0.0.1 name=adserver-us.adtech.advertising.com
 ip dns static add address=127.0.0.1 name=adserver.xpanama.net
 ip dns static add address=127.0.0.1 name=adserver.yahoo.com
+ip dns static add address=127.0.0.1 name=adservex.media.net
 ip dns static add address=127.0.0.1 name=adservice.google.co.jp
 ip dns static add address=127.0.0.1 name=adservice.google.com
 ip dns static add address=127.0.0.1 name=ads.eu.msn.com
@@ -507,6 +508,7 @@ ip dns static add address=127.0.0.1 name=art.theta.sogoucdn.com
 ip dns static add address=127.0.0.1 name=asearch.alicdn.com
 ip dns static add address=127.0.0.1 name=as.mgtv.com
 ip dns static add address=127.0.0.1 name=asp.adsame.com
+ip dns static add address=127.0.0.1 name=asset.pagefair.net
 ip dns static add address=127.0.0.1 name=assets.210189.com
 ip dns static add address=127.0.0.1 name=assets.growingio.com
 ip dns static add address=127.0.0.1 name=assets.servedby-buysellads.com
@@ -870,6 +872,7 @@ ip dns static add address=127.0.0.1 name=config.mobisage.cn
 ip dns static add address=127.0.0.1 name=config.push.sogou.com
 ip dns static add address=127.0.0.1 name=conf.xiniuz.com
 ip dns static add address=127.0.0.1 name=contentrecommend-out.mobile.sina.cn
+ip dns static add address=127.0.0.1 name=contexual.media.net
 ip dns static add address=127.0.0.1 name=conversion.adpro.cn
 ip dns static add address=127.0.0.1 name=conversion.pro.cn
 ip dns static add address=127.0.0.1 name=conv.youdao.com
@@ -2651,6 +2654,7 @@ ip dns static add address=127.0.0.1 name=s9.cnzz.com
 ip dns static add address=127.0.0.1 name=sa0.tuisong.baidu.com
 ip dns static add address=127.0.0.1 name=sa1.tuisong.baidu.com
 ip dns static add address=127.0.0.1 name=sa3.tuisong.baidu.com
+ip dns static add address=127.0.0.1 name=s.adroll.com
 ip dns static add address=127.0.0.1 name=s.ads.sohu.com
 ip dns static add address=127.0.0.1 name=s.aikan6.com
 ip dns static add address=127.0.0.1 name=s.alitui.weibo.com
@@ -3632,6 +3636,7 @@ ip dns static add address=127.0.0.1 name=www.mairuan.com
 ip dns static add address=127.0.0.1 name=www.mairuanwang.com
 ip dns static add address=127.0.0.1 name=www.makeding.com
 ip dns static add address=127.0.0.1 name=www.mathtype.cn
+ip dns static add address=127.0.0.1 name=www.media.net
 ip dns static add address=127.0.0.1 name=www.mhradio.org
 ip dns static add address=127.0.0.1 name=www.millwardbrownacsr.com
 ip dns static add address=127.0.0.1 name=www.mindmanager.cc

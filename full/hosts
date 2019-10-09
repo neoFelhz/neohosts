@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191009080209
+#version=20191009080753
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -271,6 +271,7 @@
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adserver.xpanama.net
 0.0.0.0 adserver.yahoo.com
+0.0.0.0 adservex.media.net
 0.0.0.0 adservice.google.co.jp
 0.0.0.0 adservice.google.com
 0.0.0.0 ads.eu.msn.com
@@ -525,6 +526,7 @@
 0.0.0.0 asearch.alicdn.com
 0.0.0.0 as.mgtv.com
 0.0.0.0 asp.adsame.com
+0.0.0.0 asset.pagefair.net
 0.0.0.0 assets.210189.com
 0.0.0.0 assets.growingio.com
 0.0.0.0 assets.servedby-buysellads.com
@@ -888,6 +890,7 @@
 0.0.0.0 config.push.sogou.com
 0.0.0.0 conf.xiniuz.com
 0.0.0.0 contentrecommend-out.mobile.sina.cn
+0.0.0.0 contexual.media.net
 0.0.0.0 conversion.adpro.cn
 0.0.0.0 conversion.pro.cn
 0.0.0.0 conv.youdao.com
@@ -2669,6 +2672,7 @@
 0.0.0.0 sa0.tuisong.baidu.com
 0.0.0.0 sa1.tuisong.baidu.com
 0.0.0.0 sa3.tuisong.baidu.com
+0.0.0.0 s.adroll.com
 0.0.0.0 s.ads.sohu.com
 0.0.0.0 s.aikan6.com
 0.0.0.0 s.alitui.weibo.com
@@ -3650,6 +3654,7 @@
 0.0.0.0 www.mairuanwang.com
 0.0.0.0 www.makeding.com
 0.0.0.0 www.mathtype.cn
+0.0.0.0 www.media.net
 0.0.0.0 www.mhradio.org
 0.0.0.0 www.millwardbrownacsr.com
 0.0.0.0 www.mindmanager.cc
@@ -4125,6 +4130,7 @@
 :: adserver-us.adtech.advertising.com
 :: adserver.xpanama.net
 :: adserver.yahoo.com
+:: adservex.media.net
 :: adservice.google.co.jp
 :: adservice.google.com
 :: ads.eu.msn.com
@@ -4379,6 +4385,7 @@
 :: asearch.alicdn.com
 :: as.mgtv.com
 :: asp.adsame.com
+:: asset.pagefair.net
 :: assets.210189.com
 :: assets.growingio.com
 :: assets.servedby-buysellads.com
@@ -4742,6 +4749,7 @@
 :: config.push.sogou.com
 :: conf.xiniuz.com
 :: contentrecommend-out.mobile.sina.cn
+:: contexual.media.net
 :: conversion.adpro.cn
 :: conversion.pro.cn
 :: conv.youdao.com
@@ -6523,6 +6531,7 @@
 :: sa0.tuisong.baidu.com
 :: sa1.tuisong.baidu.com
 :: sa3.tuisong.baidu.com
+:: s.adroll.com
 :: s.ads.sohu.com
 :: s.aikan6.com
 :: s.alitui.weibo.com
@@ -7504,6 +7513,7 @@
 :: www.mairuanwang.com
 :: www.makeding.com
 :: www.mathtype.cn
+:: www.media.net
 :: www.mhradio.org
 :: www.millwardbrownacsr.com
 :: www.mindmanager.cc
