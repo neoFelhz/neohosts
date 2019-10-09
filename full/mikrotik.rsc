@@ -1220,6 +1220,7 @@ ip dns static add address=127.0.0.1 name=e.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=ecpm.tanx.com
 ip dns static add address=127.0.0.1 name=e.crashlytics.com
 ip dns static add address=127.0.0.1 name=edge.quantserve.com
+ip dns static add address=127.0.0.1 name=editor.staging2.crazyegg.com
 ip dns static add address=127.0.0.1 name=ediuschina.com
 ip dns static add address=127.0.0.1 name=e.domob.cn
 ip dns static add address=127.0.0.1 name=e.domob.com.cn
@@ -2316,6 +2317,7 @@ ip dns static add address=127.0.0.1 name=p.kjwx8.com
 ip dns static add address=127.0.0.1 name=planitinfo.crsspxl.com
 ip dns static add address=127.0.0.1 name=plat.videojj.com
 ip dns static add address=127.0.0.1 name=player.log.hunantv.com
+ip dns static add address=127.0.0.1 name=player.staging2.crazyegg.com
 ip dns static add address=127.0.0.1 name=playinfo.gomlab.com
 ip dns static add address=127.0.0.1 name=plbslog.umeng.com
 ip dns static add address=127.0.0.1 name=plmkolp.m.58xs.tw
@@ -2733,6 +2735,7 @@ ip dns static add address=127.0.0.1 name=s.clkservice.youdao.com
 ip dns static add address=127.0.0.1 name=sclog.moviebox.baofeng.com
 ip dns static add address=127.0.0.1 name=s.cpro.baidu.com
 ip dns static add address=127.0.0.1 name=script-bd.baixing.net
+ip dns static add address=127.0.0.1 name=script.crazyegg.com
 ip dns static add address=127.0.0.1 name=sdapprecv.app.cntvwb.cn
 ip dns static add address=127.0.0.1 name=sddnserror1.wo.com.cn
 ip dns static add address=127.0.0.1 name=sddnserror2.wo.com.cn
@@ -2858,6 +2861,7 @@ ip dns static add address=127.0.0.1 name=shizen-no-megumi.com
 ip dns static add address=127.0.0.1 name=s.hk9600.com
 ip dns static add address=127.0.0.1 name=s.hkfuy.com
 ip dns static add address=127.0.0.1 name=shop.admin.yinyuetai.com
+ip dns static add address=127.0.0.1 name=shopify.staging2.crazyegg.com
 ip dns static add address=127.0.0.1 name=shop.yinyuetai.com
 ip dns static add address=127.0.0.1 name=shouji.360.cn
 ip dns static add address=127.0.0.1 name=shouji.sougou.com
@@ -2959,6 +2963,7 @@ ip dns static add address=127.0.0.1 name=sssvd.china.com
 ip dns static add address=127.0.0.1 name=sstatic1.histats.com
 ip dns static add address=127.0.0.1 name=stadig0.ifeng.com
 ip dns static add address=127.0.0.1 name=stadig.ifeng.com
+ip dns static add address=127.0.0.1 name=staging2.crazyegg.com
 ip dns static add address=127.0.0.1 name=staging.admin.e.mi.com
 ip dns static add address=127.0.0.1 name=stags.bluekai.com
 ip dns static add address=127.0.0.1 name=sta.haloall.com
@@ -3346,6 +3351,7 @@ ip dns static add address=127.0.0.1 name=vatrack.hinet.net
 ip dns static add address=127.0.0.1 name=va.videojj.com
 ip dns static add address=127.0.0.1 name=vbaof.admaster.com.cn
 ip dns static add address=127.0.0.1 name=vcfs6ip5h6.bid
+ip dns static add address=127.0.0.1 name=vcr.staging2.crazyegg.com
 ip dns static add address=127.0.0.1 name=vdapprecv.app.cntvwb.cn
 ip dns static add address=127.0.0.1 name=vdcci.adsame.com
 ip dns static add address=127.0.0.1 name=v.domob.cn
@@ -3832,6 +3838,7 @@ ip dns static add address=127.0.0.1 name=y.one.impact-ad.jp
 ip dns static add address=127.0.0.1 name=youjia2016.com
 ip dns static add address=127.0.0.1 name=youku-dtv.m.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=youle.tom.com
+ip dns static add address=127.0.0.1 name=youso.crazyegg.com
 ip dns static add address=127.0.0.1 name=ypv.chengadx.com
 ip dns static add address=127.0.0.1 name=yt.mmstat.com
 ip dns static add address=127.0.0.1 name=yuanchengxiezuo.com

@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191009083838
+#version=20191009084044
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -1238,6 +1238,7 @@
 127.0.0.1 ecpm.tanx.com
 127.0.0.1 e.crashlytics.com
 127.0.0.1 edge.quantserve.com
+127.0.0.1 editor.staging2.crazyegg.com
 127.0.0.1 ediuschina.com
 127.0.0.1 e.domob.cn
 127.0.0.1 e.domob.com.cn
@@ -2334,6 +2335,7 @@
 127.0.0.1 planitinfo.crsspxl.com
 127.0.0.1 plat.videojj.com
 127.0.0.1 player.log.hunantv.com
+127.0.0.1 player.staging2.crazyegg.com
 127.0.0.1 playinfo.gomlab.com
 127.0.0.1 plbslog.umeng.com
 127.0.0.1 plmkolp.m.58xs.tw
@@ -2751,6 +2753,7 @@
 127.0.0.1 sclog.moviebox.baofeng.com
 127.0.0.1 s.cpro.baidu.com
 127.0.0.1 script-bd.baixing.net
+127.0.0.1 script.crazyegg.com
 127.0.0.1 sdapprecv.app.cntvwb.cn
 127.0.0.1 sddnserror1.wo.com.cn
 127.0.0.1 sddnserror2.wo.com.cn
@@ -2876,6 +2879,7 @@
 127.0.0.1 s.hk9600.com
 127.0.0.1 s.hkfuy.com
 127.0.0.1 shop.admin.yinyuetai.com
+127.0.0.1 shopify.staging2.crazyegg.com
 127.0.0.1 shop.yinyuetai.com
 127.0.0.1 shouji.360.cn
 127.0.0.1 shouji.sougou.com
@@ -2977,6 +2981,7 @@
 127.0.0.1 sstatic1.histats.com
 127.0.0.1 stadig0.ifeng.com
 127.0.0.1 stadig.ifeng.com
+127.0.0.1 staging2.crazyegg.com
 127.0.0.1 staging.admin.e.mi.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 sta.haloall.com
@@ -3364,6 +3369,7 @@
 127.0.0.1 va.videojj.com
 127.0.0.1 vbaof.admaster.com.cn
 127.0.0.1 vcfs6ip5h6.bid
+127.0.0.1 vcr.staging2.crazyegg.com
 127.0.0.1 vdapprecv.app.cntvwb.cn
 127.0.0.1 vdcci.adsame.com
 127.0.0.1 v.domob.cn
@@ -3850,6 +3856,7 @@
 127.0.0.1 youjia2016.com
 127.0.0.1 youku-dtv.m.cn.miaozhen.com
 127.0.0.1 youle.tom.com
+127.0.0.1 youso.crazyegg.com
 127.0.0.1 ypv.chengadx.com
 127.0.0.1 yt.mmstat.com
 127.0.0.1 yuanchengxiezuo.com
@@ -5139,6 +5146,7 @@
 :: ecpm.tanx.com
 :: e.crashlytics.com
 :: edge.quantserve.com
+:: editor.staging2.crazyegg.com
 :: ediuschina.com
 :: e.domob.cn
 :: e.domob.com.cn
@@ -6235,6 +6243,7 @@
 :: planitinfo.crsspxl.com
 :: plat.videojj.com
 :: player.log.hunantv.com
+:: player.staging2.crazyegg.com
 :: playinfo.gomlab.com
 :: plbslog.umeng.com
 :: plmkolp.m.58xs.tw
@@ -6652,6 +6661,7 @@
 :: sclog.moviebox.baofeng.com
 :: s.cpro.baidu.com
 :: script-bd.baixing.net
+:: script.crazyegg.com
 :: sdapprecv.app.cntvwb.cn
 :: sddnserror1.wo.com.cn
 :: sddnserror2.wo.com.cn
@@ -6777,6 +6787,7 @@
 :: s.hk9600.com
 :: s.hkfuy.com
 :: shop.admin.yinyuetai.com
+:: shopify.staging2.crazyegg.com
 :: shop.yinyuetai.com
 :: shouji.360.cn
 :: shouji.sougou.com
@@ -6878,6 +6889,7 @@
 :: sstatic1.histats.com
 :: stadig0.ifeng.com
 :: stadig.ifeng.com
+:: staging2.crazyegg.com
 :: staging.admin.e.mi.com
 :: stags.bluekai.com
 :: sta.haloall.com
@@ -7265,6 +7277,7 @@
 :: va.videojj.com
 :: vbaof.admaster.com.cn
 :: vcfs6ip5h6.bid
+:: vcr.staging2.crazyegg.com
 :: vdapprecv.app.cntvwb.cn
 :: vdcci.adsame.com
 :: v.domob.cn
@@ -7751,6 +7764,7 @@
 :: youjia2016.com
 :: youku-dtv.m.cn.miaozhen.com
 :: youle.tom.com
+:: youso.crazyegg.com
 :: ypv.chengadx.com
 :: yt.mmstat.com
 :: yuanchengxiezuo.com
