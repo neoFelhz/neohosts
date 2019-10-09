@@ -115,6 +115,14 @@
 # GVT
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons3.gvt2.com
+# CrazyEgg
+0.0.0.0 player.staging2.crazyegg.com
+0.0.0.0 editor.staging2.crazyegg.com
+0.0.0.0 vcr.staging2.crazyegg.com
+0.0.0.0 shopify.staging2.crazyegg.com
+0.0.0.0 staging2.crazyegg.com
+0.0.0.0 script.crazyegg.com
+0.0.0.0 youso.crazyegg.com
 # Tealiumiq
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
