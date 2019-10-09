@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191009080753
+#version=20191009080853
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -1002,6 +1002,7 @@
 0.0.0.0 gload.adhood.com
 0.0.0.0 global.msads.net
 0.0.0.0 gma.alicdn.com
+0.0.0.0 gm.mmstat.com
 0.0.0.0 go.mmstat.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
@@ -1269,6 +1270,7 @@
 0.0.0.0 log.collect.yinyuetai.com
 0.0.0.0 log.cs.pp.cn
 0.0.0.0 log.mix.sina.com.cn
+0.0.0.0 log.mmstat.com
 0.0.0.0 log.music.baidu.com
 0.0.0.0 logs.newapi.com
 0.0.0.0 log.spotify.com
@@ -3302,6 +3304,7 @@
 :: gload.adhood.com
 :: global.msads.net
 :: gma.alicdn.com
+:: gm.mmstat.com
 :: go.mmstat.com
 :: googleadservices.com
 :: googleads.g.doubleclick.net
@@ -3569,6 +3572,7 @@
 :: log.collect.yinyuetai.com
 :: log.cs.pp.cn
 :: log.mix.sina.com.cn
+:: log.mmstat.com
 :: log.music.baidu.com
 :: logs.newapi.com
 :: log.spotify.com

@@ -1374,6 +1374,7 @@ ip dns static add address=127.0.0.1 name=gload.adhood.com
 ip dns static add address=127.0.0.1 name=global.msads.net
 ip dns static add address=127.0.0.1 name=gma.alicdn.com
 ip dns static add address=127.0.0.1 name=g.mbm.cn.miaozhen.com
+ip dns static add address=127.0.0.1 name=gm.mmstat.com
 ip dns static add address=127.0.0.1 name=go.mmstat.com
 ip dns static add address=127.0.0.1 name=googleadservices.com
 ip dns static add address=127.0.0.1 name=googleads.g.doubleclick.net
@@ -1832,6 +1833,7 @@ ip dns static add address=127.0.0.1 name=log.he2d.com
 ip dns static add address=127.0.0.1 name=log.houyi.baofeng.net
 ip dns static add address=127.0.0.1 name=log.ltype.baofeng.com
 ip dns static add address=127.0.0.1 name=log.mix.sina.com.cn
+ip dns static add address=127.0.0.1 name=log.mmstat.com
 ip dns static add address=127.0.0.1 name=log.music.baidu.com
 ip dns static add address=127.0.0.1 name=log.nvwa.baofeng.com
 ip dns static add address=127.0.0.1 name=logoshejishi.com

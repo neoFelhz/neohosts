@@ -984,6 +984,7 @@ ip dns static add address=127.0.0.1 name=gimg.baidu.com
 ip dns static add address=127.0.0.1 name=gload.adhood.com
 ip dns static add address=127.0.0.1 name=global.msads.net
 ip dns static add address=127.0.0.1 name=gma.alicdn.com
+ip dns static add address=127.0.0.1 name=gm.mmstat.com
 ip dns static add address=127.0.0.1 name=go.mmstat.com
 ip dns static add address=127.0.0.1 name=googleadservices.com
 ip dns static add address=127.0.0.1 name=googleads.g.doubleclick.net
@@ -1251,6 +1252,7 @@ ip dns static add address=127.0.0.1 name=lndnserror7.wo.com.cn
 ip dns static add address=127.0.0.1 name=log.collect.yinyuetai.com
 ip dns static add address=127.0.0.1 name=log.cs.pp.cn
 ip dns static add address=127.0.0.1 name=log.mix.sina.com.cn
+ip dns static add address=127.0.0.1 name=log.mmstat.com
 ip dns static add address=127.0.0.1 name=log.music.baidu.com
 ip dns static add address=127.0.0.1 name=logs.newapi.com
 ip dns static add address=127.0.0.1 name=log.spotify.com

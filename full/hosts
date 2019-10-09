@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191009080753
+#version=20191009080853
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -1392,6 +1392,7 @@
 0.0.0.0 global.msads.net
 0.0.0.0 gma.alicdn.com
 0.0.0.0 g.mbm.cn.miaozhen.com
+0.0.0.0 gm.mmstat.com
 0.0.0.0 go.mmstat.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
@@ -1850,6 +1851,7 @@
 0.0.0.0 log.houyi.baofeng.net
 0.0.0.0 log.ltype.baofeng.com
 0.0.0.0 log.mix.sina.com.cn
+0.0.0.0 log.mmstat.com
 0.0.0.0 log.music.baidu.com
 0.0.0.0 log.nvwa.baofeng.com
 0.0.0.0 logoshejishi.com
@@ -5251,6 +5253,7 @@
 :: global.msads.net
 :: gma.alicdn.com
 :: g.mbm.cn.miaozhen.com
+:: gm.mmstat.com
 :: go.mmstat.com
 :: googleadservices.com
 :: googleads.g.doubleclick.net
@@ -5709,6 +5712,7 @@
 :: log.houyi.baofeng.net
 :: log.ltype.baofeng.com
 :: log.mix.sina.com.cn
+:: log.mmstat.com
 :: log.music.baidu.com
 :: log.nvwa.baofeng.com
 :: logoshejishi.com
