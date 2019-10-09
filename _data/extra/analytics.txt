@@ -168,3 +168,6 @@
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 pixel.wp.come
 0.0.0.0 edge.quantserve.com
+0.0.0.0 vidtech.cbsinteractive.com
+0.0.0.0 tru.am
+0.0.0.0 dw.cbsi.com
