@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191009081301
+#version=20191009083838
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -268,6 +268,7 @@
 127.0.0.1 adserver.adtech.de
 127.0.0.1 adserver.adtechus.com
 127.0.0.1 adserver.juicyads.com
+127.0.0.1 adserver.rhombusads.com
 127.0.0.1 adserver-us.adtech.advertising.com
 127.0.0.1 adserver.xpanama.net
 127.0.0.1 adserver.yahoo.com
@@ -428,6 +429,7 @@
 127.0.0.1 antivirus.baidu.com
 127.0.0.1 an.yandex.ru
 127.0.0.1 a.oadz.com
+127.0.0.1 a.opmnstr.com
 127.0.0.1 aos.wall.youmi.net
 127.0.0.1 api0.tuisong.baidu.com
 127.0.0.1 api1.tuisong.baidu.com
@@ -502,12 +504,16 @@
 127.0.0.1 app01.nodes.gslb.mi-idc.com
 127.0.0.1 app02.nodes.gslb.mi-idc.com
 127.0.0.1 app.50bang.org
+127.0.0.1 app-ab37.marketo.com
 127.0.0.1 appc.baidu.com
 127.0.0.1 appdownload.alicdn.com
 127.0.0.1 appgift.sinaapp.com
 127.0.0.1 app.houyi.baofeng.net
 127.0.0.1 applog.uc.cn
+127.0.0.1 app-lon07.marketo.com
 127.0.0.1 apppic.yingyongbei.com
+127.0.0.1 app-sj15.marketo.com
+127.0.0.1 app-sj30.marketo.com
 127.0.0.1 appsupdate.sinaapp.com
 127.0.0.1 appsupport.qq.com
 127.0.0.1 app.tanwan.com
@@ -517,6 +523,7 @@
 127.0.0.1 appwall.api.airpush.com
 127.0.0.1 app.waps.cn
 127.0.0.1 app.wapx.cn
+127.0.0.1 a.pub.network
 127.0.0.1 a.qiao024.com
 127.0.0.1 aqqgli3vle.bid
 127.0.0.1 ard.yahoo.co.jp
@@ -658,8 +665,10 @@
 127.0.0.1 bokee.allyes.com
 127.0.0.1 botuu.adsame.com
 127.0.0.1 bp.mobad.ijinshan.com
+127.0.0.1 b.pub.network
 127.0.0.1 brand.sogou.com
 127.0.0.1 breeze.olclient.baofeng.com
+127.0.0.1 brightfunnel.com
 127.0.0.1 bro.flyme.cn
 127.0.0.1 bsiet.husky.sogou.com
 127.0.0.1 bs.l.qq.com
@@ -750,6 +759,7 @@
 127.0.0.1 cdn.popcash.net
 127.0.0.1 cdn.popmyads.com
 127.0.0.1 cdn.puata.info
+127.0.0.1 cdn.rhombusads.com
 127.0.0.1 cdn.steepto.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.taboolasyndication.com
@@ -889,6 +899,7 @@
 127.0.0.1 config.mobisage.cn
 127.0.0.1 config.push.sogou.com
 127.0.0.1 conf.xiniuz.com
+127.0.0.1 consent.truste.com
 127.0.0.1 contentrecommend-out.mobile.sina.cn
 127.0.0.1 contexual.media.net
 127.0.0.1 conversion.adpro.cn
@@ -976,6 +987,7 @@
 127.0.0.1 cpro.zhidao.baidu.com
 127.0.0.1 cpu-admin.baidu.com
 127.0.0.1 cpu.baidu.com
+127.0.0.1 c.pub.network
 127.0.0.1 cpv.czpush.com
 127.0.0.1 cpv.ty229.com
 127.0.0.1 crashlytics.163.com
@@ -992,6 +1004,7 @@
 127.0.0.1 crossoverchina.com
 127.0.0.1 cr-p16.ladsp.com
 127.0.0.1 crs.baidu.com
+127.0.0.1 crsspxl.com
 127.0.0.1 cs.dqwjzm.com
 127.0.0.1 cs.twcczhu.com
 127.0.0.1 c.sz.gt.igexin.com
@@ -1050,6 +1063,7 @@
 127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 databank.air.yoyi.com.cn
 127.0.0.1 databank.yoyi.com.cn
+127.0.0.1 data.bizographics.com
 127.0.0.1 data.danmu.baofeng.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.haoma.sogou.com
@@ -1073,6 +1087,7 @@
 127.0.0.1 ddrrccck.m.qxs.la
 127.0.0.1 delivery.dmkt-sp.jp
 127.0.0.1 demo.adsame.com
+127.0.0.1 demo.rhombusads.com
 127.0.0.1 de.pandora.xiaomi.com
 127.0.0.1 dev.tg.wan.360.cn
 127.0.0.1 dev.umeng.com
@@ -1157,6 +1172,7 @@
 127.0.0.1 dp.im.weibo.cn
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dps.wtdtjs.com
+127.0.0.1 d.pub.network
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
 127.0.0.1 d.rexuebi.com
 127.0.0.1 dr.holaworld.cn
@@ -1448,6 +1464,7 @@
 127.0.0.1 hbdt.luomi.com
 127.0.0.1 hc.baidu.com
 127.0.0.1 h.domob.cn
+127.0.0.1 headlines.sharethrough.com
 127.0.0.1 hidden-master.linezing.com
 127.0.0.1 hivedata.cc
 127.0.0.1 hk-cdn.effectivemeasure.net
@@ -1669,6 +1686,7 @@
 127.0.0.1 install2.kugou.com
 127.0.0.1 install.kugou.com
 127.0.0.1 int.dpool.sina.com.cn
+127.0.0.1 integration.sharethrough.com
 127.0.0.1 interest.mix.sina.com.cn
 127.0.0.1 inte.sogou.com
 127.0.0.1 inte.theta.sogoucdn.com
@@ -1748,6 +1766,7 @@
 127.0.0.1 jsadsdisplay.cn-beijing.log.aliyuncs.com
 127.0.0.1 js.adxkj.com
 127.0.0.1 js-apac-ss.ysm.yahoo.com
+127.0.0.1 js.bizographics.com
 127.0.0.1 jsc.adskeeper.co.uk
 127.0.0.1 jsc.mgid.com
 127.0.0.1 jserr.cnzz.com
@@ -2069,12 +2088,15 @@
 127.0.0.1 msn.wrating.com
 127.0.0.1 mso.allyes.com
 127.0.0.1 msoftdl.360.cn
+127.0.0.1 mstr.sharethrough.com
 127.0.0.1 m.symab.cn
 127.0.0.1 mti.35kds.com
 127.0.0.1 m.tixing51.net
 127.0.0.1 mtty-cdn.mtty.xin
 127.0.0.1 m.uc123.com
 127.0.0.1 m.uczzd.cn
+127.0.0.1 munchkin.brightfunnel.com
+127.0.0.1 munchkin.marketo.com
 127.0.0.1 music.adcome.cn
 127.0.0.1 musik-mp3.info
 127.0.0.1 mvads.kugou.com
@@ -2097,9 +2119,14 @@
 127.0.0.1 n.3g.163.com
 127.0.0.1 na1r.services.adobe.com
 127.0.0.1 na2m-pr.licenses.adobe.com
+127.0.0.1 na-ab21.marketo.com
+127.0.0.1 na-ab32.marketo.com
 127.0.0.1 na.ads.yahoo.com
 127.0.0.1 nai.cpxkvc.com
+127.0.0.1 na-lon05.marketo.com
+127.0.0.1 na-lon09.marketo.com
 127.0.0.1 n.a.mosenni.com
+127.0.0.1 native.sharethrough.com
 127.0.0.1 navi.gd.chinamobile.com
 127.0.0.1 nbrecsys.4paradigm.com
 127.0.0.1 nbsdk-baichuan.alicdn.com
@@ -2190,6 +2217,7 @@
 127.0.0.1 ope.tanx.com
 127.0.0.1 oppo.yidianzixun.com
 127.0.0.1 optimus.ipinyou.com
+127.0.0.1 optout.crsspxl.com
 127.0.0.1 osc.uranus.sogou.com
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
@@ -2303,6 +2331,7 @@
 127.0.0.1 pjyu.golden1.sogou.com
 127.0.0.1 pkg-cdn.youmi.net
 127.0.0.1 p.kjwx8.com
+127.0.0.1 planitinfo.crsspxl.com
 127.0.0.1 plat.videojj.com
 127.0.0.1 player.log.hunantv.com
 127.0.0.1 playinfo.gomlab.com
@@ -2312,6 +2341,7 @@
 127.0.0.1 p.lu.sogou.com
 127.0.0.1 pmc-d.openx.net
 127.0.0.1 pmir.3g.qq.com
+127.0.0.1 pmp.sharethrough.com
 127.0.0.1 pms.mb.qq.com
 127.0.0.1 png.lu.sogoucdn.com
 127.0.0.1 pop.code.mytanwan.com
@@ -2332,6 +2362,7 @@
 127.0.0.1 pre.api.tw06.xlmc.sandai.net
 127.0.0.1 pre.ra.icast.cn
 127.0.0.1 preview.adsame.com
+127.0.0.1 preview.sharethrough.com
 127.0.0.1 p.rfihub.com
 127.0.0.1 pro.cn
 127.0.0.1 prom.gome.com.cn
@@ -2387,6 +2418,7 @@
 127.0.0.1 q12.cnzz.com
 127.0.0.1 q14.cnzz.com
 127.0.0.1 q1.cnzz.com
+127.0.0.1 qbr.sharethrough.com
 127.0.0.1 q.domob.cn
 127.0.0.1 qhl.bealge.sogou.com
 127.0.0.1 qhm1.cnzz.com
@@ -2465,6 +2497,7 @@
 127.0.0.1 res.qhupdate.com
 127.0.0.1 re.taobao.com
 127.0.0.1 return.adsame.com
+127.0.0.1 revboostprocdnadsprod.azureedge.net
 127.0.0.1 rh.code.jjyx.com
 127.0.0.1 rh.qq.com
 127.0.0.1 rich.qq.com
@@ -2865,6 +2898,7 @@
 127.0.0.1 s.jandan.com
 127.0.0.1 s.jghcy.com
 127.0.0.1 s.jlminte.com
+127.0.0.1 sjs.bizographics.com
 127.0.0.1 s.jxhcyc.com
 127.0.0.1 s.l8l9.com
 127.0.0.1 s.lianmeng.360.cn
@@ -2882,6 +2916,7 @@
 127.0.0.1 s.ndtzx.com
 127.0.0.1 sngmta.qq.com
 127.0.0.1 snippet.pos.baidu.com
+127.0.0.1 snowforce.sharethrough.com
 127.0.0.1 s.nxrxt.com
 127.0.0.1 sobar.baidu.com
 127.0.0.1 sobartop.baidu.com
@@ -3077,6 +3112,7 @@
 127.0.0.1 t9.baidu.com
 127.0.0.1 t-abi.hypers.com.cn
 127.0.0.1 t.ads.sohu.com
+127.0.0.1 tag..crsspxl.com
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tag-store.ads-pixiv.net
 127.0.0.1 tajs.qq.com
@@ -3107,6 +3143,7 @@
 127.0.0.1 telstra.imrworldwide.com
 127.0.0.1 temai.snssdk.com
 127.0.0.1 temai.taobao.com
+127.0.0.1 templates.sharethrough.com
 127.0.0.1 tencent-dtv.m.cn.miaozhen.com
 127.0.0.1 test2014.adview.cn
 127.0.0.1 test.ad.xiaomi.com
@@ -3425,6 +3462,7 @@
 127.0.0.1 w.gdown.baidu.com
 127.0.0.1 wgo.mmstat.com
 127.0.0.1 widget.criteo.com
+127.0.0.1 widget.pushbullet.com
 127.0.0.1 widget.weibo.com
 127.0.0.1 widnd.dajiadou6.com
 127.0.0.1 win.gdt.qq.com
@@ -3852,6 +3890,7 @@
 127.0.0.1 zhwnlapi.etouch.cn
 127.0.0.1 zjvnet.allyes.com
 127.0.0.1 znsv.baidu.com
+127.0.0.1 z.opmnstr.com
 127.0.0.1 zs10.cnzz.com
 127.0.0.1 zs11.cnzz.com
 127.0.0.1 zs12.cnzz.com
@@ -4130,6 +4169,7 @@
 :: adserver.adtech.de
 :: adserver.adtechus.com
 :: adserver.juicyads.com
+:: adserver.rhombusads.com
 :: adserver-us.adtech.advertising.com
 :: adserver.xpanama.net
 :: adserver.yahoo.com
@@ -4290,6 +4330,7 @@
 :: antivirus.baidu.com
 :: an.yandex.ru
 :: a.oadz.com
+:: a.opmnstr.com
 :: aos.wall.youmi.net
 :: api0.tuisong.baidu.com
 :: api1.tuisong.baidu.com
@@ -4364,12 +4405,16 @@
 :: app01.nodes.gslb.mi-idc.com
 :: app02.nodes.gslb.mi-idc.com
 :: app.50bang.org
+:: app-ab37.marketo.com
 :: appc.baidu.com
 :: appdownload.alicdn.com
 :: appgift.sinaapp.com
 :: app.houyi.baofeng.net
 :: applog.uc.cn
+:: app-lon07.marketo.com
 :: apppic.yingyongbei.com
+:: app-sj15.marketo.com
+:: app-sj30.marketo.com
 :: appsupdate.sinaapp.com
 :: appsupport.qq.com
 :: app.tanwan.com
@@ -4379,6 +4424,7 @@
 :: appwall.api.airpush.com
 :: app.waps.cn
 :: app.wapx.cn
+:: a.pub.network
 :: a.qiao024.com
 :: aqqgli3vle.bid
 :: ard.yahoo.co.jp
@@ -4520,8 +4566,10 @@
 :: bokee.allyes.com
 :: botuu.adsame.com
 :: bp.mobad.ijinshan.com
+:: b.pub.network
 :: brand.sogou.com
 :: breeze.olclient.baofeng.com
+:: brightfunnel.com
 :: bro.flyme.cn
 :: bsiet.husky.sogou.com
 :: bs.l.qq.com
@@ -4612,6 +4660,7 @@
 :: cdn.popcash.net
 :: cdn.popmyads.com
 :: cdn.puata.info
+:: cdn.rhombusads.com
 :: cdn.steepto.com
 :: cdn.taboola.com
 :: cdn.taboolasyndication.com
@@ -4751,6 +4800,7 @@
 :: config.mobisage.cn
 :: config.push.sogou.com
 :: conf.xiniuz.com
+:: consent.truste.com
 :: contentrecommend-out.mobile.sina.cn
 :: contexual.media.net
 :: conversion.adpro.cn
@@ -4838,6 +4888,7 @@
 :: cpro.zhidao.baidu.com
 :: cpu-admin.baidu.com
 :: cpu.baidu.com
+:: c.pub.network
 :: cpv.czpush.com
 :: cpv.ty229.com
 :: crashlytics.163.com
@@ -4854,6 +4905,7 @@
 :: crossoverchina.com
 :: cr-p16.ladsp.com
 :: crs.baidu.com
+:: crsspxl.com
 :: cs.dqwjzm.com
 :: cs.twcczhu.com
 :: c.sz.gt.igexin.com
@@ -4912,6 +4964,7 @@
 :: data.ads.oppomobile.com
 :: databank.air.yoyi.com.cn
 :: databank.yoyi.com.cn
+:: data.bizographics.com
 :: data.danmu.baofeng.com
 :: data.flurry.com
 :: data.haoma.sogou.com
@@ -4935,6 +4988,7 @@
 :: ddrrccck.m.qxs.la
 :: delivery.dmkt-sp.jp
 :: demo.adsame.com
+:: demo.rhombusads.com
 :: de.pandora.xiaomi.com
 :: dev.tg.wan.360.cn
 :: dev.umeng.com
@@ -5019,6 +5073,7 @@
 :: dp.im.weibo.cn
 :: dpm.demdex.net
 :: dps.wtdtjs.com
+:: d.pub.network
 :: dressimage.img-cn-beijing.aliyuncs.com
 :: d.rexuebi.com
 :: dr.holaworld.cn
@@ -5310,6 +5365,7 @@
 :: hbdt.luomi.com
 :: hc.baidu.com
 :: h.domob.cn
+:: headlines.sharethrough.com
 :: hidden-master.linezing.com
 :: hivedata.cc
 :: hk-cdn.effectivemeasure.net
@@ -5531,6 +5587,7 @@
 :: install2.kugou.com
 :: install.kugou.com
 :: int.dpool.sina.com.cn
+:: integration.sharethrough.com
 :: interest.mix.sina.com.cn
 :: inte.sogou.com
 :: inte.theta.sogoucdn.com
@@ -5610,6 +5667,7 @@
 :: jsadsdisplay.cn-beijing.log.aliyuncs.com
 :: js.adxkj.com
 :: js-apac-ss.ysm.yahoo.com
+:: js.bizographics.com
 :: jsc.adskeeper.co.uk
 :: jsc.mgid.com
 :: jserr.cnzz.com
@@ -5931,12 +5989,15 @@
 :: msn.wrating.com
 :: mso.allyes.com
 :: msoftdl.360.cn
+:: mstr.sharethrough.com
 :: m.symab.cn
 :: mti.35kds.com
 :: m.tixing51.net
 :: mtty-cdn.mtty.xin
 :: m.uc123.com
 :: m.uczzd.cn
+:: munchkin.brightfunnel.com
+:: munchkin.marketo.com
 :: music.adcome.cn
 :: musik-mp3.info
 :: mvads.kugou.com
@@ -5959,9 +6020,14 @@
 :: n.3g.163.com
 :: na1r.services.adobe.com
 :: na2m-pr.licenses.adobe.com
+:: na-ab21.marketo.com
+:: na-ab32.marketo.com
 :: na.ads.yahoo.com
 :: nai.cpxkvc.com
+:: na-lon05.marketo.com
+:: na-lon09.marketo.com
 :: n.a.mosenni.com
+:: native.sharethrough.com
 :: navi.gd.chinamobile.com
 :: nbrecsys.4paradigm.com
 :: nbsdk-baichuan.alicdn.com
@@ -6052,6 +6118,7 @@
 :: ope.tanx.com
 :: oppo.yidianzixun.com
 :: optimus.ipinyou.com
+:: optout.crsspxl.com
 :: osc.uranus.sogou.com
 :: osfota.cdn.aliyun.com
 :: osupdateservice.yunos.com
@@ -6165,6 +6232,7 @@
 :: pjyu.golden1.sogou.com
 :: pkg-cdn.youmi.net
 :: p.kjwx8.com
+:: planitinfo.crsspxl.com
 :: plat.videojj.com
 :: player.log.hunantv.com
 :: playinfo.gomlab.com
@@ -6174,6 +6242,7 @@
 :: p.lu.sogou.com
 :: pmc-d.openx.net
 :: pmir.3g.qq.com
+:: pmp.sharethrough.com
 :: pms.mb.qq.com
 :: png.lu.sogoucdn.com
 :: pop.code.mytanwan.com
@@ -6194,6 +6263,7 @@
 :: pre.api.tw06.xlmc.sandai.net
 :: pre.ra.icast.cn
 :: preview.adsame.com
+:: preview.sharethrough.com
 :: p.rfihub.com
 :: pro.cn
 :: prom.gome.com.cn
@@ -6249,6 +6319,7 @@
 :: q12.cnzz.com
 :: q14.cnzz.com
 :: q1.cnzz.com
+:: qbr.sharethrough.com
 :: q.domob.cn
 :: qhl.bealge.sogou.com
 :: qhm1.cnzz.com
@@ -6327,6 +6398,7 @@
 :: res.qhupdate.com
 :: re.taobao.com
 :: return.adsame.com
+:: revboostprocdnadsprod.azureedge.net
 :: rh.code.jjyx.com
 :: rh.qq.com
 :: rich.qq.com
@@ -6727,6 +6799,7 @@
 :: s.jandan.com
 :: s.jghcy.com
 :: s.jlminte.com
+:: sjs.bizographics.com
 :: s.jxhcyc.com
 :: s.l8l9.com
 :: s.lianmeng.360.cn
@@ -6744,6 +6817,7 @@
 :: s.ndtzx.com
 :: sngmta.qq.com
 :: snippet.pos.baidu.com
+:: snowforce.sharethrough.com
 :: s.nxrxt.com
 :: sobar.baidu.com
 :: sobartop.baidu.com
@@ -6939,6 +7013,7 @@
 :: t9.baidu.com
 :: t-abi.hypers.com.cn
 :: t.ads.sohu.com
+:: tag..crsspxl.com
 :: tags.bluekai.com
 :: tag-store.ads-pixiv.net
 :: tajs.qq.com
@@ -6969,6 +7044,7 @@
 :: telstra.imrworldwide.com
 :: temai.snssdk.com
 :: temai.taobao.com
+:: templates.sharethrough.com
 :: tencent-dtv.m.cn.miaozhen.com
 :: test2014.adview.cn
 :: test.ad.xiaomi.com
@@ -7287,6 +7363,7 @@
 :: w.gdown.baidu.com
 :: wgo.mmstat.com
 :: widget.criteo.com
+:: widget.pushbullet.com
 :: widget.weibo.com
 :: widnd.dajiadou6.com
 :: win.gdt.qq.com
@@ -7714,6 +7791,7 @@
 :: zhwnlapi.etouch.cn
 :: zjvnet.allyes.com
 :: znsv.baidu.com
+:: z.opmnstr.com
 :: zs10.cnzz.com
 :: zs11.cnzz.com
 :: zs12.cnzz.com
