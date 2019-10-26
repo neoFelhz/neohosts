@@ -152,6 +152,7 @@
 0.0.0.0 coed-d.openx.net
 0.0.0.0 pmc-d.openx.net
 0.0.0.0 tmn-d.openx.net
+0.0.0.0 rtx.openx.net
 # Spotify
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 analytics.spotify.com
@@ -728,3 +729,6 @@
 0.0.0.0 banners.mellowads.com
 0.0.0.0 ad.lflucky.com
 0.0.0.0 i.bestcontentfare.top
+0.0.0.0 ad.360yield.com
+0.0.0.0 x.bidswitch.com
+0.0.0.0 cdn.branch.io
