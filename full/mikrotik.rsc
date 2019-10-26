@@ -3055,6 +3055,7 @@ ip dns static add address=127.0.0.1 name=st.zzhyyj.com
 ip dns static add address=127.0.0.1 name=su.bdimg.com
 ip dns static add address=127.0.0.1 name=su.bdstatic.com
 ip dns static add address=127.0.0.1 name=subo.logger.baofeng.com
+ip dns static add address=127.0.0.1 name=sugs.m.sm.cn
 ip dns static add address=127.0.0.1 name=s.union.360.cn
 ip dns static add address=127.0.0.1 name=survey.miaozhen.com
 ip dns static add address=127.0.0.1 name=survey.watson.microsoft.com

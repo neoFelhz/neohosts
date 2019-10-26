@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191026144355
+#version=20191026144450
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -3073,6 +3073,7 @@
 0.0.0.0 su.bdimg.com
 0.0.0.0 su.bdstatic.com
 0.0.0.0 subo.logger.baofeng.com
+0.0.0.0 sugs.m.sm.cn
 0.0.0.0 s.union.360.cn
 0.0.0.0 survey.miaozhen.com
 0.0.0.0 survey.watson.microsoft.com
@@ -6994,6 +6995,7 @@
 :: su.bdimg.com
 :: su.bdstatic.com
 :: subo.logger.baofeng.com
+:: sugs.m.sm.cn
 :: s.union.360.cn
 :: survey.miaozhen.com
 :: survey.watson.microsoft.com

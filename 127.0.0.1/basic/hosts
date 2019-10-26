@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191026144355
+#version=20191026144450
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -1956,6 +1956,7 @@
 127.0.0.1 st.yandexadexchange.net
 127.0.0.1 su.bdimg.com
 127.0.0.1 su.bdstatic.com
+127.0.0.1 sugs.m.sm.cn
 127.0.0.1 s.union.360.cn
 127.0.0.1 survey.watson.microsoft.com
 127.0.0.1 susapi.dev.surepush.cn
@@ -4259,6 +4260,7 @@
 :: st.yandexadexchange.net
 :: su.bdimg.com
 :: su.bdstatic.com
+:: sugs.m.sm.cn
 :: s.union.360.cn
 :: survey.watson.microsoft.com
 :: susapi.dev.surepush.cn

@@ -1938,6 +1938,7 @@ ip dns static add address=127.0.0.1 name=stuff.202m.com
 ip dns static add address=127.0.0.1 name=st.yandexadexchange.net
 ip dns static add address=127.0.0.1 name=su.bdimg.com
 ip dns static add address=127.0.0.1 name=su.bdstatic.com
+ip dns static add address=127.0.0.1 name=sugs.m.sm.cn
 ip dns static add address=127.0.0.1 name=s.union.360.cn
 ip dns static add address=127.0.0.1 name=survey.watson.microsoft.com
 ip dns static add address=127.0.0.1 name=susapi.dev.surepush.cn
