@@ -1,6 +1,8 @@
 # Netease
 0.0.0.0 mr.da.netease.com
 0.0.0.0 pr.da.netease.com
+0.0.0.0 pcr.da.netease.com
+0.0.0.0 rev.da.netease.com
 0.0.0.0 wr.da.netease.com
 0.0.0.0 rd.da.netease.com
 0.0.0.0 iad.g.163.com
@@ -74,6 +76,8 @@
 0.0.0.0 report.vip.qq.com
 0.0.0.0 report.huatuo.qq.com
 0.0.0.0 report.qcloud.com
+# QQ
+0.0.0.0 otheve.beacon.qq.com
 #analysys.cn
 0.0.0.0 ait025.analysys.cn
 0.0.0.0 ait240.analysys.cn
@@ -112,9 +116,17 @@
 0.0.0.0 s128.histats.com
 0.0.0.0 s10.histats.com
 0.0.0.0 s11.histats.com
+# Yandex
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 rosenberg.appmetrica.yandex.net
 # GVT
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons5.gvt2.com
+# WordPress.com
+0.0.0.0 pixel.wp.com
+0.0.0.0 stats.wp.com
 # CrazyEgg
 0.0.0.0 player.staging2.crazyegg.com
 0.0.0.0 editor.staging2.crazyegg.com
@@ -126,6 +138,9 @@
 # Tealiumiq
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
+# Intellitxt
+0.0.0.0 k.intellitxt.com
+0.0.0.0 images.intellitxt.com
 # Others
 0.0.0.0 events.jianshu.io
 0.0.0.0 s.qhupdate.com
@@ -174,9 +189,11 @@
 0.0.0.0 bat.bing.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector-medium.lightstep.com
-0.0.0.0 pixel.wp.come
 0.0.0.0 edge.quantserve.com
 0.0.0.0 vidtech.cbsinteractive.com
 0.0.0.0 tru.am
 0.0.0.0 dw.cbsi.com
 0.0.0.0 urs.zdnet.com
+0.0.0.0 cdn.segment.com
+0.0.0.0 cdn.segment.io
+0.0.0.0 p.typekit.net
