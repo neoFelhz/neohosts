@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191009084044
+#version=20191026144355
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -620,6 +620,8 @@
 127.0.0.1 bdv.bidvertiser.com
 127.0.0.1 beacon.gtimg.com
 127.0.0.1 beacons3.gvt2.com
+127.0.0.1 beacons4.gvt2.com
+127.0.0.1 beacons5.gvt2.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacon.sina.com.cn
 127.0.0.1 beacon.tingyun.com
@@ -760,6 +762,8 @@
 127.0.0.1 cdn.popmyads.com
 127.0.0.1 cdn.puata.info
 127.0.0.1 cdn.rhombusads.com
+127.0.0.1 cdn.segment.com
+127.0.0.1 cdn.segment.io
 127.0.0.1 cdn.steepto.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.taboolasyndication.com
@@ -1595,6 +1599,7 @@
 127.0.0.1 image.p4p.sogou.com
 127.0.0.1 image.ptmind.com
 127.0.0.1 images.fastclick.net
+127.0.0.1 images.intellitxt.com
 127.0.0.1 images.sohu.com
 127.0.0.1 images.taboola.com
 127.0.0.1 image.yiqifa.com
@@ -1804,6 +1809,7 @@
 127.0.0.1 kgmobilestat.kugou.com
 127.0.0.1 kho3au7l4z.me
 127.0.0.1 kingdeecn.cn
+127.0.0.1 k.intellitxt.com
 127.0.0.1 kkpgv2.kankan.com
 127.0.0.1 kkpgv.kankan.com
 127.0.0.1 kn.bjbrtc.com
@@ -2223,6 +2229,7 @@
 127.0.0.1 osfota.cdn.aliyun.com
 127.0.0.1 osupdateservice.yunos.com
 127.0.0.1 otf.msn.com
+127.0.0.1 otheve.beacon.qq.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 oth.update.mdt.qq.com
@@ -2282,6 +2289,7 @@
 127.0.0.1 pcookie.cnzz.com
 127.0.0.1 pcookie.tanx.com
 127.0.0.1 pc.quansj.cn
+127.0.0.1 pcr.da.netease.com
 127.0.0.1 pcvideoaliyun.titan.mgtv.com
 127.0.0.1 pc.videoclick.baidu.com
 127.0.0.1 pcweb-v1.log.mgtv.com
@@ -2325,7 +2333,7 @@
 127.0.0.1 pixel.rubiconproject.com
 127.0.0.1 pixel.sitescout.com
 127.0.0.1 pixel.tapad.com
-127.0.0.1 pixel.wp.come
+127.0.0.1 pixel.wp.com
 127.0.0.1 pix.impdesk.com
 127.0.0.1 pixiu.shangshufang.ksosoft.com
 127.0.0.1 pixon.ads-pixiv.net
@@ -2379,6 +2387,7 @@
 127.0.0.1 p.store.qq.com
 127.0.0.1 p.tanx.com
 127.0.0.1 p.tencentmind.com
+127.0.0.1 p.typekit.net
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 pub.pxl.ace.advertising.com
 127.0.0.1 pub.se.360.cn
@@ -2483,6 +2492,7 @@
 127.0.0.1 re.m.taobao.com
 127.0.0.1 renminbao.com
 127.0.0.1 report.adview.cn
+127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 report.huatuo.qq.com
 127.0.0.1 report.qcloud.com
 127.0.0.1 reports.wes.df.telemetry.microsoft.com
@@ -2500,6 +2510,7 @@
 127.0.0.1 re.taobao.com
 127.0.0.1 return.adsame.com
 127.0.0.1 revboostprocdnadsprod.azureedge.net
+127.0.0.1 rev.da.netease.com
 127.0.0.1 rh.code.jjyx.com
 127.0.0.1 rh.qq.com
 127.0.0.1 rich.qq.com
@@ -2521,6 +2532,7 @@
 127.0.0.1 rm.sina.com.cn
 127.0.0.1 r.msn.com
 127.0.0.1 rmtx.ra.icast.cn
+127.0.0.1 rosenberg.appmetrica.yandex.net
 127.0.0.1 r.ow.domob.cn
 127.0.0.1 rpc-php.trafficfactory.biz
 127.0.0.1 rp.gwallet.com
@@ -3037,6 +3049,7 @@
 127.0.0.1 stats.ipinyou.com
 127.0.0.1 stats.mokeedev.com
 127.0.0.1 stats.umsns.com
+127.0.0.1 stats.wp.com
 127.0.0.1 stat.tongji.today
 127.0.0.1 stat.v.baidu.com
 127.0.0.1 stat.ws.126.net
@@ -4528,6 +4541,8 @@
 :: bdv.bidvertiser.com
 :: beacon.gtimg.com
 :: beacons3.gvt2.com
+:: beacons4.gvt2.com
+:: beacons5.gvt2.com
 :: beacons.gcp.gvt2.com
 :: beacon.sina.com.cn
 :: beacon.tingyun.com
@@ -4668,6 +4683,8 @@
 :: cdn.popmyads.com
 :: cdn.puata.info
 :: cdn.rhombusads.com
+:: cdn.segment.com
+:: cdn.segment.io
 :: cdn.steepto.com
 :: cdn.taboola.com
 :: cdn.taboolasyndication.com
@@ -5503,6 +5520,7 @@
 :: image.p4p.sogou.com
 :: image.ptmind.com
 :: images.fastclick.net
+:: images.intellitxt.com
 :: images.sohu.com
 :: images.taboola.com
 :: image.yiqifa.com
@@ -5712,6 +5730,7 @@
 :: kgmobilestat.kugou.com
 :: kho3au7l4z.me
 :: kingdeecn.cn
+:: k.intellitxt.com
 :: kkpgv2.kankan.com
 :: kkpgv.kankan.com
 :: kn.bjbrtc.com
@@ -6131,6 +6150,7 @@
 :: osfota.cdn.aliyun.com
 :: osupdateservice.yunos.com
 :: otf.msn.com
+:: otheve.beacon.qq.com
 :: oth.eve.mdt.qq.com
 :: oth.str.mdt.qq.com
 :: oth.update.mdt.qq.com
@@ -6190,6 +6210,7 @@
 :: pcookie.cnzz.com
 :: pcookie.tanx.com
 :: pc.quansj.cn
+:: pcr.da.netease.com
 :: pcvideoaliyun.titan.mgtv.com
 :: pc.videoclick.baidu.com
 :: pcweb-v1.log.mgtv.com
@@ -6233,7 +6254,7 @@
 :: pixel.rubiconproject.com
 :: pixel.sitescout.com
 :: pixel.tapad.com
-:: pixel.wp.come
+:: pixel.wp.com
 :: pix.impdesk.com
 :: pixiu.shangshufang.ksosoft.com
 :: pixon.ads-pixiv.net
@@ -6287,6 +6308,7 @@
 :: p.store.qq.com
 :: p.tanx.com
 :: p.tencentmind.com
+:: p.typekit.net
 :: pubads.g.doubleclick.net
 :: pub.pxl.ace.advertising.com
 :: pub.se.360.cn
@@ -6391,6 +6413,7 @@
 :: re.m.taobao.com
 :: renminbao.com
 :: report.adview.cn
+:: report.appmetrica.yandex.net
 :: report.huatuo.qq.com
 :: report.qcloud.com
 :: reports.wes.df.telemetry.microsoft.com
@@ -6408,6 +6431,7 @@
 :: re.taobao.com
 :: return.adsame.com
 :: revboostprocdnadsprod.azureedge.net
+:: rev.da.netease.com
 :: rh.code.jjyx.com
 :: rh.qq.com
 :: rich.qq.com
@@ -6429,6 +6453,7 @@
 :: rm.sina.com.cn
 :: r.msn.com
 :: rmtx.ra.icast.cn
+:: rosenberg.appmetrica.yandex.net
 :: r.ow.domob.cn
 :: rpc-php.trafficfactory.biz
 :: rp.gwallet.com
@@ -6945,6 +6970,7 @@
 :: stats.ipinyou.com
 :: stats.mokeedev.com
 :: stats.umsns.com
+:: stats.wp.com
 :: stat.tongji.today
 :: stat.v.baidu.com
 :: stat.ws.126.net
