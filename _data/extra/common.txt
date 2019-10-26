@@ -227,6 +227,7 @@
 0.0.0.0 www6.smartadserver.com
 0.0.0.0 ww251.smartadserver.com
 0.0.0.0 ww881.smartadserver.com
+0.0.0.0 prg.smartadserver.com
 # jizzads
 0.0.0.0 jizzads.com
 0.0.0.0 www.jizzads.com
@@ -463,6 +464,7 @@
 0.0.0.0 data.bizographics.com
 # Bshare
 0.0.0.0 static.bshare.cn
+0.0.0.0 bshare.optimix.asia
 # Ruanyifeng
 0.0.0.0 www.wangbase.com
 # Media.net
