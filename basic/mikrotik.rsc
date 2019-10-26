@@ -98,6 +98,7 @@ ip dns static add address=127.0.0.1 name=ad1.udn.com
 ip dns static add address=127.0.0.1 name=ad2.sina.com.cn
 ip dns static add address=127.0.0.1 name=ad2.udn.com
 ip dns static add address=127.0.0.1 name=ad2.yam.com
+ip dns static add address=127.0.0.1 name=ad.360yield.com
 ip dns static add address=127.0.0.1 name=ad.363.in
 ip dns static add address=127.0.0.1 name=ad3.sina.com.cn
 ip dns static add address=127.0.0.1 name=ad3.udn.com
@@ -541,6 +542,7 @@ ip dns static add address=127.0.0.1 name=cdn-ads.oss-cn-shanghai.aliyuncs.com
 ip dns static add address=127.0.0.1 name=cdn.adstract.com
 ip dns static add address=127.0.0.1 name=cdn.ad.xiaomi.com
 ip dns static add address=127.0.0.1 name=cdn.ark.qq.com
+ip dns static add address=127.0.0.1 name=cdn.branch.io
 ip dns static add address=127.0.0.1 name=cdn.carbonads.com
 ip dns static add address=127.0.0.1 name=cdn.districtm.io
 ip dns static add address=127.0.0.1 name=cdn.dragonstatic.com
@@ -1705,6 +1707,7 @@ ip dns static add address=127.0.0.1 name=rtas.videocc.net
 ip dns static add address=127.0.0.1 name=rtb.admaster.com.cn
 ip dns static add address=127.0.0.1 name=rtb.adview.cn
 ip dns static add address=127.0.0.1 name=rt.gsspat.jp
+ip dns static add address=127.0.0.1 name=rtx.openx.net
 ip dns static add address=127.0.0.1 name=rubicon-match.dotomi.com
 ip dns static add address=127.0.0.1 name=rub.pxl.ace.advertising.com
 ip dns static add address=127.0.0.1 name=rudy.adsnative.com
@@ -2260,6 +2263,7 @@ ip dns static add address=127.0.0.1 name=wx.xwjqr.com
 ip dns static add address=127.0.0.1 name=w.ymapp.com
 ip dns static add address=127.0.0.1 name=x1.go.sohu.com
 ip dns static add address=127.0.0.1 name=x.adpro.cn
+ip dns static add address=127.0.0.1 name=x.bidswitch.com
 ip dns static add address=127.0.0.1 name=x.cnxad.com
 ip dns static add address=127.0.0.1 name=x.domob.cn
 ip dns static add address=127.0.0.1 name=xf.yellowto.com

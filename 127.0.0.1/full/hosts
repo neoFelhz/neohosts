@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191026144450
+#version=20191026144925
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -156,6 +156,7 @@
 127.0.0.1 ad2.sina.com.cn
 127.0.0.1 ad2.udn.com
 127.0.0.1 ad2.yam.com
+127.0.0.1 ad.360yield.com
 127.0.0.1 ad.363.in
 127.0.0.1 ad3.sina.com.cn
 127.0.0.1 ad3.udn.com
@@ -672,6 +673,7 @@
 127.0.0.1 breeze.olclient.baofeng.com
 127.0.0.1 brightfunnel.com
 127.0.0.1 bro.flyme.cn
+127.0.0.1 bshare.optimix.asia
 127.0.0.1 bsiet.husky.sogou.com
 127.0.0.1 bs.l.qq.com
 127.0.0.1 bss.pandora.xiaomi.com
@@ -741,6 +743,7 @@
 127.0.0.1 cdn.ark.qq.com
 127.0.0.1 cdnas.hyperpromote.com
 127.0.0.1 cdn.bidvertiser.com
+127.0.0.1 cdn.branch.io
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 cdn.cmop.mgtv.com
 127.0.0.1 cdn.cooguo.com
@@ -2374,6 +2377,7 @@
 127.0.0.1 preview.adsame.com
 127.0.0.1 preview.sharethrough.com
 127.0.0.1 p.rfihub.com
+127.0.0.1 prg.smartadserver.com
 127.0.0.1 pro.cn
 127.0.0.1 prom.gome.com.cn
 127.0.0.1 promote.biz.weibo.cn
@@ -2547,6 +2551,7 @@
 127.0.0.1 rtb.admaster.com.cn
 127.0.0.1 rtb.adview.cn
 127.0.0.1 rt.gsspat.jp
+127.0.0.1 rtx.openx.net
 127.0.0.1 rubicon-match.dotomi.com
 127.0.0.1 rub.pxl.ace.advertising.com
 127.0.0.1 rudy.adsnative.com
@@ -3786,6 +3791,7 @@
 127.0.0.1 x1.da.hunantv.com
 127.0.0.1 x1.go.sohu.com
 127.0.0.1 x.adpro.cn
+127.0.0.1 x.bidswitch.com
 127.0.0.1 xcar.adsame.com
 127.0.0.1 x.cnxad.com
 127.0.0.1 xco.qwxcs.com
@@ -4078,6 +4084,7 @@
 :: ad2.sina.com.cn
 :: ad2.udn.com
 :: ad2.yam.com
+:: ad.360yield.com
 :: ad.363.in
 :: ad3.sina.com.cn
 :: ad3.udn.com
@@ -4594,6 +4601,7 @@
 :: breeze.olclient.baofeng.com
 :: brightfunnel.com
 :: bro.flyme.cn
+:: bshare.optimix.asia
 :: bsiet.husky.sogou.com
 :: bs.l.qq.com
 :: bss.pandora.xiaomi.com
@@ -4663,6 +4671,7 @@
 :: cdn.ark.qq.com
 :: cdnas.hyperpromote.com
 :: cdn.bidvertiser.com
+:: cdn.branch.io
 :: cdn.carbonads.com
 :: cdn.cmop.mgtv.com
 :: cdn.cooguo.com
@@ -6296,6 +6305,7 @@
 :: preview.adsame.com
 :: preview.sharethrough.com
 :: p.rfihub.com
+:: prg.smartadserver.com
 :: pro.cn
 :: prom.gome.com.cn
 :: promote.biz.weibo.cn
@@ -6469,6 +6479,7 @@
 :: rtb.admaster.com.cn
 :: rtb.adview.cn
 :: rt.gsspat.jp
+:: rtx.openx.net
 :: rubicon-match.dotomi.com
 :: rub.pxl.ace.advertising.com
 :: rudy.adsnative.com
@@ -7708,6 +7719,7 @@
 :: x1.da.hunantv.com
 :: x1.go.sohu.com
 :: x.adpro.cn
+:: x.bidswitch.com
 :: xcar.adsame.com
 :: x.cnxad.com
 :: xco.qwxcs.com

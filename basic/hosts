@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191026144450
+#version=20191026144925
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -116,6 +116,7 @@
 0.0.0.0 ad2.sina.com.cn
 0.0.0.0 ad2.udn.com
 0.0.0.0 ad2.yam.com
+0.0.0.0 ad.360yield.com
 0.0.0.0 ad.363.in
 0.0.0.0 ad3.sina.com.cn
 0.0.0.0 ad3.udn.com
@@ -559,6 +560,7 @@
 0.0.0.0 cdn.adstract.com
 0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 cdn.ark.qq.com
+0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.districtm.io
 0.0.0.0 cdn.dragonstatic.com
@@ -1723,6 +1725,7 @@
 0.0.0.0 rtb.admaster.com.cn
 0.0.0.0 rtb.adview.cn
 0.0.0.0 rt.gsspat.jp
+0.0.0.0 rtx.openx.net
 0.0.0.0 rubicon-match.dotomi.com
 0.0.0.0 rub.pxl.ace.advertising.com
 0.0.0.0 rudy.adsnative.com
@@ -2278,6 +2281,7 @@
 0.0.0.0 w.ymapp.com
 0.0.0.0 x1.go.sohu.com
 0.0.0.0 x.adpro.cn
+0.0.0.0 x.bidswitch.com
 0.0.0.0 x.cnxad.com
 0.0.0.0 x.domob.cn
 0.0.0.0 xf.yellowto.com
@@ -2420,6 +2424,7 @@
 :: ad2.sina.com.cn
 :: ad2.udn.com
 :: ad2.yam.com
+:: ad.360yield.com
 :: ad.363.in
 :: ad3.sina.com.cn
 :: ad3.udn.com
@@ -2863,6 +2868,7 @@
 :: cdn.adstract.com
 :: cdn.ad.xiaomi.com
 :: cdn.ark.qq.com
+:: cdn.branch.io
 :: cdn.carbonads.com
 :: cdn.districtm.io
 :: cdn.dragonstatic.com
@@ -4027,6 +4033,7 @@
 :: rtb.admaster.com.cn
 :: rtb.adview.cn
 :: rt.gsspat.jp
+:: rtx.openx.net
 :: rubicon-match.dotomi.com
 :: rub.pxl.ace.advertising.com
 :: rudy.adsnative.com
@@ -4582,6 +4589,7 @@
 :: w.ymapp.com
 :: x1.go.sohu.com
 :: x.adpro.cn
+:: x.bidswitch.com
 :: x.cnxad.com
 :: x.domob.cn
 :: xf.yellowto.com
