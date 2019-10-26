@@ -56,3 +56,4 @@
 0.0.0.0 vs7.gzcu.u3.ucweb.com
 0.0.0.0 vs8.gzct.u3.ucweb.com
 0.0.0.0 vs8.gzcu.u3.ucweb.com
+0.0.0.0 sugs.m.sm.cn
