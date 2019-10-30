@@ -474,6 +474,7 @@
 0.0.0.0 kunpeng.csdn.net
 0.0.0.0 beacon.tingyun.com
 0.0.0.0 kunpeng-sc.csdnimg.cn
+0.0.0.0 g.csdnimg.cn
 # Traffic Junky
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 media.trafficjunky.net
