@@ -972,6 +972,7 @@ ip dns static add address=127.0.0.1 name=game.weibo.cn
 ip dns static add address=127.0.0.1 name=game.weibo.com
 ip dns static add address=127.0.0.1 name=g.baidu.com
 ip dns static add address=127.0.0.1 name=gb.corp.163.com
+ip dns static add address=127.0.0.1 name=g.csdnimg.cn
 ip dns static add address=127.0.0.1 name=g.domob.cn
 ip dns static add address=127.0.0.1 name=gemini.yahoo.com
 ip dns static add address=127.0.0.1 name=gen.alicdn.com

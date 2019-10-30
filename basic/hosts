@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191026144925
+#version=20191030015140
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -990,6 +990,7 @@
 0.0.0.0 game.weibo.com
 0.0.0.0 g.baidu.com
 0.0.0.0 gb.corp.163.com
+0.0.0.0 g.csdnimg.cn
 0.0.0.0 g.domob.cn
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 gen.alicdn.com
@@ -3298,6 +3299,7 @@
 :: game.weibo.com
 :: g.baidu.com
 :: gb.corp.163.com
+:: g.csdnimg.cn
 :: g.domob.cn
 :: gemini.yahoo.com
 :: gen.alicdn.com
