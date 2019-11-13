@@ -483,6 +483,11 @@
 0.0.0.0 fpbb.aizhan.com
 0.0.0.0 dmm.aizhan.com
 0.0.0.0 dm.aizhan.com
+# Tanv
+0.0.0.0 appapisdk.tanv.com
+0.0.0.0 appsdk.tanv.com
+0.0.0.0 img2.tanv.com
+0.0.0.0 img1.tanv.com
 # Pixiv
 0.0.0.0 pixon.ads-pixiv.net
 0.0.0.0 open-pixon.ads-pixiv.net
@@ -757,3 +762,6 @@
 0.0.0.0 ad.360yield.com
 0.0.0.0 x.bidswitch.com
 0.0.0.0 cdn.branch.io
+0.0.0.0 adlog.tagtic.cn
+0.0.0.0 sss.bxnms.com
+0.0.0.0 extlog.snssdk.com
