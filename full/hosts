@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191113041031
+#version=20191113041541
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -436,6 +436,7 @@
 0.0.0.0 aos.wall.youmi.net
 0.0.0.0 api0.tuisong.baidu.com
 0.0.0.0 api1.tuisong.baidu.com
+0.0.0.0 api.24kidea.com
 0.0.0.0 api2.analysys.cn
 0.0.0.0 api2.play.cn
 0.0.0.0 api2.tuisong.baidu.com
@@ -1322,6 +1323,7 @@
 0.0.0.0 exp.3g.ifeng.com
 0.0.0.0 ex.puata.info
 0.0.0.0 ex.qq.com
+0.0.0.0 e.xroun.com
 0.0.0.0 ex.tanx.com
 0.0.0.0 extlog.snssdk.com
 0.0.0.0 extmoney.i1608.com
@@ -1986,6 +1988,7 @@
 0.0.0.0 md.1drj.com
 0.0.0.0 m.dante2007.com
 0.0.0.0 mdap.alipaylog.com
+0.0.0.0 m.data.mob.com
 0.0.0.0 mdc.meitustat.com
 0.0.0.0 md.he9630.com
 0.0.0.0 m.domob.cn
@@ -2138,6 +2141,7 @@
 0.0.0.0 m.yangjingbang.net
 0.0.0.0 mycleanmymac.com
 0.0.0.0 myes.youku.com
+0.0.0.0 my-material.zone1.meitudata.com
 0.0.0.0 m.yoyi.com.cn
 0.0.0.0 n.3g.163.com
 0.0.0.0 na1r.services.adobe.com
@@ -2887,6 +2891,7 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 setting.snswin.qq.com
 0.0.0.0 settings-sandbox.data.microsoft.com
+0.0.0.0 sf1-ttcdn-tos.pstatp.com
 0.0.0.0 sg.a.stat.mi.com
 0.0.0.0 sg-cdn.effectivemeasure.net
 0.0.0.0 s.gdt.qq.com
@@ -4406,6 +4411,7 @@
 :: aos.wall.youmi.net
 :: api0.tuisong.baidu.com
 :: api1.tuisong.baidu.com
+:: api.24kidea.com
 :: api2.analysys.cn
 :: api2.play.cn
 :: api2.tuisong.baidu.com
@@ -5292,6 +5298,7 @@
 :: exp.3g.ifeng.com
 :: ex.puata.info
 :: ex.qq.com
+:: e.xroun.com
 :: ex.tanx.com
 :: extlog.snssdk.com
 :: extmoney.i1608.com
@@ -5956,6 +5963,7 @@
 :: md.1drj.com
 :: m.dante2007.com
 :: mdap.alipaylog.com
+:: m.data.mob.com
 :: mdc.meitustat.com
 :: md.he9630.com
 :: m.domob.cn
@@ -6108,6 +6116,7 @@
 :: m.yangjingbang.net
 :: mycleanmymac.com
 :: myes.youku.com
+:: my-material.zone1.meitudata.com
 :: m.yoyi.com.cn
 :: n.3g.163.com
 :: na1r.services.adobe.com
@@ -6857,6 +6866,7 @@
 :: settings.crashlytics.com
 :: setting.snswin.qq.com
 :: settings-sandbox.data.microsoft.com
+:: sf1-ttcdn-tos.pstatp.com
 :: sg.a.stat.mi.com
 :: sg-cdn.effectivemeasure.net
 :: s.gdt.qq.com

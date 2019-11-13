@@ -327,6 +327,7 @@ ip dns static add address=127.0.0.1 name=an.yandex.ru
 ip dns static add address=127.0.0.1 name=aos.wall.youmi.net
 ip dns static add address=127.0.0.1 name=api0.tuisong.baidu.com
 ip dns static add address=127.0.0.1 name=api1.tuisong.baidu.com
+ip dns static add address=127.0.0.1 name=api.24kidea.com
 ip dns static add address=127.0.0.1 name=api2.play.cn
 ip dns static add address=127.0.0.1 name=api2.tuisong.baidu.com
 ip dns static add address=127.0.0.1 name=api3.tuisong.baidu.com
@@ -915,6 +916,7 @@ ip dns static add address=127.0.0.1 name=ex.mobmore.com
 ip dns static add address=127.0.0.1 name=exp.3g.ifeng.com
 ip dns static add address=127.0.0.1 name=ex.puata.info
 ip dns static add address=127.0.0.1 name=ex.qq.com
+ip dns static add address=127.0.0.1 name=e.xroun.com
 ip dns static add address=127.0.0.1 name=ex.tanx.com
 ip dns static add address=127.0.0.1 name=extlog.snssdk.com
 ip dns static add address=127.0.0.1 name=extmoney.i1608.com
@@ -1320,6 +1322,7 @@ ip dns static add address=127.0.0.1 name=mc.weather.com.cn
 ip dns static add address=127.0.0.1 name=mc.yandex.ru
 ip dns static add address=127.0.0.1 name=md.1drj.com
 ip dns static add address=127.0.0.1 name=mdap.alipaylog.com
+ip dns static add address=127.0.0.1 name=m.data.mob.com
 ip dns static add address=127.0.0.1 name=mdc.meitustat.com
 ip dns static add address=127.0.0.1 name=md.he9630.com
 ip dns static add address=127.0.0.1 name=m.domob.cn
@@ -1411,6 +1414,7 @@ ip dns static add address=127.0.0.1 name=m.wrating.com
 ip dns static add address=127.0.0.1 name=mws.adsage.com
 ip dns static add address=127.0.0.1 name=my.adsmogo.com
 ip dns static add address=127.0.0.1 name=m.yangjingbang.net
+ip dns static add address=127.0.0.1 name=my-material.zone1.meitudata.com
 ip dns static add address=127.0.0.1 name=n.3g.163.com
 ip dns static add address=127.0.0.1 name=na1r.services.adobe.com
 ip dns static add address=127.0.0.1 name=na2m-pr.licenses.adobe.com
@@ -1818,6 +1822,7 @@ ip dns static add address=127.0.0.1 name=service.urchin.com
 ip dns static add address=127.0.0.1 name=sestat.baidu.com
 ip dns static add address=127.0.0.1 name=setting.snswin.qq.com
 ip dns static add address=127.0.0.1 name=settings-sandbox.data.microsoft.com
+ip dns static add address=127.0.0.1 name=sf1-ttcdn-tos.pstatp.com
 ip dns static add address=127.0.0.1 name=sg.a.stat.mi.com
 ip dns static add address=127.0.0.1 name=s.gdt.qq.com
 ip dns static add address=127.0.0.1 name=s.go2yd.com

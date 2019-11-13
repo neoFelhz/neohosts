@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191113041031
+#version=20191113041541
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -436,6 +436,7 @@
 127.0.0.1 aos.wall.youmi.net
 127.0.0.1 api0.tuisong.baidu.com
 127.0.0.1 api1.tuisong.baidu.com
+127.0.0.1 api.24kidea.com
 127.0.0.1 api2.analysys.cn
 127.0.0.1 api2.play.cn
 127.0.0.1 api2.tuisong.baidu.com
@@ -1322,6 +1323,7 @@
 127.0.0.1 exp.3g.ifeng.com
 127.0.0.1 ex.puata.info
 127.0.0.1 ex.qq.com
+127.0.0.1 e.xroun.com
 127.0.0.1 ex.tanx.com
 127.0.0.1 extlog.snssdk.com
 127.0.0.1 extmoney.i1608.com
@@ -1986,6 +1988,7 @@
 127.0.0.1 md.1drj.com
 127.0.0.1 m.dante2007.com
 127.0.0.1 mdap.alipaylog.com
+127.0.0.1 m.data.mob.com
 127.0.0.1 mdc.meitustat.com
 127.0.0.1 md.he9630.com
 127.0.0.1 m.domob.cn
@@ -2138,6 +2141,7 @@
 127.0.0.1 m.yangjingbang.net
 127.0.0.1 mycleanmymac.com
 127.0.0.1 myes.youku.com
+127.0.0.1 my-material.zone1.meitudata.com
 127.0.0.1 m.yoyi.com.cn
 127.0.0.1 n.3g.163.com
 127.0.0.1 na1r.services.adobe.com
@@ -2887,6 +2891,7 @@
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 setting.snswin.qq.com
 127.0.0.1 settings-sandbox.data.microsoft.com
+127.0.0.1 sf1-ttcdn-tos.pstatp.com
 127.0.0.1 sg.a.stat.mi.com
 127.0.0.1 sg-cdn.effectivemeasure.net
 127.0.0.1 s.gdt.qq.com
@@ -4406,6 +4411,7 @@
 :: aos.wall.youmi.net
 :: api0.tuisong.baidu.com
 :: api1.tuisong.baidu.com
+:: api.24kidea.com
 :: api2.analysys.cn
 :: api2.play.cn
 :: api2.tuisong.baidu.com
@@ -5292,6 +5298,7 @@
 :: exp.3g.ifeng.com
 :: ex.puata.info
 :: ex.qq.com
+:: e.xroun.com
 :: ex.tanx.com
 :: extlog.snssdk.com
 :: extmoney.i1608.com
@@ -5956,6 +5963,7 @@
 :: md.1drj.com
 :: m.dante2007.com
 :: mdap.alipaylog.com
+:: m.data.mob.com
 :: mdc.meitustat.com
 :: md.he9630.com
 :: m.domob.cn
@@ -6108,6 +6116,7 @@
 :: m.yangjingbang.net
 :: mycleanmymac.com
 :: myes.youku.com
+:: my-material.zone1.meitudata.com
 :: m.yoyi.com.cn
 :: n.3g.163.com
 :: na1r.services.adobe.com
@@ -6857,6 +6866,7 @@
 :: settings.crashlytics.com
 :: setting.snswin.qq.com
 :: settings-sandbox.data.microsoft.com
+:: sf1-ttcdn-tos.pstatp.com
 :: sg.a.stat.mi.com
 :: sg-cdn.effectivemeasure.net
 :: s.gdt.qq.com
