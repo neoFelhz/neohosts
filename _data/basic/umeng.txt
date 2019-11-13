@@ -30,3 +30,5 @@
 0.0.0.0 www.uyunad.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 plbslog.umeng.com
+0.0.0.0 uop.umeng.com
+0.0.0.0 alogs.umengcloud.com
