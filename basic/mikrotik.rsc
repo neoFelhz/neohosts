@@ -157,6 +157,7 @@ ip dns static add address=127.0.0.1 name=ad.jsnbrynb.com
 ip dns static add address=127.0.0.1 name=adlaunch.moji.com
 ip dns static add address=127.0.0.1 name=ad.lflucky.com
 ip dns static add address=127.0.0.1 name=adlog.flurry.com
+ip dns static add address=127.0.0.1 name=adlog.tagtic.cn
 ip dns static add address=127.0.0.1 name=ad.mail.sohu.com
 ip dns static add address=127.0.0.1 name=adm.baidu.com
 ip dns static add address=127.0.0.1 name=admd.yam.com
@@ -300,6 +301,7 @@ ip dns static add address=127.0.0.1 name=allnews.uodoo.com
 ip dns static add address=127.0.0.1 name=allyesbjafa.allyes.com
 ip dns static add address=127.0.0.1 name=allyes.com
 ip dns static add address=127.0.0.1 name=allyesshafa.allyes.com
+ip dns static add address=127.0.0.1 name=alogs.umengcloud.com
 ip dns static add address=127.0.0.1 name=alog.umengcloud.com
 ip dns static add address=127.0.0.1 name=alog.umeng.co
 ip dns static add address=127.0.0.1 name=alog.umeng.com
@@ -377,11 +379,13 @@ ip dns static add address=127.0.0.1 name=apoll.m.taobao.com
 ip dns static add address=127.0.0.1 name=app01.nodes.gslb.mi-idc.com
 ip dns static add address=127.0.0.1 name=app02.nodes.gslb.mi-idc.com
 ip dns static add address=127.0.0.1 name=app.50bang.org
+ip dns static add address=127.0.0.1 name=appapisdk.tanv.com
 ip dns static add address=127.0.0.1 name=appc.baidu.com
 ip dns static add address=127.0.0.1 name=appdownload.alicdn.com
 ip dns static add address=127.0.0.1 name=appgift.sinaapp.com
 ip dns static add address=127.0.0.1 name=applog.uc.cn
 ip dns static add address=127.0.0.1 name=apppic.yingyongbei.com
+ip dns static add address=127.0.0.1 name=appsdk.tanv.com
 ip dns static add address=127.0.0.1 name=appsupdate.sinaapp.com
 ip dns static add address=127.0.0.1 name=appsupport.qq.com
 ip dns static add address=127.0.0.1 name=app.uu.cc
@@ -908,6 +912,7 @@ ip dns static add address=127.0.0.1 name=exp.3g.ifeng.com
 ip dns static add address=127.0.0.1 name=ex.puata.info
 ip dns static add address=127.0.0.1 name=ex.qq.com
 ip dns static add address=127.0.0.1 name=ex.tanx.com
+ip dns static add address=127.0.0.1 name=extlog.snssdk.com
 ip dns static add address=127.0.0.1 name=extmoney.i1608.com
 ip dns static add address=127.0.0.1 name=ex.umengcloud.com
 ip dns static add address=127.0.0.1 name=e.yangjingbang.net
@@ -1115,8 +1120,10 @@ ip dns static add address=127.0.0.1 name=img1.126.net
 ip dns static add address=127.0.0.1 name=img1.km.com
 ip dns static add address=127.0.0.1 name=img1.pcfg.cache.wps.cn
 ip dns static add address=127.0.0.1 name=img1.sj.qq.com
+ip dns static add address=127.0.0.1 name=img1.tanv.com
 ip dns static add address=127.0.0.1 name=img2.126.net
 ip dns static add address=127.0.0.1 name=img2.km.com
+ip dns static add address=127.0.0.1 name=img2.tanv.com
 ip dns static add address=127.0.0.1 name=img3.km.com
 ip dns static add address=127.0.0.1 name=img.adbox.sina.com.cn
 ip dns static add address=127.0.0.1 name=img.adnyg.com
@@ -1887,6 +1894,7 @@ ip dns static add address=127.0.0.1 name=ssp.pro.cn
 ip dns static add address=127.0.0.1 name=sspservice.ad-survey.com
 ip dns static add address=127.0.0.1 name=ssp.thescenseproject.com
 ip dns static add address=127.0.0.1 name=ssp.youxiaoad.com
+ip dns static add address=127.0.0.1 name=sss.bxnms.com
 ip dns static add address=127.0.0.1 name=sssvd.china.com
 ip dns static add address=127.0.0.1 name=stadig0.ifeng.com
 ip dns static add address=127.0.0.1 name=stadig.ifeng.com
@@ -2105,6 +2113,7 @@ ip dns static add address=127.0.0.1 name=unionimage.baidu.com
 ip dns static add address=127.0.0.1 name=union.mop.com
 ip dns static add address=127.0.0.1 name=union.sogou.com
 ip dns static add address=127.0.0.1 name=unitacs.m.taobao.com
+ip dns static add address=127.0.0.1 name=uop.umeng.com
 ip dns static add address=127.0.0.1 name=up1.tj.u2.ucweb.com
 ip dns static add address=127.0.0.1 name=up4.ucweb.com
 ip dns static add address=127.0.0.1 name=up.cm.ksmobile.com

@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191113034428
+#version=20191113035701
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -220,6 +220,7 @@
 127.0.0.1 adlaunch.moji.com
 127.0.0.1 ad.lflucky.com
 127.0.0.1 adlog.flurry.com
+127.0.0.1 adlog.tagtic.cn
 127.0.0.1 ad.mail.sohu.com
 127.0.0.1 adm.baidu.com
 127.0.0.1 admd.yam.com
@@ -388,6 +389,7 @@
 127.0.0.1 allyesbjafa.allyes.com
 127.0.0.1 allyes.com
 127.0.0.1 allyesshafa.allyes.com
+127.0.0.1 alogs.umengcloud.com
 127.0.0.1 alog.umengcloud.com
 127.0.0.1 alog.umeng.co
 127.0.0.1 alog.umeng.com
@@ -506,6 +508,7 @@
 127.0.0.1 app02.nodes.gslb.mi-idc.com
 127.0.0.1 app.50bang.org
 127.0.0.1 app-ab37.marketo.com
+127.0.0.1 appapisdk.tanv.com
 127.0.0.1 appc.baidu.com
 127.0.0.1 appdownload.alicdn.com
 127.0.0.1 appgift.sinaapp.com
@@ -513,6 +516,7 @@
 127.0.0.1 applog.uc.cn
 127.0.0.1 app-lon07.marketo.com
 127.0.0.1 apppic.yingyongbei.com
+127.0.0.1 appsdk.tanv.com
 127.0.0.1 app-sj15.marketo.com
 127.0.0.1 app-sj30.marketo.com
 127.0.0.1 appsupdate.sinaapp.com
@@ -1315,6 +1319,7 @@
 127.0.0.1 ex.puata.info
 127.0.0.1 ex.qq.com
 127.0.0.1 ex.tanx.com
+127.0.0.1 extlog.snssdk.com
 127.0.0.1 extmoney.i1608.com
 127.0.0.1 ex.umengcloud.com
 127.0.0.1 e.yangjingbang.net
@@ -1615,10 +1620,12 @@
 127.0.0.1 img1.km.com
 127.0.0.1 img1.pcfg.cache.wps.cn
 127.0.0.1 img1.sj.qq.com
+127.0.0.1 img1.tanv.com
 127.0.0.1 img2.126.net
 127.0.0.1 img2.578965.com
 127.0.0.1 img2.km.com
 127.0.0.1 img2.qekun.com
+127.0.0.1 img2.tanv.com
 127.0.0.1 img3.km.com
 127.0.0.1 img3.lianmengma.com
 127.0.0.1 img752.de92.com
@@ -2994,6 +3001,7 @@
 127.0.0.1 sspservice.ad-survey.com
 127.0.0.1 ssp.thescenseproject.com
 127.0.0.1 ssp.youxiaoad.com
+127.0.0.1 sss.bxnms.com
 127.0.0.1 sssvd.china.com
 127.0.0.1 sstatic1.histats.com
 127.0.0.1 stadig0.ifeng.com
@@ -3308,6 +3316,7 @@
 127.0.0.1 union.mop.com
 127.0.0.1 union.sogou.com
 127.0.0.1 unitacs.m.taobao.com
+127.0.0.1 uop.umeng.com
 127.0.0.1 up1.tj.u2.ucweb.com
 127.0.0.1 up4.ucweb.com
 127.0.0.1 up.cm.ksmobile.com
@@ -4172,6 +4181,7 @@
 :: adlaunch.moji.com
 :: ad.lflucky.com
 :: adlog.flurry.com
+:: adlog.tagtic.cn
 :: ad.mail.sohu.com
 :: adm.baidu.com
 :: admd.yam.com
@@ -4340,6 +4350,7 @@
 :: allyesbjafa.allyes.com
 :: allyes.com
 :: allyesshafa.allyes.com
+:: alogs.umengcloud.com
 :: alog.umengcloud.com
 :: alog.umeng.co
 :: alog.umeng.com
@@ -4458,6 +4469,7 @@
 :: app02.nodes.gslb.mi-idc.com
 :: app.50bang.org
 :: app-ab37.marketo.com
+:: appapisdk.tanv.com
 :: appc.baidu.com
 :: appdownload.alicdn.com
 :: appgift.sinaapp.com
@@ -4465,6 +4477,7 @@
 :: applog.uc.cn
 :: app-lon07.marketo.com
 :: apppic.yingyongbei.com
+:: appsdk.tanv.com
 :: app-sj15.marketo.com
 :: app-sj30.marketo.com
 :: appsupdate.sinaapp.com
@@ -5267,6 +5280,7 @@
 :: ex.puata.info
 :: ex.qq.com
 :: ex.tanx.com
+:: extlog.snssdk.com
 :: extmoney.i1608.com
 :: ex.umengcloud.com
 :: e.yangjingbang.net
@@ -5567,10 +5581,12 @@
 :: img1.km.com
 :: img1.pcfg.cache.wps.cn
 :: img1.sj.qq.com
+:: img1.tanv.com
 :: img2.126.net
 :: img2.578965.com
 :: img2.km.com
 :: img2.qekun.com
+:: img2.tanv.com
 :: img3.km.com
 :: img3.lianmengma.com
 :: img752.de92.com
@@ -6946,6 +6962,7 @@
 :: sspservice.ad-survey.com
 :: ssp.thescenseproject.com
 :: ssp.youxiaoad.com
+:: sss.bxnms.com
 :: sssvd.china.com
 :: sstatic1.histats.com
 :: stadig0.ifeng.com
@@ -7260,6 +7277,7 @@
 :: union.mop.com
 :: union.sogou.com
 :: unitacs.m.taobao.com
+:: uop.umeng.com
 :: up1.tj.u2.ucweb.com
 :: up4.ucweb.com
 :: up.cm.ksmobile.com
