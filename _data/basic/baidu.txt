@@ -193,6 +193,7 @@
 # bdstatic.com
 0.0.0.0 ae.bdstatic.com
 0.0.0.0 b.bdstatic.com
+0.0.0.0 gss0.bdstatic.com
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 cpro2.baidustatic.com
 0.0.0.0 dup.baidustatic.com
