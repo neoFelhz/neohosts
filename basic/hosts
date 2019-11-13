@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191113040135
+#version=20191113040727
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -532,6 +532,7 @@
 0.0.0.0 c2.l.qq.com
 0.0.0.0 c2.popads.net
 0.0.0.0 c.35kds.com
+0.0.0.0 caclick.baidu.com
 0.0.0.0 c-adash.m.taobao.com
 0.0.0.0 c.admaster.com.cn
 0.0.0.0 c.admob.com
@@ -737,6 +738,8 @@
 0.0.0.0 cpro.zhidao.baidu.com
 0.0.0.0 cpu-admin.baidu.com
 0.0.0.0 cpu.baidu.com
+0.0.0.0 cpu-baidu-com-block.cdn.bcebos.com
+0.0.0.0 cpucdn.baidu.com
 0.0.0.0 cpv.ty229.com
 0.0.0.0 creative.1111cpc.com
 0.0.0.0 creative.jdkic.com
@@ -1622,6 +1625,7 @@
 0.0.0.0 p.tanx.com
 0.0.0.0 p.tencentmind.com
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 publish-pic-cpu.baidu.com
 0.0.0.0 pub.pxl.ace.advertising.com
 0.0.0.0 pub.se.360.cn
 0.0.0.0 puds.test.uae.uc.cn
@@ -2876,6 +2880,7 @@
 :: c2.l.qq.com
 :: c2.popads.net
 :: c.35kds.com
+:: caclick.baidu.com
 :: c-adash.m.taobao.com
 :: c.admaster.com.cn
 :: c.admob.com
@@ -3081,6 +3086,8 @@
 :: cpro.zhidao.baidu.com
 :: cpu-admin.baidu.com
 :: cpu.baidu.com
+:: cpu-baidu-com-block.cdn.bcebos.com
+:: cpucdn.baidu.com
 :: cpv.ty229.com
 :: creative.1111cpc.com
 :: creative.jdkic.com
@@ -3966,6 +3973,7 @@
 :: p.tanx.com
 :: p.tencentmind.com
 :: pubads.g.doubleclick.net
+:: publish-pic-cpu.baidu.com
 :: pub.pxl.ace.advertising.com
 :: pub.se.360.cn
 :: puds.test.uae.uc.cn

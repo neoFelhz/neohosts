@@ -687,6 +687,7 @@ ip dns static add address=127.0.0.1 name=c8.top267.com
 ip dns static add address=127.0.0.1 name=cacaca.0571yy.com
 ip dns static add address=127.0.0.1 name=cache.cnzz.com
 ip dns static add address=127.0.0.1 name=cache.soloth.com
+ip dns static add address=127.0.0.1 name=caclick.baidu.com
 ip dns static add address=127.0.0.1 name=c-adash.m.taobao.com
 ip dns static add address=127.0.0.1 name=c.admaster.com.cn
 ip dns static add address=127.0.0.1 name=c.admob.com
@@ -980,7 +981,9 @@ ip dns static add address=127.0.0.1 name=cpro.tieba.baidu.com
 ip dns static add address=127.0.0.1 name=cpro.zhidao.baidu.com
 ip dns static add address=127.0.0.1 name=cpu-admin.baidu.com
 ip dns static add address=127.0.0.1 name=cpu.baidu.com
+ip dns static add address=127.0.0.1 name=cpu-baidu-com-block.cdn.bcebos.com
 ip dns static add address=127.0.0.1 name=c.pub.network
+ip dns static add address=127.0.0.1 name=cpucdn.baidu.com
 ip dns static add address=127.0.0.1 name=cpv.czpush.com
 ip dns static add address=127.0.0.1 name=cpv.ty229.com
 ip dns static add address=127.0.0.1 name=crashlytics.163.com
@@ -2383,6 +2386,7 @@ ip dns static add address=127.0.0.1 name=p.tanx.com
 ip dns static add address=127.0.0.1 name=p.tencentmind.com
 ip dns static add address=127.0.0.1 name=p.typekit.net
 ip dns static add address=127.0.0.1 name=pubads.g.doubleclick.net
+ip dns static add address=127.0.0.1 name=publish-pic-cpu.baidu.com
 ip dns static add address=127.0.0.1 name=pub.pxl.ace.advertising.com
 ip dns static add address=127.0.0.1 name=pub.se.360.cn
 ip dns static add address=127.0.0.1 name=puds.test.uae.uc.cn

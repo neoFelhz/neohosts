@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191113040135
+#version=20191113040727
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -705,6 +705,7 @@
 0.0.0.0 cacaca.0571yy.com
 0.0.0.0 cache.cnzz.com
 0.0.0.0 cache.soloth.com
+0.0.0.0 caclick.baidu.com
 0.0.0.0 c-adash.m.taobao.com
 0.0.0.0 c.admaster.com.cn
 0.0.0.0 c.admob.com
@@ -998,7 +999,9 @@
 0.0.0.0 cpro.zhidao.baidu.com
 0.0.0.0 cpu-admin.baidu.com
 0.0.0.0 cpu.baidu.com
+0.0.0.0 cpu-baidu-com-block.cdn.bcebos.com
 0.0.0.0 c.pub.network
+0.0.0.0 cpucdn.baidu.com
 0.0.0.0 cpv.czpush.com
 0.0.0.0 cpv.ty229.com
 0.0.0.0 crashlytics.163.com
@@ -2401,6 +2404,7 @@
 0.0.0.0 p.tencentmind.com
 0.0.0.0 p.typekit.net
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 publish-pic-cpu.baidu.com
 0.0.0.0 pub.pxl.ace.advertising.com
 0.0.0.0 pub.se.360.cn
 0.0.0.0 puds.test.uae.uc.cn
@@ -4669,6 +4673,7 @@
 :: cacaca.0571yy.com
 :: cache.cnzz.com
 :: cache.soloth.com
+:: caclick.baidu.com
 :: c-adash.m.taobao.com
 :: c.admaster.com.cn
 :: c.admob.com
@@ -4962,7 +4967,9 @@
 :: cpro.zhidao.baidu.com
 :: cpu-admin.baidu.com
 :: cpu.baidu.com
+:: cpu-baidu-com-block.cdn.bcebos.com
 :: c.pub.network
+:: cpucdn.baidu.com
 :: cpv.czpush.com
 :: cpv.ty229.com
 :: crashlytics.163.com
@@ -6365,6 +6372,7 @@
 :: p.tencentmind.com
 :: p.typekit.net
 :: pubads.g.doubleclick.net
+:: publish-pic-cpu.baidu.com
 :: pub.pxl.ace.advertising.com
 :: pub.se.360.cn
 :: puds.test.uae.uc.cn
