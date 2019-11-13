@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191113035701
+#version=20191113040135
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -1178,6 +1178,7 @@
 0.0.0.0 download.sd.baidu.com
 0.0.0.0 download.sj.qq.com
 0.0.0.0 download.zhushou.sogou.com
+0.0.0.0 dp3.qq.com
 0.0.0.0 dp.559.cc
 0.0.0.0 dp.g.doubleclick.net
 0.0.0.0 dp.im.weibo.cn
@@ -3367,6 +3368,7 @@
 0.0.0.0 v2.cnzz.com
 0.0.0.0 v2.da.mgtv.com
 0.0.0.0 v2.fm.n.duokanbox.com
+0.0.0.0 v2.gdt.qq.com
 0.0.0.0 v2.hdd.log.hunantv.com
 0.0.0.0 v2.hd.log.hunantv.com
 0.0.0.0 v2html.atm.youku.com
@@ -3826,6 +3828,7 @@
 0.0.0.0 x.adpro.cn
 0.0.0.0 x.bidswitch.com
 0.0.0.0 xcar.adsame.com
+0.0.0.0 xc.gdt.qq.com
 0.0.0.0 x.cnxad.com
 0.0.0.0 xco.qwxcs.com
 0.0.0.0 xdadevelopers.browsi.mobi
@@ -5139,6 +5142,7 @@
 :: download.sd.baidu.com
 :: download.sj.qq.com
 :: download.zhushou.sogou.com
+:: dp3.qq.com
 :: dp.559.cc
 :: dp.g.doubleclick.net
 :: dp.im.weibo.cn
@@ -7328,6 +7332,7 @@
 :: v2.cnzz.com
 :: v2.da.mgtv.com
 :: v2.fm.n.duokanbox.com
+:: v2.gdt.qq.com
 :: v2.hdd.log.hunantv.com
 :: v2.hd.log.hunantv.com
 :: v2html.atm.youku.com
@@ -7787,6 +7792,7 @@
 :: x.adpro.cn
 :: x.bidswitch.com
 :: xcar.adsame.com
+:: xc.gdt.qq.com
 :: x.cnxad.com
 :: xco.qwxcs.com
 :: xdadevelopers.browsi.mobi

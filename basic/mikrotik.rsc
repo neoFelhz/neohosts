@@ -827,6 +827,7 @@ ip dns static add address=127.0.0.1 name=dorangesource.alicdn.com
 ip dns static add address=127.0.0.1 name=down.dashendown.com
 ip dns static add address=127.0.0.1 name=download.adsage.com
 ip dns static add address=127.0.0.1 name=download.zhushou.sogou.com
+ip dns static add address=127.0.0.1 name=dp3.qq.com
 ip dns static add address=127.0.0.1 name=dp.559.cc
 ip dns static add address=127.0.0.1 name=dp.g.doubleclick.net
 ip dns static add address=127.0.0.1 name=dp.im.weibo.cn
@@ -2142,6 +2143,7 @@ ip dns static add address=127.0.0.1 name=u.x.jd.com
 ip dns static add address=127.0.0.1 name=v1-feed.idreamsky.com
 ip dns static add address=127.0.0.1 name=v1.log.moji.com
 ip dns static add address=127.0.0.1 name=v2.fm.n.duokanbox.com
+ip dns static add address=127.0.0.1 name=v2.gdt.qq.com
 ip dns static add address=127.0.0.1 name=v2.reachmax.cn
 ip dns static add address=127.0.0.1 name=v.admaster.com.cn
 ip dns static add address=127.0.0.1 name=va.gxpan.cn
@@ -2297,6 +2299,7 @@ ip dns static add address=127.0.0.1 name=w.ymapp.com
 ip dns static add address=127.0.0.1 name=x1.go.sohu.com
 ip dns static add address=127.0.0.1 name=x.adpro.cn
 ip dns static add address=127.0.0.1 name=x.bidswitch.com
+ip dns static add address=127.0.0.1 name=xc.gdt.qq.com
 ip dns static add address=127.0.0.1 name=x.cnxad.com
 ip dns static add address=127.0.0.1 name=x.domob.cn
 ip dns static add address=127.0.0.1 name=xf.yellowto.com

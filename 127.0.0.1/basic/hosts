@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191113035701
+#version=20191113040135
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -845,6 +845,7 @@
 127.0.0.1 down.dashendown.com
 127.0.0.1 download.adsage.com
 127.0.0.1 download.zhushou.sogou.com
+127.0.0.1 dp3.qq.com
 127.0.0.1 dp.559.cc
 127.0.0.1 dp.g.doubleclick.net
 127.0.0.1 dp.im.weibo.cn
@@ -2160,6 +2161,7 @@
 127.0.0.1 v1-feed.idreamsky.com
 127.0.0.1 v1.log.moji.com
 127.0.0.1 v2.fm.n.duokanbox.com
+127.0.0.1 v2.gdt.qq.com
 127.0.0.1 v2.reachmax.cn
 127.0.0.1 v.admaster.com.cn
 127.0.0.1 va.gxpan.cn
@@ -2315,6 +2317,7 @@
 127.0.0.1 x1.go.sohu.com
 127.0.0.1 x.adpro.cn
 127.0.0.1 x.bidswitch.com
+127.0.0.1 xc.gdt.qq.com
 127.0.0.1 x.cnxad.com
 127.0.0.1 x.domob.cn
 127.0.0.1 xf.yellowto.com
@@ -3186,6 +3189,7 @@
 :: down.dashendown.com
 :: download.adsage.com
 :: download.zhushou.sogou.com
+:: dp3.qq.com
 :: dp.559.cc
 :: dp.g.doubleclick.net
 :: dp.im.weibo.cn
@@ -4501,6 +4505,7 @@
 :: v1-feed.idreamsky.com
 :: v1.log.moji.com
 :: v2.fm.n.duokanbox.com
+:: v2.gdt.qq.com
 :: v2.reachmax.cn
 :: v.admaster.com.cn
 :: va.gxpan.cn
@@ -4656,6 +4661,7 @@
 :: x1.go.sohu.com
 :: x.adpro.cn
 :: x.bidswitch.com
+:: xc.gdt.qq.com
 :: x.cnxad.com
 :: x.domob.cn
 :: xf.yellowto.com
