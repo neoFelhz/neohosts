@@ -82,7 +82,6 @@
 0.0.0.0 cpro2.baidustatic.com
 0.0.0.0 dup.baidustatic.com
 0.0.0.0 adscdn.baidu.com
-0.0.0.0 api.cpu.baidu.com
 0.0.0.0 baichuan.baidu.com
 0.0.0.0 bce.baidu.com
 0.0.0.0 click.bes.baidu.com
@@ -104,8 +103,6 @@
 0.0.0.0 datax.baidu.com
 0.0.0.0 dxp.baidu.com
 0.0.0.0 openrcv.baidu.com
-0.0.0.0 cpu.baidu.com
-0.0.0.0 cpu-admin.baidu.com
 0.0.0.0 hpd.baidu.com
 0.0.0.0 feed.baidu.com
 0.0.0.0 appc.baidu.com
@@ -138,6 +135,15 @@
 0.0.0.0 t10.baidu.com
 0.0.0.0 t11.baidu.com
 0.0.0.0 t12.baidu.com
+
+# cpu.baidu.com
+0.0.0.0 cpu.baidu.com
+0.0.0.0 cpu-admin.baidu.com
+0.0.0.0 cpucdn.baidu.com
+0.0.0.0 api.cpu.baidu.com
+0.0.0.0 publish-pic-cpu.baidu.com
+0.0.0.0 cpu-baidu-com-block.cdn.bcebos.com
+0.0.0.0 publish-pic-cpu.baidu.com
 
 # Push-Tuisong
 0.0.0.0 api0.tuisong.baidu.com
@@ -194,6 +200,7 @@
 0.0.0.0 su.bdstatic.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 zz.bdstatic.com
+0.0.0.0 caclick.baidu.com
 
 # bcebos.com
 0.0.0.0 bj.bcebos.com
@@ -205,7 +212,6 @@
 0.0.0.0 api.share.baidu.com
 0.0.0.0 bdimg.share.baidu.com
 0.0.0.0 s.share.baidu.com
-
 
 # wangmeng
 0.0.0.0 zzy1.quyaoya.com
