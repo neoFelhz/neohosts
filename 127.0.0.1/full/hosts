@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191113040905
+#version=20191113041031
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -1712,6 +1712,7 @@
 127.0.0.1 inte.sogou.com
 127.0.0.1 inte.theta.sogoucdn.com
 127.0.0.1 intf.cnzz.com
+127.0.0.1 ios.bugly.qq.com
 127.0.0.1 iphonelog.shouji.baofeng.com
 127.0.0.1 ipinyou.com
 127.0.0.1 ipm.atm.youku.com
@@ -5681,6 +5682,7 @@
 :: inte.sogou.com
 :: inte.theta.sogoucdn.com
 :: intf.cnzz.com
+:: ios.bugly.qq.com
 :: iphonelog.shouji.baofeng.com
 :: ipinyou.com
 :: ipm.atm.youku.com

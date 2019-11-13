@@ -1694,6 +1694,7 @@ ip dns static add address=127.0.0.1 name=interest.mix.sina.com.cn
 ip dns static add address=127.0.0.1 name=inte.sogou.com
 ip dns static add address=127.0.0.1 name=inte.theta.sogoucdn.com
 ip dns static add address=127.0.0.1 name=intf.cnzz.com
+ip dns static add address=127.0.0.1 name=ios.bugly.qq.com
 ip dns static add address=127.0.0.1 name=iphonelog.shouji.baofeng.com
 ip dns static add address=127.0.0.1 name=ipinyou.com
 ip dns static add address=127.0.0.1 name=ipm.atm.youku.com
