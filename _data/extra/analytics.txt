@@ -104,6 +104,7 @@
 # Tencent Bugly
 0.0.0.0 aexception.bugly.qq.com
 0.0.0.0 android.bugly.qq.com
+0.0.0.0 ios.bugly.qq.com
 # mgid
 0.0.0.0 servicer.mgid.com
 0.0.0.0 jsc.mgid.com
