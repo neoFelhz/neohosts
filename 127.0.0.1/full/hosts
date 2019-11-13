@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191030015140
+#version=20191113034428
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -1400,7 +1400,6 @@
 127.0.0.1 g.baidu.com
 127.0.0.1 gb.corp.163.com
 127.0.0.1 g.cn.miaozhen.com
-127.0.0.1 g.csdnimg.cn
 127.0.0.1 g.domob.cn
 127.0.0.1 g.d.yoyi.tv
 127.0.0.1 gemini.yahoo.com
@@ -3638,6 +3637,7 @@
 127.0.0.1 www.1990tu.com
 127.0.0.1 www.202m.com
 127.0.0.1 www.268mob.cn
+127.0.0.1 www.2shouhc.com
 127.0.0.1 www.4009997658.com
 127.0.0.1 www.51link.com
 127.0.0.1 www5.jkjjkj.top
@@ -3660,6 +3660,7 @@
 127.0.0.1 www.appuu.cn
 127.0.0.1 www.atdmt.com
 127.0.0.1 www.authedmine.com
+127.0.0.1 www.baidushifen.com
 127.0.0.1 www.baiduzhidahao.cc
 127.0.0.1 www.bannedbook.org
 127.0.0.1 www.bartender.cc
@@ -3679,6 +3680,7 @@
 127.0.0.1 www.count.51yes.com
 127.0.0.1 www.criteo.com
 127.0.0.1 www.crossoverchina.com
+127.0.0.1 www.danqingschool.com
 127.0.0.1 www.doumob.com
 127.0.0.1 www.easyrecoverychina.com
 127.0.0.1 www.eddong.com
@@ -3690,6 +3692,7 @@
 127.0.0.1 www.fgmtv.org
 127.0.0.1 www.flstudiochina.com
 127.0.0.1 www.flurry.com
+127.0.0.1 www.gdtqq.cn
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.googletagmanager.com
@@ -3705,16 +3708,21 @@
 127.0.0.1 www.inmobi.com
 127.0.0.1 www.ipinyou.com
 127.0.0.1 www.ipinyou.com.cn
+127.0.0.1 www.iscrv.com
 127.0.0.1 www.jihehuaban.com.cn
 127.0.0.1 www.jisucn.com
 127.0.0.1 www.jiubuhua.com
+127.0.0.1 www.jiudianxing.cn
+127.0.0.1 www.jiudianxing.com
 127.0.0.1 www.jizzads.com
+127.0.0.1 www.jobduo.cn
 127.0.0.1 www.kanjiantu.com
 127.0.0.1 www.keyrun.cn
 127.0.0.1 www.keyshot.cc
 127.0.0.1 www.kingdeecn.cn
 127.0.0.1 www.kuguopush.com
 127.0.0.1 www.linezing.com
+127.0.0.1 www.liteapp.mobi
 127.0.0.1 www.logoshejishi.com
 127.0.0.1 www.lvjian66.com
 127.0.0.1 www.mairuan.com
@@ -3723,17 +3731,20 @@
 127.0.0.1 www.mathtype.cn
 127.0.0.1 www.media.net
 127.0.0.1 www.mhradio.org
+127.0.0.1 www.migdtqq.com
 127.0.0.1 www.millwardbrownacsr.com
 127.0.0.1 www.mindmanager.cc
 127.0.0.1 www.minesage.com
 127.0.0.1 www.monero.how
 127.0.0.1 www.mycleanmymac.com
 127.0.0.1 www.nicelabel.cc
+127.0.0.1 www.nkscdn.com
 127.0.0.1 www.ntfsformac.cn
 127.0.0.1 www.ok365.com
 127.0.0.1 www.onetad.com
 127.0.0.1 www.openx.net
 127.0.0.1 www.overturechina.com
+127.0.0.1 www.owueis.com
 127.0.0.1 www.parallelsdesktop.cn
 127.0.0.1 www.pdfexpert.cc
 127.0.0.1 www.photozoomchina.com
@@ -3747,9 +3758,13 @@
 127.0.0.1 www.shenyun.org
 127.0.0.1 www.shenyunperformingarts.org
 127.0.0.1 www.shenzhoufilm.com
+127.0.0.1 www.sinawap.com
+127.0.0.1 www.smucdn.com
 127.0.0.1 www.soundofhope.org
 127.0.0.1 www.stack-sonar.com
+127.0.0.1 www.star-media.cn
 127.0.0.1 www.steepto.com
+127.0.0.1 www.taojin1688.com
 127.0.0.1 www.tixing51.net
 127.0.0.1 www.tuidang.org
 127.0.0.1 www.tz-dsp.com
@@ -3760,11 +3775,19 @@
 127.0.0.1 www.vegaschina.cn
 127.0.0.1 www.voiceads.cn
 127.0.0.1 www.vpon.com
+127.0.0.1 www.vxsnk.com
 127.0.0.1 www.wangbase.com
+127.0.0.1 www.wannianli.mobi
 127.0.0.1 www.whalecloud.com
+127.0.0.1 www.wifidown.com
 127.0.0.1 www.wifijia.net
+127.0.0.1 www.wjxcdn.com
 127.0.0.1 www.wooboo.com.cn
 127.0.0.1 www.wujieliulan.com
+127.0.0.1 www.xcggpt.cn
+127.0.0.1 www.xcggpt.com
+127.0.0.1 www.xcggpt.net
+127.0.0.1 www.xingchenjia.com
 127.0.0.1 www.xiniuz.com
 127.0.0.1 www.xinsheng.net
 127.0.0.1 www.xmindchina.cn
@@ -5329,7 +5352,6 @@
 :: g.baidu.com
 :: gb.corp.163.com
 :: g.cn.miaozhen.com
-:: g.csdnimg.cn
 :: g.domob.cn
 :: g.d.yoyi.tv
 :: gemini.yahoo.com
@@ -7567,6 +7589,7 @@
 :: www.1990tu.com
 :: www.202m.com
 :: www.268mob.cn
+:: www.2shouhc.com
 :: www.4009997658.com
 :: www.51link.com
 :: www5.jkjjkj.top
@@ -7589,6 +7612,7 @@
 :: www.appuu.cn
 :: www.atdmt.com
 :: www.authedmine.com
+:: www.baidushifen.com
 :: www.baiduzhidahao.cc
 :: www.bannedbook.org
 :: www.bartender.cc
@@ -7608,6 +7632,7 @@
 :: www.count.51yes.com
 :: www.criteo.com
 :: www.crossoverchina.com
+:: www.danqingschool.com
 :: www.doumob.com
 :: www.easyrecoverychina.com
 :: www.eddong.com
@@ -7619,6 +7644,7 @@
 :: www.fgmtv.org
 :: www.flstudiochina.com
 :: www.flurry.com
+:: www.gdtqq.cn
 :: www.googleadservices.com
 :: www.google-analytics.com
 :: www.googletagmanager.com
@@ -7634,16 +7660,21 @@
 :: www.inmobi.com
 :: www.ipinyou.com
 :: www.ipinyou.com.cn
+:: www.iscrv.com
 :: www.jihehuaban.com.cn
 :: www.jisucn.com
 :: www.jiubuhua.com
+:: www.jiudianxing.cn
+:: www.jiudianxing.com
 :: www.jizzads.com
+:: www.jobduo.cn
 :: www.kanjiantu.com
 :: www.keyrun.cn
 :: www.keyshot.cc
 :: www.kingdeecn.cn
 :: www.kuguopush.com
 :: www.linezing.com
+:: www.liteapp.mobi
 :: www.logoshejishi.com
 :: www.lvjian66.com
 :: www.mairuan.com
@@ -7652,17 +7683,20 @@
 :: www.mathtype.cn
 :: www.media.net
 :: www.mhradio.org
+:: www.migdtqq.com
 :: www.millwardbrownacsr.com
 :: www.mindmanager.cc
 :: www.minesage.com
 :: www.monero.how
 :: www.mycleanmymac.com
 :: www.nicelabel.cc
+:: www.nkscdn.com
 :: www.ntfsformac.cn
 :: www.ok365.com
 :: www.onetad.com
 :: www.openx.net
 :: www.overturechina.com
+:: www.owueis.com
 :: www.parallelsdesktop.cn
 :: www.pdfexpert.cc
 :: www.photozoomchina.com
@@ -7676,9 +7710,13 @@
 :: www.shenyun.org
 :: www.shenyunperformingarts.org
 :: www.shenzhoufilm.com
+:: www.sinawap.com
+:: www.smucdn.com
 :: www.soundofhope.org
 :: www.stack-sonar.com
+:: www.star-media.cn
 :: www.steepto.com
+:: www.taojin1688.com
 :: www.tixing51.net
 :: www.tuidang.org
 :: www.tz-dsp.com
@@ -7689,11 +7727,19 @@
 :: www.vegaschina.cn
 :: www.voiceads.cn
 :: www.vpon.com
+:: www.vxsnk.com
 :: www.wangbase.com
+:: www.wannianli.mobi
 :: www.whalecloud.com
+:: www.wifidown.com
 :: www.wifijia.net
+:: www.wjxcdn.com
 :: www.wooboo.com.cn
 :: www.wujieliulan.com
+:: www.xcggpt.cn
+:: www.xcggpt.com
+:: www.xcggpt.net
+:: www.xingchenjia.com
 :: www.xiniuz.com
 :: www.xinsheng.net
 :: www.xmindchina.cn

@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191030015140
+#version=20191113034428
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -990,7 +990,6 @@
 0.0.0.0 game.weibo.com
 0.0.0.0 g.baidu.com
 0.0.0.0 gb.corp.163.com
-0.0.0.0 g.csdnimg.cn
 0.0.0.0 g.domob.cn
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 gen.alicdn.com
@@ -2241,6 +2240,7 @@
 0.0.0.0 www.114so.cn
 0.0.0.0 www.1680go.com
 0.0.0.0 www.202m.com
+0.0.0.0 www.2shouhc.com
 0.0.0.0 www.706529.com
 0.0.0.0 www.716703.com
 0.0.0.0 www.adpush.cn
@@ -2251,12 +2251,15 @@
 0.0.0.0 www.adview.cn
 0.0.0.0 www.adwo.com
 0.0.0.0 www.allyes.com
+0.0.0.0 www.baidushifen.com
 0.0.0.0 www.bingads.microsoft.com
 0.0.0.0 www.chenggao.cn
 0.0.0.0 www.count.51yes.com
+0.0.0.0 www.danqingschool.com
 0.0.0.0 www.doumob.com
 0.0.0.0 www.fathionmall.com
 0.0.0.0 www.flurry.com
+0.0.0.0 www.gdtqq.cn
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.gz00005.top
 0.0.0.0 www.hao934.com
@@ -2264,19 +2267,39 @@
 0.0.0.0 www.i1236.net
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
+0.0.0.0 www.iscrv.com
 0.0.0.0 www.jiubuhua.com
+0.0.0.0 www.jiudianxing.cn
+0.0.0.0 www.jiudianxing.com
+0.0.0.0 www.jobduo.cn
+0.0.0.0 www.liteapp.mobi
+0.0.0.0 www.migdtqq.com
 0.0.0.0 www.minesage.com
+0.0.0.0 www.nkscdn.com
 0.0.0.0 www.ok365.com
 0.0.0.0 www.openx.net
+0.0.0.0 www.owueis.com
 0.0.0.0 www.pro.cn
 0.0.0.0 www.remote88.com
 0.0.0.0 www.searchswapper.com
+0.0.0.0 www.sinawap.com
+0.0.0.0 www.smucdn.com
+0.0.0.0 www.star-media.cn
+0.0.0.0 www.taojin1688.com
 0.0.0.0 www.tz-dsp.com
 0.0.0.0 www.umeng.com
 0.0.0.0 www.uulucky.com
 0.0.0.0 www.uyunad.com
+0.0.0.0 www.vxsnk.com
+0.0.0.0 www.wannianli.mobi
 0.0.0.0 www.whalecloud.com
+0.0.0.0 www.wifidown.com
 0.0.0.0 www.wifijia.net
+0.0.0.0 www.wjxcdn.com
+0.0.0.0 www.xcggpt.cn
+0.0.0.0 www.xcggpt.com
+0.0.0.0 www.xcggpt.net
+0.0.0.0 www.xingchenjia.com
 0.0.0.0 www.yueyelive.com
 0.0.0.0 wx.xwjqr.com
 0.0.0.0 w.ymapp.com
@@ -3299,7 +3322,6 @@
 :: game.weibo.com
 :: g.baidu.com
 :: gb.corp.163.com
-:: g.csdnimg.cn
 :: g.domob.cn
 :: gemini.yahoo.com
 :: gen.alicdn.com
@@ -4550,6 +4572,7 @@
 :: www.114so.cn
 :: www.1680go.com
 :: www.202m.com
+:: www.2shouhc.com
 :: www.706529.com
 :: www.716703.com
 :: www.adpush.cn
@@ -4560,12 +4583,15 @@
 :: www.adview.cn
 :: www.adwo.com
 :: www.allyes.com
+:: www.baidushifen.com
 :: www.bingads.microsoft.com
 :: www.chenggao.cn
 :: www.count.51yes.com
+:: www.danqingschool.com
 :: www.doumob.com
 :: www.fathionmall.com
 :: www.flurry.com
+:: www.gdtqq.cn
 :: www.googleadservices.com
 :: www.gz00005.top
 :: www.hao934.com
@@ -4573,19 +4599,39 @@
 :: www.i1236.net
 :: www.ipinyou.com
 :: www.ipinyou.com.cn
+:: www.iscrv.com
 :: www.jiubuhua.com
+:: www.jiudianxing.cn
+:: www.jiudianxing.com
+:: www.jobduo.cn
+:: www.liteapp.mobi
+:: www.migdtqq.com
 :: www.minesage.com
+:: www.nkscdn.com
 :: www.ok365.com
 :: www.openx.net
+:: www.owueis.com
 :: www.pro.cn
 :: www.remote88.com
 :: www.searchswapper.com
+:: www.sinawap.com
+:: www.smucdn.com
+:: www.star-media.cn
+:: www.taojin1688.com
 :: www.tz-dsp.com
 :: www.umeng.com
 :: www.uulucky.com
 :: www.uyunad.com
+:: www.vxsnk.com
+:: www.wannianli.mobi
 :: www.whalecloud.com
+:: www.wifidown.com
 :: www.wifijia.net
+:: www.wjxcdn.com
+:: www.xcggpt.cn
+:: www.xcggpt.com
+:: www.xcggpt.net
+:: www.xingchenjia.com
 :: www.yueyelive.com
 :: wx.xwjqr.com
 :: w.ymapp.com

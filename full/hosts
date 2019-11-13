@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191030015140
+#version=20191113034428
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -1400,7 +1400,6 @@
 0.0.0.0 g.baidu.com
 0.0.0.0 gb.corp.163.com
 0.0.0.0 g.cn.miaozhen.com
-0.0.0.0 g.csdnimg.cn
 0.0.0.0 g.domob.cn
 0.0.0.0 g.d.yoyi.tv
 0.0.0.0 gemini.yahoo.com
@@ -3638,6 +3637,7 @@
 0.0.0.0 www.1990tu.com
 0.0.0.0 www.202m.com
 0.0.0.0 www.268mob.cn
+0.0.0.0 www.2shouhc.com
 0.0.0.0 www.4009997658.com
 0.0.0.0 www.51link.com
 0.0.0.0 www5.jkjjkj.top
@@ -3660,6 +3660,7 @@
 0.0.0.0 www.appuu.cn
 0.0.0.0 www.atdmt.com
 0.0.0.0 www.authedmine.com
+0.0.0.0 www.baidushifen.com
 0.0.0.0 www.baiduzhidahao.cc
 0.0.0.0 www.bannedbook.org
 0.0.0.0 www.bartender.cc
@@ -3679,6 +3680,7 @@
 0.0.0.0 www.count.51yes.com
 0.0.0.0 www.criteo.com
 0.0.0.0 www.crossoverchina.com
+0.0.0.0 www.danqingschool.com
 0.0.0.0 www.doumob.com
 0.0.0.0 www.easyrecoverychina.com
 0.0.0.0 www.eddong.com
@@ -3690,6 +3692,7 @@
 0.0.0.0 www.fgmtv.org
 0.0.0.0 www.flstudiochina.com
 0.0.0.0 www.flurry.com
+0.0.0.0 www.gdtqq.cn
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
@@ -3705,16 +3708,21 @@
 0.0.0.0 www.inmobi.com
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
+0.0.0.0 www.iscrv.com
 0.0.0.0 www.jihehuaban.com.cn
 0.0.0.0 www.jisucn.com
 0.0.0.0 www.jiubuhua.com
+0.0.0.0 www.jiudianxing.cn
+0.0.0.0 www.jiudianxing.com
 0.0.0.0 www.jizzads.com
+0.0.0.0 www.jobduo.cn
 0.0.0.0 www.kanjiantu.com
 0.0.0.0 www.keyrun.cn
 0.0.0.0 www.keyshot.cc
 0.0.0.0 www.kingdeecn.cn
 0.0.0.0 www.kuguopush.com
 0.0.0.0 www.linezing.com
+0.0.0.0 www.liteapp.mobi
 0.0.0.0 www.logoshejishi.com
 0.0.0.0 www.lvjian66.com
 0.0.0.0 www.mairuan.com
@@ -3723,17 +3731,20 @@
 0.0.0.0 www.mathtype.cn
 0.0.0.0 www.media.net
 0.0.0.0 www.mhradio.org
+0.0.0.0 www.migdtqq.com
 0.0.0.0 www.millwardbrownacsr.com
 0.0.0.0 www.mindmanager.cc
 0.0.0.0 www.minesage.com
 0.0.0.0 www.monero.how
 0.0.0.0 www.mycleanmymac.com
 0.0.0.0 www.nicelabel.cc
+0.0.0.0 www.nkscdn.com
 0.0.0.0 www.ntfsformac.cn
 0.0.0.0 www.ok365.com
 0.0.0.0 www.onetad.com
 0.0.0.0 www.openx.net
 0.0.0.0 www.overturechina.com
+0.0.0.0 www.owueis.com
 0.0.0.0 www.parallelsdesktop.cn
 0.0.0.0 www.pdfexpert.cc
 0.0.0.0 www.photozoomchina.com
@@ -3747,9 +3758,13 @@
 0.0.0.0 www.shenyun.org
 0.0.0.0 www.shenyunperformingarts.org
 0.0.0.0 www.shenzhoufilm.com
+0.0.0.0 www.sinawap.com
+0.0.0.0 www.smucdn.com
 0.0.0.0 www.soundofhope.org
 0.0.0.0 www.stack-sonar.com
+0.0.0.0 www.star-media.cn
 0.0.0.0 www.steepto.com
+0.0.0.0 www.taojin1688.com
 0.0.0.0 www.tixing51.net
 0.0.0.0 www.tuidang.org
 0.0.0.0 www.tz-dsp.com
@@ -3760,11 +3775,19 @@
 0.0.0.0 www.vegaschina.cn
 0.0.0.0 www.voiceads.cn
 0.0.0.0 www.vpon.com
+0.0.0.0 www.vxsnk.com
 0.0.0.0 www.wangbase.com
+0.0.0.0 www.wannianli.mobi
 0.0.0.0 www.whalecloud.com
+0.0.0.0 www.wifidown.com
 0.0.0.0 www.wifijia.net
+0.0.0.0 www.wjxcdn.com
 0.0.0.0 www.wooboo.com.cn
 0.0.0.0 www.wujieliulan.com
+0.0.0.0 www.xcggpt.cn
+0.0.0.0 www.xcggpt.com
+0.0.0.0 www.xcggpt.net
+0.0.0.0 www.xingchenjia.com
 0.0.0.0 www.xiniuz.com
 0.0.0.0 www.xinsheng.net
 0.0.0.0 www.xmindchina.cn
@@ -5329,7 +5352,6 @@
 :: g.baidu.com
 :: gb.corp.163.com
 :: g.cn.miaozhen.com
-:: g.csdnimg.cn
 :: g.domob.cn
 :: g.d.yoyi.tv
 :: gemini.yahoo.com
@@ -7567,6 +7589,7 @@
 :: www.1990tu.com
 :: www.202m.com
 :: www.268mob.cn
+:: www.2shouhc.com
 :: www.4009997658.com
 :: www.51link.com
 :: www5.jkjjkj.top
@@ -7589,6 +7612,7 @@
 :: www.appuu.cn
 :: www.atdmt.com
 :: www.authedmine.com
+:: www.baidushifen.com
 :: www.baiduzhidahao.cc
 :: www.bannedbook.org
 :: www.bartender.cc
@@ -7608,6 +7632,7 @@
 :: www.count.51yes.com
 :: www.criteo.com
 :: www.crossoverchina.com
+:: www.danqingschool.com
 :: www.doumob.com
 :: www.easyrecoverychina.com
 :: www.eddong.com
@@ -7619,6 +7644,7 @@
 :: www.fgmtv.org
 :: www.flstudiochina.com
 :: www.flurry.com
+:: www.gdtqq.cn
 :: www.googleadservices.com
 :: www.google-analytics.com
 :: www.googletagmanager.com
@@ -7634,16 +7660,21 @@
 :: www.inmobi.com
 :: www.ipinyou.com
 :: www.ipinyou.com.cn
+:: www.iscrv.com
 :: www.jihehuaban.com.cn
 :: www.jisucn.com
 :: www.jiubuhua.com
+:: www.jiudianxing.cn
+:: www.jiudianxing.com
 :: www.jizzads.com
+:: www.jobduo.cn
 :: www.kanjiantu.com
 :: www.keyrun.cn
 :: www.keyshot.cc
 :: www.kingdeecn.cn
 :: www.kuguopush.com
 :: www.linezing.com
+:: www.liteapp.mobi
 :: www.logoshejishi.com
 :: www.lvjian66.com
 :: www.mairuan.com
@@ -7652,17 +7683,20 @@
 :: www.mathtype.cn
 :: www.media.net
 :: www.mhradio.org
+:: www.migdtqq.com
 :: www.millwardbrownacsr.com
 :: www.mindmanager.cc
 :: www.minesage.com
 :: www.monero.how
 :: www.mycleanmymac.com
 :: www.nicelabel.cc
+:: www.nkscdn.com
 :: www.ntfsformac.cn
 :: www.ok365.com
 :: www.onetad.com
 :: www.openx.net
 :: www.overturechina.com
+:: www.owueis.com
 :: www.parallelsdesktop.cn
 :: www.pdfexpert.cc
 :: www.photozoomchina.com
@@ -7676,9 +7710,13 @@
 :: www.shenyun.org
 :: www.shenyunperformingarts.org
 :: www.shenzhoufilm.com
+:: www.sinawap.com
+:: www.smucdn.com
 :: www.soundofhope.org
 :: www.stack-sonar.com
+:: www.star-media.cn
 :: www.steepto.com
+:: www.taojin1688.com
 :: www.tixing51.net
 :: www.tuidang.org
 :: www.tz-dsp.com
@@ -7689,11 +7727,19 @@
 :: www.vegaschina.cn
 :: www.voiceads.cn
 :: www.vpon.com
+:: www.vxsnk.com
 :: www.wangbase.com
+:: www.wannianli.mobi
 :: www.whalecloud.com
+:: www.wifidown.com
 :: www.wifijia.net
+:: www.wjxcdn.com
 :: www.wooboo.com.cn
 :: www.wujieliulan.com
+:: www.xcggpt.cn
+:: www.xcggpt.com
+:: www.xcggpt.net
+:: www.xingchenjia.com
 :: www.xiniuz.com
 :: www.xinsheng.net
 :: www.xmindchina.cn

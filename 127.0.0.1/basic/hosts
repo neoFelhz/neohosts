@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191030015140
+#version=20191113034428
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -990,7 +990,6 @@
 127.0.0.1 game.weibo.com
 127.0.0.1 g.baidu.com
 127.0.0.1 gb.corp.163.com
-127.0.0.1 g.csdnimg.cn
 127.0.0.1 g.domob.cn
 127.0.0.1 gemini.yahoo.com
 127.0.0.1 gen.alicdn.com
@@ -2241,6 +2240,7 @@
 127.0.0.1 www.114so.cn
 127.0.0.1 www.1680go.com
 127.0.0.1 www.202m.com
+127.0.0.1 www.2shouhc.com
 127.0.0.1 www.706529.com
 127.0.0.1 www.716703.com
 127.0.0.1 www.adpush.cn
@@ -2251,12 +2251,15 @@
 127.0.0.1 www.adview.cn
 127.0.0.1 www.adwo.com
 127.0.0.1 www.allyes.com
+127.0.0.1 www.baidushifen.com
 127.0.0.1 www.bingads.microsoft.com
 127.0.0.1 www.chenggao.cn
 127.0.0.1 www.count.51yes.com
+127.0.0.1 www.danqingschool.com
 127.0.0.1 www.doumob.com
 127.0.0.1 www.fathionmall.com
 127.0.0.1 www.flurry.com
+127.0.0.1 www.gdtqq.cn
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.gz00005.top
 127.0.0.1 www.hao934.com
@@ -2264,19 +2267,39 @@
 127.0.0.1 www.i1236.net
 127.0.0.1 www.ipinyou.com
 127.0.0.1 www.ipinyou.com.cn
+127.0.0.1 www.iscrv.com
 127.0.0.1 www.jiubuhua.com
+127.0.0.1 www.jiudianxing.cn
+127.0.0.1 www.jiudianxing.com
+127.0.0.1 www.jobduo.cn
+127.0.0.1 www.liteapp.mobi
+127.0.0.1 www.migdtqq.com
 127.0.0.1 www.minesage.com
+127.0.0.1 www.nkscdn.com
 127.0.0.1 www.ok365.com
 127.0.0.1 www.openx.net
+127.0.0.1 www.owueis.com
 127.0.0.1 www.pro.cn
 127.0.0.1 www.remote88.com
 127.0.0.1 www.searchswapper.com
+127.0.0.1 www.sinawap.com
+127.0.0.1 www.smucdn.com
+127.0.0.1 www.star-media.cn
+127.0.0.1 www.taojin1688.com
 127.0.0.1 www.tz-dsp.com
 127.0.0.1 www.umeng.com
 127.0.0.1 www.uulucky.com
 127.0.0.1 www.uyunad.com
+127.0.0.1 www.vxsnk.com
+127.0.0.1 www.wannianli.mobi
 127.0.0.1 www.whalecloud.com
+127.0.0.1 www.wifidown.com
 127.0.0.1 www.wifijia.net
+127.0.0.1 www.wjxcdn.com
+127.0.0.1 www.xcggpt.cn
+127.0.0.1 www.xcggpt.com
+127.0.0.1 www.xcggpt.net
+127.0.0.1 www.xingchenjia.com
 127.0.0.1 www.yueyelive.com
 127.0.0.1 wx.xwjqr.com
 127.0.0.1 w.ymapp.com
@@ -3299,7 +3322,6 @@
 :: game.weibo.com
 :: g.baidu.com
 :: gb.corp.163.com
-:: g.csdnimg.cn
 :: g.domob.cn
 :: gemini.yahoo.com
 :: gen.alicdn.com
@@ -4550,6 +4572,7 @@
 :: www.114so.cn
 :: www.1680go.com
 :: www.202m.com
+:: www.2shouhc.com
 :: www.706529.com
 :: www.716703.com
 :: www.adpush.cn
@@ -4560,12 +4583,15 @@
 :: www.adview.cn
 :: www.adwo.com
 :: www.allyes.com
+:: www.baidushifen.com
 :: www.bingads.microsoft.com
 :: www.chenggao.cn
 :: www.count.51yes.com
+:: www.danqingschool.com
 :: www.doumob.com
 :: www.fathionmall.com
 :: www.flurry.com
+:: www.gdtqq.cn
 :: www.googleadservices.com
 :: www.gz00005.top
 :: www.hao934.com
@@ -4573,19 +4599,39 @@
 :: www.i1236.net
 :: www.ipinyou.com
 :: www.ipinyou.com.cn
+:: www.iscrv.com
 :: www.jiubuhua.com
+:: www.jiudianxing.cn
+:: www.jiudianxing.com
+:: www.jobduo.cn
+:: www.liteapp.mobi
+:: www.migdtqq.com
 :: www.minesage.com
+:: www.nkscdn.com
 :: www.ok365.com
 :: www.openx.net
+:: www.owueis.com
 :: www.pro.cn
 :: www.remote88.com
 :: www.searchswapper.com
+:: www.sinawap.com
+:: www.smucdn.com
+:: www.star-media.cn
+:: www.taojin1688.com
 :: www.tz-dsp.com
 :: www.umeng.com
 :: www.uulucky.com
 :: www.uyunad.com
+:: www.vxsnk.com
+:: www.wannianli.mobi
 :: www.whalecloud.com
+:: www.wifidown.com
 :: www.wifijia.net
+:: www.wjxcdn.com
+:: www.xcggpt.cn
+:: www.xcggpt.com
+:: www.xcggpt.net
+:: www.xingchenjia.com
 :: www.yueyelive.com
 :: wx.xwjqr.com
 :: w.ymapp.com
