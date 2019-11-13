@@ -192,6 +192,7 @@
 0.0.0.0 mdc.meitustat.com
 0.0.0.0 rabbit.meitustat.com
 0.0.0.0 rabbit.mtadvert.com
+0.0.0.0 my-material.zone1.meitudata.com
 # Yandex
 0.0.0.0 mc.yandex.ru
 0.0.0.0 an.yandex.ru
@@ -204,6 +205,7 @@
 0.0.0.0 temai.snssdk.com
 0.0.0.0 dm.bytedance.com
 0.0.0.0 dm.pstatp.com
+0.0.0.0 sf1-ttcdn-tos.pstatp.com
 # Qidian
 0.0.0.0 cj.qidian.com
 0.0.0.0 dwtrack.qidian.com
@@ -769,3 +771,10 @@
 0.0.0.0 adlog.tagtic.cn
 0.0.0.0 sss.bxnms.com
 0.0.0.0 extlog.snssdk.com
+0.0.0.0 vt.ipinyou.com
+0.0.0.0 api.24kidea.com
+0.0.0.0 e.xroun.com
+0.0.0.0 m.data.mob.com
+0.0.0.0 img.adnyg.com
+0.0.0.0 pgdt.ugdtimg.com
+0.0.0.0 sdownload.stargame.com
