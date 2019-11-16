@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191113041541
+#version=20191116155520
 #*********************************************************
 
 127.0.0.1 0127.adsame.com
@@ -3963,6 +3963,7 @@
 127.0.0.1 zhushou.2345.com
 127.0.0.1 zhwnlapi.etouch.cn
 127.0.0.1 zjvnet.allyes.com
+127.0.0.1 z.moatads.com
 127.0.0.1 znsv.baidu.com
 127.0.0.1 z.opmnstr.com
 127.0.0.1 zs10.cnzz.com
@@ -7938,6 +7939,7 @@
 :: zhushou.2345.com
 :: zhwnlapi.etouch.cn
 :: zjvnet.allyes.com
+:: z.moatads.com
 :: znsv.baidu.com
 :: z.opmnstr.com
 :: zs10.cnzz.com

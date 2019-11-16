@@ -2347,6 +2347,7 @@ ip dns static add address=127.0.0.1 name=zeus.ad.xiaomi.com
 ip dns static add address=127.0.0.1 name=zhushou.2345.com
 ip dns static add address=127.0.0.1 name=zhwnlapi.etouch.cn
 ip dns static add address=127.0.0.1 name=zjvnet.allyes.com
+ip dns static add address=127.0.0.1 name=z.moatads.com
 ip dns static add address=127.0.0.1 name=znsv.baidu.com
 ip dns static add address=127.0.0.1 name=zt.adsage.com
 ip dns static add address=127.0.0.1 name=ztrpm.lu.sogou.com

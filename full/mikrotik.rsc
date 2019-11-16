@@ -3945,6 +3945,7 @@ ip dns static add address=127.0.0.1 name=zhuichaguoji.org
 ip dns static add address=127.0.0.1 name=zhushou.2345.com
 ip dns static add address=127.0.0.1 name=zhwnlapi.etouch.cn
 ip dns static add address=127.0.0.1 name=zjvnet.allyes.com
+ip dns static add address=127.0.0.1 name=z.moatads.com
 ip dns static add address=127.0.0.1 name=znsv.baidu.com
 ip dns static add address=127.0.0.1 name=z.opmnstr.com
 ip dns static add address=127.0.0.1 name=zs10.cnzz.com
