@@ -298,6 +298,7 @@
 # moatads
 0.0.0.0 geo.moatads.com
 0.0.0.0 px.moatads.com
+0.0.0.0 z.moatads.com
 # UDN
 0.0.0.0 ad1.udn.com
 0.0.0.0 ad2.udn.com
