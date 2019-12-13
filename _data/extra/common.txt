@@ -447,7 +447,7 @@
 0.0.0.0 crsspxl.com
 0.0.0.0 optout.crsspxl.com
 0.0.0.0 planitinfo.crsspxl.com
-0.0.0.0 tag..crsspxl.com
+0.0.0.0 tag.crsspxl.com
 # Sharethrough
 0.0.0.0 headlines.sharethrough.com
 0.0.0.0 pmp.sharethrough.com
