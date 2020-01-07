@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107041758
+#version=20200107042319
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -78,6 +78,7 @@
 0.0.0.0 a-ad.adwo.com
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msn.com
+0.0.0.0 a.adtng.com
 0.0.0.0 a.alimama.cn
 0.0.0.0 a.appjiagu.com
 0.0.0.0 aax.amazon-adsystem.com
@@ -140,6 +141,7 @@
 0.0.0.0 adashxgc.ut.taobao.com
 0.0.0.0 adashx.m.taobao.com
 0.0.0.0 ad-bg.adwo.com
+0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 ad.caiyunapp.com
 0.0.0.0 adcast.deviantart.com
 0.0.0.0 ad.cdn.sex
@@ -205,6 +207,7 @@
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads2.msads.net
 0.0.0.0 ads2.msn.com
+0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads.979799777.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.adxadserv.com
@@ -588,6 +591,7 @@
 0.0.0.0 cdn.popcash.net
 0.0.0.0 cdn.popmyads.com
 0.0.0.0 cdn.puata.info
+0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 cdn.taboolasyndication.com
 0.0.0.0 cdn.tanx.com
 0.0.0.0 c.domob.cn
@@ -674,6 +678,7 @@
 0.0.0.0 config.mobisage.cn
 0.0.0.0 config.push.sogou.com
 0.0.0.0 conf.vidown.cn
+0.0.0.0 consent.cookiebot.com
 0.0.0.0 contentrecommend-out.mobile.sina.cn
 0.0.0.0 conversion.adpro.cn
 0.0.0.0 conversion.pro.cn
@@ -943,6 +948,8 @@
 0.0.0.0 et.tanx.com
 0.0.0.0 event.ksosoft.com
 0.0.0.0 eventlog.beacon.qq.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 events3alt.adcolony.com
 0.0.0.0 events.pingan.com
 0.0.0.0 ex.mobmore.com
 0.0.0.0 exp.3g.ifeng.com
@@ -1259,6 +1266,7 @@
 0.0.0.0 j.wan.liebao.cn
 0.0.0.0 j.wit.qq.com
 0.0.0.0 jxlog.istreamsche.com
+0.0.0.0 jy.ggweb.net
 0.0.0.0 k.domob.cn
 0.0.0.0 kgmobilestat.kugou.com
 0.0.0.0 kn.zzdahan.com
@@ -1518,6 +1526,7 @@
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
 0.0.0.0 o.domob.cn
+0.0.0.0 odr.mookie1.com
 0.0.0.0 offline-adv.oray.com
 0.0.0.0 o.if.qidian.com
 0.0.0.0 oimagea2.ydstatic.com
@@ -2270,6 +2279,7 @@
 0.0.0.0 wbclick.mobile.sina.cn
 0.0.0.0 wb.gtimg.com
 0.0.0.0 wbpctips.mobile.sina.cn
+0.0.0.0 wd.adcolony.com
 0.0.0.0 w.domob.cn
 0.0.0.0 wds.inte.sogoucdn.com
 0.0.0.0 web.sogou.com
@@ -2478,6 +2488,7 @@
 :: a-ad.adwo.com
 :: a.ads1.msn.com
 :: a.ads2.msn.com
+:: a.adtng.com
 :: a.alimama.cn
 :: a.appjiagu.com
 :: aax.amazon-adsystem.com
@@ -2540,6 +2551,7 @@
 :: adashxgc.ut.taobao.com
 :: adashx.m.taobao.com
 :: ad-bg.adwo.com
+:: adc3-launch.adcolony.com
 :: ad.caiyunapp.com
 :: adcast.deviantart.com
 :: ad.cdn.sex
@@ -2605,6 +2617,7 @@
 :: ads1.msn.com
 :: ads2.msads.net
 :: ads2.msn.com
+:: ads30.adcolony.com
 :: ads.979799777.com
 :: ads.adaptv.advertising.com
 :: ads.adxadserv.com
@@ -2988,6 +3001,7 @@
 :: cdn.popcash.net
 :: cdn.popmyads.com
 :: cdn.puata.info
+:: cdn.runative-syndicate.com
 :: cdn.taboolasyndication.com
 :: cdn.tanx.com
 :: c.domob.cn
@@ -3074,6 +3088,7 @@
 :: config.mobisage.cn
 :: config.push.sogou.com
 :: conf.vidown.cn
+:: consent.cookiebot.com
 :: contentrecommend-out.mobile.sina.cn
 :: conversion.adpro.cn
 :: conversion.pro.cn
@@ -3343,6 +3358,8 @@
 :: et.tanx.com
 :: event.ksosoft.com
 :: eventlog.beacon.qq.com
+:: events3.adcolony.com
+:: events3alt.adcolony.com
 :: events.pingan.com
 :: ex.mobmore.com
 :: exp.3g.ifeng.com
@@ -3659,6 +3676,7 @@
 :: j.wan.liebao.cn
 :: j.wit.qq.com
 :: jxlog.istreamsche.com
+:: jy.ggweb.net
 :: k.domob.cn
 :: kgmobilestat.kugou.com
 :: kn.zzdahan.com
@@ -3918,6 +3936,7 @@
 :: oc.umeng.co
 :: oc.umeng.com
 :: o.domob.cn
+:: odr.mookie1.com
 :: offline-adv.oray.com
 :: o.if.qidian.com
 :: oimagea2.ydstatic.com
@@ -4670,6 +4689,7 @@
 :: wbclick.mobile.sina.cn
 :: wb.gtimg.com
 :: wbpctips.mobile.sina.cn
+:: wd.adcolony.com
 :: w.domob.cn
 :: wds.inte.sogoucdn.com
 :: web.sogou.com

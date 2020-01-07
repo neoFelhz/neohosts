@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107041758
+#version=20200107042319
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -111,6 +111,7 @@
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.ads.cn.miaozhen.com
+0.0.0.0 a.adtng.com
 0.0.0.0 a.ai.inmobi.com
 0.0.0.0 a.alimama.cn
 0.0.0.0 a.appjiagu.com
@@ -184,6 +185,7 @@
 0.0.0.0 ad.atdmt.com
 0.0.0.0 ad-bg.adwo.com
 0.0.0.0 adbma.adk2.co
+0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 ad.caiyunapp.com
 0.0.0.0 adcast.deviantart.com
 0.0.0.0 ad.cdn.sex
@@ -260,6 +262,7 @@
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads2.msads.net
 0.0.0.0 ads2.msn.com
+0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads.979799777.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads.adxadserv.com
@@ -803,6 +806,7 @@
 0.0.0.0 cdn.popmyads.com
 0.0.0.0 cdn.puata.info
 0.0.0.0 cdn.rhombusads.com
+0.0.0.0 cdn.runative-syndicate.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.segment.io
 0.0.0.0 cdn.steepto.com
@@ -949,6 +953,7 @@
 0.0.0.0 config.push.sogou.com
 0.0.0.0 conf.vidown.cn
 0.0.0.0 conf.xiniuz.com
+0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.truste.com
 0.0.0.0 contentrecommend-out.mobile.sina.cn
 0.0.0.0 contexual.media.net
@@ -1356,6 +1361,8 @@
 0.0.0.0 eventlog.beacon.qq.com
 0.0.0.0 eventlog.hd.baofeng.com
 0.0.0.0 event.mackeeper.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 events3alt.adcolony.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.browsiprod.com
 0.0.0.0 events.jianshu.io
@@ -1873,6 +1880,7 @@
 0.0.0.0 j.wan.liebao.cn
 0.0.0.0 j.wit.qq.com
 0.0.0.0 jxlog.istreamsche.com
+0.0.0.0 jy.ggweb.net
 0.0.0.0 j.yljiaoluo.com
 0.0.0.0 k.ctsywy.com
 0.0.0.0 k.domob.cn
@@ -2297,6 +2305,7 @@
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
 0.0.0.0 o.domob.cn
+0.0.0.0 odr.mookie1.com
 0.0.0.0 oeeee.adsame.com
 0.0.0.0 offline-adv.oray.com
 0.0.0.0 o.if.qidian.com
@@ -3606,6 +3615,7 @@
 0.0.0.0 wbpctips.mobile.sina.cn
 0.0.0.0 wbwl.houyi.baofeng.net
 0.0.0.0 w.cnzz.com
+0.0.0.0 wd.adcolony.com
 0.0.0.0 w.domob.cn
 0.0.0.0 wds.inte.sogoucdn.com
 0.0.0.0 web1.51.la
@@ -4206,6 +4216,7 @@
 :: a.ads1.msn.com
 :: a.ads2.msn.com
 :: a.ads.cn.miaozhen.com
+:: a.adtng.com
 :: a.ai.inmobi.com
 :: a.alimama.cn
 :: a.appjiagu.com
@@ -4279,6 +4290,7 @@
 :: ad.atdmt.com
 :: ad-bg.adwo.com
 :: adbma.adk2.co
+:: adc3-launch.adcolony.com
 :: ad.caiyunapp.com
 :: adcast.deviantart.com
 :: ad.cdn.sex
@@ -4355,6 +4367,7 @@
 :: ads1.msn.com
 :: ads2.msads.net
 :: ads2.msn.com
+:: ads30.adcolony.com
 :: ads.979799777.com
 :: ads.adaptv.advertising.com
 :: ads.adxadserv.com
@@ -4898,6 +4911,7 @@
 :: cdn.popmyads.com
 :: cdn.puata.info
 :: cdn.rhombusads.com
+:: cdn.runative-syndicate.com
 :: cdn.segment.com
 :: cdn.segment.io
 :: cdn.steepto.com
@@ -5044,6 +5058,7 @@
 :: config.push.sogou.com
 :: conf.vidown.cn
 :: conf.xiniuz.com
+:: consent.cookiebot.com
 :: consent.truste.com
 :: contentrecommend-out.mobile.sina.cn
 :: contexual.media.net
@@ -5451,6 +5466,8 @@
 :: eventlog.beacon.qq.com
 :: eventlog.hd.baofeng.com
 :: event.mackeeper.com
+:: events3.adcolony.com
+:: events3alt.adcolony.com
 :: events.appsflyer.com
 :: events.browsiprod.com
 :: events.jianshu.io
@@ -5968,6 +5985,7 @@
 :: j.wan.liebao.cn
 :: j.wit.qq.com
 :: jxlog.istreamsche.com
+:: jy.ggweb.net
 :: j.yljiaoluo.com
 :: k.ctsywy.com
 :: k.domob.cn
@@ -6392,6 +6410,7 @@
 :: oc.umeng.co
 :: oc.umeng.com
 :: o.domob.cn
+:: odr.mookie1.com
 :: oeeee.adsame.com
 :: offline-adv.oray.com
 :: o.if.qidian.com
@@ -7701,6 +7720,7 @@
 :: wbpctips.mobile.sina.cn
 :: wbwl.houyi.baofeng.net
 :: w.cnzz.com
+:: wd.adcolony.com
 :: w.domob.cn
 :: wds.inte.sogoucdn.com
 :: web1.51.la
