@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107040134
+#version=20200107040746
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -1453,6 +1453,8 @@
 0.0.0.0 mw.adwo.com
 0.0.0.0 m.wrating.com
 0.0.0.0 mws.adsage.com
+0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
+0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my.adsmogo.com
 0.0.0.0 m.yangjingbang.net
 0.0.0.0 my-material.zone1.meitudata.com
@@ -2125,6 +2127,7 @@
 0.0.0.0 tracking.ad-survey.com
 0.0.0.0 tracking.m6r.eu
 0.0.0.0 tracking.miui.com
+0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 track.ra.icast.cn
 0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.uc.cn
@@ -3849,6 +3852,8 @@
 :: mw.adwo.com
 :: m.wrating.com
 :: mws.adsage.com
+:: mxvp-ad-config-prod-1.zenmxapps.com
+:: mxvp-feature-toggle-prod-1.zenmxapps.com
 :: my.adsmogo.com
 :: m.yangjingbang.net
 :: my-material.zone1.meitudata.com
@@ -4521,6 +4526,7 @@
 :: tracking.ad-survey.com
 :: tracking.m6r.eu
 :: tracking.miui.com
+:: tracking-server-prod-1.zenmxapps.com
 :: track.ra.icast.cn
 :: track.tiara.daum.net
 :: track.uc.cn

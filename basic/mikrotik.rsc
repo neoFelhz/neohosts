@@ -1435,6 +1435,8 @@ ip dns static add address=127.0.0.1 name=mvads.kugou.com
 ip dns static add address=127.0.0.1 name=mw.adwo.com
 ip dns static add address=127.0.0.1 name=m.wrating.com
 ip dns static add address=127.0.0.1 name=mws.adsage.com
+ip dns static add address=127.0.0.1 name=mxvp-ad-config-prod-1.zenmxapps.com
+ip dns static add address=127.0.0.1 name=mxvp-feature-toggle-prod-1.zenmxapps.com
 ip dns static add address=127.0.0.1 name=my.adsmogo.com
 ip dns static add address=127.0.0.1 name=m.yangjingbang.net
 ip dns static add address=127.0.0.1 name=my-material.zone1.meitudata.com
@@ -2107,6 +2109,7 @@ ip dns static add address=127.0.0.1 name=track.eyeviewads.com
 ip dns static add address=127.0.0.1 name=tracking.ad-survey.com
 ip dns static add address=127.0.0.1 name=tracking.m6r.eu
 ip dns static add address=127.0.0.1 name=tracking.miui.com
+ip dns static add address=127.0.0.1 name=tracking-server-prod-1.zenmxapps.com
 ip dns static add address=127.0.0.1 name=track.ra.icast.cn
 ip dns static add address=127.0.0.1 name=track.tiara.daum.net
 ip dns static add address=127.0.0.1 name=track.uc.cn

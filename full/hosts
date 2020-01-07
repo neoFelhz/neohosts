@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107040134
+#version=20200107040746
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -2157,6 +2157,8 @@
 0.0.0.0 m.wooboo.com.cn
 0.0.0.0 m.wrating.com
 0.0.0.0 mws.adsage.com
+0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
+0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my1fc.m.b5200.net
 0.0.0.0 my1fimg.m.b5200.net
 0.0.0.0 my.adsmogo.com
@@ -6175,6 +6177,8 @@
 :: m.wooboo.com.cn
 :: m.wrating.com
 :: mws.adsage.com
+:: mxvp-ad-config-prod-1.zenmxapps.com
+:: mxvp-feature-toggle-prod-1.zenmxapps.com
 :: my1fc.m.b5200.net
 :: my1fimg.m.b5200.net
 :: my.adsmogo.com

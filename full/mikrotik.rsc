@@ -2139,6 +2139,8 @@ ip dns static add address=127.0.0.1 name=m.wnxcg.com
 ip dns static add address=127.0.0.1 name=m.wooboo.com.cn
 ip dns static add address=127.0.0.1 name=m.wrating.com
 ip dns static add address=127.0.0.1 name=mws.adsage.com
+ip dns static add address=127.0.0.1 name=mxvp-ad-config-prod-1.zenmxapps.com
+ip dns static add address=127.0.0.1 name=mxvp-feature-toggle-prod-1.zenmxapps.com
 ip dns static add address=127.0.0.1 name=my1fc.m.b5200.net
 ip dns static add address=127.0.0.1 name=my1fimg.m.b5200.net
 ip dns static add address=127.0.0.1 name=my.adsmogo.com
