@@ -3160,6 +3160,7 @@ ip dns static add address=127.0.0.1 name=tb104x.corp.youdao.com
 ip dns static add address=127.0.0.1 name=tc.51la.net
 ip dns static add address=127.0.0.1 name=t.collect.yinyuetai.com
 ip dns static add address=127.0.0.1 name=tcss.qq.com
+ip dns static add address=127.0.0.1 name=tdc.qq.com
 ip dns static add address=127.0.0.1 name=t.domob.cn
 ip dns static add address=127.0.0.1 name=t.d.yoyi.tv
 ip dns static add address=127.0.0.1 name=techweb.adsame.com

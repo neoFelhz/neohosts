@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107032429
+#version=20200107032527
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -2038,6 +2038,7 @@
 127.0.0.1 tb104x.corp.youdao.com
 127.0.0.1 t.collect.yinyuetai.com
 127.0.0.1 tcss.qq.com
+127.0.0.1 tdc.qq.com
 127.0.0.1 t.domob.cn
 127.0.0.1 t-e.flyme.cn
 127.0.0.1 telecommand.telemetry.microsoft.com
@@ -4403,6 +4404,7 @@
 :: tb104x.corp.youdao.com
 :: t.collect.yinyuetai.com
 :: tcss.qq.com
+:: tdc.qq.com
 :: t.domob.cn
 :: t-e.flyme.cn
 :: telecommand.telemetry.microsoft.com

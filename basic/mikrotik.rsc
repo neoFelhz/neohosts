@@ -2020,6 +2020,7 @@ ip dns static add address=127.0.0.1 name=tb060x.corp.youdao.com
 ip dns static add address=127.0.0.1 name=tb104x.corp.youdao.com
 ip dns static add address=127.0.0.1 name=t.collect.yinyuetai.com
 ip dns static add address=127.0.0.1 name=tcss.qq.com
+ip dns static add address=127.0.0.1 name=tdc.qq.com
 ip dns static add address=127.0.0.1 name=t.domob.cn
 ip dns static add address=127.0.0.1 name=t-e.flyme.cn
 ip dns static add address=127.0.0.1 name=telecommand.telemetry.microsoft.com

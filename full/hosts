@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107032429
+#version=20200107032527
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -3178,6 +3178,7 @@
 0.0.0.0 tc.51la.net
 0.0.0.0 t.collect.yinyuetai.com
 0.0.0.0 tcss.qq.com
+0.0.0.0 tdc.qq.com
 0.0.0.0 t.domob.cn
 0.0.0.0 t.d.yoyi.tv
 0.0.0.0 techweb.adsame.com
@@ -7164,6 +7165,7 @@
 :: tc.51la.net
 :: t.collect.yinyuetai.com
 :: tcss.qq.com
+:: tdc.qq.com
 :: t.domob.cn
 :: t.d.yoyi.tv
 :: techweb.adsame.com
