@@ -391,6 +391,8 @@
 0.0.0.0 letv.cm.admaster.com.cn
 0.0.0.0 pptv.adx.admaster.com.cn
 0.0.0.0 pptv.cm.admaster.com.cn
+0.0.0.0 clickc.admaster.com.cn
+0.0.0.0 vpptv.admaster.com.cn
 0.0.0.0 pxl.idx.admaster.com.cn
 0.0.0.0 rtb.admaster.com.cn
 0.0.0.0 smt.admaster.com.cn
@@ -541,11 +543,13 @@
 0.0.0.0 adlog.tagtic.cn
 0.0.0.0 log.tagtic.cn
 # vidown
-127.0.0.1 conf.vidown.cn
-127.0.0.1 gg.vidown.cn
-127.0.0.1 minisite.vidown.cn
-127.0.0.1 rtlog.vidown.cn
-127.0.0.1 tj.vidown.cn
+0.0.0.0 conf.vidown.cn
+0.0.0.0 gg.vidown.cn
+0.0.0.0 minisite.vidown.cn
+0.0.0.0 rtlog.vidown.cn
+0.0.0.0 tj.vidown.cn
+# Duomi
+0.0.0.0 service.ad.duomi.com
 # Others
 0.0.0.0 push.wandoujia.com
 0.0.0.0 ss.missyouxi.com
