@@ -112,7 +112,6 @@
 0.0.0.0 c2.l.qq.com
 0.0.0.0 ccclub.cmbchina.com
 0.0.0.0 cdn.ark.qq.com
-0.0.0.0 cgi.connect.qq.com
 0.0.0.0 client.show.qq.com
 0.0.0.0 cpro.baidu.com
 0.0.0.0 d3g.qq.com
