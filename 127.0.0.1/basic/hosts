@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107043913
+#version=20200107044043
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -601,7 +601,6 @@
 127.0.0.1 cf8d.stat.gw.youmi.net
 127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 c.gdt.qq.com
-127.0.0.1 cgi.connect.qq.com
 127.0.0.1 chance.adsensor.org
 127.0.0.1 channel.fanxing.kugou.com
 127.0.0.1 choice.microsoft.com
@@ -3010,7 +3009,6 @@
 :: cf8d.stat.gw.youmi.net
 :: cfg.imtt.qq.com
 :: c.gdt.qq.com
-:: cgi.connect.qq.com
 :: chance.adsensor.org
 :: channel.fanxing.kugou.com
 :: choice.microsoft.com
