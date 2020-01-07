@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107032527
+#version=20200107032851
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -598,6 +598,7 @@
 0.0.0.0 cjhq.baidu.com
 0.0.0.0 cj.qidian.com
 0.0.0.0 cjroq.bealge.sogou.com
+0.0.0.0 c.kuwo.cn
 0.0.0.0 cl.he9630.com
 0.0.0.0 click1forhz.adsmogo.com
 0.0.0.0 click2forhz.adsmogo.com
@@ -1014,6 +1015,7 @@
 0.0.0.0 gia.jd.com
 0.0.0.0 gif.lu.sogoucdn.com
 0.0.0.0 gimg.baidu.com
+0.0.0.0 g.koowo.com
 0.0.0.0 gload.adhood.com
 0.0.0.0 global.msads.net
 0.0.0.0 gma.alicdn.com
@@ -1289,6 +1291,7 @@
 0.0.0.0 lndnserror7.wo.com.cn
 0.0.0.0 log.collect.yinyuetai.com
 0.0.0.0 log.cs.pp.cn
+0.0.0.0 log.kuwo.cn
 0.0.0.0 log.mix.sina.com.cn
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.music.baidu.com
@@ -1394,6 +1397,7 @@
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 mo.baidu.com
 0.0.0.0 mobi.adsage.com
+0.0.0.0 mobilead.kuwo.cn
 0.0.0.0 mobileads.google.com
 0.0.0.0 mobileads.msn.com
 0.0.0.0 mobilelog.kugou.com
@@ -1719,6 +1723,7 @@
 0.0.0.0 res.qhupdate.com
 0.0.0.0 re.taobao.com
 0.0.0.0 rh.qq.com
+0.0.0.0 rich.kuwo.cn
 0.0.0.0 rich.qq.com
 0.0.0.0 rigel.baidustatic.com
 0.0.0.0 river.zhidao.baidu.com
@@ -2215,6 +2220,7 @@
 0.0.0.0 vv84.bj.bcebos.com
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 wa.gtimg.com
+0.0.0.0 wa.kuwo.cn
 0.0.0.0 wan.2345.com
 0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wanproxy.127.net
@@ -2964,6 +2970,7 @@
 :: cjhq.baidu.com
 :: cj.qidian.com
 :: cjroq.bealge.sogou.com
+:: c.kuwo.cn
 :: cl.he9630.com
 :: click1forhz.adsmogo.com
 :: click2forhz.adsmogo.com
@@ -3380,6 +3387,7 @@
 :: gia.jd.com
 :: gif.lu.sogoucdn.com
 :: gimg.baidu.com
+:: g.koowo.com
 :: gload.adhood.com
 :: global.msads.net
 :: gma.alicdn.com
@@ -3655,6 +3663,7 @@
 :: lndnserror7.wo.com.cn
 :: log.collect.yinyuetai.com
 :: log.cs.pp.cn
+:: log.kuwo.cn
 :: log.mix.sina.com.cn
 :: log.mmstat.com
 :: log.music.baidu.com
@@ -3760,6 +3769,7 @@
 :: mobads-logs.baidu.com
 :: mo.baidu.com
 :: mobi.adsage.com
+:: mobilead.kuwo.cn
 :: mobileads.google.com
 :: mobileads.msn.com
 :: mobilelog.kugou.com
@@ -4085,6 +4095,7 @@
 :: res.qhupdate.com
 :: re.taobao.com
 :: rh.qq.com
+:: rich.kuwo.cn
 :: rich.qq.com
 :: rigel.baidustatic.com
 :: river.zhidao.baidu.com
@@ -4581,6 +4592,7 @@
 :: vv84.bj.bcebos.com
 :: vz-cdn.trafficjunky.net
 :: wa.gtimg.com
+:: wa.kuwo.cn
 :: wan.2345.com
 :: wangmeng.baidu.com
 :: wanproxy.127.net

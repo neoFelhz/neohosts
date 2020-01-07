@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107032527
+#version=20200107032851
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -804,6 +804,7 @@
 0.0.0.0 cj.qidian.com
 0.0.0.0 cjroq.bealge.sogou.com
 0.0.0.0 ck.houyi.baofeng.net
+0.0.0.0 c.kuwo.cn
 0.0.0.0 cleaner.baidu.com
 0.0.0.0 cl.he9630.com
 0.0.0.0 click1forhz.adsmogo.com
@@ -1425,6 +1426,7 @@
 0.0.0.0 gia.jd.com
 0.0.0.0 gif.lu.sogoucdn.com
 0.0.0.0 gimg.baidu.com
+0.0.0.0 g.koowo.com
 0.0.0.0 gload.adhood.com
 0.0.0.0 global.msads.net
 0.0.0.0 gma.alicdn.com
@@ -1897,6 +1899,7 @@
 0.0.0.0 logger.treexml.baofeng.com
 0.0.0.0 log.he2d.com
 0.0.0.0 log.houyi.baofeng.net
+0.0.0.0 log.kuwo.cn
 0.0.0.0 log.ltype.baofeng.com
 0.0.0.0 log.mix.sina.com.cn
 0.0.0.0 log.mmstat.com
@@ -2069,6 +2072,7 @@
 0.0.0.0 mobaliyun.res.mgtv.com
 0.0.0.0 mobi.adsage.com
 0.0.0.0 mobile2.da.mgtv.com
+0.0.0.0 mobilead.kuwo.cn
 0.0.0.0 mobileads.google.com
 0.0.0.0 mobileads.msn.com
 0.0.0.0 mobile.da.mgtv.com
@@ -2539,6 +2543,7 @@
 0.0.0.0 rev.da.netease.com
 0.0.0.0 rh.code.jjyx.com
 0.0.0.0 rh.qq.com
+0.0.0.0 rich.kuwo.cn
 0.0.0.0 rich.qq.com
 0.0.0.0 rigel.baidustatic.com
 0.0.0.0 river.zhidao.baidu.com
@@ -3475,6 +3480,7 @@
 0.0.0.0 w3.yinyuehu.cn
 0.0.0.0 w6061.move7.com
 0.0.0.0 wa.gtimg.com
+0.0.0.0 wa.kuwo.cn
 0.0.0.0 wan.2345.com
 0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wanproxy.127.net
@@ -4791,6 +4797,7 @@
 :: cj.qidian.com
 :: cjroq.bealge.sogou.com
 :: ck.houyi.baofeng.net
+:: c.kuwo.cn
 :: cleaner.baidu.com
 :: cl.he9630.com
 :: click1forhz.adsmogo.com
@@ -5412,6 +5419,7 @@
 :: gia.jd.com
 :: gif.lu.sogoucdn.com
 :: gimg.baidu.com
+:: g.koowo.com
 :: gload.adhood.com
 :: global.msads.net
 :: gma.alicdn.com
@@ -5884,6 +5892,7 @@
 :: logger.treexml.baofeng.com
 :: log.he2d.com
 :: log.houyi.baofeng.net
+:: log.kuwo.cn
 :: log.ltype.baofeng.com
 :: log.mix.sina.com.cn
 :: log.mmstat.com
@@ -6056,6 +6065,7 @@
 :: mobaliyun.res.mgtv.com
 :: mobi.adsage.com
 :: mobile2.da.mgtv.com
+:: mobilead.kuwo.cn
 :: mobileads.google.com
 :: mobileads.msn.com
 :: mobile.da.mgtv.com
@@ -6526,6 +6536,7 @@
 :: rev.da.netease.com
 :: rh.code.jjyx.com
 :: rh.qq.com
+:: rich.kuwo.cn
 :: rich.qq.com
 :: rigel.baidustatic.com
 :: river.zhidao.baidu.com
@@ -7462,6 +7473,7 @@
 :: w3.yinyuehu.cn
 :: w6061.move7.com
 :: wa.gtimg.com
+:: wa.kuwo.cn
 :: wan.2345.com
 :: wangmeng.baidu.com
 :: wanproxy.127.net

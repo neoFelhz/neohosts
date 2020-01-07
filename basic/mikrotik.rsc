@@ -580,6 +580,7 @@ ip dns static add address=127.0.0.1 name=choice.microsoft.com.nsatc.net
 ip dns static add address=127.0.0.1 name=cjhq.baidu.com
 ip dns static add address=127.0.0.1 name=cj.qidian.com
 ip dns static add address=127.0.0.1 name=cjroq.bealge.sogou.com
+ip dns static add address=127.0.0.1 name=c.kuwo.cn
 ip dns static add address=127.0.0.1 name=cl.he9630.com
 ip dns static add address=127.0.0.1 name=click1forhz.adsmogo.com
 ip dns static add address=127.0.0.1 name=click2forhz.adsmogo.com
@@ -996,6 +997,7 @@ ip dns static add address=127.0.0.1 name=g.haluoha.com
 ip dns static add address=127.0.0.1 name=gia.jd.com
 ip dns static add address=127.0.0.1 name=gif.lu.sogoucdn.com
 ip dns static add address=127.0.0.1 name=gimg.baidu.com
+ip dns static add address=127.0.0.1 name=g.koowo.com
 ip dns static add address=127.0.0.1 name=gload.adhood.com
 ip dns static add address=127.0.0.1 name=global.msads.net
 ip dns static add address=127.0.0.1 name=gma.alicdn.com
@@ -1271,6 +1273,7 @@ ip dns static add address=127.0.0.1 name=lndnserror6.wo.com.cn
 ip dns static add address=127.0.0.1 name=lndnserror7.wo.com.cn
 ip dns static add address=127.0.0.1 name=log.collect.yinyuetai.com
 ip dns static add address=127.0.0.1 name=log.cs.pp.cn
+ip dns static add address=127.0.0.1 name=log.kuwo.cn
 ip dns static add address=127.0.0.1 name=log.mix.sina.com.cn
 ip dns static add address=127.0.0.1 name=log.mmstat.com
 ip dns static add address=127.0.0.1 name=log.music.baidu.com
@@ -1376,6 +1379,7 @@ ip dns static add address=127.0.0.1 name=mobads.baidu.com
 ip dns static add address=127.0.0.1 name=mobads-logs.baidu.com
 ip dns static add address=127.0.0.1 name=mo.baidu.com
 ip dns static add address=127.0.0.1 name=mobi.adsage.com
+ip dns static add address=127.0.0.1 name=mobilead.kuwo.cn
 ip dns static add address=127.0.0.1 name=mobileads.google.com
 ip dns static add address=127.0.0.1 name=mobileads.msn.com
 ip dns static add address=127.0.0.1 name=mobilelog.kugou.com
@@ -1701,6 +1705,7 @@ ip dns static add address=127.0.0.1 name=resolver.msg.xiaomi.net
 ip dns static add address=127.0.0.1 name=res.qhupdate.com
 ip dns static add address=127.0.0.1 name=re.taobao.com
 ip dns static add address=127.0.0.1 name=rh.qq.com
+ip dns static add address=127.0.0.1 name=rich.kuwo.cn
 ip dns static add address=127.0.0.1 name=rich.qq.com
 ip dns static add address=127.0.0.1 name=rigel.baidustatic.com
 ip dns static add address=127.0.0.1 name=river.zhidao.baidu.com
@@ -2197,6 +2202,7 @@ ip dns static add address=127.0.0.1 name=vt.ipinyou.com
 ip dns static add address=127.0.0.1 name=vv84.bj.bcebos.com
 ip dns static add address=127.0.0.1 name=vz-cdn.trafficjunky.net
 ip dns static add address=127.0.0.1 name=wa.gtimg.com
+ip dns static add address=127.0.0.1 name=wa.kuwo.cn
 ip dns static add address=127.0.0.1 name=wan.2345.com
 ip dns static add address=127.0.0.1 name=wangmeng.baidu.com
 ip dns static add address=127.0.0.1 name=wanproxy.127.net
