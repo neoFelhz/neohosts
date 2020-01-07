@@ -566,7 +566,17 @@
 # 1Ting
 0.0.0.0 bddm.999d.com
 0.0.0.0 bdjs.999d.com
+# Hola App
+0.0.0.0 h5.holalauncher.com
+0.0.0.0 i.holalauncher.com
+0.0.0.0 st.holalauncher.com
+0.0.0.0 a.holagames.com
+0.0.0.0 sta.holagames.com
+0.0.0.0 i.haloapps.com
+0.0.0.0 mo.test.haloapps.com
+0.0.0.0 mo.haloapps.cn
 # Others
+127.0.0.1 service.ad.adesk.com
 0.0.0.0 push.wandoujia.com
 0.0.0.0 ss.missyouxi.com
 0.0.0.0 ad.zuimeitianqi.com
