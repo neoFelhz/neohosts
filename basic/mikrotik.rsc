@@ -1038,7 +1038,6 @@ ip dns static add address=127.0.0.1 name=gsp0.baidu.com
 ip dns static add address=127.0.0.1 name=gsp1.baidu.com
 ip dns static add address=127.0.0.1 name=gsp2.baidu.com
 ip dns static add address=127.0.0.1 name=gsp3.baidu.com
-ip dns static add address=127.0.0.1 name=gss0.bdstatic.com
 ip dns static add address=127.0.0.1 name=guanjia.baidu.com
 ip dns static add address=127.0.0.1 name=guess.union2.50bang.org
 ip dns static add address=127.0.0.1 name=gu.qlogo.cn

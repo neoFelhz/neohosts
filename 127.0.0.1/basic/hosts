@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107043445
+#version=20200107043913
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -1056,7 +1056,6 @@
 127.0.0.1 gsp1.baidu.com
 127.0.0.1 gsp2.baidu.com
 127.0.0.1 gsp3.baidu.com
-127.0.0.1 gss0.bdstatic.com
 127.0.0.1 guanjia.baidu.com
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 gu.qlogo.cn
@@ -3466,7 +3465,6 @@
 :: gsp1.baidu.com
 :: gsp2.baidu.com
 :: gsp3.baidu.com
-:: gss0.bdstatic.com
 :: guanjia.baidu.com
 :: guess.union2.50bang.org
 :: gu.qlogo.cn
