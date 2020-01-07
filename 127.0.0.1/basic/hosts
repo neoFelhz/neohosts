@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107034136
+#version=20200107034428
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -1866,6 +1866,8 @@
 127.0.0.1 setting.snswin.qq.com
 127.0.0.1 settings-sandbox.data.microsoft.com
 127.0.0.1 sf1-ttcdn-tos.pstatp.com
+127.0.0.1 sf3-ttcdn-tos.pstatp.com
+127.0.0.1 sf6-ttcdn-tos.pstatp.com
 127.0.0.1 sg.a.stat.mi.com
 127.0.0.1 s.gdt.qq.com
 127.0.0.1 s.go2yd.com
@@ -4253,6 +4255,8 @@
 :: setting.snswin.qq.com
 :: settings-sandbox.data.microsoft.com
 :: sf1-ttcdn-tos.pstatp.com
+:: sf3-ttcdn-tos.pstatp.com
+:: sf6-ttcdn-tos.pstatp.com
 :: sg.a.stat.mi.com
 :: s.gdt.qq.com
 :: s.go2yd.com

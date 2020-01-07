@@ -1848,6 +1848,8 @@ ip dns static add address=127.0.0.1 name=sestat.baidu.com
 ip dns static add address=127.0.0.1 name=setting.snswin.qq.com
 ip dns static add address=127.0.0.1 name=settings-sandbox.data.microsoft.com
 ip dns static add address=127.0.0.1 name=sf1-ttcdn-tos.pstatp.com
+ip dns static add address=127.0.0.1 name=sf3-ttcdn-tos.pstatp.com
+ip dns static add address=127.0.0.1 name=sf6-ttcdn-tos.pstatp.com
 ip dns static add address=127.0.0.1 name=sg.a.stat.mi.com
 ip dns static add address=127.0.0.1 name=s.gdt.qq.com
 ip dns static add address=127.0.0.1 name=s.go2yd.com
