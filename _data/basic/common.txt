@@ -379,6 +379,9 @@
 0.0.0.0 sdklog.uu.cc
 0.0.0.0 sdkpay.uu.cc
 #admaster
+0.0.0.0 397c0.admaster.com.cn
+0.0.0.0 ssv.admaster.com.cn
+0.0.0.0 vyk.admaster.com.cn
 0.0.0.0 58749.admaster.com.cn
 0.0.0.0 79t2.admaster.com.cn
 0.0.0.0 8b4pea.c.admaster.com.cn
@@ -826,3 +829,5 @@
 0.0.0.0 img.adnyg.com
 0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 sdownload.stargame.com
+0.0.0.0 s.de123.net
+0.0.0.0 dc.vmoters.com
