@@ -413,6 +413,7 @@
 0.0.0.0 vsohu.admaster.com.cn
 0.0.0.0 wisemedia.cm.admaster.com.cn
 0.0.0.0 xunlei.adx.admaster.com.cn
+0.0.0.0 fun.adx.admaster.com.cn
 # ad-survey
 0.0.0.0 sspservice.ad-survey.com
 0.0.0.0 tracking.ad-survey.com
