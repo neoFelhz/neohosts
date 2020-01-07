@@ -148,6 +148,12 @@
 0.0.0.0 webstat.kuwo.cn
 0.0.0.0 api.iimedia.cn
 0.0.0.0 g.haluoha.com
+0.0.0.0 g.koowo.com
+0.0.0.0 c.kuwo.cn
+0.0.0.0 log.kuwo.cn
+0.0.0.0 mobilead.kuwo.cn
+0.0.0.0 rich.kuwo.cn
+0.0.0.0 wa.kuwo.cn
 # OpenX
 0.0.0.0 us-u.openx.net
 0.0.0.0 www.openx.net
