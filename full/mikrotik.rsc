@@ -1382,6 +1382,7 @@ ip dns static add address=127.0.0.1 name=fpb.mn586.com
 ip dns static add address=127.0.0.1 name=fpb.sohu.com
 ip dns static add address=127.0.0.1 name=fs.uc.nearme.com.cn
 ip dns static add address=127.0.0.1 name=fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
+ip dns static add address=127.0.0.1 name=fun.adx.admaster.com.cn
 ip dns static add address=127.0.0.1 name=fw.adsafeprotected.com
 ip dns static add address=127.0.0.1 name=fw.qq.com
 ip dns static add address=127.0.0.1 name=fw.vpon.com
