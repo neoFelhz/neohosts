@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107033413
+#version=20200107034136
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -195,6 +195,7 @@
 127.0.0.1 adpm.app.qq.com
 127.0.0.1 adpro.pro.cn
 127.0.0.1 adpublish.ydstatic.com
+127.0.0.1 ad.qingting.fm
 127.0.0.1 ad.qq.com
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 adrdir.qq.com
@@ -224,6 +225,7 @@
 127.0.0.1 adservice.google.co.jp
 127.0.0.1 adservice.google.com
 127.0.0.1 ads.eu.msn.com
+127.0.0.1 adse.ximalaya.com
 127.0.0.1 adsfile.qq.com
 127.0.0.1 ads.flurry.com
 127.0.0.1 adsfs.oppomobile.com
@@ -278,7 +280,9 @@
 127.0.0.1 ad.wretch.cc
 127.0.0.1 adx.ads.oppomobile.com
 127.0.0.1 adx.g.doubleclick.net
+127.0.0.1 ad.ximalaya.com
 127.0.0.1 adx.pro.cn
+127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 adx-static.ksosoft.com
 127.0.0.1 ad.xxguan.cn
 127.0.0.1 adx.xiaodutv.com
@@ -471,7 +475,9 @@
 127.0.0.1 bd4.idgdmgroup.com.cn
 127.0.0.1 bdapi.ads.oppomobile.com
 127.0.0.1 bdd.hainan.net
+127.0.0.1 bddm.999d.com
 127.0.0.1 bdimg.share.baidu.com
+127.0.0.1 bdjs.999d.com
 127.0.0.1 bd-js.baixing.net
 127.0.0.1 bdjs.guangyuanol.cn
 127.0.0.1 bdjsym.guangyuanol.cn
@@ -872,6 +878,7 @@
 127.0.0.1 dsp-impr2.youdao.com
 127.0.0.1 dsp-impr.youdao.com
 127.0.0.1 dsp.pro.cn
+127.0.0.1 dspserver.ad.cmvideo.cn
 127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 dsp.youdao.com
 127.0.0.1 dt.adsafeprotected.com
@@ -1521,6 +1528,7 @@
 127.0.0.1 open-pixon.ads-pixiv.net
 127.0.0.1 open.play.cn
 127.0.0.1 openrcv.baidu.com
+127.0.0.1 openstorage.ad.cmvideo.cn
 127.0.0.1 ope.tanx.com
 127.0.0.1 oppo.yidianzixun.com
 127.0.0.1 optimus.ipinyou.com
@@ -1916,6 +1924,7 @@
 127.0.0.1 sqm.df.telemetry.microsoft.com
 127.0.0.1 sqm.telemetry.microsoft.com
 127.0.0.1 sqm.telemetry.microsoft.com.nsatc.net
+127.0.0.1 s.qtad.qingting.fm
 127.0.0.1 srd.simba.taobao.com
 127.0.0.1 sroomafp.allyes.com
 127.0.0.1 srv.buysellads.com
@@ -2275,6 +2284,7 @@
 127.0.0.1 woodpecker.uc.cn
 127.0.0.1 ws.ksmobile.net
 127.0.0.1 ws.sj.qq.com
+127.0.0.1 wtrace.cmgame.com
 127.0.0.1 wtradv.market.xiaomi.com
 127.0.0.1 wuliao.epro.sogou.com
 127.0.0.1 wup.imtt.qq.com
@@ -2572,6 +2582,7 @@
 :: adpm.app.qq.com
 :: adpro.pro.cn
 :: adpublish.ydstatic.com
+:: ad.qingting.fm
 :: ad.qq.com
 :: ad.qun.qq.com
 :: adrdir.qq.com
@@ -2601,6 +2612,7 @@
 :: adservice.google.co.jp
 :: adservice.google.com
 :: ads.eu.msn.com
+:: adse.ximalaya.com
 :: adsfile.qq.com
 :: ads.flurry.com
 :: adsfs.oppomobile.com
@@ -2655,7 +2667,9 @@
 :: ad.wretch.cc
 :: adx.ads.oppomobile.com
 :: adx.g.doubleclick.net
+:: ad.ximalaya.com
 :: adx.pro.cn
+:: adxserver.ad.cmvideo.cn
 :: adx-static.ksosoft.com
 :: ad.xxguan.cn
 :: adx.xiaodutv.com
@@ -2848,7 +2862,9 @@
 :: bd4.idgdmgroup.com.cn
 :: bdapi.ads.oppomobile.com
 :: bdd.hainan.net
+:: bddm.999d.com
 :: bdimg.share.baidu.com
+:: bdjs.999d.com
 :: bd-js.baixing.net
 :: bdjs.guangyuanol.cn
 :: bdjsym.guangyuanol.cn
@@ -3249,6 +3265,7 @@
 :: dsp-impr2.youdao.com
 :: dsp-impr.youdao.com
 :: dsp.pro.cn
+:: dspserver.ad.cmvideo.cn
 :: dsp.simba.taobao.com
 :: dsp.youdao.com
 :: dt.adsafeprotected.com
@@ -3898,6 +3915,7 @@
 :: open-pixon.ads-pixiv.net
 :: open.play.cn
 :: openrcv.baidu.com
+:: openstorage.ad.cmvideo.cn
 :: ope.tanx.com
 :: oppo.yidianzixun.com
 :: optimus.ipinyou.com
@@ -4293,6 +4311,7 @@
 :: sqm.df.telemetry.microsoft.com
 :: sqm.telemetry.microsoft.com
 :: sqm.telemetry.microsoft.com.nsatc.net
+:: s.qtad.qingting.fm
 :: srd.simba.taobao.com
 :: sroomafp.allyes.com
 :: srv.buysellads.com
@@ -4652,6 +4671,7 @@
 :: woodpecker.uc.cn
 :: ws.ksmobile.net
 :: ws.sj.qq.com
+:: wtrace.cmgame.com
 :: wtradv.market.xiaomi.com
 :: wuliao.epro.sogou.com
 :: wup.imtt.qq.com
