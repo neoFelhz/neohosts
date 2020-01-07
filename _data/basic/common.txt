@@ -3,6 +3,13 @@
 0.0.0.0 ads.servebom.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 disqusads.com
+# ADColony
+0.0.0.0 wd.adcolony.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 ads30.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 events3.adcolony.com
 #adpro.cn
 0.0.0.0 conversion.adpro.cn
 0.0.0.0 m.adpro.cn
@@ -836,3 +843,8 @@
 0.0.0.0 sdownload.stargame.com
 0.0.0.0 s.de123.net
 0.0.0.0 dc.vmoters.com
+0.0.0.0 cdn.runative-syndicate.com
+0.0.0.0 jy.ggweb.net
+0.0.0.0 odr.mookie1.com
+0.0.0.0 consent.cookiebot.com
+0.0.0.0 a.adtng.com
