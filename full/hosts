@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107032102
+#version=20200107032227
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -3160,7 +3160,7 @@
 0.0.0.0 t9.baidu.com
 0.0.0.0 t-abi.hypers.com.cn
 0.0.0.0 t.ads.sohu.com
-0.0.0.0 tag..crsspxl.com
+0.0.0.0 tag.crsspxl.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tag-store.ads-pixiv.net
 0.0.0.0 tajs.qq.com
@@ -7141,7 +7141,7 @@
 :: t9.baidu.com
 :: t-abi.hypers.com.cn
 :: t.ads.sohu.com
-:: tag..crsspxl.com
+:: tag.crsspxl.com
 :: tags.bluekai.com
 :: tag-store.ads-pixiv.net
 :: tajs.qq.com

@@ -3142,7 +3142,7 @@ ip dns static add address=127.0.0.1 name=t8.baidu.com
 ip dns static add address=127.0.0.1 name=t9.baidu.com
 ip dns static add address=127.0.0.1 name=t-abi.hypers.com.cn
 ip dns static add address=127.0.0.1 name=t.ads.sohu.com
-ip dns static add address=127.0.0.1 name=tag..crsspxl.com
+ip dns static add address=127.0.0.1 name=tag.crsspxl.com
 ip dns static add address=127.0.0.1 name=tags.bluekai.com
 ip dns static add address=127.0.0.1 name=tag-store.ads-pixiv.net
 ip dns static add address=127.0.0.1 name=tajs.qq.com
