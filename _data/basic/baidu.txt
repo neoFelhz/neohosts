@@ -122,6 +122,7 @@
 0.0.0.0 fc5tn.baidu.com
 0.0.0.0 ms.bdimg.com
 0.0.0.0 em.baidu.com
+0.0.0.0 r6.mo.baidu.com
 
 0.0.0.0 t1.baidu.com
 0.0.0.0 t2.baidu.com
