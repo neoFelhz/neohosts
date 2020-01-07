@@ -22,6 +22,8 @@
 
 > 基础、克制的数据，推荐所有用户使用。
 
+- [AdGuardHome 兼容版](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts.txt)
+
 ### [Full Hosts](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts)
 
 > 包含全部数据，仅推荐强迫症使用。相比 Basic Hosts，Full Hosts 额外屏蔽了以下内容：
@@ -32,7 +34,9 @@
 - 常见下载劫持
 - 360 和百度的部分软件下载
 - CNNIC 根证书劫持
-- 法轮功等可能令人反感的激进宗教内容网站
+- 法轮功、ISIS、银河联邦等可能令人反感的激进宗教内容网站
+
+- [AdGuardHome 兼容版](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt)
 
 ### [Basic Compatible Hosts](https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/127.0.0.1/basic/hosts)
 
