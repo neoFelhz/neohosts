@@ -193,3 +193,4 @@
 0.0.0.0 stdl.qq.com
 0.0.0.0 dp3.qq.com
 0.0.0.0 wa.gtimg.com
+0.0.0.0 tdc.qq.com
