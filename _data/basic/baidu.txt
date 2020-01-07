@@ -214,6 +214,11 @@
 0.0.0.0 bdimg.share.baidu.com
 0.0.0.0 s.share.baidu.com
 
+# Baidu Music
+0.0.0.0 log.music.baidu.com	
+0.0.0.0 qianclick.baidu.com	
+0.0.0.0 click.qianqian.com
+
 # wangmeng
 0.0.0.0 zzy1.quyaoya.com
 0.0.0.0 baidu.greenxf.cn
