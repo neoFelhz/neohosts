@@ -795,6 +795,7 @@ ip dns static add address=127.0.0.1 name=click3forhz.adsmogo.com
 ip dns static add address=127.0.0.1 name=click.admaster.com.cn
 ip dns static add address=127.0.0.1 name=click.atdmt.com
 ip dns static add address=127.0.0.1 name=click.bes.baidu.com
+ip dns static add address=127.0.0.1 name=clickc.admaster.com.cn
 ip dns static add address=127.0.0.1 name=click.hm.baidu.com
 ip dns static add address=127.0.0.1 name=click.jebe.renren.com
 ip dns static add address=127.0.0.1 name=clickjs.cnzz.com
@@ -896,6 +897,7 @@ ip dns static add address=127.0.0.1 name=config.inmobi.com
 ip dns static add address=127.0.0.1 name=config-ltvp.inmobi.com
 ip dns static add address=127.0.0.1 name=config.mobisage.cn
 ip dns static add address=127.0.0.1 name=config.push.sogou.com
+ip dns static add address=127.0.0.1 name=conf.vidown.cn
 ip dns static add address=127.0.0.1 name=conf.xiniuz.com
 ip dns static add address=127.0.0.1 name=consent.truste.com
 ip dns static add address=127.0.0.1 name=contentrecommend-out.mobile.sina.cn
@@ -1404,6 +1406,7 @@ ip dns static add address=127.0.0.1 name=geo.moatads.com
 ip dns static add address=127.0.0.1 name=get.sogou.com
 ip dns static add address=127.0.0.1 name=ggdm1.nhaidu.net
 ip dns static add address=127.0.0.1 name=ggle.lywf.me
+ip dns static add address=127.0.0.1 name=gg.vidown.cn
 ip dns static add address=127.0.0.1 name=g.haluoha.com
 ip dns static add address=127.0.0.1 name=gia.jd.com
 ip dns static add address=127.0.0.1 name=gif.lu.sogoucdn.com
@@ -2027,6 +2030,7 @@ ip dns static add address=127.0.0.1 name=mini2015.qq.com
 ip dns static add address=127.0.0.1 name=mini.cpc.sogou.com
 ip dns static add address=127.0.0.1 name=mini.jijiplayer.com
 ip dns static add address=127.0.0.1 name=minipage.2345.com
+ip dns static add address=127.0.0.1 name=minisite.vidown.cn
 ip dns static add address=127.0.0.1 name=mipcache.bdstatic.com
 ip dns static add address=127.0.0.1 name=m.irs01.com
 ip dns static add address=127.0.0.1 name=mis.g.mi.com
@@ -2560,6 +2564,7 @@ ip dns static add address=127.0.0.1 name=rtax.criteo.com
 ip dns static add address=127.0.0.1 name=rtb.admaster.com.cn
 ip dns static add address=127.0.0.1 name=rtb.adview.cn
 ip dns static add address=127.0.0.1 name=rt.gsspat.jp
+ip dns static add address=127.0.0.1 name=rtlog.vidown.cn
 ip dns static add address=127.0.0.1 name=rtx.openx.net
 ip dns static add address=127.0.0.1 name=rubicon-match.dotomi.com
 ip dns static add address=127.0.0.1 name=rub.pxl.ace.advertising.com
@@ -2871,6 +2876,7 @@ ip dns static add address=127.0.0.1 name=server-ua.imrworldwide.com
 ip dns static add address=127.0.0.1 name=server-uk.imrworldwide.com
 ip dns static add address=127.0.0.1 name=server-us.imrworldwide.com
 ip dns static add address=127.0.0.1 name=service.ad.adesk.com
+ip dns static add address=127.0.0.1 name=service.ad.duomi.com
 ip dns static add address=127.0.0.1 name=service.danmu.youku.com
 ip dns static add address=127.0.0.1 name=service.epro.sogou.com
 ip dns static add address=127.0.0.1 name=servicer.adskeeper.co.uk
@@ -3201,6 +3207,7 @@ ip dns static add address=127.0.0.1 name=tj.kugou.com
 ip dns static add address=127.0.0.1 name=tjs.sjs.sinajs.cn
 ip dns static add address=127.0.0.1 name=tj.tongjiwo.com
 ip dns static add address=127.0.0.1 name=tj.video.qq.com
+ip dns static add address=127.0.0.1 name=tj.vidown.cn
 ip dns static add address=127.0.0.1 name=tk.baidu.com
 ip dns static add address=127.0.0.1 name=tk.optaim.com
 ip dns static add address=127.0.0.1 name=tkweb.baidu.com
@@ -3445,6 +3452,7 @@ ip dns static add address=127.0.0.1 name=vortex.data.microsoft.com
 ip dns static add address=127.0.0.1 name=vortex-sandbox.data.microsoft.com
 ip dns static add address=127.0.0.1 name=vortex-win.data.microsoft.com
 ip dns static add address=127.0.0.1 name=vpic.video.qq.com
+ip dns static add address=127.0.0.1 name=vpptv.admaster.com.cn
 ip dns static add address=127.0.0.1 name=vps.inte.sogou.com
 ip dns static add address=127.0.0.1 name=vqq.admaster.com.cn
 ip dns static add address=127.0.0.1 name=vs19.gzcu.u3.ucweb.com

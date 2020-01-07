@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107032851
+#version=20200107033310
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -605,6 +605,7 @@
 127.0.0.1 click3forhz.adsmogo.com
 127.0.0.1 click.admaster.com.cn
 127.0.0.1 click.bes.baidu.com
+127.0.0.1 clickc.admaster.com.cn
 127.0.0.1 click.hm.baidu.com
 127.0.0.1 click.jebe.renren.com
 127.0.0.1 click.mz.simba.taobao.com
@@ -665,6 +666,7 @@
 127.0.0.1 config.adview.cn
 127.0.0.1 config.mobisage.cn
 127.0.0.1 config.push.sogou.com
+127.0.0.1 conf.vidown.cn
 127.0.0.1 contentrecommend-out.mobile.sina.cn
 127.0.0.1 conversion.adpro.cn
 127.0.0.1 conversion.pro.cn
@@ -1011,6 +1013,7 @@
 127.0.0.1 get.sogou.com
 127.0.0.1 ggdm1.nhaidu.net
 127.0.0.1 ggle.lywf.me
+127.0.0.1 gg.vidown.cn
 127.0.0.1 g.haluoha.com
 127.0.0.1 gia.jd.com
 127.0.0.1 gif.lu.sogoucdn.com
@@ -1380,6 +1383,7 @@
 127.0.0.1 mini2015.qq.com
 127.0.0.1 mini.cpc.sogou.com
 127.0.0.1 mini.jijiplayer.com
+127.0.0.1 minisite.vidown.cn
 127.0.0.1 mipcache.bdstatic.com
 127.0.0.1 m.irs01.com
 127.0.0.1 mis.g.mi.com
@@ -1751,6 +1755,7 @@
 127.0.0.1 rtb.admaster.com.cn
 127.0.0.1 rtb.adview.cn
 127.0.0.1 rt.gsspat.jp
+127.0.0.1 rtlog.vidown.cn
 127.0.0.1 rtx.openx.net
 127.0.0.1 rubicon-match.dotomi.com
 127.0.0.1 rub.pxl.ace.advertising.com
@@ -1843,6 +1848,7 @@
 127.0.0.1 serve.popads.net
 127.0.0.1 server.m.pp.cn
 127.0.0.1 service.ad.adesk.com
+127.0.0.1 service.ad.duomi.com
 127.0.0.1 service.epro.sogou.com
 127.0.0.1 services.wes.df.telemetry.microsoft.com
 127.0.0.1 service.urchin.com
@@ -2070,6 +2076,7 @@
 127.0.0.1 tjs.sjs.sinajs.cn
 127.0.0.1 tj.tongjiwo.com
 127.0.0.1 tj.video.qq.com
+127.0.0.1 tj.vidown.cn
 127.0.0.1 tk.baidu.com
 127.0.0.1 tk.optaim.com
 127.0.0.1 tkweb.baidu.com
@@ -2208,6 +2215,7 @@
 127.0.0.1 vortex-sandbox.data.microsoft.com
 127.0.0.1 vortex-win.data.microsoft.com
 127.0.0.1 vpic.video.qq.com
+127.0.0.1 vpptv.admaster.com.cn
 127.0.0.1 vps.inte.sogou.com
 127.0.0.1 vqq.admaster.com.cn
 127.0.0.1 vs19.gzcu.u3.ucweb.com
@@ -2391,11 +2399,6 @@
 :: 114so.cn
 :: 123.sogou.com
 :: 1251.adsina.allyes.com
-127.0.0.1 conf.vidown.cn
-127.0.0.1 gg.vidown.cn
-127.0.0.1 minisite.vidown.cn
-127.0.0.1 rtlog.vidown.cn
-127.0.0.1 tj.vidown.cn
 :: 1276.adsina.allyes.com
 :: 144.dragonparking.com
 :: 154.adsina.allyes.com
@@ -2977,6 +2980,7 @@
 :: click3forhz.adsmogo.com
 :: click.admaster.com.cn
 :: click.bes.baidu.com
+:: clickc.admaster.com.cn
 :: click.hm.baidu.com
 :: click.jebe.renren.com
 :: click.mz.simba.taobao.com
@@ -3037,6 +3041,7 @@
 :: config.adview.cn
 :: config.mobisage.cn
 :: config.push.sogou.com
+:: conf.vidown.cn
 :: contentrecommend-out.mobile.sina.cn
 :: conversion.adpro.cn
 :: conversion.pro.cn
@@ -3383,6 +3388,7 @@
 :: get.sogou.com
 :: ggdm1.nhaidu.net
 :: ggle.lywf.me
+:: gg.vidown.cn
 :: g.haluoha.com
 :: gia.jd.com
 :: gif.lu.sogoucdn.com
@@ -3752,6 +3758,7 @@
 :: mini2015.qq.com
 :: mini.cpc.sogou.com
 :: mini.jijiplayer.com
+:: minisite.vidown.cn
 :: mipcache.bdstatic.com
 :: m.irs01.com
 :: mis.g.mi.com
@@ -4123,6 +4130,7 @@
 :: rtb.admaster.com.cn
 :: rtb.adview.cn
 :: rt.gsspat.jp
+:: rtlog.vidown.cn
 :: rtx.openx.net
 :: rubicon-match.dotomi.com
 :: rub.pxl.ace.advertising.com
@@ -4215,6 +4223,7 @@
 :: serve.popads.net
 :: server.m.pp.cn
 :: service.ad.adesk.com
+:: service.ad.duomi.com
 :: service.epro.sogou.com
 :: services.wes.df.telemetry.microsoft.com
 :: service.urchin.com
@@ -4442,6 +4451,7 @@
 :: tjs.sjs.sinajs.cn
 :: tj.tongjiwo.com
 :: tj.video.qq.com
+:: tj.vidown.cn
 :: tk.baidu.com
 :: tk.optaim.com
 :: tkweb.baidu.com
@@ -4580,6 +4590,7 @@
 :: vortex-sandbox.data.microsoft.com
 :: vortex-win.data.microsoft.com
 :: vpic.video.qq.com
+:: vpptv.admaster.com.cn
 :: vps.inte.sogou.com
 :: vqq.admaster.com.cn
 :: vs19.gzcu.u3.ucweb.com

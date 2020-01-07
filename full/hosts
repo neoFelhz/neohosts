@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107032851
+#version=20200107033310
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -813,6 +813,7 @@
 0.0.0.0 click.admaster.com.cn
 0.0.0.0 click.atdmt.com
 0.0.0.0 click.bes.baidu.com
+0.0.0.0 clickc.admaster.com.cn
 0.0.0.0 click.hm.baidu.com
 0.0.0.0 click.jebe.renren.com
 0.0.0.0 clickjs.cnzz.com
@@ -914,6 +915,7 @@
 0.0.0.0 config-ltvp.inmobi.com
 0.0.0.0 config.mobisage.cn
 0.0.0.0 config.push.sogou.com
+0.0.0.0 conf.vidown.cn
 0.0.0.0 conf.xiniuz.com
 0.0.0.0 consent.truste.com
 0.0.0.0 contentrecommend-out.mobile.sina.cn
@@ -1422,6 +1424,7 @@
 0.0.0.0 get.sogou.com
 0.0.0.0 ggdm1.nhaidu.net
 0.0.0.0 ggle.lywf.me
+0.0.0.0 gg.vidown.cn
 0.0.0.0 g.haluoha.com
 0.0.0.0 gia.jd.com
 0.0.0.0 gif.lu.sogoucdn.com
@@ -2045,6 +2048,7 @@
 0.0.0.0 mini.cpc.sogou.com
 0.0.0.0 mini.jijiplayer.com
 0.0.0.0 minipage.2345.com
+0.0.0.0 minisite.vidown.cn
 0.0.0.0 mipcache.bdstatic.com
 0.0.0.0 m.irs01.com
 0.0.0.0 mis.g.mi.com
@@ -2578,6 +2582,7 @@
 0.0.0.0 rtb.admaster.com.cn
 0.0.0.0 rtb.adview.cn
 0.0.0.0 rt.gsspat.jp
+0.0.0.0 rtlog.vidown.cn
 0.0.0.0 rtx.openx.net
 0.0.0.0 rubicon-match.dotomi.com
 0.0.0.0 rub.pxl.ace.advertising.com
@@ -2889,6 +2894,7 @@
 0.0.0.0 server-uk.imrworldwide.com
 0.0.0.0 server-us.imrworldwide.com
 0.0.0.0 service.ad.adesk.com
+0.0.0.0 service.ad.duomi.com
 0.0.0.0 service.danmu.youku.com
 0.0.0.0 service.epro.sogou.com
 0.0.0.0 servicer.adskeeper.co.uk
@@ -3219,6 +3225,7 @@
 0.0.0.0 tjs.sjs.sinajs.cn
 0.0.0.0 tj.tongjiwo.com
 0.0.0.0 tj.video.qq.com
+0.0.0.0 tj.vidown.cn
 0.0.0.0 tk.baidu.com
 0.0.0.0 tk.optaim.com
 0.0.0.0 tkweb.baidu.com
@@ -3463,6 +3470,7 @@
 0.0.0.0 vortex-sandbox.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vpic.video.qq.com
+0.0.0.0 vpptv.admaster.com.cn
 0.0.0.0 vps.inte.sogou.com
 0.0.0.0 vqq.admaster.com.cn
 0.0.0.0 vs19.gzcu.u3.ucweb.com
@@ -4017,11 +4025,6 @@
 :: 1.21shebao.com
 :: 123.sogou.com
 :: 1251.adsina.allyes.com
-127.0.0.1 conf.vidown.cn
-127.0.0.1 gg.vidown.cn
-127.0.0.1 minisite.vidown.cn
-127.0.0.1 rtlog.vidown.cn
-127.0.0.1 tj.vidown.cn
 :: 1276.adsina.allyes.com
 :: 144.dragonparking.com
 :: 154.adsina.allyes.com
@@ -4806,6 +4809,7 @@
 :: click.admaster.com.cn
 :: click.atdmt.com
 :: click.bes.baidu.com
+:: clickc.admaster.com.cn
 :: click.hm.baidu.com
 :: click.jebe.renren.com
 :: clickjs.cnzz.com
@@ -4907,6 +4911,7 @@
 :: config-ltvp.inmobi.com
 :: config.mobisage.cn
 :: config.push.sogou.com
+:: conf.vidown.cn
 :: conf.xiniuz.com
 :: consent.truste.com
 :: contentrecommend-out.mobile.sina.cn
@@ -5415,6 +5420,7 @@
 :: get.sogou.com
 :: ggdm1.nhaidu.net
 :: ggle.lywf.me
+:: gg.vidown.cn
 :: g.haluoha.com
 :: gia.jd.com
 :: gif.lu.sogoucdn.com
@@ -6038,6 +6044,7 @@
 :: mini.cpc.sogou.com
 :: mini.jijiplayer.com
 :: minipage.2345.com
+:: minisite.vidown.cn
 :: mipcache.bdstatic.com
 :: m.irs01.com
 :: mis.g.mi.com
@@ -6571,6 +6578,7 @@
 :: rtb.admaster.com.cn
 :: rtb.adview.cn
 :: rt.gsspat.jp
+:: rtlog.vidown.cn
 :: rtx.openx.net
 :: rubicon-match.dotomi.com
 :: rub.pxl.ace.advertising.com
@@ -6882,6 +6890,7 @@
 :: server-uk.imrworldwide.com
 :: server-us.imrworldwide.com
 :: service.ad.adesk.com
+:: service.ad.duomi.com
 :: service.danmu.youku.com
 :: service.epro.sogou.com
 :: servicer.adskeeper.co.uk
@@ -7212,6 +7221,7 @@
 :: tjs.sjs.sinajs.cn
 :: tj.tongjiwo.com
 :: tj.video.qq.com
+:: tj.vidown.cn
 :: tk.baidu.com
 :: tk.optaim.com
 :: tkweb.baidu.com
@@ -7456,6 +7466,7 @@
 :: vortex-sandbox.data.microsoft.com
 :: vortex-win.data.microsoft.com
 :: vpic.video.qq.com
+:: vpptv.admaster.com.cn
 :: vps.inte.sogou.com
 :: vqq.admaster.com.cn
 :: vs19.gzcu.u3.ucweb.com
