@@ -544,6 +544,10 @@
 0.0.0.0 www.liteapp.mobi
 0.0.0.0 www.xingchenjia.com
 0.0.0.0 www.wjxcdn.com
+# MX Player
+0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
+0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
+0.0.0.0 tracking-server-prod-1.zenmxapps.com
 # tagic
 0.0.0.0 g1.tagtic.cn
 0.0.0.0 adlog.tagtic.cn
