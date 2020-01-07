@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20191116155520
+#version=20200107031552
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -604,9 +604,11 @@
 0.0.0.0 bd1.dopa.com
 0.0.0.0 bd1.idgdmgroup.com.cn
 0.0.0.0 bd1.pipaw.com
+0.0.0.0 bd1.zuimeitianqi.com
 0.0.0.0 bd2.dopa.com
 0.0.0.0 bd2.idgdmgroup.com.cn
 0.0.0.0 bd2.pipaw.com
+0.0.0.0 bd2.zuimeitianqi.com
 0.0.0.0 bd3.idgdmgroup.com.cn
 0.0.0.0 bd4.idgdmgroup.com.cn
 0.0.0.0 bdapi.ads.oppomobile.com
@@ -1537,6 +1539,7 @@
 0.0.0.0 huodong.ios.shouji.360.cn
 0.0.0.0 huoying666.com
 0.0.0.0 hv.code.tanwanyx.com
+0.0.0.0 hwad.zuimeitianqi.com
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 hyfh.benbaisteel.com
 0.0.0.0 hypersnap.mairuan.com
@@ -4580,9 +4583,11 @@
 :: bd1.dopa.com
 :: bd1.idgdmgroup.com.cn
 :: bd1.pipaw.com
+:: bd1.zuimeitianqi.com
 :: bd2.dopa.com
 :: bd2.idgdmgroup.com.cn
 :: bd2.pipaw.com
+:: bd2.zuimeitianqi.com
 :: bd3.idgdmgroup.com.cn
 :: bd4.idgdmgroup.com.cn
 :: bdapi.ads.oppomobile.com
@@ -5513,6 +5518,7 @@
 :: huodong.ios.shouji.360.cn
 :: huoying666.com
 :: hv.code.tanwanyx.com
+:: hwad.zuimeitianqi.com
 :: hydra.alibaba.com
 :: hyfh.benbaisteel.com
 :: hypersnap.mairuan.com

@@ -586,9 +586,11 @@ ip dns static add address=127.0.0.1 name=b.code.tanwanyx.com
 ip dns static add address=127.0.0.1 name=bd1.dopa.com
 ip dns static add address=127.0.0.1 name=bd1.idgdmgroup.com.cn
 ip dns static add address=127.0.0.1 name=bd1.pipaw.com
+ip dns static add address=127.0.0.1 name=bd1.zuimeitianqi.com
 ip dns static add address=127.0.0.1 name=bd2.dopa.com
 ip dns static add address=127.0.0.1 name=bd2.idgdmgroup.com.cn
 ip dns static add address=127.0.0.1 name=bd2.pipaw.com
+ip dns static add address=127.0.0.1 name=bd2.zuimeitianqi.com
 ip dns static add address=127.0.0.1 name=bd3.idgdmgroup.com.cn
 ip dns static add address=127.0.0.1 name=bd4.idgdmgroup.com.cn
 ip dns static add address=127.0.0.1 name=bdapi.ads.oppomobile.com
@@ -1519,6 +1521,7 @@ ip dns static add address=127.0.0.1 name=hunantv.m.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=huodong.ios.shouji.360.cn
 ip dns static add address=127.0.0.1 name=huoying666.com
 ip dns static add address=127.0.0.1 name=hv.code.tanwanyx.com
+ip dns static add address=127.0.0.1 name=hwad.zuimeitianqi.com
 ip dns static add address=127.0.0.1 name=hydra.alibaba.com
 ip dns static add address=127.0.0.1 name=hyfh.benbaisteel.com
 ip dns static add address=127.0.0.1 name=hypersnap.mairuan.com
