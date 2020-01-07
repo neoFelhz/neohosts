@@ -72,3 +72,7 @@ rm ./_build/tmp/full/1.txt
 rm ./_build/tmp/full/2.txt
 rm ./_build/tmp/full/3.txt
 rm ./_build/tmp/full/4.txt
+
+echo "Build .txt end hosts file"
+cat ./_build/tmp/basic/hosts > ./_build/tmp/basic/hosts.txt
+cat ./_build/tmp/full/hosts > ./_build/tmp/full/hosts.txt
