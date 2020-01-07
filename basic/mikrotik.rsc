@@ -1255,6 +1255,7 @@ ip dns static add address=127.0.0.1 name=livec.l.qq.com
 ip dns static add address=127.0.0.1 name=livem.l.qq.com
 ip dns static add address=127.0.0.1 name=livep.l.qq.com
 ip dns static add address=127.0.0.1 name=lives.l.qq.com
+ip dns static add address=127.0.0.1 name=live.tvpot.daum.net
 ip dns static add address=127.0.0.1 name=lk.brand.sogou.com
 ip dns static add address=127.0.0.1 name=lm.dawenxue.org
 ip dns static add address=127.0.0.1 name=l.minisplat.cn
@@ -2076,6 +2077,7 @@ ip dns static add address=127.0.0.1 name=tracking.ad-survey.com
 ip dns static add address=127.0.0.1 name=tracking.m6r.eu
 ip dns static add address=127.0.0.1 name=tracking.miui.com
 ip dns static add address=127.0.0.1 name=track.ra.icast.cn
+ip dns static add address=127.0.0.1 name=track.tiara.daum.net
 ip dns static add address=127.0.0.1 name=track.uc.cn
 ip dns static add address=127.0.0.1 name=trafficfactory.biz
 ip dns static add address=127.0.0.1 name=trc.adsage.com

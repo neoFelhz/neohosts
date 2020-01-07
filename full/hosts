@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107031552
+#version=20200107032102
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -1874,6 +1874,7 @@
 0.0.0.0 livem.l.qq.com
 0.0.0.0 livep.l.qq.com
 0.0.0.0 lives.l.qq.com
+0.0.0.0 live.tvpot.daum.net
 0.0.0.0 lk.brand.sogou.com
 0.0.0.0 ll.atdmt.com
 0.0.0.0 lm.dawenxue.org
@@ -3252,6 +3253,7 @@
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 track.ra.icast.cn
+0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.uc.cn
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trc.adsage.com
@@ -5853,6 +5855,7 @@
 :: livem.l.qq.com
 :: livep.l.qq.com
 :: lives.l.qq.com
+:: live.tvpot.daum.net
 :: lk.brand.sogou.com
 :: ll.atdmt.com
 :: lm.dawenxue.org
@@ -7231,6 +7234,7 @@
 :: tracking.miui.com
 :: tracking-server-prod-1.zenmxapps.com
 :: track.ra.icast.cn
+:: track.tiara.daum.net
 :: track.uc.cn
 :: trafficfactory.biz
 :: trc.adsage.com
