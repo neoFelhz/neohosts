@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=2020127.0.0.1926
+#version=20200107041758
 #*********************************************************
 
 127.0.0.1 0.r.msn.com
@@ -1698,6 +1698,7 @@
 127.0.0.1 r.254a.com
 127.0.0.1 r2.adwo.com
 127.0.0.1 r3.adwo.com
+127.0.0.1 r6.mo.baidu.com
 127.0.0.1 rabbit.meitustat.com
 127.0.0.1 rabbit.mtadvert.com
 127.0.0.1 rabbit.tg.meitu.com
@@ -4097,6 +4098,7 @@
 :: r.254a.com
 :: r2.adwo.com
 :: r3.adwo.com
+:: r6.mo.baidu.com
 :: rabbit.meitustat.com
 :: rabbit.mtadvert.com
 :: rabbit.tg.meitu.com

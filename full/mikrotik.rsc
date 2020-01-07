@@ -2536,6 +2536,7 @@ ip dns static add address=127.0.0.1 name=qxm.pluto.sogou.com
 ip dns static add address=127.0.0.1 name=r.254a.com
 ip dns static add address=127.0.0.1 name=r2.adwo.com
 ip dns static add address=127.0.0.1 name=r3.adwo.com
+ip dns static add address=127.0.0.1 name=r6.mo.baidu.com
 ip dns static add address=127.0.0.1 name=r8nu86wg.me
 ip dns static add address=127.0.0.1 name=rabbit.meitustat.com
 ip dns static add address=127.0.0.1 name=rabbit.mtadvert.com
