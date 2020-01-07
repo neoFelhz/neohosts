@@ -130,10 +130,12 @@
 0.0.0.0 info.gomlab.com
 0.0.0.0 playinfo.gomlab.com
 0.0.0.0 promotion.gomlab.com
-# Globalplayer
+# PoyPlayer
 0.0.0.0 adimg.daumcdn.net
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 display.ad.daum.net
+0.0.0.0 track.tiara.daum.net
+0.0.0.0 live.tvpot.daum.net
 # Winrar
 0.0.0.0 ad.winrar.com.cn
 # xiguavideo
