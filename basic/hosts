@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107033310
+#version=20200107033413
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -1298,6 +1298,7 @@
 0.0.0.0 log.mix.sina.com.cn
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.music.baidu.com
+0.0.0.0 log.music.baidu.com	
 0.0.0.0 logs.newapi.com
 0.0.0.0 log.spotify.com
 0.0.0.0 log.stat.kugou.com
@@ -1674,6 +1675,7 @@
 0.0.0.0 q.domob.cn
 0.0.0.0 qhl.bealge.sogou.com
 0.0.0.0 qianclick.baidu.com
+0.0.0.0 qianclick.baidu.com	
 0.0.0.0 q.i.gdt.qq.com
 0.0.0.0 qpb.sohu.com
 0.0.0.0 qqshow2-item.qq.com
@@ -3673,6 +3675,7 @@
 :: log.mix.sina.com.cn
 :: log.mmstat.com
 :: log.music.baidu.com
+:: log.music.baidu.com	
 :: logs.newapi.com
 :: log.spotify.com
 :: log.stat.kugou.com
@@ -4049,6 +4052,7 @@
 :: q.domob.cn
 :: qhl.bealge.sogou.com
 :: qianclick.baidu.com
+:: qianclick.baidu.com	
 :: q.i.gdt.qq.com
 :: qpb.sohu.com
 :: qqshow2-item.qq.com

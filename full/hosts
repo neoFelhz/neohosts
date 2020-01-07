@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107033310
+#version=20200107033413
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -1907,6 +1907,7 @@
 0.0.0.0 log.mix.sina.com.cn
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.music.baidu.com
+0.0.0.0 log.music.baidu.com	
 0.0.0.0 log.nvwa.baofeng.com
 0.0.0.0 logoshejishi.com
 0.0.0.0 log.p2p.hunantv.com
@@ -2469,6 +2470,7 @@
 0.0.0.0 qhm1.cnzz.com
 0.0.0.0 qhm2.cnzz.com
 0.0.0.0 qianclick.baidu.com
+0.0.0.0 qianclick.baidu.com	
 0.0.0.0 qianlong.adsame.com
 0.0.0.0 q.i.gdt.qq.com
 0.0.0.0 qpb.sohu.com
@@ -5903,6 +5905,7 @@
 :: log.mix.sina.com.cn
 :: log.mmstat.com
 :: log.music.baidu.com
+:: log.music.baidu.com	
 :: log.nvwa.baofeng.com
 :: logoshejishi.com
 :: log.p2p.hunantv.com
@@ -6465,6 +6468,7 @@
 :: qhm1.cnzz.com
 :: qhm2.cnzz.com
 :: qianclick.baidu.com
+:: qianclick.baidu.com	
 :: qianlong.adsame.com
 :: q.i.gdt.qq.com
 :: qpb.sohu.com

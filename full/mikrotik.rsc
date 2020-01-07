@@ -1889,6 +1889,7 @@ ip dns static add address=127.0.0.1 name=log.ltype.baofeng.com
 ip dns static add address=127.0.0.1 name=log.mix.sina.com.cn
 ip dns static add address=127.0.0.1 name=log.mmstat.com
 ip dns static add address=127.0.0.1 name=log.music.baidu.com
+ip dns static add address=127.0.0.1 name=log.music.baidu.com	
 ip dns static add address=127.0.0.1 name=log.nvwa.baofeng.com
 ip dns static add address=127.0.0.1 name=logoshejishi.com
 ip dns static add address=127.0.0.1 name=log.p2p.hunantv.com
@@ -2451,6 +2452,7 @@ ip dns static add address=127.0.0.1 name=qhl.bealge.sogou.com
 ip dns static add address=127.0.0.1 name=qhm1.cnzz.com
 ip dns static add address=127.0.0.1 name=qhm2.cnzz.com
 ip dns static add address=127.0.0.1 name=qianclick.baidu.com
+ip dns static add address=127.0.0.1 name=qianclick.baidu.com	
 ip dns static add address=127.0.0.1 name=qianlong.adsame.com
 ip dns static add address=127.0.0.1 name=q.i.gdt.qq.com
 ip dns static add address=127.0.0.1 name=qpb.sohu.com
