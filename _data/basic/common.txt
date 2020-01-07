@@ -550,6 +550,20 @@
 0.0.0.0 tj.vidown.cn
 # Duomi
 0.0.0.0 service.ad.duomi.com
+# Qingting FM
+0.0.0.0 ad.qingting.fm
+0.0.0.0 s.qtad.qingting.fm
+# Ximalaya
+0.0.0.0 ad.ximalaya.com
+0.0.0.0 adse.ximalaya.com
+# Miguvideo
+0.0.0.0 adxserver.ad.cmvideo.cn
+0.0.0.0 dspserver.ad.cmvideo.cn
+0.0.0.0 openstorage.ad.cmvideo.cn
+0.0.0.0 wtrace.cmgame.com
+# 1Ting
+0.0.0.0 bddm.999d.com
+0.0.0.0 bdjs.999d.com
 # Others
 0.0.0.0 push.wandoujia.com
 0.0.0.0 ss.missyouxi.com
