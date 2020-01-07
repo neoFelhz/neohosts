@@ -214,6 +214,8 @@
 0.0.0.0 dm.bytedance.com
 0.0.0.0 dm.pstatp.com
 0.0.0.0 sf1-ttcdn-tos.pstatp.com
+0.0.0.0 sf3-ttcdn-tos.pstatp.com
+0.0.0.0 sf6-ttcdn-tos.pstatp.com
 # Qidian
 0.0.0.0 cj.qidian.com
 0.0.0.0 dwtrack.qidian.com
