@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107034428
+#version=20200107034613
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -4040,6 +4040,7 @@
 :: 1.21shebao.com
 :: 123.sogou.com
 :: 1251.adsina.allyes.com
+127.0.0.1 service.ad.adesk.com
 :: 1276.adsina.allyes.com
 :: 144.dragonparking.com
 :: 154.adsina.allyes.com
