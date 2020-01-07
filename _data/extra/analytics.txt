@@ -142,6 +142,9 @@
 # Intellitxt
 0.0.0.0 k.intellitxt.com
 0.0.0.0 images.intellitxt.com
+# Huya
+0.0.0.0 mlog.hiido.com
+0.0.0.0 ylog.hiido.com
 # Others
 0.0.0.0 events.jianshu.io
 0.0.0.0 s.qhupdate.com
@@ -167,7 +170,6 @@
 0.0.0.0 tongji.tom.com
 0.0.0.0 track.china.com
 0.0.0.0 udpolimenew.baidu.com
-0.0.0.0 mlog.hiido.com
 0.0.0.0 data.haoma.sogou.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 log.vcdn.io
