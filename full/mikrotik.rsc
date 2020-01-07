@@ -31,6 +31,7 @@ ip dns static add address=127.0.0.1 name=2345api.dftoutiao.com
 ip dns static add address=127.0.0.1 name=268mob.cn
 ip dns static add address=127.0.0.1 name=2.nanrenwo.net
 ip dns static add address=127.0.0.1 name=312036.com
+ip dns static add address=127.0.0.1 name=397c0.admaster.com.cn
 ip dns static add address=127.0.0.1 name=3dns-2.adobe.com
 ip dns static add address=127.0.0.1 name=3dns-3.adobe.com
 ip dns static add address=127.0.0.1 name=3rd.t.sohu.com
@@ -1086,6 +1087,7 @@ ip dns static add address=127.0.0.1 name=dcci.adsame.com
 ip dns static add address=127.0.0.1 name=dc.csdn.net
 ip dns static add address=127.0.0.1 name=d.clkservice.youdao.com
 ip dns static add address=127.0.0.1 name=dc.meitustat.com
+ip dns static add address=127.0.0.1 name=dc.vmoters.com
 ip dns static add address=127.0.0.1 name=dd713.bj.bcebos.com
 ip dns static add address=127.0.0.1 name=dd.dante2007.com
 ip dns static add address=127.0.0.1 name=dd.iask.cn
@@ -2806,6 +2808,7 @@ ip dns static add address=127.0.0.1 name=sddnserror7.wo.com.cn
 ip dns static add address=127.0.0.1 name=sddnserror8.wo.com.cn
 ip dns static add address=127.0.0.1 name=sddnserror9.wo.com.cn
 ip dns static add address=127.0.0.1 name=sd.domob.cn
+ip dns static add address=127.0.0.1 name=s.de123.net
 ip dns static add address=127.0.0.1 name=sdkapp.mobile.sina.cn
 ip dns static add address=127.0.0.1 name=sdkapp.uve.weibo.com
 ip dns static add address=127.0.0.1 name=sdk.cferw.com
@@ -3026,6 +3029,7 @@ ip dns static add address=127.0.0.1 name=ssp.youxiaoad.com
 ip dns static add address=127.0.0.1 name=sss.bxnms.com
 ip dns static add address=127.0.0.1 name=sssvd.china.com
 ip dns static add address=127.0.0.1 name=sstatic1.histats.com
+ip dns static add address=127.0.0.1 name=ssv.admaster.com.cn
 ip dns static add address=127.0.0.1 name=stadig0.ifeng.com
 ip dns static add address=127.0.0.1 name=stadig.ifeng.com
 ip dns static add address=127.0.0.1 name=staging2.crazyegg.com
@@ -3479,6 +3483,7 @@ ip dns static add address=127.0.0.1 name=vtechweb.adsame.com
 ip dns static add address=127.0.0.1 name=vt.ipinyou.com
 ip dns static add address=127.0.0.1 name=vv84.bj.bcebos.com
 ip dns static add address=127.0.0.1 name=vvlog.moviebox.baofeng.com
+ip dns static add address=127.0.0.1 name=vyk.admaster.com.cn
 ip dns static add address=127.0.0.1 name=vz-cdn.trafficjunky.net
 ip dns static add address=127.0.0.1 name=w3.yinyuehu.cn
 ip dns static add address=127.0.0.1 name=w6061.move7.com

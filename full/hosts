@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107034613
+#version=20200107035432
 #*********************************************************
 
 0.0.0.0 0127.adsame.com
@@ -49,6 +49,7 @@
 0.0.0.0 268mob.cn
 0.0.0.0 2.nanrenwo.net
 0.0.0.0 312036.com
+0.0.0.0 397c0.admaster.com.cn
 0.0.0.0 3dns-2.adobe.com
 0.0.0.0 3dns-3.adobe.com
 0.0.0.0 3rd.t.sohu.com
@@ -1104,6 +1105,7 @@
 0.0.0.0 dc.csdn.net
 0.0.0.0 d.clkservice.youdao.com
 0.0.0.0 dc.meitustat.com
+0.0.0.0 dc.vmoters.com
 0.0.0.0 dd713.bj.bcebos.com
 0.0.0.0 dd.dante2007.com
 0.0.0.0 dd.iask.cn
@@ -2824,6 +2826,7 @@
 0.0.0.0 sddnserror8.wo.com.cn
 0.0.0.0 sddnserror9.wo.com.cn
 0.0.0.0 sd.domob.cn
+0.0.0.0 s.de123.net
 0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0 sdkapp.uve.weibo.com
 0.0.0.0 sdk.cferw.com
@@ -3044,6 +3047,7 @@
 0.0.0.0 sss.bxnms.com
 0.0.0.0 sssvd.china.com
 0.0.0.0 sstatic1.histats.com
+0.0.0.0 ssv.admaster.com.cn
 0.0.0.0 stadig0.ifeng.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 staging2.crazyegg.com
@@ -3497,6 +3501,7 @@
 0.0.0.0 vt.ipinyou.com
 0.0.0.0 vv84.bj.bcebos.com
 0.0.0.0 vvlog.moviebox.baofeng.com
+0.0.0.0 vyk.admaster.com.cn
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 w3.yinyuehu.cn
 0.0.0.0 w6061.move7.com
@@ -4061,6 +4066,7 @@
 :: 268mob.cn
 :: 2.nanrenwo.net
 :: 312036.com
+:: 397c0.admaster.com.cn
 :: 3dns-2.adobe.com
 :: 3dns-3.adobe.com
 :: 3rd.t.sohu.com
@@ -5116,6 +5122,7 @@
 :: dc.csdn.net
 :: d.clkservice.youdao.com
 :: dc.meitustat.com
+:: dc.vmoters.com
 :: dd713.bj.bcebos.com
 :: dd.dante2007.com
 :: dd.iask.cn
@@ -6836,6 +6843,7 @@
 :: sddnserror8.wo.com.cn
 :: sddnserror9.wo.com.cn
 :: sd.domob.cn
+:: s.de123.net
 :: sdkapp.mobile.sina.cn
 :: sdkapp.uve.weibo.com
 :: sdk.cferw.com
@@ -7056,6 +7064,7 @@
 :: sss.bxnms.com
 :: sssvd.china.com
 :: sstatic1.histats.com
+:: ssv.admaster.com.cn
 :: stadig0.ifeng.com
 :: stadig.ifeng.com
 :: staging2.crazyegg.com
@@ -7509,6 +7518,7 @@
 :: vt.ipinyou.com
 :: vv84.bj.bcebos.com
 :: vvlog.moviebox.baofeng.com
+:: vyk.admaster.com.cn
 :: vz-cdn.trafficjunky.net
 :: w3.yinyuehu.cn
 :: w6061.move7.com

@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200107034613
+#version=20200107035432
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -39,6 +39,7 @@
 0.0.0.0 2052.flash2-http.qq.com
 0.0.0.0 2.nanrenwo.net
 0.0.0.0 312036.com
+0.0.0.0 397c0.admaster.com.cn
 0.0.0.0 3dns-2.adobe.com
 0.0.0.0 3dns-3.adobe.com
 0.0.0.0 3rd.t.sohu.com
@@ -809,6 +810,7 @@
 0.0.0.0 dcads.sina.com.cn
 0.0.0.0 d.clkservice.youdao.com
 0.0.0.0 dc.meitustat.com
+0.0.0.0 dc.vmoters.com
 0.0.0.0 dd713.bj.bcebos.com
 0.0.0.0 dd.iask.cn
 0.0.0.0 dd.iaskgo.com
@@ -1823,6 +1825,7 @@
 0.0.0.0 sddnserror8.wo.com.cn
 0.0.0.0 sddnserror9.wo.com.cn
 0.0.0.0 sd.domob.cn
+0.0.0.0 s.de123.net
 0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0 sdkapp.uve.weibo.com
 0.0.0.0 sdk.cferw.com
@@ -1953,6 +1956,7 @@
 0.0.0.0 ssp.youxiaoad.com
 0.0.0.0 sss.bxnms.com
 0.0.0.0 sssvd.china.com
+0.0.0.0 ssv.admaster.com.cn
 0.0.0.0 stadig0.ifeng.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 staging.admin.e.mi.com
@@ -2239,6 +2243,7 @@
 0.0.0.0 vsohu.admaster.com.cn
 0.0.0.0 vt.ipinyou.com
 0.0.0.0 vv84.bj.bcebos.com
+0.0.0.0 vyk.admaster.com.cn
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 wa.gtimg.com
 0.0.0.0 wa.kuwo.cn
@@ -2429,6 +2434,7 @@
 :: 2052.flash2-http.qq.com
 :: 2.nanrenwo.net
 :: 312036.com
+:: 397c0.admaster.com.cn
 :: 3dns-2.adobe.com
 :: 3dns-3.adobe.com
 :: 3rd.t.sohu.com
@@ -3199,6 +3205,7 @@
 :: dcads.sina.com.cn
 :: d.clkservice.youdao.com
 :: dc.meitustat.com
+:: dc.vmoters.com
 :: dd713.bj.bcebos.com
 :: dd.iask.cn
 :: dd.iaskgo.com
@@ -4213,6 +4220,7 @@
 :: sddnserror8.wo.com.cn
 :: sddnserror9.wo.com.cn
 :: sd.domob.cn
+:: s.de123.net
 :: sdkapp.mobile.sina.cn
 :: sdkapp.uve.weibo.com
 :: sdk.cferw.com
@@ -4343,6 +4351,7 @@
 :: ssp.youxiaoad.com
 :: sss.bxnms.com
 :: sssvd.china.com
+:: ssv.admaster.com.cn
 :: stadig0.ifeng.com
 :: stadig.ifeng.com
 :: staging.admin.e.mi.com
@@ -4629,6 +4638,7 @@
 :: vsohu.admaster.com.cn
 :: vt.ipinyou.com
 :: vv84.bj.bcebos.com
+:: vyk.admaster.com.cn
 :: vz-cdn.trafficjunky.net
 :: wa.gtimg.com
 :: wa.kuwo.cn
