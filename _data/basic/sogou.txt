@@ -33,7 +33,6 @@
 # Others
 0.0.0.0 123.sogou.com
 0.0.0.0 brand.sogou.com
-0.0.0.0 get.sogou.com
 0.0.0.0 inte.sogou.com
 0.0.0.0 pb.sogou.com
 0.0.0.0 wan.sogou.com
