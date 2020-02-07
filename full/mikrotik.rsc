@@ -1745,6 +1745,7 @@ ip dns static add address=127.0.0.1 name=input.shouji.sogou.com
 ip dns static add address=127.0.0.1 name=in.qqhpg.com
 ip dns static add address=127.0.0.1 name=in.qzkxt.com
 ip dns static add address=127.0.0.1 name=inside.bitcomet.com
+ip dns static add address=127.0.0.1 name=inside.rtbasia.com
 ip dns static add address=127.0.0.1 name=inst.360safe.com
 ip dns static add address=127.0.0.1 name=install2.kugou.com
 ip dns static add address=127.0.0.1 name=install.kugou.com
@@ -3331,6 +3332,7 @@ ip dns static add address=127.0.0.1 name=tpc.googlesyndication.com
 ip dns static add address=127.0.0.1 name=t.pg.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=tpptv.ipdx.cn.miaozhen.com
 ip dns static add address=127.0.0.1 name=tpush.html5.qq.com
+ip dns static add address=127.0.0.1 name=trace2.rtbasia.com
 ip dns static add address=127.0.0.1 name=trace.qq.com
 ip dns static add address=127.0.0.1 name=track.adwo.com
 ip dns static add address=127.0.0.1 name=track.appsflyer.com
