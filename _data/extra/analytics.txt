@@ -145,6 +145,9 @@
 # Huya
 0.0.0.0 mlog.hiido.com
 0.0.0.0 ylog.hiido.com
+# IPIP & RTBAsia
+0.0.0.0 trace2.rtbasia.com
+0.0.0.0 inside.rtbasia.com
 # Others
 0.0.0.0 events.jianshu.io
 0.0.0.0 s.qhupdate.com
