@@ -1008,7 +1008,6 @@ ip dns static add address=127.0.0.1 name=g.domob.cn
 ip dns static add address=127.0.0.1 name=gemini.yahoo.com
 ip dns static add address=127.0.0.1 name=gen.alicdn.com
 ip dns static add address=127.0.0.1 name=geo.moatads.com
-ip dns static add address=127.0.0.1 name=get.sogou.com
 ip dns static add address=127.0.0.1 name=ggdm1.nhaidu.net
 ip dns static add address=127.0.0.1 name=ggle.lywf.me
 ip dns static add address=127.0.0.1 name=gg.vidown.cn
