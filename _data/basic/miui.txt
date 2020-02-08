@@ -20,7 +20,6 @@
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 fcanr.tracking.miui.com
 0.0.0.0 fclick.baidu.com
-0.0.0.0 get.sogou.com
 0.0.0.0 hub5pn.wap.sandai.net
 0.0.0.0 idx.m.hub.sandai.net
 0.0.0.0 image.box.xiaomi.com
