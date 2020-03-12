@@ -212,6 +212,7 @@ ip dns static add address=127.0.0.1 name=adservice.google.co.jp
 ip dns static add address=127.0.0.1 name=adservice.google.com
 ip dns static add address=127.0.0.1 name=ads.eu.msn.com
 ip dns static add address=127.0.0.1 name=adse.ximalaya.com
+ip dns static add address=127.0.0.1 name=ads.exoclick.com
 ip dns static add address=127.0.0.1 name=adsfile.qq.com
 ip dns static add address=127.0.0.1 name=ads.flurry.com
 ip dns static add address=127.0.0.1 name=adsfs.oppomobile.com
@@ -279,6 +280,7 @@ ip dns static add address=127.0.0.1 name=ae.bdstatic.com
 ip dns static add address=127.0.0.1 name=aecpm.alicdn.com
 ip dns static add address=127.0.0.1 name=a.epinv.com
 ip dns static add address=127.0.0.1 name=aeventlog.beacon.qq.com
+ip dns static add address=127.0.0.1 name=a.exoclick.com
 ip dns static add address=127.0.0.1 name=afd.baidu.com
 ip dns static add address=127.0.0.1 name=afd.l.google.com
 ip dns static add address=127.0.0.1 name=afp.adchina.com
@@ -1321,6 +1323,7 @@ ip dns static add address=127.0.0.1 name=mads.amazon-adsystem.com
 ip dns static add address=127.0.0.1 name=m.adxpop.com
 ip dns static add address=127.0.0.1 name=m.ad.zhangyue.com
 ip dns static add address=127.0.0.1 name=magnetic.t.domdex.com
+ip dns static add address=127.0.0.1 name=main.exoclick.com
 ip dns static add address=127.0.0.1 name=m.airpush.com
 ip dns static add address=127.0.0.1 name=map.media6degrees.com
 ip dns static add address=127.0.0.1 name=mapp.qzone.qq.com
@@ -1525,6 +1528,7 @@ ip dns static add address=127.0.0.1 name=openstorage.ad.cmvideo.cn
 ip dns static add address=127.0.0.1 name=ope.tanx.com
 ip dns static add address=127.0.0.1 name=oppo.yidianzixun.com
 ip dns static add address=127.0.0.1 name=optimus.ipinyou.com
+ip dns static add address=127.0.0.1 name=origin-ads.exoclick.com
 ip dns static add address=127.0.0.1 name=osc.uranus.sogou.com
 ip dns static add address=127.0.0.1 name=osfota.cdn.aliyun.com
 ip dns static add address=127.0.0.1 name=osupdateservice.yunos.com
@@ -1966,6 +1970,7 @@ ip dns static add address=127.0.0.1 name=static.adwo.com
 ip dns static add address=127.0.0.1 name=static.adxadserv.com
 ip dns static add address=127.0.0.1 name=static.alimama.com
 ip dns static add address=127.0.0.1 name=static.doubleclick.net
+ip dns static add address=127.0.0.1 name=static.exoclick.com
 ip dns static add address=127.0.0.1 name=static.exosrv.com
 ip dns static add address=127.0.0.1 name=static.flv.uuzuonline.com
 ip dns static add address=127.0.0.1 name=static.googleadsserving.cn
@@ -2030,6 +2035,7 @@ ip dns static add address=127.0.0.1 name=sync.ipredictive.com
 ip dns static add address=127.0.0.1 name=sync.mathtag.com
 ip dns static add address=127.0.0.1 name=sync.tidaltv.com
 ip dns static add address=127.0.0.1 name=sync-tm.everesttech.net
+ip dns static add address=127.0.0.1 name=syndication.exoclick.com
 ip dns static add address=127.0.0.1 name=s.youmi.net
 ip dns static add address=127.0.0.1 name=sys.zhangyue.com
 ip dns static add address=127.0.0.1 name=t10.baidu.com

@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200312021112
+#version=20200312021957
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -230,6 +230,7 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 adse.ximalaya.com
+0.0.0.0 ads.exoclick.com
 0.0.0.0 adsfile.qq.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 adsfs.oppomobile.com
@@ -297,6 +298,7 @@
 0.0.0.0 aecpm.alicdn.com
 0.0.0.0 a.epinv.com
 0.0.0.0 aeventlog.beacon.qq.com
+0.0.0.0 a.exoclick.com
 0.0.0.0 afd.baidu.com
 0.0.0.0 afd.l.google.com
 0.0.0.0 afp.adchina.com
@@ -1339,6 +1341,7 @@
 0.0.0.0 m.adxpop.com
 0.0.0.0 m.ad.zhangyue.com
 0.0.0.0 magnetic.t.domdex.com
+0.0.0.0 main.exoclick.com
 0.0.0.0 m.airpush.com
 0.0.0.0 map.media6degrees.com
 0.0.0.0 mapp.qzone.qq.com
@@ -1543,6 +1546,7 @@
 0.0.0.0 ope.tanx.com
 0.0.0.0 oppo.yidianzixun.com
 0.0.0.0 optimus.ipinyou.com
+0.0.0.0 origin-ads.exoclick.com
 0.0.0.0 osc.uranus.sogou.com
 0.0.0.0 osfota.cdn.aliyun.com
 0.0.0.0 osupdateservice.yunos.com
@@ -1984,6 +1988,7 @@
 0.0.0.0 static.adxadserv.com
 0.0.0.0 static.alimama.com
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static.exoclick.com
 0.0.0.0 static.exosrv.com
 0.0.0.0 static.flv.uuzuonline.com
 0.0.0.0 static.googleadsserving.cn
@@ -2048,6 +2053,7 @@
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.tidaltv.com
 0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 syndication.exoclick.com
 0.0.0.0 s.youmi.net
 0.0.0.0 sys.zhangyue.com
 0.0.0.0 t10.baidu.com
@@ -2637,6 +2643,7 @@
 :: adservice.google.com
 :: ads.eu.msn.com
 :: adse.ximalaya.com
+:: ads.exoclick.com
 :: adsfile.qq.com
 :: ads.flurry.com
 :: adsfs.oppomobile.com
@@ -2704,6 +2711,7 @@
 :: aecpm.alicdn.com
 :: a.epinv.com
 :: aeventlog.beacon.qq.com
+:: a.exoclick.com
 :: afd.baidu.com
 :: afd.l.google.com
 :: afp.adchina.com
@@ -3746,6 +3754,7 @@
 :: m.adxpop.com
 :: m.ad.zhangyue.com
 :: magnetic.t.domdex.com
+:: main.exoclick.com
 :: m.airpush.com
 :: map.media6degrees.com
 :: mapp.qzone.qq.com
@@ -3950,6 +3959,7 @@
 :: ope.tanx.com
 :: oppo.yidianzixun.com
 :: optimus.ipinyou.com
+:: origin-ads.exoclick.com
 :: osc.uranus.sogou.com
 :: osfota.cdn.aliyun.com
 :: osupdateservice.yunos.com
@@ -4391,6 +4401,7 @@
 :: static.adxadserv.com
 :: static.alimama.com
 :: static.doubleclick.net
+:: static.exoclick.com
 :: static.exosrv.com
 :: static.flv.uuzuonline.com
 :: static.googleadsserving.cn
@@ -4455,6 +4466,7 @@
 :: sync.mathtag.com
 :: sync.tidaltv.com
 :: sync-tm.everesttech.net
+:: syndication.exoclick.com
 :: s.youmi.net
 :: sys.zhangyue.com
 :: t10.baidu.com

@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200312021112
+#version=20200312021957
 #*********************************************************
 
 0.0.0.0 001.0x1f4b0.com
@@ -309,6 +309,7 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 adse.ximalaya.com
+0.0.0.0 ads.exoclick.com
 0.0.0.0 adsfile.qq.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 adsfs.oppomobile.com
@@ -399,6 +400,7 @@
 0.0.0.0 aeros12.tk
 0.0.0.0 aeventlog.beacon.qq.com
 0.0.0.0 aexception.bugly.qq.com
+0.0.0.0 a.exoclick.com
 0.0.0.0 afd.baidu.com
 0.0.0.0 afd.l.google.com
 0.0.0.0 afflow.18-plus.net
@@ -2243,6 +2245,7 @@
 0.0.0.0 m.ad.zhangyue.com
 0.0.0.0 magnetic.t.domdex.com
 0.0.0.0 mail.adsame.com
+0.0.0.0 main.exoclick.com
 0.0.0.0 m.airpush.com
 0.0.0.0 mairuan.cn
 0.0.0.0 mairuan.com
@@ -2664,6 +2667,7 @@
 0.0.0.0 oppo.yidianzixun.com
 0.0.0.0 optimus.ipinyou.com
 0.0.0.0 optout.crsspxl.com
+0.0.0.0 origin-ads.exoclick.com
 0.0.0.0 osc.uranus.sogou.com
 0.0.0.0 osfota.cdn.aliyun.com
 0.0.0.0 osupdateservice.yunos.com
@@ -3672,6 +3676,7 @@
 0.0.0.0 static.criteo.net
 0.0.0.0 static.danmu.baofeng.com
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static.exoclick.com
 0.0.0.0 static.exosrv.com
 0.0.0.0 static.flv.uuzuonline.com
 0.0.0.0 static.googleadsserving.cn
@@ -3786,6 +3791,7 @@
 0.0.0.0 synconnector.com
 0.0.0.0 sync.tidaltv.com
 0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 syndication.exoclick.com
 0.0.0.0 s.youmi.net
 0.0.0.0 sys.zhangyue.com
 0.0.0.0 s.zampdsp.com
@@ -5089,6 +5095,7 @@
 :: adservice.google.com
 :: ads.eu.msn.com
 :: adse.ximalaya.com
+:: ads.exoclick.com
 :: adsfile.qq.com
 :: ads.flurry.com
 :: adsfs.oppomobile.com
@@ -5179,6 +5186,7 @@
 :: aeros12.tk
 :: aeventlog.beacon.qq.com
 :: aexception.bugly.qq.com
+:: a.exoclick.com
 :: afd.baidu.com
 :: afd.l.google.com
 :: afflow.18-plus.net
@@ -7023,6 +7031,7 @@
 :: m.ad.zhangyue.com
 :: magnetic.t.domdex.com
 :: mail.adsame.com
+:: main.exoclick.com
 :: m.airpush.com
 :: mairuan.cn
 :: mairuan.com
@@ -7444,6 +7453,7 @@
 :: oppo.yidianzixun.com
 :: optimus.ipinyou.com
 :: optout.crsspxl.com
+:: origin-ads.exoclick.com
 :: osc.uranus.sogou.com
 :: osfota.cdn.aliyun.com
 :: osupdateservice.yunos.com
@@ -8452,6 +8462,7 @@
 :: static.criteo.net
 :: static.danmu.baofeng.com
 :: static.doubleclick.net
+:: static.exoclick.com
 :: static.exosrv.com
 :: static.flv.uuzuonline.com
 :: static.googleadsserving.cn
@@ -8566,6 +8577,7 @@
 :: synconnector.com
 :: sync.tidaltv.com
 :: sync-tm.everesttech.net
+:: syndication.exoclick.com
 :: s.youmi.net
 :: sys.zhangyue.com
 :: s.zampdsp.com
