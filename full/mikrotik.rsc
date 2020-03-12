@@ -503,6 +503,7 @@ ip dns static add address=127.0.0.1 name=api.aalbbh84.info
 ip dns static add address=127.0.0.1 name=api.adbana.com
 ip dns static add address=127.0.0.1 name=api.adcome.cn
 ip dns static add address=127.0.0.1 name=api.admob.com
+ip dns static add address=127.0.0.1 name=api.adsymptotic.com
 ip dns static add address=127.0.0.1 name=api.adv.ott.cibntv.net
 ip dns static add address=127.0.0.1 name=api.ad.xiaomi.com
 ip dns static add address=127.0.0.1 name=api.airpush.com

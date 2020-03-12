@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200312021957
+#version=20200312022058
 #*********************************************************
 
 127.0.0.1 001.0x1f4b0.com
@@ -521,6 +521,7 @@
 127.0.0.1 api.adbana.com
 127.0.0.1 api.adcome.cn
 127.0.0.1 api.admob.com
+127.0.0.1 api.adsymptotic.com
 127.0.0.1 api.adv.ott.cibntv.net
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.airpush.com
@@ -5307,6 +5308,7 @@
 :: api.adbana.com
 :: api.adcome.cn
 :: api.admob.com
+:: api.adsymptotic.com
 :: api.adv.ott.cibntv.net
 :: api.ad.xiaomi.com
 :: api.airpush.com

@@ -348,6 +348,7 @@ ip dns static add address=127.0.0.1 name=api7.tuisong.baidu.com
 ip dns static add address=127.0.0.1 name=api8.tuisong.baidu.com
 ip dns static add address=127.0.0.1 name=api9.tuisong.baidu.com
 ip dns static add address=127.0.0.1 name=api.admob.com
+ip dns static add address=127.0.0.1 name=api.adsymptotic.com
 ip dns static add address=127.0.0.1 name=api.ad.xiaomi.com
 ip dns static add address=127.0.0.1 name=api.airpush.com
 ip dns static add address=127.0.0.1 name=api.appjiagu.com

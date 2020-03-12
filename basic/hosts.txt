@@ -14,7 +14,7 @@
 # Localhost (DO NOT REMOVE) End
 #*********************************************************
 #url=https://github.com/neofelhz/neohosts
-#version=20200312021957
+#version=20200312022058
 #*********************************************************
 
 0.0.0.0 0.r.msn.com
@@ -366,6 +366,7 @@
 0.0.0.0 api8.tuisong.baidu.com
 0.0.0.0 api9.tuisong.baidu.com
 0.0.0.0 api.admob.com
+0.0.0.0 api.adsymptotic.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.airpush.com
 0.0.0.0 api.appjiagu.com
@@ -2779,6 +2780,7 @@
 :: api8.tuisong.baidu.com
 :: api9.tuisong.baidu.com
 :: api.admob.com
+:: api.adsymptotic.com
 :: api.ad.xiaomi.com
 :: api.airpush.com
 :: api.appjiagu.com
