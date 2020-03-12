@@ -272,6 +272,7 @@
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 p.adsymptotic.com
+0.0.0.0 api.adsymptotic.com
 0.0.0.0 ads-west-colo.adsymptotic.com
 # adsafeprotected
 0.0.0.0 pixel.adsafeprotected.com
