@@ -590,6 +590,13 @@
 0.0.0.0 i.haloapps.com
 0.0.0.0 mo.test.haloapps.com
 0.0.0.0 mo.haloapps.cn
+# Exoclick
+0.0.0.0 a.exoclick.com
+0.0.0.0 ads.exoclick.com
+0.0.0.0 main.exoclick.com
+0.0.0.0 origin-ads.exoclick.com
+0.0.0.0 static.exoclick.com
+0.0.0.0 syndication.exoclick.com
 # Others
 127.0.0.1 service.ad.adesk.com
 0.0.0.0 push.wandoujia.com
