@@ -159,6 +159,8 @@
 0.0.0.0 tcss.qq.com
 0.0.0.0 tj.b.qq.com
 0.0.0.0 trace.qq.com
+0.0.0.0 btrace.qq.com
+0.0.0.0 mtrace.qq.com
 0.0.0.0 union.mop.com
 0.0.0.0 user1.game.qq.com
 0.0.0.0 vpic.video.qq.com
@@ -193,3 +195,4 @@
 0.0.0.0 dp3.qq.com
 0.0.0.0 wa.gtimg.com
 0.0.0.0 tdc.qq.com
+0.0.0.0 mdevstat.qqlive.qq.com
