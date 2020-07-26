@@ -50,3 +50,5 @@
 0.0.0.0 lcs.dev.surepush.cn
 0.0.0.0 susapi.dev.surepush.cn
 0.0.0.0 test.surepush.cn
+# OxygenOS
+0.0.0.0 open.oneplus.net
